@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si un conductor de un automóvil particular obtiene el siguiente resultado en un control de alcoholemia realizado en la Ciudad Autónoma de Buenos Aires, ¿cómo debe proceder la autoridad de control de tránsito?",
+    "en": "If a driver of a private car gets the following result in a breathalyzer test conducted in the Autonomous City of Buenos Aires, how should the traffic control authority proceed?",
+    "ru": "Если водитель легкового автомобиля получает следующий результат на тесте на алкоголь, проведенном в Автономном городе Буэнос-Айрес, как должна действовать транспортная контрольная служба?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b52.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sancionar la falta administrativa y contravencional, retener la licencia de conducir y remitir el vehículo.",
+        "en": "Sanction the administrative and contravention offense, retain the driving license, and remove the vehicle.",
+        "ru": "Наказать за административное правонарушение, удержать водительские права и эвакуировать транспортное средство."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Esperar un tiempo prudencial y realizar una contraprueba, a la espera de que descienda la graduación alcohólica.",
+        "en": "Wait a reasonable time and conduct a counter-test, waiting for the blood alcohol level to decrease.",
+        "ru": "Подождите разумное время и проведите контрольный тест, ожидая снижения уровня алкоголя в крови."
+      }
+    },
+    {
+      "text": {
+        "es": "Darle la opción al conductor de llamar a un tercero para que se haga responsable de la conducción del vehículo.",
+        "en": "Give the driver the option to call a third party to take responsibility for driving the vehicle.",
+        "ru": "Предложите водителю возможность позвонить третьей стороне, чтобы она взяла на себя ответственность за управление транспортным средством."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La autoridad debe sancionar inmediatamente y garantizar la seguridad del tránsito al retener la licencia y el vehículo.",
+      "en": "The authority must immediately sanction and ensure traffic safety by retaining the license and the vehicle.",
+      "ru": "Власти должны немедленно наказать и обеспечить безопасность дорожного движения, удерживая права и транспортное средство."
+    }
+  },
+  "citation": "Referencia a las reglas de conducción en Argentina, consultando el manual de circulación."
+}

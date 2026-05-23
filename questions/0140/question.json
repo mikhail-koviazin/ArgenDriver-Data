@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Puede afectar negativamente la conducción, si el acompañante comienza una discusión con el conductor o con otra persona de la vía pública?",
+    "en": "Can it negatively affect driving if the passenger starts an argument with the driver or with another person on the road?",
+    "ru": "Может ли это негативно повлиять на вождение, если пассажир начинает спор с водителем или с другим человеком на дороге?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sólo si es con el conductor. Si la discusión es con otra persona, lo mantiene en alerta ya que la tensión evita la somnolencia.",
+        "en": "Yes, it can hinder your ability to pay attention to the context, as arguments create a state of stress.",
+        "ru": "Да, это может мешать вашей способности обращать внимание на обстановку, так как споры создают состояние стресса."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, puede entorpecer su capacidad de atención al contexto, ya que las discusiones generan un estado de estrés.",
+        "en": "Only if it's with the driver. If the argument is with another person, it keeps them alert since the tension prevents drowsiness.",
+        "ru": "Только если это с водителем. Если спор с другим человеком, это держит их в бдительности, так как напряжение предотвращает сонливость."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No genera ningún efecto, siempre y cuando el conductor esté en condiciones legales para conducir.",
+        "en": "It has no effect, as long as the driver is legally in a condition to drive.",
+        "ru": "Это не имеет эффекта, пока водитель находится в правовом состоянии для вождения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las discusiones pueden llevar a distracciones y generar un estado emocional que afecta la atención del conductor.",
+      "en": "Arguments can lead to distractions and create an emotional state that affects the driver's attention.",
+      "ru": "Споры могут привести к отвлечениям и создать эмоциональное состояние, которое влияет на внимание водителя."
+    }
+  },
+  "citation": "【4:0†source】"
+}

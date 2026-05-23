@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En el siguiente espacio, se encuentra permitido detenerse pero no estacionar.",
+    "en": "In the following space, stopping is allowed but parking is not.",
+    "ru": "В следующем месте остановка разрешена, но парковка запрещена."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b159.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Estacionar implica dejar el vehículo en un lugar por más tiempo del necesario, lo que no está permitido aquí.",
+      "en": "Parking means leaving a vehicle in a place longer than necessary, which is not allowed here.",
+      "ru": "Парковка означает оставление автомобиля в месте дольше, чем необходимо, что здесь не разрешено."
+    }
+  },
+  "citation": "【4:12†source】"
+}

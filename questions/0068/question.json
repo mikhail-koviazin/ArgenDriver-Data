@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica el siguiente cruce verde en las intersecciones?",
+    "en": "What does the following green crossing indicate at intersections?",
+    "ru": "Что указывает на следующем зеленом перекрестке на перекрестках?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b39.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Advierte a los conductores sobre la existencia de un punto de cruce de ciclovía o bicisenda.",
+        "en": "Warns drivers about the existence of a bicycle lane or bike path crossing.",
+        "ru": "Предупреждает водителей о наличии пересечения велосипедной дорожки или велосипедной дорожки."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Advierte a los conductores sobre la existencia de un establecimiento escolar cercano.",
+        "en": "Warns drivers about the presence of a nearby school.",
+        "ru": "Предупреждает водителей о наличии ближайшей школы."
+      }
+    },
+    {
+      "text": {
+        "es": "Advierte a los conductores sobre un cruce peligroso por tener poca iluminación.",
+        "en": "Warns drivers about a dangerous crossing due to low lighting.",
+        "ru": "Предупреждает водителей о опасном перекрестке из-за слабого освещения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cruce verde indica donde hay un cruce específico para ciclovías, mejorando la seguridad de los ciclistas.",
+      "en": "The green crossing indicates where there is a specific crossing for bike lanes, enhancing cyclists' safety.",
+      "ru": "Зеленый переход указывает, где имеется специальный переход для велосипедных дорожек, повышая безопасность велосипедистов."
+    }
+  },
+  "citation": "[4:27†source]"
+}

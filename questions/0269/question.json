@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley N° 2148, ¿cuál es la velocidad precautoria frente a establecimientos escolares durante los horarios de ingreso y egreso?",
+    "en": "According to Law No. 2148, what is the caution speed in front of school establishments during entry and exit times?",
+    "ru": "Согласно Закону № 2148, какова осторожная скорость перед учебными заведениями во время входа и выхода?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Es de 20 km/h para todas las arterias.",
+        "en": "It is 20 km/h for all arteries.",
+        "ru": "20 км/ч для всех артерий."
+      }
+    },
+    {
+      "text": {
+        "es": "No más de 30 km/h en calles y de 45 km/h en avenidas.",
+        "en": "No more than 30 km/h on streets and 45 km/h on avenues.",
+        "ru": "Не более 30 км/ч на улицах и 45 км/ч на проспектах."
+      }
+    },
+    {
+      "text": {
+        "es": "Es igual a la mínima establecida para el tipo de arteria correspondiente.",
+        "en": "It is equal to the minimum established for the corresponding type of artery.",
+        "ru": "Это равно минимальному, установленному для соответствующего типа артерии."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad precautoria se establece según la arteria, en este caso es 20 km/h.",
+      "en": "The caution speed is established based on the artery, in this case, it is 20 km/h.",
+      "ru": "Осторожная скорость устанавливается в зависимости от артерии, в данном случае это 20 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

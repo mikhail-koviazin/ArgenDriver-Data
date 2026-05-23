@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "En caso de participar en un siniestro vial, en el que resultaron personas heridas, el personal policial que acuda al lugar se encargará de preservar la escena del hecho, brindando los medios para que los servicios de emergencia atiendan a los heridos y resguardando los vehículos y otras pruebas del incidente para una adecuada resolución del caso.",
+    "en": "In case of participating in a road accident in which people were injured, the police personnel who arrive at the scene will be responsible for preserving the scene of the incident, providing means for emergency services to attend to the injured and safeguarding vehicles and other evidence of the incident for an adequate resolution of the case.",
+    "ru": "В случае участия в дорожно-транспортном происшествии, в котором были ранены люди, полицейские, прибывшие на место происшествия, несут ответственность за сохранение места происшествия, предоставляя средства для оказания помощи экстренными службами и охраняя автомобили и другие доказательства инцидента для его соответствующего разрешения."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El personal policial debe garantizar la seguridad de la escena para facilitar el trabajo de emergencias.",
+      "en": "The police personnel must ensure the safety of the scene to facilitate emergency work.",
+      "ru": "Полицейские должны обеспечить безопасность места происшествия, чтобы облегчить работу экстренных служб."
+    }
+  },
+  "citation": "【4:16†source】"
+}

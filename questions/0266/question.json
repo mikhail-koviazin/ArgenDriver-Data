@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley Nacional N º 24.449, en carácter general, ¿cuál es la velocidad mínima permitida en las semiautopistas?",
+    "en": "According to National Law No. 24,449, in general terms, what is the minimum speed allowed on semi-highways?",
+    "ru": "Согласно Национальному закону № 24.449, в общих чертах, какая минимальная скорость разрешена на полушоссе?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "50 km/h.",
+        "en": "50 km/h.",
+        "ru": "50 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad mínima en semiautopistas es de 40 km/h para garantizar fluidez del tráfico.",
+      "en": "The minimum speed on semi-highways is 40 km/h to ensure traffic flow.",
+      "ru": "Минимальная скорость на полушоссе составляет 40 км/ч для обеспечения бесперебойного движения транспорта."
+    }
+  },
+  "citation": "【4:1†source】"
+}

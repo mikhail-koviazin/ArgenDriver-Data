@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "De acuerdo a la Ley N° 2148, ¿está permitido realizar el siguiente giro?",
+    "en": "According to Law No. 2148, is it allowed to make the following turn?",
+    "ru": "Согласно закону № 2148, разрешено ли выполнить следующий поворот?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b127.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que sólo está permitido hacer ese giro si existe un semáforo que lo habilita.",
+        "en": "No, as it is only allowed to make that turn if there is a traffic light that authorizes it.",
+        "ru": "Нет, так как это поворот разрешён только в случае наличия включённого светофора."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, ya que es una intersección no semaforizada.",
+        "en": "Yes, as it is an unsignalized intersection.",
+        "ru": "Да, так как это нерегулируемый перекресток."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, ya que es una vía de doble sentido de circulación.",
+        "en": "No, as it is a two-way street.",
+        "ru": "Нет, так как это улица с двусторонним движением."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los giros en intersecciones no semaforizadas están permitidos a menos que se indique lo contrario.",
+      "en": "Turns at unsignalized intersections are allowed unless stated otherwise.",
+      "ru": "Повороты на нерегулируемых перекрестках разрешены, если не указано иное."
+    }
+  },
+  "citation": "Ley N° 2148, Manual de conducción, páginas relevantes sobre maniobras en intersecciones."
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estas señales es Reglamentaria?",
+    "en": "Which of these signals is Regulatory?",
+    "ru": "Какой из этих сигналов является регламентарным?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b83.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La señal A.",
+        "en": "Signal A.",
+        "ru": "Сигнал A."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal B.",
+        "en": "Signal B.",
+        "ru": "Сигнал B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La señal C.",
+        "en": "Signal C.",
+        "ru": "Сигнал C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales reglamentarias, como la señal B, indican lo que se puede hacer o está prohibido.",
+      "en": "Regulatory signs, such as sign B, indicate what is allowed or prohibited.",
+      "ru": "Регламентарные знаки, такие как знак B, указывают на то, что разрешено или запрещено."
+    }
+  },
+  "citation": "[4:0†source]"
+}

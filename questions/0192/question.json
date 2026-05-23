@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a la siguiente situación de emergencia, ¿qué deben hacer los conductores que circulen en su proximidad?",
+    "en": "In the following emergency situation, what should drivers nearby do?",
+    "ru": "В следующей экстренной ситуации, что должны делать водители, находящиеся поблизости?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b93.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aumentar la velocidad para no ser un obstáculo a este vehículo.",
+        "en": "Increase speed to avoid being an obstacle to this vehicle.",
+        "ru": "Увеличить скорость, чтобы не стать препятствием для этого транспортного средства."
+      }
+    },
+    {
+      "text": {
+        "es": "Avisar a otros conductores de la presencia de este vehículo, usando repetidamente la bocina.",
+        "en": "Notify other drivers of this vehicle's presence by repeatedly honking the horn.",
+        "ru": "Уведомить других водителей о присутствии этого автомобиля,Repeatedly honking the horn."
+      }
+    },
+    {
+      "text": {
+        "es": "Dar lugar a este vehículo, despejar el carril de emergencias y si fuera necesario detenerse.",
+        "en": "Give way to this vehicle, clear the emergency lane and stop if necessary.",
+        "ru": "Уступить дорогу этому автомобилю, освободить полосу для экстренной остановки и остановиться, если это необходимо."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial despejar el carril de emergencias para permitir el paso de vehículos de emergencia.",
+      "en": "It is crucial to clear the emergency lane to allow the passage of emergency vehicles.",
+      "ru": "Критически важно очистить экстренную полосу, чтобы обеспечить проезд экстренным транспортным средствам."
+    }
+  },
+  "citation": "【4:18†source】"
+}

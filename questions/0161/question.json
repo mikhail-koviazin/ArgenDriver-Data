@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indican las señales transitorias naranjas ubicadas en la calzada de la presente imagen?",
+    "en": "What do the orange temporary signs located on the roadway in the image indicate?",
+    "ru": "Что означают оранжевые временные знаки, расположенные на дороге на данном изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b71.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Refuerzan el significado de las líneas discontinuas del carril porque es una zona peligrosa.",
+        "en": "They reinforce the meaning of the dashed lane lines because it's a dangerous area.",
+        "ru": "Они усиливают значение прерывистых линий полосы, потому что это опасная зона."
+      }
+    },
+    {
+      "text": {
+        "es": "Nada, no son señales de circulación y es ilegal su colocación.",
+        "en": "Nothing, they are not traffic signs and their placement is illegal.",
+        "ru": "Ничего, это не дорожные знаки, и их установка незаконна."
+      }
+    },
+    {
+      "text": {
+        "es": "La prohibición de sobrepasar la línea imaginaria que las une.",
+        "en": "The prohibition to cross the imaginary line that connects them.",
+        "ru": "Запрет на пересечение воображаемой линии, которая их соединяет."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales transitorias naranjas indican advertencias temporales en la vía y la prohibición de traspasar líneas discontinuas es parte de la seguridad vial.",
+      "en": "The orange temporary signs indicate temporary warnings on the roadway, and the prohibition to cross dashed lines is a part of road safety.",
+      "ru": "Оранжевые временные знаки указывают на временные предупреждения на дороге, а запрет пересекать прерывистые линии является частью дорожной безопасности."
+    }
+  },
+  "citation": "【4:0†source】"
+}

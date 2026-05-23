@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "La niebla, como factor de riesgo, produce modificaciones en…",
+    "en": "Fog, as a risk factor, produces changes in…",
+    "ru": "Туман, как фактор риска, вызывает изменения в…"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El campo visual del conductor, su percepción del entorno, la capacidad lumínica del vehículo y la adherencia de las cubiertas.",
+        "en": "The driver's field of vision, their perception of the environment, the vehicle's light capacity, and the grip of the tires.",
+        "ru": "Поле зрения водителя, его восприятие окружающей среды, световая мощность автомобиля и сцепление шин."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El campo visual del conductor y la capacidad lumínica del vehículo.",
+        "en": "The driver's field of vision and the vehicle's light capacity.",
+        "ru": "Поле зрения водителя и световая мощность автомобиля."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo afecta la capacidad lumínica del vehículo.",
+        "en": "It only affects the vehicle's light capacity.",
+        "ru": "Это касается только световой мощности автомобиля."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La niebla afecta la visibilidad y la adherencia, lo que es crucial para la seguridad.",
+      "en": "Fog affects visibility and grip, which are crucial for safety.",
+      "ru": "Туман влияет на видимость и сцепление, что критически важно для безопасности."
+    }
+  },
+  "citation": "【4:3†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando hay agua en el camino, debe reducir su velocidad para evitar…",
+    "en": "When there is water on the road, you must reduce your speed to avoid…",
+    "ru": "Когда на дороге вода, вы должны уменьшить скорость, чтобы избежать…"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Desgastar las llantas.",
+        "en": "Wearing out the tires.",
+        "ru": "Износ шин."
+      }
+    },
+    {
+      "text": {
+        "es": "Sobrecalentar las llantas.",
+        "en": "Overheating the tires.",
+        "ru": "Перегрев шин."
+      }
+    },
+    {
+      "text": {
+        "es": "El aquaplaning.",
+        "en": "Aquaplaning.",
+        "ru": "Аквапланирование."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El aquaplaning ocurre cuando las llantas no tienen tracción sobre agua acumulada.",
+      "en": "Aquaplaning occurs when tires lose traction over accumulated water.",
+      "ru": "Аквапланирование возникает, когда шины теряют сцепление с водой."
+    }
+  },
+  "citation": "manual.pdf"
+}

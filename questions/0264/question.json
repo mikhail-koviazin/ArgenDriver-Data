@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida para un automóvil particular en Av. Intendente Cantilo, salvo señalización que indique otra velocidad?",
+    "en": "What is the maximum speed allowed for a private car on Av. Intendente Cantilo, unless otherwise indicated by signage?",
+    "ru": "Какова максимальная скорость для частного автомобиля на Av. Intendente Cantilo, если иное не указано знаками?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "110 km/h.",
+        "en": "110 km/h.",
+        "ru": "110 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "100 km/h.",
+        "en": "100 km/h.",
+        "ru": "100 км/ч."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En avenidas, la velocidad máxima permitida general es de 100 km/h.",
+      "en": "On avenues, the general maximum speed limit is 100 km/h.",
+      "ru": "На проспектах общая максимальная скорость составляет 100 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

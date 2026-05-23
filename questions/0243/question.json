@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Ud. viene circulando por una avenida de doble mano y al llegar a la bocacalle, precisa girar a la izquierda para tomar una calle de único sentido. De acuerdo a la Ley Nº 2148, ¿en qué condiciones puede efectuar esa maniobra?",
+    "en": "You are driving on a two-way avenue and upon reaching the intersection, you need to turn left to take a one-way street. According to Law No. 2148, under what conditions can you perform that maneuver?",
+    "ru": "Вы едете по двусторонней улице и, достигая перекрестка, вам нужно повернуть налево, чтобы зайти на улицу с односторонним движением. Согласно закону № 2148, при каких условиях вы можете выполнить этот маневр?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Si hay un semáforo de giro que me habilite (en verde).",
+        "en": "If there is a turning signal that enables me (on green).",
+        "ru": "Если есть сигнал поворота, который позволяет мне (на зеленом)."
+      }
+    },
+    {
+      "text": {
+        "es": "Si es un cruce sin semáforos y no se acerca ningún vehículo por la mano de circulación contraria a la de mi avance.",
+        "en": "If it is an intersection without traffic lights and no vehicle is approaching from the opposite direction of my movement.",
+        "ru": "Если это перекресток без светофоров, и ни одно транспортное средство не приближается с противоположной стороны от моего движения."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Cuando se gira a la izquierda se debe observar reglas de señalización y ceder el paso.",
+      "en": "When turning left, it is necessary to follow signaling rules and yield the right of way.",
+      "ru": "При повороте налево необходимо соблюдать правила сигнализации и уступить дорогу."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

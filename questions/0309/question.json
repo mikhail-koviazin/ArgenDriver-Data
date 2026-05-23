@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Está permitido circular marcha atrás en la Ciudad de Buenos Aires?",
+    "en": "Is it allowed to drive in reverse in Buenos Aires City?",
+    "ru": "Разрешено ли движение задним ходом в городе Буэнос-Айрес?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, salvo que se realice para estacionar, entrar o salir de un garaje (cuando no exista otra posibilidad) o salvar algún obstáculo.",
+        "en": "No, unless it is done to park, enter or exit a garage (when there is no other possibility) or to avoid an obstacle.",
+        "ru": "Нет, за исключением случаев, когда это делается для парковки, заезда или выезда из гаража (когда нет другой возможности) или чтобы избежать препятствия."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, se puede realizar en cualquier ocasión pero el trayecto para circular debe ser de pocos metros.",
+        "en": "Yes, it can be done at any time, but the distance traveled must be short.",
+        "ru": "Да, это можно делать в любое время, но расстояние должно быть коротким."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, siempre que se realice antes de llegar a la mitad de la cuadra y asegurándose de no poner en riesgo al resto de los vehículos.",
+        "en": "Yes, as long as it is done before reaching the midpoint of the block and ensuring not to endanger other vehicles.",
+        "ru": "Да, при условии, что это делается до достижения середины улицы и с учетом безопасности других транспортных средств."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Circular marcha atrás en Buenos Aires está prohibido, excepto para maniobras específicas.",
+      "en": "Driving in reverse in Buenos Aires is prohibited, except for specific maneuvers.",
+      "ru": "Движение задним ходом в Буэнос-Айресе запрещено, за исключением конкретных маневров."
+    }
+  },
+  "citation": "【4:4†source】"
+}

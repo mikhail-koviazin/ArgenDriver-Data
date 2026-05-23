@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Por qué sector de una calle sin demarcación deben circular los ciclistas cuando no existen ciclovías o bicisendas?",
+    "en": "Which side of a non-marked street should cyclists travel on when there are no cycle lanes or bike paths?",
+    "ru": "По какой стороне неразмеченной улицы должны передвигаться велосипедисты, когда нет велосипедных дорожек или полос?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Cerca del borde derecho de la calzada.",
+        "en": "Near the right edge of the roadway.",
+        "ru": "У правого края проезжей части."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cerca del borde izquierdo de la calzada.",
+        "en": "Near the left edge of the roadway.",
+        "ru": "У левого края проезжей части."
+      }
+    },
+    {
+      "text": {
+        "es": "No pueden circular. Únicamente pueden hacerlo por ciclovías o bicisendas y los menores de 12 años por la vereda.",
+        "en": "They cannot circulate. They can only do so on cycle lanes or bike paths, and those under 12 years old on the sidewalk.",
+        "ru": "Они не могут передвигаться. Они могут делать это только по велосипедным дорожкам или маршруткам, и те, кто моложе 12 лет, по тротуарам."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los ciclistas deben circular por la derecha para garantizar la seguridad en las vías compartidas.",
+      "en": "Cyclists must travel on the right to ensure safety on shared roads.",
+      "ru": "Велосипедисты должны двигаться справа для обеспечения безопасности на общих дорогах."
+    }
+  },
+  "citation": "[4:6†source]"
+}

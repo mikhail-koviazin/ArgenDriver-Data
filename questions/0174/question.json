@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley Nº 2148, ¿qué indica la siguiente demarcación horizontal?",
+    "en": "According to Law No. 2148, what does the following horizontal marking indicate?",
+    "ru": "Согласно Закону № 2148, что указывает следующее горизонтальное обозначение?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b79.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que está prohibido estacionar, pudiendo efectuarse la detención para ascenso y descenso de pasajeros.",
+        "en": "That parking is prohibited, but stopping for the boarding and alighting of passengers is allowed.",
+        "ru": "Что парковка запрещена, но остановка для посадки и высадки пассажиров разрешена."
+      }
+    },
+    {
+      "text": {
+        "es": "Que es un espacio reservado al estacionamiento exclusivo de vehículos destinados al servicio de emergencia.",
+        "en": "That it is a space reserved for the exclusive parking of vehicles intended for emergency service.",
+        "ru": "Что это пространство зарезервировано для парковки автомобилей, предназначенных для экстренной службы."
+      }
+    },
+    {
+      "text": {
+        "es": "Que está prohibido estacionar o detenerse paralelo al cordón.",
+        "en": "That parking or stopping parallel to the curb is prohibited.",
+        "ru": "Что парковка или остановка параллельно бордюру запрещена."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este tipo de demarcación indica que no se permite estacionar ni detenerse al lado del cordón.",
+      "en": "This type of marking indicates that parking or stopping next to the curb is not allowed.",
+      "ru": "Этот тип разметки указывает на то, что парковка или остановка рядом с бордюром не разрешена."
+    }
+  },
+  "citation": "【4:18†source】"
+}

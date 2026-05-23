@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Conducir al día siguiente de una noche de consumo excesivo de alcohol es riesgoso porque:",
+    "en": "Driving the day after a night of excessive alcohol consumption is risky because:",
+    "ru": "Вождение на следующий день после ночи чрезмерного потребления алкоголя рискованно, потому что:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Los efectos del alcohol no terminan con la ingesta, sino que se extienden hasta haberlo eliminado del organismo.",
+        "en": "The effects of alcohol do not end with consumption but extend until it has been eliminated from the body.",
+        "ru": "Эффекты алкоголя не прекращаются с его потреблением, а продолжаются до полного его выведения из организма."
+      }
+    },
+    {
+      "text": {
+        "es": "Conducir con resaca es equiparable, por sus efectos en el organismo, a conducir alcoholizado.",
+        "en": "Driving with a hangover is comparable, due to its effects on the body, to driving while intoxicated.",
+        "ru": "Вождение с похмельем сопоставимо, из-за его воздействия на организм, с вождением в состоянии алкогольного опьянения."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Conducir con resaca afecta la coordinación y los reflejos, como el alcohol.",
+      "en": "Driving with a hangover affects coordination and reflexes, similar to alcohol.",
+      "ru": "Вождение в состоянии похмелья влияет на координацию и рефлексы, аналогично алкоголю."
+    }
+  },
+  "citation": "【4:1†source】"
+}

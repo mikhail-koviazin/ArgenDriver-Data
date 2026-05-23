@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina conducción preventiva?",
+    "en": "What is preventive driving?",
+    "ru": "Что такое профилактическое вождение?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A controlar el buen funcionamiento del vehículo, los niveles de combustible, aceite e inflado de neumáticos.",
+        "en": "To adopt cautious behaviors while driving, taking into account responsibility for one's actions and anticipating the behavior of others.",
+        "ru": "Принимать осторожные меры при вождении, учитывая ответственность за свои действия и предугадывая поведение других."
+      }
+    },
+    {
+      "text": {
+        "es": "A adoptar conductas cautelosas al conducir, que consideran la responsabilidad por los actos que se llevan a cabo y a anticipar la conducta de los demás.",
+        "en": "To check the good functioning of the vehicle, the fuel levels, oil, and tire inflation.",
+        "ru": "Проверить хорошую работу автомобиля, уровни топлива, масла и давление в шинах."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A realizar cursos viales cada seis meses.",
+        "en": "To take driving courses every six months.",
+        "ru": "Проходить курсы вождения каждые шесть месяцев."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La conducción preventiva implica responsabilidad al anticipar el comportamiento de otros conductores.",
+      "en": "Preventive driving means taking responsibility by anticipating the behavior of other drivers.",
+      "ru": "Профилактическое вождение означает принятие ответственности за прогнозирование поведения других водителей."
+    }
+  },
+  "citation": "【4:3†source】"
+}

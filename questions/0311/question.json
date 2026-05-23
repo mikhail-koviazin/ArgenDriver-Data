@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si el vehículo que lo precede, circula con estas luces intermitentes encendidas, ¿qué podría estar indicando el conductor?",
+    "en": "If the vehicle in front of you is driving with these flashing lights on, what could the driver be indicating?",
+    "ru": "Если впереди вас автомобиль движется с включенными мигающими огнями, что может означать водитель?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b169.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que el vehículo circula lentamente.",
+        "en": "That the vehicle is moving slowly.",
+        "ru": "Что автомобиль движется медленно."
+      }
+    },
+    {
+      "text": {
+        "es": "Que el vehículo próximamente ingresará a un garage o se detendrá.",
+        "en": "That the vehicle will soon enter a garage or stop.",
+        "ru": "Что автомобиль вскоре войдет в гараж или остановится."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que el vehículo realizará un giro en la próxima intersección.",
+        "en": "That the vehicle will turn at the next intersection.",
+        "ru": "Что автомобиль повернет на следующем перекрестке."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces intermitentes indican que el vehículo podría detenerse o ingresar a un garage, alertando a otros conductores.",
+      "en": "The flashing lights indicate that the vehicle may stop or enter a garage, warning other drivers.",
+      "ru": "Мигающие огни указывают на то, что транспортное средство может остановиться или заехать в гараж, предупреждая других водителей."
+    }
+  },
+  "citation": "[4:2†source]"
+}

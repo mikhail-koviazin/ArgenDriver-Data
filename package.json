@@ -1,0 +1,10 @@
+{
+  "name": "argendriver-data",
+  "version": "1.0.0",
+  "description": "Questions and images for the ArgenDriver app",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  }
+}

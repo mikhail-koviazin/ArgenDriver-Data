@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando un semáforo cambia de luz roja a verde, está habilitando a reiniciar la marcha; no obstante ello, ¿qué precauciones se deben adoptar?",
+    "en": "When a traffic light changes from red to green, it allows starting to move again; however, what precautions should be taken?",
+    "ru": "Когда светофор переключается с красного на зеленый, это разрешает начинать движение; однако, какие меры предосторожности следует принять?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No iniciar el cruce si no hay espacio para ubicar el vehículo del otro lado sin obstruir la circulación transversal.",
+        "en": "Do not start crossing if there is no space to position the vehicle on the other side without obstructing the transverse traffic.",
+        "ru": "Не начинать пересечение, если нет места для размещения автомобиля на другой стороне, не препятствуя поперечному движению."
+      }
+    },
+    {
+      "text": {
+        "es": "Permitir, antes de avanzar, que complete el cruce otro vehículo o peatón que ya lo haya iniciado.",
+        "en": "Allow, before proceeding, another vehicle or pedestrian that has already started crossing to complete their crossing.",
+        "ru": "Разрешить, прежде чем продвигаться, другому автомобилю или пешеходу, который уже начал пересечение, завершить свое пересечение."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante esperar a que la vía esté despejada antes de avanzar.",
+      "en": "It is important to wait for the roadway to be clear before proceeding.",
+      "ru": "Важно дождаться, пока дорога станет чистой, прежде чем двигаться дальше."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿Cómo se define el efecto que ocurre en la siguiente imagen?",
+    "en": "How is the effect shown in the following image defined?",
+    "ru": "Как определяется эффект, показанный на следующем изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b180.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aquaplaning.",
+        "en": "Aquaplaning.",
+        "ru": "Аквапланирование."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Off tracking.",
+        "en": "Off tracking.",
+        "ru": "Снос по траектории."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El aquaplaning ocurre cuando los neumáticos pierden contacto con el pavimento sobre agua.",
+      "en": "Aquaplaning occurs when tires lose contact with the pavement due to water.",
+      "ru": "Аквапланирование происходит, когда шины теряют контакт с полотном из-за воды."
+    }
+  },
+  "citation": "【4:1†source】"
+}

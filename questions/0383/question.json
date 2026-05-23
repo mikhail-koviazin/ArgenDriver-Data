@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Los objetos sueltos como lentes, celular, llaves o similares resultan muy peligrosos en caso de incidentes o maniobras bruscas, porque pueden ocasionar una lesión grave producto de la energía cinética que poseen.",
+    "en": "Loose objects like glasses, cell phones, keys or similar are very dangerous in the event of incidents or sudden maneuvers, because they can cause serious injury due to the kinetic energy they possess.",
+    "ru": "Свободные предметы, такие как очки, мобильные телефоны, ключи или подобные, очень опасны в случае инцидентов или резких маневров, потому что они могут вызвать серьезные травмы из-за кинетической энергии, которую они имеют."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los objetos sueltos pueden convertirse en proyectiles durante un accidente, aumentando el riesgo de lesiones.",
+      "en": "Loose objects can become projectiles in an accident, increasing the risk of injury.",
+      "ru": "Свободные предметы могут стать снарядами во время аварии, увеличивая риск травмы."
+    }
+  },
+  "citation": "【4:3†manual.pdf】"
+}

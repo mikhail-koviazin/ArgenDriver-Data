@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Por los efectos que provoca, el consumo de drogas ilegales no está permitido al momento de conducir; mientras que las drogas legales nunca afectan negativamente la capacidad de conducir.",
+    "en": "Due to the effects it causes, the consumption of illegal drugs is not allowed when driving; while legal drugs never negatively affect driving ability.",
+    "ru": "Из-за эффектов, которые он вызывает, употребление незаконных наркотиков не допускается при вождении; в то время как легальные наркотики никогда не оказывают негативного влияния на способность водить."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las drogas legales pueden afectar la conducción, contrario a la afirmación.",
+      "en": "Legal drugs can affect driving, contrary to the statement.",
+      "ru": "Легальные наркотики могут влиять на вождение, что противоречит заявлению."
+    }
+  },
+  "citation": "[4:0†source]"
+}

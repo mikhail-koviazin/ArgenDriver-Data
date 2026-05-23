@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "De acuerdo a la Ley N° 2148, ¿está permitido realizar este giro?",
+    "en": "According to Law No. 2148, is this turn allowed?",
+    "ru": "Согласно Закону № 2148, разрешён ли этот поворот?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b128.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque al ser una intersección semaforizada pero sin giro, no está permitido realizar esa maniobra.",
+        "en": "No, because it is a signalized intersection but without a turn, this maneuver is not allowed.",
+        "ru": "Нет, потому что это светофорная перекресток, но без поворота, эта маневрирование не разрешено."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, ya que el semáforo está en verde.",
+        "en": "Yes, since the traffic light is green.",
+        "ru": "Да, так как светофор зеленый."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que es una vía de doble sentido de circulación.",
+        "en": "No, as it is a two-way street.",
+        "ru": "Нет, так как это улица с двухсторонним движением."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un giro no está permitido en intersecciones semaforizadas si no hay indicación específica para girar, independientemente de la luz del semáforo.",
+      "en": "A turn is not allowed at signalized intersections if there are no specific indications to turn, regardless of the traffic light's signal.",
+      "ru": "Поворот не допускается на светофорных перекрестках, если нет конкретных указаний на поворот, независимо от сигнала светофора."
+    }
+  }
+}

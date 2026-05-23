@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Dadas las características de esta intersección, ¿el peatón también tiene prioridad?",
+    "en": "Given the characteristics of this intersection, does the pedestrian also have priority?",
+    "ru": "Учитывая характеристики этого пересечения, у пешехода также есть приоритет?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b20.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, pero si el peatón se encuentra cruzando, el conductor debe dejarlo pasar para no producir un siniestro vial.",
+        "en": "Yes, always.",
+        "ru": "Да, всегда."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, siempre.",
+        "en": "No, but if the pedestrian is crossing, the driver must let him pass to avoid causing an accident.",
+        "ru": "Нет, но если пешеход переходит, водитель должен его пропустить, чтобы избежать аварии."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El peatón tiene prioridad sobre todos los conductores en la vía pública, especialmente en intersecciones.",
+      "en": "The pedestrian has priority over all drivers on public roads, especially at intersections.",
+      "ru": "У пешехода есть приоритет перед всеми водителями на публичных дорогах, особенно на перекрестках."
+    }
+  },
+  "citation": "【4:1†source】"
+}

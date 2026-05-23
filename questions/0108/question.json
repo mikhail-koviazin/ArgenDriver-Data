@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En el caso de tener que realizar una reverificación de la VTV, por motivos de una desaprobación original, ¿cuál es el plazo de tiempo para que ésta sea gratuita?",
+    "en": "In case of having to carry out a re-evaluation of the VTV, due to an original disapproval, what is the time frame for it to be free?",
+    "ru": "В случае необходимости проведения повторной проверки VTV из-за первоначального отказа, каков срок, чтобы это было бесплатно?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No hay plazo. Si llegase a desaprobar se deberá volver a abonar el arancel correspondiente, aunque se realice al otro día.",
+        "en": "There is no deadline. If disapproved, the corresponding fee must be paid again, even if done the next day.",
+        "ru": "Срока нет. Если не сдано, плату придется заплатить снова, даже если это будет сделано на следующий день."
+      }
+    },
+    {
+      "text": {
+        "es": "Si se realiza dentro de los 60 días corridos a partir de efectuada la verificación.",
+        "en": "If done within 60 calendar days from the verification being carried out.",
+        "ru": "Если это будет сделано в течение 60 календарных дней с момента проверки."
+      }
+    },
+    {
+      "text": {
+        "es": "Si se realiza dentro de los 60 días hábiles de efectuada la verificación.",
+        "en": "If done within 60 business days from the verification being carried out.",
+        "ru": "Если это будет сделано в течение 60 рабочих дней с момента проверки."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El plazo para la reverificación gratuita es de 60 días hábiles, según la normativa de VTV.",
+      "en": "The deadline for a free re-evaluation is 60 business days, according to VTV regulations.",
+      "ru": "Срок бесплатной повторной проверки составляет 60 рабочих дней в соответствии с правилами VTV."
+    }
+  },
+  "citation": "[4:0†source]"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Está permitido sobrepasar a otro vehículo en este lugar?",
+    "en": "Is it allowed to overtake another vehicle in this place?",
+    "ru": "Разрешено ли обгонять другое транспортное средство в этом месте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b118.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, salvo que haya una señal que indique lo contrario.",
+        "en": "Yes, unless there is a sign indicating otherwise.",
+        "ru": "Да, если нет знака, указывающего на другое."
+      }
+    },
+    {
+      "text": {
+        "es": "No, está prohibido por normativa.",
+        "en": "No, it is prohibited by regulations.",
+        "ru": "Нет, это запрещено правилами."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo en el caso de que no perjudique la circulación de otros vehículos.",
+        "en": "Only if it does not hinder the circulation of other vehicles.",
+        "ru": "Только если это не мешает движению других транспортных средств."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sobrepaso está regulado y prohibido en algunas circunstancias por razones de seguridad.",
+      "en": "Overtaking is regulated and prohibited in certain circumstances for safety reasons.",
+      "ru": "Обгон регулируется и запрещен в некоторых обстоятельствах по соображениям безопасности."
+    }
+  },
+  "citation": "【4:12†manual.pdf】"
+}

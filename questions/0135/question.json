@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuáles de éstos son los síntomas que advierten sobre la fatiga en la conducción?",
+    "en": "Which of these are the symptoms warning about fatigue while driving?",
+    "ru": "Какие из этих симптомов предупреждают о усталости при вождении?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La sensación de euforia.",
+        "en": "The feeling of euphoria.",
+        "ru": "Чувство эйфории."
+      }
+    },
+    {
+      "text": {
+        "es": "La visión borrosa y el aumento del número y duración de parpadeos.",
+        "en": "Blurred vision and increased number and duration of blinks.",
+        "ru": "Нечеткое зрение и увеличение числа и продолжительности морганий."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No realizar movimientos en el asiento, ni cambios de postura.",
+        "en": "Not making movements in the seat or changing posture.",
+        "ru": "Не двигаться на сиденье и не менять позу."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La visión borrosa y parpadeos son claros indicadores de fatiga.",
+      "en": "Blurred vision and blinking are clear indicators of fatigue.",
+      "ru": "Нечеткое зрение и моргание - явные признаки усталости."
+    }
+  },
+  "citation": "【4:1†source】"
+}

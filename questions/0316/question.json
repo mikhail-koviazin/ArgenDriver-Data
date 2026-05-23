@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Son válidas este tipo de señas?",
+    "en": "Are these types of signals valid?",
+    "ru": "Эти типы сигналов действительны?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b173.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Como acompañamiento al uso de balizas y/o en caso de emergencia.",
+        "en": "As an accompaniment to the use of hazard lights and/or in case of emergency.",
+        "ru": "В качестве дополнения к использованию аварийных огней и/или в случае ЧС."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Nunca.",
+        "en": "Never.",
+        "ru": "Никогда."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo cuando se utilicen en calles.",
+        "en": "Only when used on streets.",
+        "ru": "Только при использовании на улицах."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este tipo de señalización es válida exclusivamente en situaciones de emergencia.",
+      "en": "This type of signaling is valid solely in emergency situations.",
+      "ru": "Этот тип сигнализации действителен только в экстренных случаях."
+    }
+  },
+  "citation": "【4:1†source】"
+}

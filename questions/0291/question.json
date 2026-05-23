@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Como norma general, ¿qué distancia debe dejarse libre cuando se va a estacionar frente a este tipo de instituciones?",
+    "en": "As a general rule, what distance should be left clear when parking in front of this type of institution?",
+    "ru": "Что предписывает правило относительно расстояния, которое должно быть оставлено свободным при парковке перед такими учреждениями?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b152.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Todo el frente del edificio.",
+        "en": "The entire front of the building.",
+        "ru": "Вся поверхность перед зданием."
+      }
+    },
+    {
+      "text": {
+        "es": "10 metros de cada lado de la entrada.",
+        "en": "10 meters from each side of the entrance.",
+        "ru": "10 метров с каждой стороны входа."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "5 metros de cada lado de la entrada.",
+        "en": "5 meters from each side of the entrance.",
+        "ru": "5 метров с каждой стороны входа."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es fundamental mantener esta distancia para asegurar la seguridad de los peatones y la fluidez del tránsito.",
+      "en": "This distance is essential to ensure pedestrian safety and traffic flow.",
+      "ru": "Это расстояние необходимо для обеспечения безопасности пешеходов и свободного движения."
+    }
+  },
+  "citation": "【4:3†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Estar 17 horas despierto provoca tener el mismo nivel de reacción que una persona con un nivel de alcohol en sangre mayor al permitido por Ley?",
+    "en": "Does being awake for 17 hours cause a level of reaction similar to that of a person with a blood alcohol level higher than the legally permitted limit?",
+    "ru": "Проведение 17 часов без сна приводит к такому же уровню реакции, как у человека с уровнем алкоголя в крови выше допустимого законом?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que ambas condiciones aumentan el tiempo de reacción.",
+        "en": "Yes, as both conditions increase reaction time.",
+        "ru": "Да, так как оба состояния увеличивают время реакции."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, ya que sólo tener alcoholemia positiva aumenta el tiempo de reacción.",
+        "en": "No, as only having a positive blood alcohol level increases reaction time.",
+        "ru": "Нет, так как только наличие положительного уровня алкоголя в крови увеличивает время реакции."
+      }
+    },
+    {
+      "text": {
+        "es": "No, el descanso no tiene nada que ver con el consumo de alcohol.",
+        "en": "No, rest has nothing to do with alcohol consumption.",
+        "ru": "Нет, отдых не имеет никакого отношения к употреблению алкоголя."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Estar despierto durante 17 horas puede igualar los efectos del alcohol en la reacción del conductor, ya que ambos estados perjudican la concentración y el tiempo de respuesta.",
+      "en": "Being awake for 17 hours can equal the effects of alcohol on a driver's reaction, as both states impair concentration and response time.",
+      "ru": "Быть без сна 17 часов может привести к таким же последствиям, как и алкоголь для реакции водителя, так как оба состояния ухудшают концентрацию и время реакции."
+    }
+  },
+  "citation": "【4:1†source】"
+}

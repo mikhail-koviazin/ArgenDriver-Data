@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley N° 2148, ¿es obligatorio llevar un chaleco de material reflectivo?",
+    "en": "According to Law No. 2148, is it mandatory to carry a reflective material vest?",
+    "ru": "Согласно Закону № 2148, обязательно ли носить светоотражающий жилет?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No es obligatorio pero es recomendable llevarlo por sí se necesita utilizarlo frente a algún desperfecto mecánico.",
+        "en": "It is not mandatory but it is advisable to carry it in case it is needed due to a mechanical failure.",
+        "ru": "Не обязательно, но желательно носить его на случай, если он понадобится из-за механической поломки."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, es obligatorio y puede ser llevado en cualquier parte del vehículo.",
+        "en": "Yes, it is mandatory and it can be carried anywhere in the vehicle.",
+        "ru": "Да, это обязательно, и его можно носить в любом месте автомобиля."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, es obligatorio y debe ser llevado dentro del habitáculo para poder utilizarlo en caso de necesitar descender a la calzada, frente a alguna causa de fuerza mayor.",
+        "en": "Yes, it is mandatory and it must be kept inside the cabin to be used if needed when descending to the roadway due to a force majeure.",
+        "ru": "Да, это обязательно, и его необходимо хранить внутри салона, чтобы использовать в случае необходимости спуститься на проезжую часть из-за форс-мажора."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El chaleco reflectivo es crucial para la seguridad y debe ser accesible cuando se desciende al camino.",
+      "en": "The reflective vest is crucial for safety and must be accessible when exiting onto the road.",
+      "ru": "Светоотражающий жилет важен для безопасности и должен быть доступен при выходе на дорогу."
+    }
+  },
+  "citation": "【4:8†source】"
+}

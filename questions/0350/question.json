@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es seguro conducir con este tipo de calzado?",
+    "en": "Is it safe to drive with this type of footwear?",
+    "ru": "Безопасно ли управлять транспортным средством в такой обуви?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b194.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Es indistinto mientras que no resbalen.",
+        "en": "It doesn't matter as long as they don't slip.",
+        "ru": "Это не имеет значения, если они не скользят."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo puede verse afectada la conducción en viajes largos.",
+        "en": "Only long trips can be affected.",
+        "ru": "Только длительные поездки могут быть затронуты."
+      }
+    },
+    {
+      "text": {
+        "es": "No, sólo un calzado sujeto al pie brinda seguridad en la conducción.",
+        "en": "No, only footwear secured to the foot provides safety while driving.",
+        "ru": "Нет, только обувь, крепко зафиксированная на ноге, обеспечивает безопасность во время вождения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un calzado adecuado evita resbalones y proporciona un mejor control del vehículo.",
+      "en": "Proper footwear prevents slipping and provides better control of the vehicle.",
+      "ru": "Подходящая обувь предотвращает скольжение и обеспечивает лучший контроль над транспортным средством."
+    }
+  },
+  "citation": "【4:11†source】"
+}

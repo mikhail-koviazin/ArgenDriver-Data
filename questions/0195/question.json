@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En un cruce de dos calles sin semáforo, frente a la siguiente situación, ¿quién tiene prioridad de paso?",
+    "en": "In an intersection of two streets without traffic lights, who has the right of way in the following situation?",
+    "ru": "На перекрестке двух улиц без светофора, кто имеет преимущество в следующей ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b96.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A, ya que está circulando por la derecha",
+        "en": "Vehicle A, as it is circulating on the right",
+        "ru": "Транспортное средство A, так как оно движется вправо"
+      }
+    },
+    {
+      "text": {
+        "es": "Los vehículos B, ya que son varios los que circulan por esa calle.",
+        "en": "Vehicles B, as there are several circulating on that street.",
+        "ru": "Транспортные средства B, так как на этой улице много машин."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo A, ya que está saliendo del paso a nivel ferroviario.",
+        "en": "Vehicle A, as it is coming out of the railway level crossing.",
+        "ru": "Транспортное средство A, так как оно выезжает с железнодорожного переезда."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo A tiene prioridad porque está saliendo de un paso a nivel ferroviario, lo que indica que ha tenido que ceder el paso en ese contexto.",
+      "en": "Vehicle A has priority because it is coming out of a railway level crossing, which indicates it had to yield the right of way in that context.",
+      "ru": "Транспортное средство A имеет преимущество, так как выезжает с железнодорожного переезда, что означает, что ему нужно было уступить дорогу в этом контексте."
+    }
+  },
+  "citation": "【4:10†source】"
+}

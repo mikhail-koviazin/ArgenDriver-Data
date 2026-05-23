@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Al advertir que está por ser sobrepasado, ¿cuál debería ser su actitud?",
+    "en": "When noticing that you are about to be overtaken, what should be your attitude?",
+    "ru": "Когда замечаете, что вас собираются обогнать, каково ваше поведение?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Circular por la banquina.",
+        "en": "Drive on the shoulder.",
+        "ru": "Двигайтесь по обочине."
+      }
+    },
+    {
+      "text": {
+        "es": "Circular por la derecha de la calzada y mantenerse. En el caso de ser necesario, reducir la velocidad.",
+        "en": "Drive on the right side of the road and maintain your position. If necessary, reduce speed.",
+        "ru": "Двигайтесь по правой стороне дороги и сохраняйте свою позицию. При необходимости снижайте скорость."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es correcto mantener la posición a la derecha y reducir la velocidad al ser sobrepasado para garantizar seguridad.",
+      "en": "It is correct to maintain position on the right and reduce speed when being overtaken to ensure safety.",
+      "ru": "Правильно сохранять позицию справа и снижать скорость при обгоне для обеспечения безопасности."
+    }
+  },
+  "citation": "【4:12†source】"
+}

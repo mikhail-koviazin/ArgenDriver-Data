@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Para qué sirve la demarcación horizontal de color amarillo que se visualiza en la imagen?",
+    "en": "What is the purpose of the horizontal yellow marking visible in the image?",
+    "ru": "Какова цель горизонтальной желтой разметки, видимой на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b36.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Ampliar la zona permitida de estacionamiento para motos.",
+        "en": "Expand the allowed parking area for motorcycles.",
+        "ru": "Расширить разрешенную зону парковки для мотоциклов."
+      }
+    },
+    {
+      "text": {
+        "es": "Reducir la velocidad y radio de giro de los vehículos.",
+        "en": "Reduce the speed and turning radius of vehicles.",
+        "ru": "Снизьте скорость и радиус поворота автомобилей."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ampliar la zona permitida de estacionamiento para vehículos de emergencia.",
+        "en": "Expand the allowed parking area for emergency vehicles.",
+        "ru": "Расширить разрешенную зону парковки для экстренных транспортных средств."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las líneas amarillas indican que los vehículos deben reducir velocidad y mantener el control.",
+      "en": "Yellow lines indicate that vehicles should reduce speed and maintain control.",
+      "ru": "Желтые линии указывают, что автомобили должны снижать скорость и сохранять контроль."
+    }
+  },
+  "citation": "【4:0†source】"
+}

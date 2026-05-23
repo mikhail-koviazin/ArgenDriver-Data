@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es el tiempo promedio de reacción de un conductor desde que percibe un peligro hasta que acciona el freno?",
+    "en": "What is the average reaction time of a driver from when they perceive a danger until they apply the brakes?",
+    "ru": "Каково среднее время реакции водителя с момента обнаружения опасности до нажатия на тормоза?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Aproximadamente 1 segundo.",
+        "en": "Approximately 1 second.",
+        "ru": "Приблизительно 1 секунда."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Entre 2 y 3 segundos.",
+        "en": "Between 2 and 3 seconds.",
+        "ru": "От 2 до 3 секунд."
+      }
+    },
+    {
+      "text": {
+        "es": "Es inmediato, no transcurre tiempo entre estas acciones.",
+        "en": "It is immediate, there is no time between these actions.",
+        "ru": "Это мгновенно, между этими действиями времени не проходит."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El tiempo de reacción promedio de un conductor al percibir un peligro es de aproximadamente 1 segundo, lo cual permite una respuesta oportuna en situaciones críticas.",
+      "en": "The average reaction time of a driver when perceiving a danger is approximately 1 second, allowing for timely response in critical situations.",
+      "ru": "Среднее время реакции водителя при обнаружении опасности составляет примерно 1 секунду, что позволяет своевременно реагировать в критических ситуациях."
+    }
+  },
+  "citation": "【4:11†source】"
+}

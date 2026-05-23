@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique cuál de las siguientes situaciones conlleva mayor probabilidad de siniestralidad",
+    "en": "Indicate which of the following situations carries a higher probability of accidents",
+    "ru": "Укажите, какая из следующих ситуаций несет более высокий риск аварий"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b4.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      }
+    },
+    {
+      "text": {
+        "es": "Es indistinto.",
+        "en": "It is indifferent.",
+        "ru": "Это не имеет значения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad excesiva y la falta de atención son causas comunes de siniestros.",
+      "en": "Excessive speed and lack of attention are common causes of accidents.",
+      "ru": "Чрезмерная скорость и отсутствие внимания являются распространенными причинами аварий."
+    }
+  },
+  "citation": "【4:8†source】"
+}

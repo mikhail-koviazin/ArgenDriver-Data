@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley N° 2148, ¿cuál es el límite superior de la velocidad precautoria en un paso nivel?",
+    "en": "According to Law No. 2148, what is the upper limit of precautionary speed at a level crossing?",
+    "ru": "Согласно Закону № 2148, каков верхний предел осторожной скорости на уровне перекрестка?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "20 kilómetros por hora.",
+        "en": "20 kilometers per hour.",
+        "ru": "20 километров в час."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "40 kilómetros por hora.",
+        "en": "40 kilometers per hour.",
+        "ru": "40 километров в час."
+      }
+    },
+    {
+      "text": {
+        "es": "30 kilómetros por hora.",
+        "en": "30 kilometers per hour.",
+        "ru": "30 километров в час."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad precautoria en pasos a nivel sin barreras ni semáforos es 20 km/h.",
+      "en": "The precautionary speed at level crossings without barriers or signals is 20 km/h.",
+      "ru": "Осторожная скорость на переездах без барьеров и сигналов составляет 20 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

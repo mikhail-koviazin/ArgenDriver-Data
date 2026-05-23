@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El vehículo con la oblea universal de discapacidad que se muestra en esta imagen, ¿se encuentra en infracción?",
+    "en": "Is the vehicle with the universal disability label shown in this image in violation?",
+    "ru": "На изображении представлен автомобиль с универсальной инвалидной меткой, нарушает ли он правила?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b150.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que al portar la oblea universal de discapacidad tiene libre estacionamiento y por ello puede estacionar en este lugar.",
+        "en": "Yes. All vehicles are prohibited from parking in this sector as it endangers passengers and pedestrians.",
+        "ru": "Да. Всем автомобилям запрещено парковаться в этом секторе, так как это ставит под угрозу пассажиров и пешеходов."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí. Todo vehículo tiene prohibido estacionar en este sector ya que pone en riesgo a pasajeros y peatones.",
+        "en": "No, since carrying the universal disability label allows for free parking and thus can park in this place.",
+        "ru": "Нет, так как наличие универсальной инвалидной метки позволяет бесплатно парковаться, и поэтому можно стоять в этом месте."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El estacionamiento parece prohibido en esta zona debido al riesgo que representa, independientemente de la oblea.",
+      "en": "Parking seems to be prohibited in this area due to the risk it represents, regardless of the label.",
+      "ru": "Парковка, похоже, запрещена в этой зоне из-за рисков, которые она представляет, независимо от метки."
+    }
+  },
+  "citation": "【4:17†source】"
+}

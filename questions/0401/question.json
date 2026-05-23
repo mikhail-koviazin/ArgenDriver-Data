@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿Cuál de estas imágenes muestra el uso adecuado del cinturón de seguridad durante el embarazo?",
+    "en": "Which of these images shows the proper use of a seatbelt during pregnancy?",
+    "ru": "Какие из этих изображений демонстрируют правильное использование ремня безопасности во время беременности?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b218.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Imagen A.",
+        "en": "Image A.",
+        "ru": "Изображение А."
+      }
+    },
+    {
+      "text": {
+        "es": "Imagen B.",
+        "en": "Image B.",
+        "ru": "Изображение Б."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cinturón debe colocarse correctamente entre el pecho y el abdomen.",
+      "en": "The seatbelt should be placed correctly between the chest and abdomen.",
+      "ru": "Ремень безопасности должен правильно размещаться между грудью и животом."
+    }
+  },
+  "citation": "【4:12†source】"
+}

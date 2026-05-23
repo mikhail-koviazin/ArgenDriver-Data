@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según el Sistema de Evaluación Permanente de Conductores (Scoring), ¿cuántos puntos se otorgan al conductor que obtiene la licencia de conducir por primera vez?",
+    "en": "According to the Permanent Driver Assessment System (Scoring), how many points are awarded to the driver who obtains a driving license for the first time?",
+    "ru": "Согласно системе постоянной оценки водителей (Scoring), сколько баллов присуждается водителю, получающему водительские права впервые?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "10 puntos.",
+        "en": "10 points.",
+        "ru": "10 баллов."
+      }
+    },
+    {
+      "text": {
+        "es": "20 puntos.",
+        "en": "20 points.",
+        "ru": "20 баллов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "5 puntos.",
+        "en": "5 points.",
+        "ru": "5 баллов."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sistema de puntos premia a los nuevos conductores con 20 puntos para promover una conducción segura.",
+      "en": "The points system rewards new drivers with 20 points to encourage safe driving.",
+      "ru": "Система баллов награждает новых водителей 20 баллами, чтобы поощрить безопасное вождение."
+    }
+  },
+  "citation": "【4:8†source】"
+}

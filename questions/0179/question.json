@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué indican las señales reglamentarias?",
+    "en": "What do regulatory signs indicate?",
+    "ru": "Что означают регуляторные знаки?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Advierten la proximidad de una circunstancia o variación de la normalidad de la vía que puede resultar sorpresiva o peligrosa a la circulación.",
+        "en": "They warn of the proximity of a circumstance or variation of the road's normality that can be surprising or dangerous to traffic.",
+        "ru": "Они предупреждают о близости обстоятельства или изменения нормальности дороги, которые могут быть неожиданными или опасными для движения."
+      }
+    },
+    {
+      "text": {
+        "es": "Identifican, orientan y hacen referencia a servicios, lugares, etc.",
+        "en": "They identify, orient and refer to services, places, etc.",
+        "ru": "Они идентифицируют, ориентируют и ссылаются на услуги, места и т. д."
+      }
+    },
+    {
+      "text": {
+        "es": "Transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas.",
+        "en": "They transmit specific orders, which are mandatory at the place for which they are intended.",
+        "ru": "Они передают конкретные указания, обязательные для исполнения в месте, для которого они предназначены."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales reglamentarias establecen normas que deben ser seguidas para garantizar la seguridad en las vías.",
+      "en": "Regulatory signs establish rules that must be followed to ensure safety on the roads.",
+      "ru": "Регуляторные знаки устанавливают правила, которые должны соблюдаться для обеспечения безопасности на дорогах."
+    }
+  },
+  "citation": " "
+}

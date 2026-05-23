@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Al observar las luces de este vehículo, ¿qué significado tienen en cuanto al sentido de circulación?",
+    "en": "When observing the lights of this vehicle, what do they signify regarding the direction of traffic?",
+    "ru": "При наблюдении за фонарями этого автомобиля, что они означают в отношении направления движения?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b175.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que está circulando en mí mismo sentido.",
+        "en": "That it is moving in the same direction as I am.",
+        "ru": "Что он движется в том же направлении, что и я."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que está circulando en el sentido contrario al mío.",
+        "en": "That it is moving in the opposite direction to mine.",
+        "ru": "Что он движется в противоположном направлении."
+      }
+    },
+    {
+      "text": {
+        "es": "No indican sentido de circulación sino que está descompuesto.",
+        "en": "They do not indicate the direction of traffic, but rather that it is broken down.",
+        "ru": "Они не показывают направление движения, а указывают на то, что он сломан."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces de un vehículo en el mismo sentido indican que se mueve en la misma dirección.",
+      "en": "The lights of a vehicle in the same direction indicate that it is moving in the same direction.",
+      "ru": "Фары автомобиля в том же направлении указывают, что он движется в том же направлении."
+    }
+  },
+  "citation": "【4:0†source】"
+}

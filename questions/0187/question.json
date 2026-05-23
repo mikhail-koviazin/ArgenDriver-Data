@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de las siguientes imágenes, por forma y color, corresponde a la señal indicativa de estar próximo a una zona afectada por obras?",
+    "en": "Which of the following images, by shape and color, corresponds to the indicative signal of being near a work zone?",
+    "ru": "Какое из следующих изображений, по форме и цвету, соответствует сигнальному знаку о близости к зоне работ?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b88.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Figura A.",
+        "en": "Figure A.",
+        "ru": "Фигура А."
+      }
+    },
+    {
+      "text": {
+        "es": "Figura B.",
+        "en": "Figure B.",
+        "ru": "Фигура B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Figura C.",
+        "en": "Figure C.",
+        "ru": "Фигура C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal para zonas de obras se caracteriza por su forma y color específicos.",
+      "en": "The signal for work zones is characterized by its specific shape and color.",
+      "ru": "Знак для зон работ характеризуется своей конкретной формой и цветом."
+    }
+  },
+  "citation": "【4:2†source】"
+}

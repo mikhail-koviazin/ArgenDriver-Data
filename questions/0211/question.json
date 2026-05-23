@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En esta pendiente estrecha, ¿cuál de los dos vehículos tiene prioridad de paso?",
+    "en": "In this narrow slope, which of the two vehicles has the right of way?",
+    "ru": "На этом узком склоне, какое из двух транспортных средств имеет преимущество?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b108.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Транспортное средство A."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Транспортное средство B."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo que asciende en pendientes tiene prioridad de paso según las normas.",
+      "en": "The vehicle ascending in slopes has the right of way according to the regulations.",
+      "ru": "Транспортное средство, поднимающееся по склону, имеет преимущество согласно правилам."
+    }
+  },
+  "citation": "El manual de conducción en Argentina establece que en pendiente, el vehículo que asciende tiene prioridad."
+}

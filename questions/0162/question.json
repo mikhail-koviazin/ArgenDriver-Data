@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Las señales transitorias señalizan la ejecución de trabajos de construcción y mantenimiento en la vía, o en zonas próximas a las mismas:",
+    "en": "The transitional signals indicate the execution of construction and maintenance work on the road, or in nearby areas:",
+    "ru": "Временные знаки указывают на выполнение строительных и ремонтных работ на дороге или в прилегающих районах:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales transitorias son fundamentales para advertir a los conductores sobre obras en la vía.",
+      "en": "Transitional signals are essential for warning drivers about construction work on the road.",
+      "ru": "Временные знаки имеют важное значение для предупреждения водителей о строительных работах на дороге."
+    }
+  },
+  "citation": "【4:0†source】"
+}

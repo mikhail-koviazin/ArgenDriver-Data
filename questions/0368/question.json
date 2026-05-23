@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se llama “Punto Ciego”?",
+    "en": "What is referred to as a \"Blind Spot\"?",
+    "ru": "Что называется \"слепой зоной\"?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Al área de visión del entorno, a la que el conductor no tiene acceso ya sea de manera directa o porque los espejos retrovisores no la reflejan.",
+        "en": "The area of the surroundings that the driver cannot access either directly or because the rear mirrors do not reflect it.",
+        "ru": "Зона окружения, к которой водитель не может получить доступ как напрямую, так и потому, что задние зеркала её не отражают."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo al área de visión que no es cubierta por los espejos retrovisores.",
+        "en": "Only to the area of vision that is not covered by the rearview mirrors.",
+        "ru": "Только к зоне обзора, не покрытой зеркалами заднего вида."
+      }
+    },
+    {
+      "text": {
+        "es": "Al punto imaginario ubicado en el horizonte de una ruta.",
+        "en": "To the imaginary point located on the horizon of a route.",
+        "ru": "К воображаемой точке, расположенной на горизонте маршрута."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los puntos ciegos son áreas de visión no cubiertas por los espejos retrovisores, creando zonas que el conductor no ve.",
+      "en": "Blind spots are areas not covered by rearview mirrors, creating zones that the driver cannot see.",
+      "ru": "Слепые зоны — это области, которые не покрываются зеркалами заднего вида, создавая зоны, которые водитель не видит."
+    }
+  },
+  "citation": "[4:1†manual]"
+}

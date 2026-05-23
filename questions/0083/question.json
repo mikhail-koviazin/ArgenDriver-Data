@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En caso de participar en un siniestro vial, ¿qué es recomendable hacer como primer paso?",
+    "en": "In case of being involved in a traffic accident, what is advisable to do as the first step?",
+    "ru": "В случае участия в дорожном происшествии, что рекомендуется сделать в первую очередь?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Detenerse inmediatamente y permanecer en el lugar del hecho.",
+        "en": "Stop immediately and remain at the scene.",
+        "ru": "Немедленно остановиться и остаться на месте происшествия."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Conducir hasta la comisaría más cercana.",
+        "en": "Drive to the nearest police station.",
+        "ru": "Поехать в ближайший полицейский участок."
+      }
+    },
+    {
+      "text": {
+        "es": "Llamar al 911 y continuar el viaje.",
+        "en": "Call 911 and continue the trip.",
+        "ru": "Позвонить по номеру 911 и продолжить поездку."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial detenerse y asegurar el lugar para evitar más accidentes y facilitar la ayuda.",
+      "en": "It is essential to stop and secure the place to prevent further accidents and facilitate help.",
+      "ru": "Важно остановиться и обеспечить безопасность места аварии, чтобы предотвратить новые происшествия и помочь."
+    }
+  },
+  "citation": "【4:0†source】"
+}

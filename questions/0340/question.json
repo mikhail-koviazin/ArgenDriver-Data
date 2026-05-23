@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En estas condiciones, ¿una incorrecta regulación de la altura de las luces bajas puede producir encandilamiento?",
+    "en": "Under these conditions, can incorrect adjustment of low beam headlights cause glare?",
+    "ru": "В этих условиях неправильная регулировка фар ближнего света может вызвать ослепление?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b186.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque este efecto se produce por cambios bruscos en la intensidad de la luz.",
+        "en": "Yes, because this effect is caused by sudden changes in light intensity.",
+        "ru": "Да, потому что этот эффект вызван резкими изменениями интенсивности света."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque este efecto se produce sólo por el uso de la luz alta.",
+        "en": "No, because this effect occurs only from the use of high beams.",
+        "ru": "Нет, потому что этот эффект возникает только от использования дальнего света."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque este efecto se produce en rutas con poca iluminación.",
+        "en": "No, because this effect occurs on poorly lit roads.",
+        "ru": "Нет, потому что этот эффект возникает на плохо освещенных дорогах."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Una incorrecta regulación de las luces bajas puede causar deslumbramiento al desviar la luz de manera inadecuada.",
+      "en": "Incorrect adjustment of low beam lights can cause glare by directing light improperly.",
+      "ru": "Неправильная регулировка фар ближнего света может вызвать ослепление, неправильно направляя свет."
+    }
+  },
+  "citation": "【4:4†source】"
+}

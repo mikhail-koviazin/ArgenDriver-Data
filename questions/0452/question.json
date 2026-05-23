@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿A qué punto de referencia hace alusión la señal que a continuación se presenta?",
+    "en": "What point of reference does the following sign refer to?",
+    "ru": "На какой ориентир ссылается следующий знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b268.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Servicio mecánico.",
+        "en": "Mechanical service.",
+        "ru": "Механическое обслуживание."
+      }
+    },
+    {
+      "text": {
+        "es": "Gomería.",
+        "en": "Tire workshop.",
+        "ru": "Шиномонтаж."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Estación de servicio.",
+        "en": "Service station.",
+        "ru": "Служба обслуживания."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la proximidad de un taller de gomas o gomería, donde se realizan servicios de neumáticos.",
+      "en": "The sign indicates the proximity of a tire workshop, where tire services are performed.",
+      "ru": "Знак указывает на близость шиносервиса, где проводятся услуги по обслуживанию шин."
+    }
+  },
+  "citation": "【4:17†source】"
+}

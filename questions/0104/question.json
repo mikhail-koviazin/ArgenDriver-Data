@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "La ubicación y posición de las placas de dominio del vehículo, ¿puede sufrir algún tipo de modificación?",
+    "en": "Can the location and position of the vehicle's license plates be modified?",
+    "ru": "Можно ли изменить расположение и позицию номерных знаков автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sólo pueden, eventualmente, ampliarse para mejorar su visibilidad.",
+        "en": "No, they must be placed in the correct place and manner.",
+        "ru": "Нет, они должны быть размещены в правильном месте и там, где это необходимо."
+      }
+    },
+    {
+      "text": {
+        "es": "No, deben estar colocadas en el lugar y de forma reglamentaria.",
+        "en": "They can only be enlarged occasionally to improve their visibility.",
+        "ru": "Их можно только иногда увеличивать для улучшения видимости."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo está prohibido modificar la placa de dominio trasera, no así la delantera.",
+        "en": "Only the rear license plate is prohibited from being modified, not the front one.",
+        "ru": "Запрещено изменять только заднюю номерную табличку, переднюю изменить нельзя."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las placas de dominio deben cumplir con normas específicas para garantizar su visibilidad y correcta identificación del vehículo.",
+      "en": "License plates must comply with specific regulations to ensure visibility and proper vehicle identification.",
+      "ru": "Номерные знаки должны соответствовать конкретным правилам, чтобы гарантировать их видимость и правильную идентификацию автомобиля."
+    }
+  },
+  "citation": "【4:19†source】"
+}

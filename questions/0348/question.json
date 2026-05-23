@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "En condiciones de viento fuerte, es recomendable realizar los sobrepasos de un camión con una diferencia de velocidad no demasiado elevada.",
+    "en": "In strong wind conditions, it is advisable to overtake a truck with speed difference not too high.",
+    "ru": "В условиях сильного ветра рекомендуется обгонять грузовик с не слишком большой разницей в скорости."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Durante condiciones de viento fuerte, un aumento excesivo de velocidad puede incrementar el riesgo de pérdida de control, especialmente al sobrepasar.",
+      "en": "In strong wind conditions, excessive speed can increase the risk of losing control, especially during overtaking.",
+      "ru": "В условиях сильного ветра чрезмерная скорость может увеличить риск потери контроля, особенно при обгоне."
+    }
+  },
+  "citation": "【4:0†source】"
+}

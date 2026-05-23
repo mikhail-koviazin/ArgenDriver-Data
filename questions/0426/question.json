@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the following signal indicates:",
+    "ru": "Определите, что указывает следующий сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b242.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce Ferroviario (Más de dos vías).",
+        "en": "Railway crossing (More than two tracks).",
+        "ru": "Железнодорожный переезд (более двух путей)."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Estación Ferroviaria.",
+        "en": "Railway station.",
+        "ru": "Железнодорожная станция."
+      }
+    },
+    {
+      "text": {
+        "es": "Atención a Ferrocarril.",
+        "en": "Attention to railway.",
+        "ru": "Внимание к железной дороге."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica un cruce con más de dos vías ferroviarias y requiere precaución.",
+      "en": "The signal indicates a crossing with more than two railway tracks and requires caution.",
+      "ru": "Сигнал указывает на переезд с более чем двумя железнодорожными путями и требует осторожности."
+    }
+  },
+  "citation": "【4:19†source】"
+}

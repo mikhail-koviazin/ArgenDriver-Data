@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué factor se deben la mayoría de los siniestros viales?",
+    "en": "What factor is responsible for most traffic accidents?",
+    "ru": "Какой фактор является причиной большинства дорожно-транспортных происшествий?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Al humano.",
+        "en": "Human factor.",
+        "ru": "Человеческий фактор."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al vehicular.",
+        "en": "Vehicle factor.",
+        "ru": "Фактор транспортного средства."
+      }
+    },
+    {
+      "text": {
+        "es": "Al ambiental.",
+        "en": "Environmental factor.",
+        "ru": "Экологический фактор."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El factor humano incluye negligencia, distracción y comportamiento del conductor.",
+      "en": "The human factor includes negligence, distraction, and driver behavior.",
+      "ru": "Человеческий фактор включает в себя небрежность, отвлечение и поведение водителя."
+    }
+  },
+  "citation": "【4:1†source】"
+}

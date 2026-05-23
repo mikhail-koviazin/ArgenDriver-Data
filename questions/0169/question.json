@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Una indicación puede estar expresada con una señal vertical o con una demarcación horizontal, ya que ambas tienen el mismo significado y orden jerárquico.",
+    "en": "An indication can be expressed with a vertical signal or with a horizontal mark, as both have the same meaning and hierarchical order.",
+    "ru": "Указание может быть выражено вертикальным знаком или горизонтальной разметкой, так как оба имеют одинаковое значение и иерархический порядок."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Tanto las señales verticales como las demarcaciones horizontales comunican regulaciones de tránsito equivalentes.",
+      "en": "Both vertical signals and horizontal markings communicate equivalent traffic regulations.",
+      "ru": "Как вертикальные знаки, так и горизонтальные маркировки сообщают эквивалентные правила дорожного движения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

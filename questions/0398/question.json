@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a un siniestro, ¿qué puede evitar este elemento si está correctamente ubicado?",
+    "en": "In the event of an accident, what can this element prevent if it is correctly positioned?",
+    "ru": "Что может предотвратить этот элемент в случае аварии, если он правильно установлен?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b216.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Nada en especial, dado que sólo es un elemento de confort.",
+        "en": "Nothing special, since it is just a comfort element.",
+        "ru": "Ничего особенного, так как это просто элемент комфорта."
+      }
+    },
+    {
+      "text": {
+        "es": "Lesiones en la zona cervical.",
+        "en": "Injuries in the cervical area.",
+        "ru": "Травмы шейного региона."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lesiones en el tórax.",
+        "en": "Injuries to the thorax.",
+        "ru": "Травмы грудной клетки."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un apoya cabezas correctamente ubicado protege la cabeza, reduciendo el riesgo de lesiones cervicales en accidentes.",
+      "en": "A properly positioned headrest protects the head, reducing the risk of cervical injuries in accidents.",
+      "ru": "Правильно установленная подголовник защищает голову, уменьшая риск травм шейного отдела при авариях."
+    }
+  },
+  "citation": "【4:1†source】"
+}

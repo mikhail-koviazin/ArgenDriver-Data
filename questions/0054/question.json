@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿La autoridad de tránsito puede retener la licencia de conducir al conductor de un vehículo, que no sea colectivo o de emergencia, por encontrarse circulando por este carril?",
+    "en": "Can the traffic authority retain the driver's license of a vehicle driver, which is not public transport or emergency, for driving in this lane?",
+    "ru": "Может ли дорожная полиция задержать водительские права водителя автомобиля, который не является общественным транспортом или скорой помощью, за движение по этой полосе?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b27.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que constituye una falta de tránsito que amerita esa sanción.",
+        "en": "Yes, as it constitutes a traffic offense that warrants that sanction.",
+        "ru": "Да, так как это считается нарушением правил дорожного движения, за которое предусмотрено наказание."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo si perjudica la circulación de los colectivos.",
+        "en": "Only if it affects the circulation of public buses.",
+        "ru": "Только если это мешает движению общественного транспорта."
+      }
+    },
+    {
+      "text": {
+        "es": "Nunca, ya que la licencia de conducir es un documento personal. Sólo puede labrar un acta de infracción.",
+        "en": "Never, as the driver's license is a personal document. Only a traffic violation report can be filed.",
+        "ru": "Никогда, так как водительские права являются личным документом. Можно только составить протокол о нарушении."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La circulación en carriles prohibidos es considerada una infracción de tránsito.",
+      "en": "Driving in prohibited lanes is considered a traffic violation.",
+      "ru": "Движение по запрещенным полосам считается нарушением правил дорожного движения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

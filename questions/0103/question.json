@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Al sufrir la pérdida de la placa de dominio de un vehículo, ¿dónde se puede solicitar su reposición?",
+    "en": "If you lose the license plate of a vehicle, where can you request its replacement?",
+    "ru": "Что делать, если потеряли номерной знак автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Se la puede solicitar en cualquier establecimiento comercial que la realice.",
+        "en": "It should be requested at the National Register of Motor Vehicle Ownership corresponding to the vehicle.",
+        "ru": "Её следует запрашивать в Национальном реестре собственности автомобилей, соответствующем автомобилю."
+      }
+    },
+    {
+      "text": {
+        "es": "Se la debe solicitar en el Registro Nacional de la Propiedad del Automotor que corresponde al vehículo.",
+        "en": "It can be requested at any commercial establishment that does this.",
+        "ru": "Её можно запросить в любом коммерческом заведении, которое этим занимается."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La reposición de la placa de dominio debe solicitarse en el Registro Nacional, que es la entidad competente para estos trámites.",
+      "en": "The replacement of the license plate must be requested at the National Register, which is the competent authority for these procedures.",
+      "ru": "Замена номерного знака должна запрашиваться в Национальном реестре, который является компетентным органом для этих процедур."
+    }
+  },
+  "citation": " "
+}

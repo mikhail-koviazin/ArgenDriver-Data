@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué significa esta señal?",
+    "en": "What does this sign mean?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b270.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Prohibición de estacionar en la entrada de terminal de ómnibus.",
+        "en": "Prohibition of parking at the bus terminal entrance.",
+        "ru": "Запрет на парковку у входа в автобусный терминал."
+      }
+    },
+    {
+      "text": {
+        "es": "Existencia de terminal de ómnibus, en las inmediaciones.",
+        "en": "Existence of a bus terminal in the vicinity.",
+        "ru": "Существование автобусного терминала в окрестности."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibición de detenerse en la entrada de terminal de ómnibus.",
+        "en": "Prohibition of stopping at the bus terminal entrance.",
+        "ru": "Запрет на остановку у входа в автобусный терминал."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la proximidad de un terminal de ómnibus, advertiendo a los conductores a prepararse.",
+      "en": "The sign indicates the proximity of a bus terminal, alerting drivers to prepare.",
+      "ru": "Знак указывает на близость автобусного терминала, предупреждая водителей подготовиться."
+    }
+  },
+  "citation": "【4:3†source】"
+}

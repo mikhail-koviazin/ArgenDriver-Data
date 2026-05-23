@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según las últimas estadísticas del Observatorio Vial de la Ciudad de Bs. As., ¿cuál es el rango etario con mayor número de víctimas lesionadas y fatales en siniestros viales?",
+    "en": "According to the latest statistics from the Road Observatory of the City of Bs. As., what is the age range with the highest number of injured and fatal victims in road accidents?",
+    "ru": "Согласно последней статистике Дорожной обсерватории города Буэнос-Айреса, какая возрастная группа имеет наибольшее количество раненых и погибших в дорожно-транспортных происшествиях?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Niños menores de 15 años.",
+        "en": "Children under 15 years old.",
+        "ru": "Дети младше 15 лет."
+      }
+    },
+    {
+      "text": {
+        "es": "Jóvenes y adultos de 15 a 34 años.",
+        "en": "Young people and adults aged 15 to 34.",
+        "ru": "Молодые люди и взрослые в возрасте от 15 до 34 лет."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Adultos mayores de 35 años.",
+        "en": "Adults over 35.",
+        "ru": "Взрослые старше 35."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este grupo etario presenta la mayor tasa de involucramiento en accidentes.",
+      "en": "This age group shows the highest involvement rate in accidents.",
+      "ru": "Эта возрастная группа демонстрирует наивысшую степень участия в авариях."
+    }
+  },
+  "citation": "【4:11†source】"
+}

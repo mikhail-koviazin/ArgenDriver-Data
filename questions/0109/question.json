@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál dígito de la siguiente placa de dominio indica el mes en que se debe realizar la Verificación Técnica Vehicular?",
+    "en": "Which digit in the following license plate indicates the month for the Technical Vehicle Inspection?",
+    "ru": "Какой цифра на следующем номерном знаке указывает на месяц, в который необходимо пройти технический осмотр транспортного средства?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b49.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El número 1.",
+        "en": "Number 1.",
+        "ru": "Номер 1."
+      }
+    },
+    {
+      "text": {
+        "es": "La letra D.",
+        "en": "Letter D.",
+        "ru": "Буква D."
+      }
+    },
+    {
+      "text": {
+        "es": "El número 3.",
+        "en": "Number 3.",
+        "ru": "Номер 3."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El número en la placa que indica el mes de verificación es el tercero.",
+      "en": "The number on the plate that indicates the inspection month is the third one.",
+      "ru": "Цифра на номерном знаке, указывающая месяц проверки, является третьей."
+    }
+  },
+  "citation": "[4:10†source]"
+}

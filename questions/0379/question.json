@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las Leyes N° 2.148 y 24.449, ¿qué ítem enumera los elementos de seguridad obligatorios que se deben llevar en un vehículo?",
+    "en": "According to Laws No. 2,148 and 24,449, which item lists the mandatory safety items that must be carried in a vehicle?",
+    "ru": "Согласно Законам № 2.148 и 24.449, какой пункт перечисляет обязательные элементы безопасности, которые должны быть в автомобиле?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b205.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Los elementos A, B y D.",
+        "en": "Elements A, B and D.",
+        "ru": "Элементы A, B и D."
+      }
+    },
+    {
+      "text": {
+        "es": "Los elementos B, C y D.",
+        "en": "Elements B, C and D.",
+        "ru": "Элементы B, C и D."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Los elementos A, D y E.",
+        "en": "Elements A, D and E.",
+        "ru": "Элементы A, D и E."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los elementos B, C y D son obligatorios según las normativas de seguridad vehicular.",
+      "en": "Elements B, C, and D are mandatory according to vehicle safety regulations.",
+      "ru": "Элементы B, C и D обязательны в соответствии с правилами безопасности транспортных средств."
+    }
+  },
+  "citation": "【4:2†source】"
+}

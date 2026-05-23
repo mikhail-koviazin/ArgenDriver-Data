@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es aconsejable circular en bicicleta de esta manera?",
+    "en": "Is it advisable to ride a bicycle this way?",
+    "ru": "Рекомендуется ли ездить на велосипеде таким образом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b6.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque está conduciendo correctamente.",
+        "en": "Yes, because he is driving correctly.",
+        "ru": "Да, потому что он управляет правильно."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que utilizar auriculares es un factor de distracción que impide conectarse con lo que sucede alrededor.",
+        "en": "No, as using headphones is a distraction factor that prevents connecting with what is happening around.",
+        "ru": "Нет, так как использование наушников — это фактор отвлечения, который мешает быть в курсе того, что происходит вокруг."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, ya que tiene las medidas de seguridad necesarias y el uso de los auriculares permite mejorar la calidad del viaje.",
+        "en": "Yes, as he has the necessary safety measures, and using headphones improves travel quality.",
+        "ru": "Да, так как у него есть необходимые меры безопасности, и использование наушников улучшает качество поездки."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Utilizar auriculares distrae al ciclista y puede provocar accidentes al no percibir adecuadamente el entorno.",
+      "en": "Using headphones distracts the cyclist and can lead to accidents by not properly perceiving the surroundings.",
+      "ru": "Использование наушников отвлекает велосипедиста и может привести к авариям из-за недостаточного восприятия окружающей обстановки."
+    }
+  },
+  "citation": "【4:9†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Un vehículo podrá circular por la franja paralela a la calzada, indicada en la imagen, sólo cuando el flujo vehicular esté absolutamente congestionado.",
+    "en": "A vehicle may only circulate in the strip parallel to the road, indicated in the image, when the vehicular flow is absolutely congested.",
+    "ru": "Автомобиль может двигаться по улице, параллельной проезжей части, только если транспортный поток абсолютно перегружен."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b125.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "No se permite circular en esa franja a menos que el tráfico esté completamente detenido.",
+      "en": "Circulation in that strip is not allowed unless traffic is completely stopped.",
+      "ru": "Передвижение по этой полосе не разрешено, если только движение полностью не остановлено."
+    }
+  },
+  "citation": "Reglas de circulación en Argentina, manual de conducción."
+}

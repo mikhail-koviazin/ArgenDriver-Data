@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué se entiende por habitáculo?",
+    "en": "What is meant by the cabin?",
+    "ru": "Что понимается под кабиной?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Al espacio a ser ocupado por el conductor y los pasajeros.",
+        "en": "The space to be occupied by the driver and passengers.",
+        "ru": "Пространство, которое будет занято водителем и пассажирами."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al lugar en el cual se transporta el equipaje (Baúl).",
+        "en": "The place where luggage is transported (trunk).",
+        "ru": "Место, где перевозится багаж (багажник)."
+      }
+    },
+    {
+      "text": {
+        "es": "Comprende a todo el vehículo en general.",
+        "en": "It comprises the entire vehicle in general.",
+        "ru": "Он охватывает весь автомобиль в целом."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El habitáculo se refiere al espacio destinado a los ocupantes, no al equipaje ni al vehículo completo.",
+      "en": "The cabin refers to the space intended for occupants, not for luggage or the complete vehicle.",
+      "ru": "Кабина относится к пространству, предназначенному для пассажиров, а не для багажа или всего автомобиля."
+    }
+  },
+  "citation": "[4:1†source]"
+}

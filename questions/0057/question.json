@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si ud. circula en el carril contiguo al carril exclusivo del Metrobús y desea realizar un sobrepaso a otro vehículo que circula más lento, ¿puede utilizar el carril exclusivo para hacer esta maniobra?",
+    "en": "If you are driving in the lane next to the exclusive Metrobús lane and want to overtake another vehicle that is going slower, can you use the exclusive lane to carry out this maneuver?",
+    "ru": "Если вы едете в соседней полосе рядом с эксклюзивной полосой Metrobús и хотите обогнать другое медленнее движущееся транспортное средство, можете ли вы использовать эксклюзивную полосу для этого маневра?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque está prohibido circular de manera permanente o transitoria por dicho carril.",
+        "en": "No, because it is prohibited to circulate permanently or temporarily in that lane.",
+        "ru": "Нет, потому что запрещено передвигаться постоянно или временно по этой полосе."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, sólo cuando la línea longitudinal del lado exterior de este carril sea discontinua.",
+        "en": "Yes, only when the longitudinal line on the outside of this lane is discontinuous.",
+        "ru": "Да, только если продольная линия снаружи этой полосы прерывиста."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque sólo se permite su utilización para realizar alguna maniobra.",
+        "en": "Yes, because its use is only allowed to perform some maneuver.",
+        "ru": "Да, потому что его использование разрешено только для выполнения каких-либо манёвров."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril exclusivo del Metrobús está destinado solo para ese servicio y no puede ser utilizado por otros vehículos.",
+      "en": "The exclusive Metrobús lane is only for that service and cannot be used by other vehicles.",
+      "ru": "Эксклюзивная полоса Metrobús предназначена только для этого обслуживания и не может использоваться другими транспортными средствами."
+    }
+  },
+  "citation": "【4:1†source】"
+}

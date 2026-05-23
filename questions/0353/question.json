@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si al conducir por una autopista advierte que el vehículo presenta una falla grave, pero a pesar de ella puede seguir circulando; ¿qué se recomienda hacer en estos casos?",
+    "en": "If while driving on a highway you notice that the vehicle has a serious fault, but you can still keep driving; what is recommended in these cases?",
+    "ru": "Если при езде по автомагистрали вы заметили серьезную неисправность автомобиля, но все равно можете продолжать движение; что рекомендуется делать в этих случаях?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Seguir circulando por la autopista pero por el carril de desaceleración, destinado a los vehículos lentos.",
+        "en": "Drive on the right lane and exit the highway at the next exit to call for vehicle assistance.",
+        "ru": "Двигайтесь по правой полосе и съедьте с автомагистрали на следующем съезде, чтобы вызвать помощь."
+      }
+    },
+    {
+      "text": {
+        "es": "Circular por el carril derecho y en la próxima salida abandonar la autopista para llamar al auxilio del vehículo.",
+        "en": "Continue driving on the highway but in the deceleration lane intended for slow vehicles.",
+        "ru": "Продолжайте движение по автомагистрали, но по полосе замедления, предназначенной для медленных транспортных средств."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Continuar a baja velocidad, manteniéndose en el carril, independientemente de cuál fuera.",
+        "en": "Continue at a low speed, staying in the lane, regardless of which one it was.",
+        "ru": "Продолжайте движение на низкой скорости, оставаясь в полосе, независимо от того, какой это был."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante abandonar la autopista para garantizar la seguridad, especialmente si el vehículo tiene una falla.",
+      "en": "It's important to exit the highway to ensure safety, especially if the vehicle has a fault.",
+      "ru": "Важно съехать с автомагистрали, чтобы обеспечить безопасность, особенно если у автомобиля есть неисправность."
+    }
+  },
+  "citation": "【4:5†source】"
+}

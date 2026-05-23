@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El auto señalizado con un círculo rojo, ¿tiene permitido girar a la derecha en el próximo cruce?",
+    "en": "Does the vehicle marked with a red circle have the right to turn right at the next intersection?",
+    "ru": "Разрешено ли автомобилю с красным кругом поворачивать направо на следующем перекрестке?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b30.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, siempre que señalice la maniobra con anticipación.",
+        "en": "Yes, as long as he signals the maneuver in advance.",
+        "ru": "Да, если он заранее подаст сигнал о маневре."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que para realizarlo debería invadir los carriles exclusivos.",
+        "en": "No, since to do it he would have to invade the exclusive lanes.",
+        "ru": "Нет, потому что для этого ему придется вторгнуться в эксклюзивные полосы."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo si lo realiza fuera del horario de restricción de los carriles exclusivos.",
+        "en": "Only if it is done outside the restricted hours of exclusive lanes.",
+        "ru": "Только если это сделано вне запрещенных часов для эксклюзивных полос."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos señalizados con un círculo rojo están sujetos a restricciones horarias, excepto si giran a la derecha fuera de esas horas.",
+      "en": "Vehicles marked with a red circle are subject to time restrictions, except when turning right outside those hours.",
+      "ru": "Автомобили с красным кругом подлежат временным ограничениям, кроме случаев поворота направо вне этих часов."
+    }
+  },
+  "citation": "【4:0†source】"
+}

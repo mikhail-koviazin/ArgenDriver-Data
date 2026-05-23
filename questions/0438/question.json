@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal reglamentaria?",
+    "en": "What does this regulatory sign indicate?",
+    "ru": "Что указывает этот регулирующий знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b254.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que sólo está permitido circular en bicicleta a partir de donde se encuentra la señal.",
+        "en": "Indicates to the cyclist that it is mandatory to dismount from the bicycle starting from where the sign is located.",
+        "ru": "Указывает велосипедисту, что обязательно сойти с велосипеда, начиная с места, где установлен знак."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica al ciclista que es obligatorio descender de la bicicleta a partir de donde se encuentra la señal.",
+        "en": "That it is only allowed to ride a bicycle starting from where the sign is located.",
+        "ru": "Что разрешено только ездить на велосипеде, начиная с места, где находится знак."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que comienza una ciclovía.",
+        "en": "That a bike lane begins.",
+        "ru": "Что начинается велодорожка."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que es obligatorio para los ciclistas descender de la bicicleta en este punto, garantizando la seguridad en la intersección con el tráfico.",
+      "en": "The sign indicates that it is mandatory for cyclists to dismount at this point, ensuring safety at the intersection with traffic.",
+      "ru": "Знак указывает, что велосипедисты обязаны сойти с велосипеда в этой точке, обеспечивая безопасность на перекрёстке с движением."
+    }
+  },
+  "citation": "【4:1†manual】"
+}

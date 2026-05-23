@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Al visualizar esta señal de prevención, usted sabe que:",
+    "en": "When you see this warning sign, you know that:",
+    "ru": "При виде этого предупреждающего знака вы знаете, что:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b241.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se advierte la aproximación de una curva con pendiente ascendente.",
+        "en": "An approach to a curve with an upward slope is warned.",
+        "ru": "Предупреждается о приближении к повороту с восходящим склоном."
+      }
+    },
+    {
+      "text": {
+        "es": "Se aproxima una curva cerrada.",
+        "en": "A sharp curve is approaching.",
+        "ru": "Приближается резкий поворот."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se aproxima un camino sinuoso.",
+        "en": "A winding road is approaching.",
+        "ru": "Приближается извивающаяся дорога."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que se aproxima una curva cerrada, lo que requiere reducir la velocidad.",
+      "en": "This sign indicates an approaching sharp curve, requiring a reduction in speed.",
+      "ru": "Этот знак указывает на приближающийся резкий поворот, требующий снижения скорости."
+    }
+  },
+  "citation": "【4:11†source】"
+}

@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "El sistema de luces que posee un vehículo, además de iluminar, brinda información que permite la comunicación entre vehículos y también peatones.",
+    "en": "The lighting system of a vehicle, besides illuminating, provides information that allows communication between vehicles and pedestrians.",
+    "ru": "Система освещения автомобиля, кроме того, что она освещает, предоставляет информацию, позволяющую общение между транспортными средствами и пешеходами."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces del vehículo no solo sirven para iluminación, sino también para indicar maniobras y advertir a otros.",
+      "en": "Vehicle lights not only serve for illumination but also indicate maneuvers and warn others.",
+      "ru": "Фары автомобиля служат не только для освещения, но и для указания манёвров и предупреждения других."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la correcta posición del uso de la banda inferior del cinturón de seguridad de tres puntas?",
+    "en": "What is the correct position for using the lower strap of the three-point seatbelt?",
+    "ru": "Какова правильная позиция для использования нижней лямки трехточечного ремня безопасности?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b220.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas opciones, A y B, son correctas.",
+        "en": "Both options, A and B, are correct.",
+        "ru": "Обе опции, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La banda inferior del cinturón debe ir entre la base del cuello y el hombro.",
+      "en": "The lower strap of the seatbelt should be positioned between the base of the neck and the shoulder.",
+      "ru": "Нижняя лямка ремня безопасности должна располагаться между основанием шеи и плечом."
+    }
+  },
+  "citation": "【4:9†source】"
+}

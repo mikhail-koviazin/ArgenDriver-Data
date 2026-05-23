@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si el sistema de amortiguación delantero de su vehículo se encuentra en mal estado, ¿puede afectar esta anomalía la conducción?",
+    "en": "If the front suspension system of your vehicle is in poor condition, can this anomaly affect driving?",
+    "ru": "Если система передней подвески вашего автомобиля находится в плохом состоянии, может ли эта аномалия повлиять на управление?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque al ser el sistema de suspensión delantero el deteriorado, éste no influirá en la conducción.",
+        "en": "Yes, it can affect the proper control of the vehicle.",
+        "ru": "Да, это может повлиять на правильное управление автомобилем."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, puede afectar al correcto control del vehículo.",
+        "en": "No, because if the front suspension system is the one deteriorated, it will not affect driving.",
+        "ru": "Нет, потому что если передняя подвеска является поврежденной, это не повлияет на управление."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque si se encuentra correctamente la suspensión trasera, ésta asegurará el contacto adecuado de las ruedas con la calzada.",
+        "en": "No, because if the rear suspension is in good condition, it will ensure proper wheel contact with the road.",
+        "ru": "Нет, потому что если задняя подвеска в хорошем состоянии, она обеспечит надлежащий контакт колес с дорогой."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sistema de suspensión delantero afecta la estabilidad y el control del vehículo.",
+      "en": "The front suspension system affects the vehicle's stability and control.",
+      "ru": "Передняя подвеска влияет на стабильность и управление автомобилем."
+    }
+  },
+  "citation": " "
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando varios vehículos circulan encolumnados, ¿cuál de ellos tiene prioridad para realizar el sobrepaso?",
+    "en": "When several vehicles are lined up, which one has priority to overtake?",
+    "ru": "Когда несколько автомобилей движутся в колонне, какой из них имеет приоритет для обгона?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El que lo intente primero.",
+        "en": "The one that attempts it first.",
+        "ru": "Тот, кто попытается первым."
+      }
+    },
+    {
+      "text": {
+        "es": "El último de la fila.",
+        "en": "The last in line.",
+        "ru": "Последний в очереди."
+      }
+    },
+    {
+      "text": {
+        "es": "El que circula más próximo al vehículo que se desea sobrepasar.",
+        "en": "The one that is closest to the vehicle to be overtaken.",
+        "ru": "Тот, кто ближе всего к автомобилю, который нужно обогнать."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo más próximo tiene mejor visibilidad y espacio para realizar la maniobra de sobrepaso.",
+      "en": "The closest vehicle has better visibility and space to carry out the overtaking maneuver.",
+      "ru": "Ближайший автомобиль имеет лучшую видимость и пространство для выполнения маневра обгона."
+    }
+  },
+  "citation": "[4:0†source]"
+}

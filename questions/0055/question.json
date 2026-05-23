@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica la señal horizontal de color rojo que se encuentra demarcada sobre la calzada?",
+    "en": "What does the horizontal red sign marked on the pavement indicate?",
+    "ru": "Что означает горизонтальный красный знак, размеченный на полотне дороги?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b28.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce de Metrobús.",
+        "en": "Metrobús Crossing.",
+        "ru": "Перекресток Метробуса."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cruce exclusivo de vehículos de emergencia.",
+        "en": "Exclusive crossing for emergency vehicles.",
+        "ru": "Эксклюзивный переход для экстренных служб."
+      }
+    },
+    {
+      "text": {
+        "es": "Cruce de bicicletas.",
+        "en": "Bicycle crossing.",
+        "ru": "Перекресток для велосипедов."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal roja indica un cruce para autobuses del Metrobús, donde la prioridad es de este transporte.",
+      "en": "The red sign indicates a crossing for Metrobús buses, where this transport has priority.",
+      "ru": "Красный знак указывает на перекресток для автобусов Metrobús, где этот транспорт имеет приоритет."
+    }
+  },
+  "citation": "【4:0†source】"
+}

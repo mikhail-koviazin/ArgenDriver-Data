@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es el objetivo de la Verificación Técnica Vehicular?",
+    "en": "What is the purpose of the Technical Vehicle Verification?",
+    "ru": "Какова цель Технической проверки транспортного средства?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Reducir la contaminación y mejorar la calidad del medio ambiente.",
+        "en": "Reduce pollution and improve environmental quality.",
+        "ru": "Снизить загрязнение и улучшить качество окружающей среды."
+      }
+    },
+    {
+      "text": {
+        "es": "Garantizar el cumplimiento de las normas de seguridad de los vehículos.",
+        "en": "Ensure compliance with vehicle safety standards.",
+        "ru": "Обеспечить соблюдение стандартов безопасности транспортных средств."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La Verificación Técnica Vehicular busca tanto reducir la contaminación como asegurar la seguridad vehicular.",
+      "en": "The Technical Vehicle Verification aims to reduce pollution while ensuring vehicle safety.",
+      "ru": "Техническая проверка транспортных средств направлена как на снижение загрязнения, так и на обеспечение безопасности транспортных средств."
+    }
+  },
+  "citation": "[4:5†source]"
+}

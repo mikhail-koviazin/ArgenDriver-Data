@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a la siguiente situación de emergencia, ¿hacia qué sector es recomendable que se aparten los vehículos de la imagen para facilitar el paso a la ambulancia?",
+    "en": "In the following emergency situation, which direction is it advisable for the vehicles in the image to move aside to facilitate the passage of the ambulance?",
+    "ru": "В данной экстренной ситуации в каком направлении рекомендуется автомобилям на изображении уступить дорогу, чтобы пропустить скорую помощь?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b92.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El único que debería apartarse es el auto 2 hacia su derecha.",
+        "en": "The only one that should move aside is car 2 to its right.",
+        "ru": "Единственным, кто должен уступить, является автомобиль 2 вправо."
+      }
+    },
+    {
+      "text": {
+        "es": "Todos hacia su derecha.",
+        "en": "All to their right.",
+        "ru": "Все вправо."
+      }
+    },
+    {
+      "text": {
+        "es": "El auto 1 hacia su izquierda, mientras que el 2 y 3 hacia su derecha.",
+        "en": "Car 1 to its left, while cars 2 and 3 to their right.",
+        "ru": "Автомобиль 1 влево, а автомобили 2 и 3 вправо."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos deben apartarse en direcciones opuestas para facilitar el paso.",
+      "en": "The vehicles should move aside in opposite directions to clear the passage.",
+      "ru": "Автомобили должны разъехаться в противоположные стороны, чтобы освободить проход."
+    }
+  },
+  "citation": "【4:1†source】"
+}

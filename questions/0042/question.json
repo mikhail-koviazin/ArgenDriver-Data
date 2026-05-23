@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Este ciclorodado con pedaleo asistido eléctricamente (bicicleta eléctrica) puede circular por este carril?",
+    "en": "Can this electrically assisted pedaling vehicle (electric bicycle) circulate in this lane?",
+    "ru": "Может ли этот электрифицированный велосипед (электрический велосипед) двигаться по этой полосе?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b16.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que la circulación de este tipo de vehículos en la vía pública se encuentra prohibida.",
+        "en": "No, as the circulation of this type of vehicle on public roads is prohibited.",
+        "ru": "Нет, так как движение этого типа транспортного средства по общественным дорогам запрещено."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, sólo si su potencia disminuye progresivamente hasta interrumpirse al alcanzar una velocidad máxima de 25 km/h.",
+        "en": "Yes, only if its power gradually decreases until it stops when reaching a maximum speed of 25 km/h.",
+        "ru": "Да, только если его мощность постепенно уменьшается до полной остановки при достижении максимальной скорости 25 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, sólo pueden circular por vías donde no haya ciclovías.",
+        "en": "No, they can only circulate on routes where there are no bike lanes.",
+        "ru": "Нет, они могут двигаться только по маршрутам, где нет велосипедных дорожек."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las bicicletas eléctricas pueden circular por carriles específicos si cumplen con las limitaciones de velocidad.",
+      "en": "Electric bicycles can circulate in specific lanes if they meet speed limits.",
+      "ru": "Электрические велосипеды могут двигаться по определенным полосам, если они соответствуют ограничениям по скорости."
+    }
+  },
+  "citation": "[4:4†source]"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina “aquaplaning”?",
+    "en": "What is “aquaplaning” referred to?",
+    "ru": "Что такое «аквапланирование»?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Cuando la cantidad de agua caída en una lluvia es abundante.",
+        "en": "When the amount of water fallen in a rain is abundant.",
+        "ru": "Когда количество выпавшей воды при дожде велико."
+      }
+    },
+    {
+      "text": {
+        "es": "A la pérdida de adherencia del neumático al piso a causa de la capa de agua acumulada en el pavimento, que es mayor a la cantidad que se puede expulsar a través de los dibujos de los neumáticos.",
+        "en": "To the loss of tire adhesion to the ground due to the layer of water accumulated on the pavement, which is greater than the amount that can be expelled through the tread of the tires.",
+        "ru": "Потере сцепления шины с дорогой из-за слоя воды, накопившейся на асфальте, который больше, чем количество, которое может быть выброшено через рисунок протектора шин."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al estado resbaladizo en el que se encuentra la calzada luego de una llovizna.",
+        "en": "To the slippery state in which the road is after a drizzle.",
+        "ru": "К скользкому состоянию дороги после моросящего дождя."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El aquaplaning ocurre cuando la velocidad del vehículo es tal que los neumáticos no pueden desplazar toda el agua acumulada, lo que provoca pérdida de control.",
+      "en": "Aquaplaning occurs when a vehicle's speed is such that tires cannot displace all accumulated water, causing loss of control.",
+      "ru": "Аквапланирование возникает, когда скорость автомобиля такова, что шины не могут удалить всю накопившуюся воду, что приводит к потере управления."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al circular por una vía y la persona señalada le indica detenerse, ¿está obligado usted a obedecer?",
+    "en": "If while driving on a road the indicated person signals you to stop, are you obliged to comply?",
+    "ru": "Если на дороге указанное лицо сигнализирует вам остановиться, обязаны ли вы подчиниться?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b69.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque al ser personal de obra está autorizado a regular el paso de vehículos en el tramo donde están trabajando.",
+        "en": "Yes, because being construction personnel, they are authorized to regulate the passage of vehicles in the section where they are working.",
+        "ru": "Да, потому что являясь строительным персоналом, они уполномочены регулировать движение транспортных средств в участке, где они работают."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo si se percibe una situación riesgosa ya que el personal de obra no tiene la autoridad legal para realizar dicha indicación.",
+        "en": "Only if a risky situation is perceived since construction personnel do not have the legal authority to make such indications.",
+        "ru": "Только если ощущается рискованная ситуация, так как рабочий персонал не имеет законных полномочий делать такие указания."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque no tiene autoridad ya que la Ley sólo delega dicha función a los agentes de tránsito.",
+        "en": "No, because they have no authority as the law only delegates this function to traffic agents.",
+        "ru": "Нет, потому что у них нет полномочий, так как закон лишь делегирует эту функцию дорожным агентам."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El personal de obra tiene la autorización para regular el tránsito en sus áreas de trabajo.",
+      "en": "Construction personnel are authorized to regulate traffic in their work areas.",
+      "ru": "Строительный персонал имеет право регулировать движение в своих рабочих зонах."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Durante un siniestro, si el conductor del vehículo no lleva puesto el cinturón de seguridad, el airbag...",
+    "en": "During an accident, if the driver of the vehicle is not wearing the seatbelt, the airbag...",
+    "ru": "Во время аварии, если водитель автомобиля не пристегнут, подушка безопасности..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Le salvará la vida ya que puede sustituir al cinturón de seguridad.",
+        "en": "It will save your life since it can replace the seatbelt.",
+        "ru": "Он спасет вам жизнь, так как может заменить ремень безопасности."
+      }
+    },
+    {
+      "text": {
+        "es": "Evitará que sufra lesiones, siempre y cuando el siniestro se produzca a menos de 80 km/h.",
+        "en": "It will prevent injuries, as long as the accident occurs at less than 80 km/h.",
+        "ru": "Это предотвратит травмы, если авария произойдет на скорости менее 80 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "Puede provocar lesiones graves.",
+        "en": "It can cause serious injuries.",
+        "ru": "Это может вызвать серьезные травмы."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cinturón de seguridad es esencial porque evita que los ocupantes sean lanzados y lesiona graves.",
+      "en": "The seatbelt is essential because it prevents occupants from being thrown and causes serious injuries.",
+      "ru": "Ремень безопасности необходим, поскольку он предотвращает выброс пассажиров и вызывает серьезные травмы."
+    }
+  },
+  "citation": "【4:6†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La señal representada precede a una intersección con la OBLIGACIÓN de girar a la derecha.",
+    "en": "The signal represented precedes an intersection with the OBLIGATION to turn right.",
+    "ru": "Представленный знак предшествует перекрестку с ОБЯЗАННОСТЬЮ повернуть направо."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b250.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica claramente la obligación de girar a la derecha en la intersección.",
+      "en": "The sign clearly indicates the obligation to turn right at the intersection.",
+      "ru": "Знак ясно указывает на обязанность повернуть направо на перекрестке."
+    }
+  },
+  "citation": "[4:0†source]"
+}

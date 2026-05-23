@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Un conductor principiante, ¿puede sentirse más fácilmente fatigado?",
+    "en": "Can a beginner driver feel more easily fatigued?",
+    "ru": "Может ли начинающий водитель легче уставать?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, por la falta de experiencia en la conducción.",
+        "en": "Yes, due to lack of driving experience.",
+        "ru": "Да, из-за отсутствия опыта вождения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque todos somos iguales ante la Ley.",
+        "en": "No, because we are all equal before the Law.",
+        "ru": "Нет, потому что мы все равны перед Законом."
+      }
+    },
+    {
+      "text": {
+        "es": "Únicamente cuando se trata de una persona que padece de fatiga crónica.",
+        "en": "Only when it concerns a person suffering from chronic fatigue.",
+        "ru": "Только если речь идет о человеке с хронической усталостью."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los conductores principiantes pueden tener menos concentración y más distracción, lo que se suma a la fatiga.",
+      "en": "Beginner drivers may have less concentration and more distraction, contributing to fatigue.",
+      "ru": "Начинающие водители могут иметь меньше концентрации и больше отвлечений, что способствует усталости."
+    }
+  },
+  "citation": "【4:1†source】"
+}

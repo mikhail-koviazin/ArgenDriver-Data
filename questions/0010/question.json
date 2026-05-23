@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "“Cada usuario de la vía pública es responsable de una parte del tránsito.” ¿Es correcta ésta premisa?",
+    "en": "“Every road user is responsible for part of the traffic.” Is this premise correct?",
+    "ru": "«Каждый пользователь общественных дорог отвечает за часть движения.» Эта премиса верна?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque los que tienen responsabilidad son aquellos que conducen cualquier tipo de vehículo.",
+        "en": "No, because those who are responsible are those who drive any type of vehicle.",
+        "ru": "Нет, потому что ответственность несут те, кто водит любой тип транспортного средства."
+      }
+    },
+    {
+      "text": {
+        "es": "No, la responsabilidad la asumen aquellos que obtienen una licencia de conducir.",
+        "en": "No, responsibility is assumed by those who obtain a driving license.",
+        "ru": "Нет, ответственность берут на себя те, кто получает водительские права."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque se está obligado a no causar peligro ni entorpecer la circulación.",
+        "en": "Yes, because one is obliged not to pose danger or disrupt traffic.",
+        "ru": "Да, потому что человек обязан не представлять опасность и не мешать движению."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Cada usuario de la vía pública debe actuar responsablemente para asegurar la seguridad en el tránsito.",
+      "en": "Every road user must act responsibly to ensure safety in traffic.",
+      "ru": "Каждый пользователь общественных дорог должен действовать ответственно, чтобы обеспечить безопасность на дорогах."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the following sign indicates:",
+    "ru": "Определите, что указывает следующий знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b252.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sobrepasos por la derecha.",
+        "en": "Overtaking on the right.",
+        "ru": "Обгон справа."
+      }
+    },
+    {
+      "text": {
+        "es": "Circulación exclusiva (camión).",
+        "en": "Exclusive circulation (truck).",
+        "ru": "Эксклюзивное движение (грузовик)."
+      }
+    },
+    {
+      "text": {
+        "es": "Tránsito pesado a la derecha.",
+        "en": "Heavy traffic to the right.",
+        "ru": "Поток тяжелых машин вправо."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que el tránsito pesado debe circular por la derecha.",
+      "en": "This sign indicates that heavy traffic must circulate to the right.",
+      "ru": "Этот знак указывает на то, что тяжелый транспорт должен двигаться вправо."
+    }
+  },
+  "citation": "【4:3†source】"
+}

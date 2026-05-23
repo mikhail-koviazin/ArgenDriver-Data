@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign presented indicates:",
+    "ru": "Установите, что указывает представленный знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b245.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce Ferroviario (por la derecha).",
+        "en": "Railway Crossing (on the right).",
+        "ru": "Железнодорожный переезд (справа)."
+      }
+    },
+    {
+      "text": {
+        "es": "Prohibición de Girar.",
+        "en": "Prohibition to Turn.",
+        "ru": "Запрет на поворот."
+      }
+    },
+    {
+      "text": {
+        "es": "Panel de Prevención (Curva).",
+        "en": "Warning Panel (Curve).",
+        "ru": "Предупредительный знак (Кривая)."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal advierte sobre una curva cercana, indicando que se debe reducir la velocidad.",
+      "en": "The sign warns of an upcoming curve, indicating that speed should be reduced.",
+      "ru": "Знак предупреждает о приближающемся повороте, указывая, что скорость нужно уменьшить."
+    }
+  },
+  "citation": " "
+}

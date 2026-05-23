@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En esta situación, ¿es correcto que el vehículo avance?",
+    "en": "In this situation, is it correct for the vehicle to advance?",
+    "ru": "В данной ситуации правильно ли, чтобы автомобиль продвигался вперед?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b17.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque por allí no circulan peatones y no hay peligro.",
+        "en": "No, because there are still pedestrians crossing from one side of the artery to the other.",
+        "ru": "Нет, потому что все еще есть пешеходы, переходящие с одной стороны улицы на другую."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque aún hay peatones cruzando de un lado al otro de la arteria.",
+        "en": "Yes, because there are no pedestrians circulating there and there is no danger.",
+        "ru": "Да, потому что там нет пешеходов и нет опасности."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, aunque haya peatones cruzando tiene el espacio suficiente para avanzar.",
+        "en": "Yes, even if there are pedestrians crossing, there is enough space to advance.",
+        "ru": "Да, хотя пешеходы пересекают, есть достаточно места, чтобы продвигаться вперед."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El conductor debe ceder el paso a los peatones en todo momento y respetar las normas de tránsito.",
+      "en": "The driver must yield to pedestrians at all times and respect traffic laws.",
+      "ru": "Водитель должен уступать дорогу пешеходам всегда и соблюдать правила дорожного движения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El apoyacabeza está correctamente ubicado en función del conductor.",
+    "en": "The headrest is correctly positioned for the driver.",
+    "ru": "Подголовник правильно установлен для водителя."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b214.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un apoyacabezas bien ajustado protege el cuello del conductor en caso de choque.",
+      "en": "A properly adjusted headrest protects the driver's neck in case of a crash.",
+      "ru": "Правильно настроенный подголовник защищает шею водителя в случае аварии."
+    }
+  },
+  "citation": "[4:3†source]"
+}

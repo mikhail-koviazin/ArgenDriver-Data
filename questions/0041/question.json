@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si usted pretende cruzar esta intersección, ¿hacia qué lado debe mirar?",
+    "en": "If you intend to cross this intersection, which way should you look?",
+    "ru": "Если вы собираетесь пересечь этот перекресток, в какую сторону вам следует смотреть?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b15.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Hacia la derecha.",
+        "en": "To the right.",
+        "ru": "Направо."
+      }
+    },
+    {
+      "text": {
+        "es": "Hacia la izquierda.",
+        "en": "To the left.",
+        "ru": "Налево."
+      }
+    },
+    {
+      "text": {
+        "es": "Hacia ambos lados.",
+        "en": "To both sides.",
+        "ru": "В обе стороны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial mirar a ambos lados para asegurar un cruce seguro.",
+      "en": "It is essential to look both ways to ensure a safe crossing.",
+      "ru": "Важно смотреть в обе стороны для обеспечения безопасного перехода."
+    }
+  },
+  "citation": "【4:11†source】"
+}

@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Circular con la luz alta encendida está prohibido en zonas urbanas.",
+    "en": "Driving with high beams on is prohibited in urban areas.",
+    "ru": "Вождение с включенными дальними огнями запрещено в городских районах."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso de luces altas en zonas urbanas puede causar deslumbramiento a otros conductores y peatones, aumentando el riesgo de accidentes.",
+      "en": "Using high beams in urban areas can cause glare to other drivers and pedestrians, increasing the risk of accidents.",
+      "ru": "Использование дальнего света в городских районах может ослеплять других водителей и пешеходов, увеличивая риск аварий."
+    }
+  },
+  "citation": "【4:4†source】"
+}

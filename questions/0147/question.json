@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La siguiente acción del conductor es riesgosa porque:",
+    "en": "The following action of the driver is risky because:",
+    "ru": "Следующее действие водителя рискованно, потому что:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b60.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Disminuye su capacidad atencional, limita el sentido de la audición, reduce la capacidad de reacción y aumenta el tiempo necesario para responder ante un estímulo.",
+        "en": "Decreases attention capacity, limits hearing sense, reduces reaction capacity, and increases response time to stimuli.",
+        "ru": "Снижает способность к вниманию, ограничивает чувство слуха, уменьшает реакцию и увеличивает время, необходимое для ответа на стимулы."
+      }
+    },
+    {
+      "text": {
+        "es": "El conductor debe mantener ambas manos comprometidas en la acción de conducir y al manipularlo, reduciría su capacidad para maniobrar.",
+        "en": "The driver must keep both hands engaged in driving, and manipulating it would reduce their maneuvering capacity.",
+        "ru": "Водитель должен держать обе руки на руле, а манипуляции снизили бы его способности к маневрированию."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Ambas afirmaciones describen cómo la distracción y el mal manejo afectan la conducción.",
+      "en": "Both statements describe how distraction and poor handling affect driving.",
+      "ru": "Обе утверждения описывают, как отвлечение и плохое управление влияют на вождение."
+    }
+  },
+  "citation": "【4:0†source】"
+}

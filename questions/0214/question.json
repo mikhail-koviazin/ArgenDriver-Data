@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El vehículo señalizado quiere incorporarse al tránsito, ¿tiene prioridad de paso sobre los otros vehículos que están detenidos en la arteria?",
+    "en": "The indicated vehicle wants to merge into traffic, does it have priority over other vehicles that are stopped in the street?",
+    "ru": "Отмеченный автомобиль хочет выехать в движение, имеет ли он приоритет перед другими автомобилями, которые остановлены на дороге?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b110.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No. La prioridad es de los otros vehículos, independientemente si están detenidos o circulando.",
+        "en": "No. The priority is for the other vehicles, regardless of whether they are stationary or moving.",
+        "ru": "Нет. Приоритет отдается другим транспортным средствам, независимо от того, остановлены ли они или двигаются."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque se encuentra el tránsito detenido y deben cederle el paso.",
+        "en": "Yes, because the traffic is stopped and they must give way to him.",
+        "ru": "Да, потому что движение остановлено, и они должны пропустить его."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No. La Ley no menciona nada al respecto, sólo se expresa sobre las prioridades en intersecciones no semaforizadas.",
+        "en": "No. The law does not mention anything about this; it only specifies priorities at non-signaled intersections.",
+        "ru": "Нет. Закон ничего об этом не говорит, он только указывает приоритеты на нерегулируемых перекрестках."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos detenidos deben ceder el paso a quienes se incorporan al tránsito cuando están parados.",
+      "en": "Stopped vehicles must yield to vehicles merging into traffic when they are stationary.",
+      "ru": "Остановленные автомобили должны уступать дорогу выезжающим на проезжую часть."
+    }
+  },
+  "citation": "【4:2†source】"
+}

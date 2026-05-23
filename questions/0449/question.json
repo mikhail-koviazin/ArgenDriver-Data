@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b265.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Permitido girar hacia la izquierda.",
+        "en": "Left turn allowed.",
+        "ru": "Поворот налево разрешен."
+      }
+    },
+    {
+      "text": {
+        "es": "Dirección obligatoria hacia la izquierda.",
+        "en": "Mandatory direction to the left.",
+        "ru": "Обязательное направление налево."
+      }
+    },
+    {
+      "text": {
+        "es": "Dirección permitida hacia la izquierda.",
+        "en": "Direction permitted to the left.",
+        "ru": "Направление разрешено налево."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que está permitido girar hacia la izquierda.",
+      "en": "The sign indicates that turning left is permitted.",
+      "ru": "Знак указывает, что поворот налево разрешен."
+    }
+  },
+  "citation": "【4:1†source】"
+}

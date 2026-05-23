@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Quién es el responsable frente a la autoridad de control, si uno de los pasajeros del automóvil no lleva puesto el cinturón de seguridad?",
+    "en": "Who is responsible to the control authority if one of the passengers in the car is not wearing a seatbelt?",
+    "ru": "Кто несет ответственность перед контролирующим органом, если один из пассажиров автомобиля не пристегнут ремнем безопасности?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El tomador del seguro.",
+        "en": "The insurance policyholder.",
+        "ru": "Держатель страхового полиса."
+      }
+    },
+    {
+      "text": {
+        "es": "El pasajero, si es mayor de edad.",
+        "en": "The passenger, if they are of legal age.",
+        "ru": "Пассажир, если он достиг совершеннолетия."
+      }
+    },
+    {
+      "text": {
+        "es": "El conductor.",
+        "en": "The driver.",
+        "ru": "Водитель."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El conductor es responsable de asegurar que todos los ocupantes lleven el cinturón de seguridad puesto.",
+      "en": "The driver is responsible for ensuring that all occupants wear their seat belts.",
+      "ru": "Водитель несет ответственность за то, чтобы все пассажиры были пристегнуты ремнями безопасности."
+    }
+  },
+  "citation": "【4:1†source】"
+}

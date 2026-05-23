@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿En qué momento es necesario renovar el siguiente elemento de seguridad? Cuando la profundidad del dibujo es menor de…",
+    "en": "When is it necessary to renew the following safety element? When the tread depth is less than...",
+    "ru": "Когда необходимо обновить следующий элемент безопасности? Когда глубина протектора меньше..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b203.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "1,6 mm.",
+        "en": "1.6 mm.",
+        "ru": "1,6 мм."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "2 mm.",
+        "en": "2 mm.",
+        "ru": "2 мм."
+      }
+    },
+    {
+      "text": {
+        "es": "3 mm.",
+        "en": "3 mm.",
+        "ru": "3 мм."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La profundidad mínima de dibujo debe ser de 1,6 mm para garantizar la seguridad en la conducción.",
+      "en": "The minimum tread depth must be 1.6 mm to ensure driving safety.",
+      "ru": "Минимальная глубина протектора должна составлять 1,6 мм для обеспечения безопасности на дороге."
+    }
+  },
+  "citation": "【4:0†source】"
+}

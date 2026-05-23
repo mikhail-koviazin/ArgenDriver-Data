@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Además de provocar víctimas fatales o lesionados graves, ¿qué otras consecuencias puede generar un siniestro de tránsito?",
+    "en": "In addition to causing fatalities or severe injuries, what other consequences can a traffic accident generate?",
+    "ru": "Кроме того, чтобы вызвать смертельные случаи или тяжелые травмы, какие другие последствия может вызвать дорожное происшествие?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Daños materiales, costos sanitarios y administrativos.",
+        "en": "Material damage, health and administrative costs.",
+        "ru": "Материальный ущерб, медицинские и административные расходы."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Daños materiales y costos sanitarios.",
+        "en": "Material damages and health costs.",
+        "ru": "Материальный ущерб и медицинские расходы."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo daños materiales.",
+        "en": "Only material damages.",
+        "ru": "Только материальный ущерб."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los siniestros pueden implicar gastos adicionales y daños colaterales más allá de las lesiones.",
+      "en": "Accidents can incur additional expenses and collateral damage beyond injuries.",
+      "ru": "Аварии могут привести к дополнительным расходам и сопутствующему ущербу, помимо травм."
+    }
+  },
+  "citation": "【4:1†source】"
+}

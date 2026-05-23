@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Para realizar correctamente un giro en una intersección se debe indicar...",
+    "en": "To properly make a turn at an intersection, you must indicate...",
+    "ru": "Чтобы правильно выполнить поворот на перекрестке, необходимо указать..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Tocando bocina.",
+        "en": "Using the turn signal on the corresponding side, at least 30 meters before.",
+        "ru": "Используя указатель поворота с соответствующей стороны, не менее чем за 30 метров до."
+      }
+    },
+    {
+      "text": {
+        "es": "Utilizando la luz de giro del lado correspondiente, al menos 30 metros antes.",
+        "en": "Honk the horn.",
+        "ru": "Сигналить."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Utilizando ambos giros, metros antes de llegar a la intersección.",
+        "en": "Using both signals, meters before reaching the intersection.",
+        "ru": "Используя оба поворота, метры до прибытия на перекресток."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es obligatorio señalar un giro con anticipación para advertir a otros usuarios.",
+      "en": "It is mandatory to signal a turn in advance to warn other users.",
+      "ru": "Обязательно указывать поворот заранее, чтобы предупредить других участников."
+    }
+  },
+  "citation": "【4:17†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Desde el punto de vista del conductor frente a esta situación, ¿cuál es la acción adecuada?",
+    "en": "From the driver's point of view in this situation, what is the appropriate action?",
+    "ru": "С точки зрения водителя в этой ситуации, какое действие является подходящим?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b19.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Esquivar a la peatona y tocarle bocina para que no se distraiga.",
+        "en": "Dodge the pedestrian and honk to avoid distracting them.",
+        "ru": "Уклонитесь от пешехода и подайте сигнал, чтобы не отвлекать её."
+      }
+    },
+    {
+      "text": {
+        "es": "Frenar y esperar a que termine de cruzar la peatona, aun sabiendo que el vehículo pueda obstaculizar el flujo vehicular.",
+        "en": "Brake and wait for the pedestrian to finish crossing, even knowing that the vehicle may obstruct traffic flow.",
+        "ru": "Тормозите и ждите, пока пешеход не закончит переход, даже зная, что автомобиль может помешать движению."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Frenar y esperar es crucial para la seguridad del peatón.",
+      "en": "Braking and waiting is crucial for pedestrian safety.",
+      "ru": "Торможение и ожидание имеют решающее значение для безопасности пешеходов."
+    }
+  },
+  "citation": "【4:3†source】"
+}

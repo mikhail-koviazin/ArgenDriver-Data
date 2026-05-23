@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign presented below indicates:",
+    "ru": "Определите, что указывает знаком представленным ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b240.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce ferroviario.",
+        "en": "Railway crossing.",
+        "ru": "Железнодорожный переезд."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Estación ferroviaria.",
+        "en": "Train station.",
+        "ru": "Вокзал."
+      }
+    },
+    {
+      "text": {
+        "es": "Circulación exclusiva (ferrocarril).",
+        "en": "Exclusive circulation (railway).",
+        "ru": "Эксклюзивное движение (железная дорога)."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la presencia de un cruce ferroviario, donde se deben tomar precauciones.",
+      "en": "The sign indicates the presence of a railway crossing where precautions should be taken.",
+      "ru": "Знак указывает на наличие железнодорожного переезда, где следует соблюдать осторожность."
+    }
+  },
+  "citation": "【4:17†source】"
+}

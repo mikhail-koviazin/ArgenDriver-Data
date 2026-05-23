@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Con respecto al consumo de combustible, ¿qué consecuencias trae circular de la siguiente forma?",
+    "en": "Regarding fuel consumption, what are the consequences of driving in the following manner?",
+    "ru": "Что касается потребления топлива, какие последствия возникают от езды следующим образом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b200.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aumenta el consumo de combustible porque el vehículo se vuelve más ligero.",
+        "en": "Increases wind resistance and therefore increases fuel consumption.",
+        "ru": "Увеличивает аэродинамическое сопротивление, что приводит к увеличению расхода топлива."
+      }
+    },
+    {
+      "text": {
+        "es": "Incrementa la resistencia del viento y con ello, aumenta el consumo de combustible.",
+        "en": "Increases fuel consumption because the vehicle becomes lighter.",
+        "ru": "Увеличивает расход топлива, поскольку транспортное средство становится легче."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto donde se ubique la carga, no afecta al consumo de combustible.",
+        "en": "It doesn't matter where the load is placed; it doesn't affect fuel consumption.",
+        "ru": "Не имеет значения, где находится груз, это не влияет на расход топлива."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Una distribución inadecuada de la carga puede incrementar la resistencia aerodinámica y afectar el consumo.",
+      "en": "An improper distribution of load can increase aerodynamic resistance and affect consumption.",
+      "ru": "Неправильное распределение груза может увеличить аэродинамическое сопротивление и повлиять на расход топлива."
+    }
+  },
+  "citation": "【4:13†source】"
+}

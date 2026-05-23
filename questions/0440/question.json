@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal reglamentaria?",
+    "en": "What does this regulatory sign indicate?",
+    "ru": "Что указывает этот регламентирующий знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b256.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Inicio de calle de convivencia.",
+        "en": "Start of a shared street.",
+        "ru": "Начало общего улицы."
+      }
+    },
+    {
+      "text": {
+        "es": "Los peatones no deben circular por esa zona.",
+        "en": "Pedestrians should not walk in that area.",
+        "ru": "Пешеходам не следует ходить в этой зоне."
+      }
+    },
+    {
+      "text": {
+        "es": "Los peatones deben circular obligatoriamente por la derecha.",
+        "en": "Pedestrians must walk to the right.",
+        "ru": "Пешеходы должны идти вправо."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esto se debe a que las normativas indican que los peatones deben circular por la derecha para su seguridad.",
+      "en": "This is because regulations state that pedestrians must walk on the right for their safety.",
+      "ru": "Это связано с тем, что правила предписывают пешеходам ходить справа для их безопасности."
+    }
+  },
+  "citation": "【4:5†source】"
+}

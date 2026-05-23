@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Si el vehículo de la imagen se dispone a ingresar a un garaje ubicado a su derecha, está anticipando su maniobra utilizando las luces correctas.",
+    "en": "If the vehicle in the image is about to enter a garage located to its right, it is anticipating its maneuver by using the correct lights.",
+    "ru": "Если автомобиль на изображении собирается заехать в гараж, расположенный справа, он заранее сигнализирует о маневре, включая правильные огни."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b172.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "No se debe utilizar las luces adecuadas al girar a la derecha.",
+      "en": "The correct lights should not be used when turning right.",
+      "ru": "Правильные огни не должны использоваться при повороте направо."
+    }
+  },
+  "citation": "【4:12†source】"
+}

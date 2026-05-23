@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal presented indicates:",
+    "ru": "Определите, что указывает представленный сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b225.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce de jinetes.",
+        "en": "Crossing of horse riders.",
+        "ru": "Перекресток для всадников."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibición de circular con animales.",
+        "en": "Prohibition to circulate with animals.",
+        "ru": "Запрещение движения с животными."
+      }
+    },
+    {
+      "text": {
+        "es": "Camino peligroso por presencia de animales sueltos.",
+        "en": "Dangerous road due to the presence of loose animals.",
+        "ru": "Опасная дорога из-за наличия диких животных."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica un cruce específico para jinetes, donde los caballos pueden cruzar.",
+      "en": "The signal indicates a specific crossing for horse riders, where horses may cross.",
+      "ru": "Сигнал указывает на специальные переходы для всадников, где могут пересекать лошади."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

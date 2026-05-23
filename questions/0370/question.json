@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique cuál de estas imágenes muestra la manera correcta de colocar el espejo retrovisor:",
+    "en": "Indicate which of these images shows the correct way to place the rearview mirror:",
+    "ru": "Укажите, какое из этих изображений демонстрирует правильный способ установки зеркала заднего вида:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b202.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Imagen A.",
+        "en": "Image A.",
+        "ru": "Изображение A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Imagen B.",
+        "en": "Image B.",
+        "ru": "Изображение B."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El espejo retrovisor debe estar correctamente ajustado para evitar puntos ciegos.",
+      "en": "The rearview mirror must be properly adjusted to avoid blind spots.",
+      "ru": "Зеркало заднего вида должно быть правильно отрегулировано, чтобы избежать слепых зон."
+    }
+  },
+  "citation": "【4:4†source】"
+}

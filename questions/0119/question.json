@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando se consume alcohol, ¿se pueden producir alteraciones en la visión?",
+    "en": "When alcohol is consumed, can it cause changes in vision?",
+    "ru": "При потреблении алкоголя возможны изменения зрения?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí.",
+        "en": "Yes.",
+        "ru": "Да."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, solamente afecta a la capacidad motora.",
+        "en": "No, it only affects motor ability.",
+        "ru": "Нет, это только влияет на двигательную способность."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo cuando se tiene más de 1 gramo de alcohol por litro de sangre.",
+        "en": "Only when you have more than 1 gram of alcohol per liter of blood.",
+        "ru": "Только когда в крови более 1 грамма алкоголя на литр."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El alcohol afecta la visión, provocando confusión y visión borrosa.",
+      "en": "Alcohol affects vision, causing confusion and blurred vision.",
+      "ru": "Алкоголь влияет на зрение, вызывая путаницу и размытие зрения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

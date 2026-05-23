@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿En qué mes del año debe realizar la Verificación Técnica Vehicular el vehículo que porte esta placa de dominio?",
+    "en": "In which month of the year should the vehicle displaying this license plate undergo Technical Vehicle Inspection?",
+    "ru": "В каком месяце года транспортное средство с этим номером должно пройти технический осмотр?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b50.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Enero.",
+        "en": "January.",
+        "ru": "Январь."
+      }
+    },
+    {
+      "text": {
+        "es": "Febrero.",
+        "en": "February.",
+        "ru": "Февраль."
+      }
+    },
+    {
+      "text": {
+        "es": "Marzo.",
+        "en": "March.",
+        "ru": "Март."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La Verificación Técnica Vehicular se realiza anualmente y depende de la fecha de patentamiento.",
+      "en": "The Technical Vehicle Inspection occurs annually and depends on the registration date.",
+      "ru": "Технический осмотр транспортных средств проводится ежегодно и зависит от даты регистрации."
+    }
+  },
+  "citation": "【4:3†source】"
+}

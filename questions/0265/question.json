@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley Nacional N° 24.449, ¿cuál es la velocidad máxima permitida para automóviles particulares en semiautopistas?",
+    "en": "According to National Law No. 24.449, what is the maximum speed allowed for private cars on semi-highways?",
+    "ru": "Согласно Национальному закону № 24.449, какова максимальная разрешенная скорость для легковых автомобилей на полутрассах?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "130 km/h.",
+        "en": "130 km/h.",
+        "ru": "130 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "120 km/h.",
+        "en": "120 km/h.",
+        "ru": "120 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "110 km/h.",
+        "en": "110 km/h.",
+        "ru": "110 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ley establece 120 km/h como límite en las semiautopistas para autos.",
+      "en": "The law establishes 120 km/h as the limit on semi-highways for cars.",
+      "ru": "Закон устанавливает лимит в 120 км/ч для автомобилей на полутрассах."
+    }
+  },
+  "citation": "【4:1†source】"
+}

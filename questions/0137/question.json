@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Por qué es peligroso conducir cansado?",
+    "en": "Why is it dangerous to drive tired?",
+    "ru": "Почему опасно водить уставшим?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Porque reduce la capacidad de reacción y aumenta el tiempo necesario para responder ante un estímulo.",
+        "en": "Because it reduces the reaction capacity and increases the time needed to respond to a stimulus.",
+        "ru": "Потому что это снижает реакцию и увеличивает время, необходимое для ответа на стимул."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Porque se circula más rápido.",
+        "en": "Because it increases the driving speed.",
+        "ru": "Потому что скорость увеличивается."
+      }
+    },
+    {
+      "text": {
+        "es": "Porque el viaje dura más.",
+        "en": "Because the trip takes longer.",
+        "ru": "Потому что поездка занимает больше времени."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cansancio afecta la visión y la toma de decisiones, vitales para la conducción.",
+      "en": "Fatigue affects vision and decision-making, which are vital for driving.",
+      "ru": "Усталость влияет на зрение и принятие решений, что жизненно важно для вождения."
+    }
+  },
+  "citation": "【4:3†source】"
+}

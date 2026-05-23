@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Está permitido llevar carga en una bicicleta?",
+    "en": "Is it allowed to carry cargo on a bicycle?",
+    "ru": "Разрешено ли перевозить груз на велосипеде?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, lo único que se debe tener en cuenta es que no comprometa la visibilidad.",
+        "en": "Yes, the only thing to consider is that it does not compromise visibility.",
+        "ru": "Да, единственное, что следует учесть, это то, что это не должно ухудшать видимость."
+      }
+    },
+    {
+      "text": {
+        "es": "No, está prohibido ya que puede desestabilizar la bicicleta.",
+        "en": "No, it is prohibited as it may destabilize the bicycle.",
+        "ru": "Нет, это запрещено, так как это может дестабилизировать велосипед."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, debe estar firmemente asegurada, permitiendo maniobrar y no perder la estabilidad.",
+        "en": "Yes, it must be securely fastened, allowing maneuverability and not losing stability.",
+        "ru": "Да, он должен быть надежно закреплен, чтобы обеспечить маневренность и не потерять устойчивость."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La carga en la bicicleta debe ser fija y no afectar la estabilidad o maniobrabilidad.",
+      "en": "Cargo on the bicycle must be secured and not affect stability or maneuverability.",
+      "ru": "Груз на велосипеде должен быть закреплен и не должен влиять на стабильность или маневренность."
+    }
+  },
+  "citation": "[4:0†source]"
+}

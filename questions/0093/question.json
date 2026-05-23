@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Al tener la licencia vencida, ¿por cuánto tiempo puede seguir conduciendo sin estar en infracción?",
+    "en": "If the license is expired, how long can one continue driving without being in violation?",
+    "ru": "Если лицензия истекла, как долго можно продолжать водить без нарушения?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "30 días corridos desde su vencimiento.",
+        "en": "30 consecutive days after its expiration.",
+        "ru": "30 дней подряд с даты истечения."
+      }
+    },
+    {
+      "text": {
+        "es": "Hasta las 00 horas del día de cumpleaños.",
+        "en": "Until midnight on birthday.",
+        "ru": "До полуночи в день рождения."
+      }
+    },
+    {
+      "text": {
+        "es": "No está permitido conducir con la licencia vencida, excepto que el vencimiento fuese un día inhábil, en cuyo caso se traslada al día hábil siguiente.",
+        "en": "It is not allowed to drive with an expired license, except if the expiration fell on a non-business day, in which case it is moved to the next business day.",
+        "ru": "Не разрешается водить с истекшей лицензией, если истечение пришлось на нерабочий день, в этом случае оно переносится на следующий рабочий день."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La normativa establece que la licencia no habilita a conducir tras su vencimiento hasta que sea renovada, salvo excepciones.",
+      "en": "The regulations state that the license does not permit driving after its expiration until renewed, except for specific cases.",
+      "ru": "Правила гласят, что лицензия не позволяет водить после истечения срока до ее обновления за исключением определенных случаев."
+    }
+  },
+  "citation": "【4:0†source】"
+}

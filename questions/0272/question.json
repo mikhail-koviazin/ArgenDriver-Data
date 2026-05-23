@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina “distancia de seguridad”?",
+    "en": "What is meant by 'safety distance'?",
+    "ru": "Что такое 'дистанция безопасности'?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A la distancia mínima que se debe mantener con el vehículo que circula adelante para tener un mayor margen de reacción y en caso de frenada repentina no se colisione con él.",
+        "en": "The minimum distance to be maintained from the vehicle ahead to allow greater reaction time and avoid collision in case of sudden braking.",
+        "ru": "Минимальное расстояние, которое необходимо соблюдать от движущегося впереди транспортного средства, чтобы обеспечить большее время для реакции и избежать столкновения в случае резкого торможения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A la distancia que se debe mantener con el vehículo que circula en el carril paralelo, para realizar un sobrepaso seguro.",
+        "en": "The distance that must be maintained from the vehicle in the parallel lane to safely overtake.",
+        "ru": "Расстояние, которое должно соблюдаться от транспортного средства в параллельном ряду для безопасного обгона."
+      }
+    },
+    {
+      "text": {
+        "es": "A la distancia que recorre el vehículo desde que el conductor percibe una situación de peligro hasta que acciona el freno.",
+        "en": "The distance the vehicle covers from the time the driver perceives a dangerous situation until braking.",
+        "ru": "Расстояние, которое преодолевает транспортное средство с момента, когда водитель воспринимает опасную ситуацию, до нажатия на тормоза."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La distancia de seguridad es crucial para evitar colisiones al garantizar un tiempo de reacción adecuado.",
+      "en": "The safety distance is crucial to avoid collisions by ensuring adequate reaction time.",
+      "ru": "Дистанция безопасности имеет решающее значение для предотвращения столкновений, гарантируя достаточное время для реакции."
+    }
+  },
+  "citation": "【4:0†source】"
+}

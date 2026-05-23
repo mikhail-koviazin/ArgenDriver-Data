@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Ante la siguiente situación, ¿qué es lo que se recomienda hacer?",
+    "en": "In the following situation, what is recommended to do?",
+    "ru": "В следующей ситуации что рекомендуется делать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b188.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Utilizar las luces rompeniebla, lo cual es suficiente porque permite ampliar la visibilidad del conductor.",
+        "en": "Drive with both hands on the wheel, reduce speed, increase distance between vehicles, and use the appropriate lights of the vehicle.",
+        "ru": "Двигаться с обеими руками на руле, уменьшить скорость, увеличить расстояние между автомобилями и использовать соответствующие фары автомобиля."
+      }
+    },
+    {
+      "text": {
+        "es": "Conducir con ambas manos en el volante, reducir la velocidad, aumentar la distancia entre vehículos y utilizar las luces correspondientes del vehículo.",
+        "en": "Use the fog lights, which is sufficient because it increases the driver's visibility.",
+        "ru": "Используйте противотуманные фары, что достаточно, потому что это увеличивает видимость водителя."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Detenerse en la banquina hasta que levante el banco de niebla.",
+        "en": "Stop on the shoulder until the fog bank lifts.",
+        "ru": "Остановитесь на краю дороги, пока не поднимется туман."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se recomienda esta acción porque garantiza el control y la seguridad en condiciones de baja visibilidad.",
+      "en": "This action is recommended because it ensures control and safety in low visibility conditions.",
+      "ru": "Это действие рекомендуется, так как оно обеспечивает контроль и безопасность в условиях низкой видимости."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es correcta la manera en que utiliza el Sistema de Retención Infantil (SRI) esta niña?",
+    "en": "Is the way this girl uses the Child Restraint System (SRI) correct?",
+    "ru": "Правильное ли использование системой детского удержания (СРИ) этой девочкой?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b213.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que se encuentra sentada en un SRI, en el asiento trasero.",
+        "en": "Yes, as she is sitting in a CRS in the back seat.",
+        "ru": "Да, поскольку она сидит в детском кресле на заднем сиденье."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que la niña debería ubicarse “a contra marcha” para reducir el efecto “latigazo”.",
+        "en": "No, because the girl is not using the seatbelt of the CRS.",
+        "ru": "Нет, потому что девочка не использует ремень безопасности детского кресла."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que la niña no utiliza el cinturón de seguridad del SRI.",
+        "en": "No, as the girl should be positioned 'rear-facing' to reduce the 'whiplash' effect.",
+        "ru": "Нет, так как девочка должна сидеть 'лицом назад', чтобы уменьшить эффект 'сотрясения'."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial que los niños usen un SRI correctamente y con el cinturón de seguridad para su protección.",
+      "en": "It's essential for children to use a CRS properly and with the seatbelt for their safety.",
+      "ru": "Важно, чтобы дети использовали СРИ правильно и с ремнем безопасности для их безопасности."
+    }
+  },
+  "citation": "【4:11†source】"
+}

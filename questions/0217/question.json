@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El vehículo A pretende cambiar de carril hacia su derecha, ¿cuál de los dos vehículos tiene prioridad?",
+    "en": "Vehicle A intends to change lanes to its right, which of the two vehicles has priority?",
+    "ru": "Транспортное средство A собирается сменить полосу на право, какое из двух транспортных средств имеет приоритет?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b113.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Транспортное средство A."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Транспортное средство B."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo B tiene prioridad para continuar su trayectoria mientras A quiere cambiar de carril.",
+      "en": "Vehicle B has priority to continue its path while A wants to change lanes.",
+      "ru": "Транспортное средство B имеет приоритет, чтобы продолжить свой путь, в то время как A хочет сменить полосу."
+    }
+  },
+  "citation": "【4:6†source】"
+}

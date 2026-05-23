@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Circular a velocidad constante y dentro de los límites establecidos por la Ley, además de minimizar las posibilidades de provocar un siniestro vial, puede optimizar el consumo de combustible en un vehículo.",
+    "en": "Driving at a constant speed and within the limits established by law, in addition to minimizing the chances of causing a traffic accident, can optimize fuel consumption in a vehicle.",
+    "ru": "Движение с постоянной скоростью и в пределах, установленных законом, помимо минимизации шансов на возникновение дорожно-транспортного происшествия, может оптимизировать расход топлива в автомобиле."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Conducir a velocidad constante mejora la eficiencia y reduce el consumo.",
+      "en": "Driving at a constant speed improves efficiency and reduces fuel consumption.",
+      "ru": "Движение с постоянной скоростью повышает эффективность и снижает расход топлива."
+    }
+  },
+  "citation": "[4:0†source]"
+}

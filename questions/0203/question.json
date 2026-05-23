@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "De acuerdo a la Ley N° 2148, en encrucijadas sin semáforos, ¿cuál es el orden de prioridad de paso según el tipo de arteria?",
+    "en": "According to Law No. 2148, at intersections without traffic lights, what is the order of priority of passage according to the type of thoroughfare?",
+    "ru": "Согласно закону № 2148, на перекрестках без светофоров, каков порядок приоритета проезда в зависимости от типа улицы?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "1° Pasaje - 2° Calle - 3° Avenida.",
+        "en": "1st Passage - 2nd Street - 3rd Avenue.",
+        "ru": "1-й Пассаж - 2-я Улица - 3-я Авеню."
+      }
+    },
+    {
+      "text": {
+        "es": "1° Avenida - 2° Calle - 3° Pasaje.",
+        "en": "1st Avenue - 2nd Street - 3rd Passage.",
+        "ru": "1-я Авеню - 2-я Улица - 3-й Пассаж."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto, ya que el vehículo que circula por la derecha siempre tiene prioridad.",
+        "en": "It is indifferent, as the vehicle traveling from the right always has priority.",
+        "ru": "Это не имеет значения, так как транспортное средство, движущееся справа, всегда имеет приоритет."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El orden de prioridad es: Avenida, Calle, Pasaje. Así se respeta la jerarquía vial.",
+      "en": "The order of priority is: Avenue, Street, Passage. This respects the road hierarchy.",
+      "ru": "Порядок приоритета: Авеню, Улица, Пассаж. Это соответствует дорожной иерархии."
+    }
+  },
+  "citation": "【4:0†source】"
+}

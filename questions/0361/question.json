@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley 2148, ¿este vehículo está cargando combustible de manera correcta?",
+    "en": "According to Law 2148, is this vehicle refueling correctly?",
+    "ru": "Согласно Закону 2148, заправляется ли этот автомобиль правильно?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b198.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que no se observa al conductor utilizar el celular que es la única prohibición al respecto.",
+        "en": "No, because regulations state that refueling should not be done with lights and engine on.",
+        "ru": "Нет, так как по правилам заправлять нельзя с включенными фарами и работающим двигателем."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que por normativa no debe cargarse combustible con luces y motor encendido.",
+        "en": "Yes, since the driver is not seen using the cell phone, which is the only prohibition regarding this.",
+        "ru": "Да, так как не видно, чтобы водитель использовал мобильный телефон, что является единственным запретом на этот счет."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La Ley no se expresa sobre esta situación.",
+        "en": "The law does not express anything about this situation.",
+        "ru": "Закон ничего не говорит об этой ситуации."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La normativa prohíbe cargar combustible con el motor y luces encendidos por seguridad.",
+      "en": "The regulations prohibit refueling with the engine and lights on for safety reasons.",
+      "ru": "Правила запрещают заправляться с работающим двигателем и включенными фарами из соображений безопасности."
+    }
+  },
+  "citation": "【4:10†source】"
+}

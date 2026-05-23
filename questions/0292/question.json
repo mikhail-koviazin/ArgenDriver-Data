@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Para poder estacionar en esta zona, se deben dejar libre al menos de 5 metros para cada lado de la entrada.",
+    "en": "To park in this area, at least 5 meters must be left clear on each side of the entrance.",
+    "ru": "Чтобы припарковаться в этой зоне, необходимо оставить не менее 5 метров свободными с каждой стороны входа."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b153.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es necesario mantener espacio adecuado para la seguridad y fluidez del tránsito.",
+      "en": "It is necessary to maintain appropriate space for safety and traffic flow.",
+      "ru": "Необходимо поддерживать соответствующее пространство для безопасности и движения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

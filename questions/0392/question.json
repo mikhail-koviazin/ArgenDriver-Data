@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según Ley N° 2148, ¿cuál es la edad mínima permitida para viajar en el asiento delantero de acompañante en un auto?",
+    "en": "According to Law No. 2148, what is the minimum age allowed to travel in the front passenger seat of a car?",
+    "ru": "Согласно закону № 2148, каков минимальный возраст, разрешенный для поездок на переднем пассажирском сиденье автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "10 años.",
+        "en": "10 years old.",
+        "ru": "10 лет."
+      }
+    },
+    {
+      "text": {
+        "es": "11 años.",
+        "en": "11 years old.",
+        "ru": "11 лет."
+      }
+    },
+    {
+      "text": {
+        "es": "12 años.",
+        "en": "12 years old.",
+        "ru": "12 лет."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La Ley N° 2148 establece que los niños de hasta 12 años deben viajar en el asiento trasero.",
+      "en": "Law No. 2148 states that children up to 12 years old must travel in the back seat.",
+      "ru": "Закон № 2148 гласит, что дети до 12 лет должны ездить на заднем сиденье."
+    }
+  },
+  "citation": "【4:1†source】"
+}

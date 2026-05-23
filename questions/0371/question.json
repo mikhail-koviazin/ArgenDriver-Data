@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Todos los cristales de un vehículo deben garantizar visibilidad...",
+    "en": "All glass in a vehicle must ensure visibility...",
+    "ru": "Все стекла в автомобиле должны обеспечивать видимость..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Solamente de adentro del automóvil hacia afuera.",
+        "en": "From inside out and from outside in the vehicle.",
+        "ru": "Снутри наружу и снаружи внутрь автомобиля."
+      }
+    },
+    {
+      "text": {
+        "es": "Desde adentro hacia fuera y de afuera hacia adentro del vehículo.",
+        "en": "The only glass that must ensure full visibility is the windshield.",
+        "ru": "Единственное стекло, которое должно обеспечивать полную видимость, это лобовое стекло."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El único cristal que debe garantizar plena y total visibilidad es el parabrisas.",
+        "en": "Only from inside the car outwards.",
+        "ru": "Только изнутри автомобиля наружу."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Todos los cristales, incluidos los espejos, deben brindar adecuada visibilidad.",
+      "en": "All glass, including mirrors, must provide adequate visibility.",
+      "ru": "Все стекла, включая зеркала, должны обеспечивать адекватную видимость."
+    }
+  },
+  "citation": "[4:1†source]"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Con esta documentación, ¿quién está autorizado a conducir el vehículo?",
+    "en": "With this documentation, who is authorized to drive the vehicle?",
+    "ru": "С этими документами, кто имеет право управлять транспортным средством?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b46.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Nadie, porque está vencida y debe renovarse.",
+        "en": "No one, because it is expired and must be renewed.",
+        "ru": "Никто, потому что он истек и должен быть обновлен."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo el titular.",
+        "en": "Only the holder.",
+        "ru": "Только владелец."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El titular y sus familiares directos, por tener el mismo apellido.",
+        "en": "The holder and their immediate family, due to having the same surname.",
+        "ru": "Владелец и его ближайшие родственники, из-за одной и той же фамилии."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La licencia de conducir habilita solo al titular a conducir, no a familiares.",
+      "en": "The driving license only authorizes the holder to drive, not relatives.",
+      "ru": "Водительские права только уполномочивают владельца управлять, а не родственников."
+    }
+  },
+  "citation": "【4:7†source】"
+}

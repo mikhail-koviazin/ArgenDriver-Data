@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Como conductor, ¿qué debe realizar frente a la siguiente situación?",
+    "en": "As a driver, what should you do in the following situation?",
+    "ru": "Как водителю, что вы должны сделать в следующей ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b67.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Avanzar porque la luz verde del semáforo lo habilita.",
+        "en": "Stop and wait for the traffic officer's indication to proceed.",
+        "ru": "Остановитесь и ждите указаний инспектора дорожного движения, чтобы продолжить."
+      }
+    },
+    {
+      "text": {
+        "es": "Detenerse y esperar a la indicación del agente de tránsito para avanzar.",
+        "en": "Go ahead because the green traffic light allows it.",
+        "ru": "Продолжайте движение, потому что зеленый сигнал светофора это позволяет."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Avanzar sólo si no pasan vehículos en la intersección.",
+        "en": "Proceed only if no vehicles pass through the intersection.",
+        "ru": "Продолжайте движение только если в пересечении не проходят другие автомобили."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe detener y esperar la indicación del agente, independientemente de la luz del semáforo.",
+      "en": "You should stop and wait for the officer's indication, regardless of the traffic light.",
+      "ru": "Вы должны остановиться и дождаться указания инспектора, независимо от светофора."
+    }
+  },
+  "citation": "【4:4†source】"
+}

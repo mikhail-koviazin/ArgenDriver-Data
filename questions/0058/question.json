@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué son los carriles exclusivos?",
+    "en": "What are exclusive lanes?",
+    "ru": "Что такое эксклюзивные полосы?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Vías con un único sentido de circulación.",
+        "en": "Longitudinal bands marked on the pavement, intended for the circulation of certain vehicles.",
+        "ru": "Долгосрочные полосы, размеченные на проезжей части, предназначенные для движения определенных транспортных средств."
+      }
+    },
+    {
+      "text": {
+        "es": "Bandas longitudinales demarcadas en la calzada, destinadas a la circulación de determinados vehículos.",
+        "en": "Roads with a single direction of circulation.",
+        "ru": "Дороги с односторонним движением."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lugar por donde circulan ambulancias, bomberos y/o vehículos policiales, en cumplimiento o no de sus funciones.",
+        "en": "Place where ambulances, firefighters and/or police vehicles circulate, in compliance or not with their functions.",
+        "ru": "Место, где проходят скорые, пожарные автомобили и/или полицейские машины, независимо от выполнения своих функций."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los carriles exclusivos están designados para ciertos vehículos, mejorando la fluidez del tráfico.",
+      "en": "Exclusive lanes are designated for specific vehicles, enhancing traffic flow.",
+      "ru": "Эксклюзивные полосы предназначены для определенных транспортных средств, улучшая поток движения."
+    }
+  },
+  "citation": "【4:6†source】"
+}

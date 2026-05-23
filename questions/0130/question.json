@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es el nivel máximo de alcoholemia admitido para el conductor del vehículo que se visualiza en la imagen?",
+    "en": "What is the maximum blood alcohol level allowed for the driver of the vehicle shown in the image?",
+    "ru": "Какой максимальный уровень алкоголя в крови разрешен для водителя автомобиля, изображенного на картинке?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b56.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "0,5 gramos de alcohol por litro de sangre.",
+        "en": "0.5 grams of alcohol per liter of blood.",
+        "ru": "0.5 грамма алкоголя на литр крови."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "0,0 gramos de alcohol por litro de sangre.",
+        "en": "0.0 grams of alcohol per liter of blood.",
+        "ru": "0.0 грамм алкоголя на литр крови."
+      }
+    },
+    {
+      "text": {
+        "es": "0,2 gramos de alcohol por litro de sangre.",
+        "en": "0.2 grams of alcohol per liter of blood.",
+        "ru": "0.2 грамма алкоголя на литр крови."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Para conductores de vehículos particulares, el límite es 0,5 gr/l de sangre.",
+      "en": "For private vehicle drivers, the limit is 0.5 gr/l of blood.",
+      "ru": "Для водителей легковых автомобилей лимит составляет 0,5 г/л крови."
+    }
+  },
+  "citation": "【4:0†source】"
+}

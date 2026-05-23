@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal reglamentaria?",
+    "en": "What does this regulatory sign indicate?",
+    "ru": "Что означает этот регулирующий знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b255.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que el vehículo no puede continuar su marcha sin detenerse.",
+        "en": "That the vehicle cannot continue its march without stopping.",
+        "ru": "Что транспортное средство не может продолжать движение без остановки."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Presencia de reductor de velocidad.",
+        "en": "Presence of speed reducer.",
+        "ru": "Наличие уменьшителя скорости."
+      }
+    },
+    {
+      "text": {
+        "es": "Comienzo de sentido opuesto de circulación.",
+        "en": "Beginning of the opposite direction of circulation.",
+        "ru": "Начало движения в противоположном направлении."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que los vehículos deben detenerse antes de continuar.",
+      "en": "This sign indicates that vehicles must stop before proceeding.",
+      "ru": "Этот знак указывает, что транспортные средства должны остановиться перед продолжением движения."
+    }
+  },
+  "citation": " "
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign shown indicates:",
+    "ru": "Определите, что указывает знак, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b263.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Comienzo de autopista.",
+        "en": "Beginning of highway.",
+        "ru": "Начало автотрассы."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Comienzo de ruta.",
+        "en": "Beginning of road.",
+        "ru": "Начало дороги."
+      }
+    },
+    {
+      "text": {
+        "es": "Comienzo de semiautopista.",
+        "en": "Beginning of semi-highway.",
+        "ru": "Начало полудороги."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica el inicio de una autopista, donde los vehículos deben adaptarse a altas velocidades.",
+      "en": "The sign indicates the beginning of a highway, where vehicles must adapt to high speeds.",
+      "ru": "Знак указывает на начало автомагистрали, где автомобили должны адаптироваться к высоким скоростям."
+    }
+  },
+  "citation": "【4:1†source】"
+}

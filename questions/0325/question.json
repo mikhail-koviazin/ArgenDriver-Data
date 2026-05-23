@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al circular por la siguiente arteria, se ve obligado a detener en la banquina, ¿qué luces debe colocar?",
+    "en": "If while driving on the following artery, you are forced to stop on the shoulder, what lights should you use?",
+    "ru": "Если при движении по следующей артерии вам придется остановиться на обочине, какие огни вы должны использовать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b177.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Luces altas y giro.",
+        "en": "High beams and turn signals.",
+        "ru": "Дальние огни и поворотники."
+      }
+    },
+    {
+      "text": {
+        "es": "Luces reglamentarias y balizas.",
+        "en": "Regulatory lights and hazard lights.",
+        "ru": "Регламентированные огни и аварийные огни."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Luces antinieblas.",
+        "en": "Fog lights.",
+        "ru": "Противотуманные фары."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se deben utilizar luces reglamentarias y balizas para mayor visibilidad y seguridad.",
+      "en": "Regulatory lights and hazard lights should be used for better visibility and safety.",
+      "ru": "Для лучшей видимости и безопасности следует использовать регламентированные огни и аварийные огни."
+    }
+  },
+  "citation": "【4:12†source】"
+}

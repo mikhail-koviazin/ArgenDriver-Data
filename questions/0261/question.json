@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿El límite de velocidad máxima de 20 km/h en este tramo de calle se debe respetar sólo en el horario de funcionamiento escolar?",
+    "en": "Should the maximum speed limit of 20 km/h in this street section be observed only during school operating hours?",
+    "ru": "Следует ли соблюдать максимальный предел скорости 20 км/ч на этом участке улицы только в часы работы школы?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b141.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que el límite de la señal de tránsito rige independientemente del día y horario.",
+        "en": "No, as the traffic sign limit applies regardless of the day and time.",
+        "ru": "Нет, так как ограничение знака дорожного движения применяется независимо от дня и времени."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, ya que la Ley 2148 establece que esta restricción es durante el horario de funcionamiento escolar.",
+        "en": "Yes, as Law 2148 states that this restriction is during school operating hours.",
+        "ru": "Да, так как Закон 2148 указывает, что это ограничение действует в часы работы школы."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El límite de velocidad de 20 km/h se debe respetar siempre en áreas escolares, no solo en horarios escolares.",
+      "en": "The speed limit of 20 km/h must always be respected in school zones, not just during school hours.",
+      "ru": "Предел скорости 20 км/ч всегда должен соблюдаться в школьных зонах, а не только в часы работы школы."
+    }
+  },
+  "citation": "【4:14†source】"
+}

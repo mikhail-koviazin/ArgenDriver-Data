@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando un conductor realiza marcha atrás, ¿qué distancia puede recorrer?",
+    "en": "When a driver reverses, what distance can they cover?",
+    "ru": "Когда водитель движется задним ходом, какое расстояние он может проехать?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No debe superar la mitad de una cuadra.\t",
+        "en": "Should not exceed half a block.",
+        "ru": "Не должен превышать половину квартала."
+      }
+    },
+    {
+      "text": {
+        "es": "No más de 20 metros.",
+        "en": "No more than 20 meters.",
+        "ru": "Не более 20 метров."
+      }
+    },
+    {
+      "text": {
+        "es": "El recorrido mínimo e indispensable, siempre que se trate de una maniobra de estacionamiento.",
+        "en": "The minimum and essential distance, as long as it is a parking maneuver.",
+        "ru": "Минимальное и необходимое расстояние, если это маневр парковки."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El recorrido mínimo necesario asegura la seguridad durante la maniobra.",
+      "en": "The minimum required distance ensures safety during the maneuver.",
+      "ru": "Минимальное необходимое расстояние обеспечивает безопасность во время маневра."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "El carril de sobrepaso en una autopista sirve para...",
+    "en": "The overtaking lane on a highway is used for...",
+    "ru": "Обгонный ряд на автомагистрали предназначен для..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Circular por él cuando a la derecha existe otro carril disponible.",
+        "en": "To circulate on it when there is another lane available on the right.",
+        "ru": "Двигаться по нему, когда справа есть другой доступный ряд."
+      }
+    },
+    {
+      "text": {
+        "es": "Circular por él siempre que se conduzca a la mayor velocidad permitida.",
+        "en": "To circulate on it as long as one drives at the maximum permitted speed.",
+        "ru": "Передвигаться по нему, пока вы движетесь с максимальной разрешенной скоростью."
+      }
+    },
+    {
+      "text": {
+        "es": "Realizar maniobras de sobrepaso.",
+        "en": "To perform overtaking maneuvers.",
+        "ru": "Выполнять маневры обгона."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril de sobrepaso está destinado a permitir adelantamientos seguros en las autopistas.",
+      "en": "The overtaking lane is designed to allow for safe overtaking on highways.",
+      "ru": "Обгонный ряд предназначен для безопасного обгона на автомагистралях."
+    }
+  },
+  "citation": "【4:3†manual de conducción】"
+}

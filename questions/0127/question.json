@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Frente a la negativa por parte del conductor a realizar una prueba de alcoholemia, ¿el agente de control podrá prohibirle continuar conduciendo?",
+    "en": "If the driver refuses to undergo a breathalyzer test, can the control officer prohibit them from continuing to drive?",
+    "ru": "Если водитель отказывается пройти тест на алкоголь, может ли контролирующий сотрудник запретить ему продолжать управлять?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que se presume el estado de alcoholemia positiva.",
+        "en": "Yes, as a positive blood alcohol level is presumed.",
+        "ru": "Да, так как предполагается положительный уровень алкоголя в крови."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, deberá ordenar la remoción del vehículo.",
+        "en": "Yes, they should order the removal of the vehicle.",
+        "ru": "Да, он должен приказать убрать транспортное средство."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both responses, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La negativa a realizar la prueba implica la presunción de intoxicación y justifica la prohibición.",
+      "en": "Refusing the test implies a presumption of intoxication and justifies prohibition.",
+      "ru": "Отказ от теста подразумевает презумпцию интоксикации и оправдывает запрет."
+    }
+  },
+  "citation": "【4:3†source】"
+}

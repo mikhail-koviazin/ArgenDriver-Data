@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley N° 2148, un vehículo que no está destinado al servicio de emergencia, en caso de extrema necesidad, ¿puede realizar un servicio similar al que efectúan éstos?",
+    "en": "According to Law No. 2148, a vehicle not intended for emergency service, in case of extreme need, can it perform a service similar to that of emergency vehicles?",
+    "ru": "Согласно Закону № 2148, может ли транспортное средство, не предназначенное для экстренных случаев, в случае крайней необходимости выполнить служебные обязанности, аналогичные экстренным?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, debiendo advertirlo encendiendo las balizas, empleando la bocina en forma intermitente y agitando un paño.",
+        "en": "Yes, it must be signaled by turning on the hazard lights, using the horn intermittently, and waving a cloth.",
+        "ru": "Да, это должно быть сигнализируемо путем включения аварийных огней, использования гудка с прерывистой звуковой сигнализацией и помахивания тряпкой."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí. El conductor de dicho vehículo deberá sacar un brazo por la ventanilla y agitarlo reiteradamente para indicarle al resto de los usuarios de la vía la situación en la que se encuentra.",
+        "en": "Yes. The driver of such a vehicle must extend an arm out of the window and wave it repeatedly to indicate to other road users the situation they are in.",
+        "ru": "Да. Водитель такого транспортного средства должен высунуть руку из окна и машет ею несколько раз, чтобы сообщить другим пользователям дороги о ситуации, в которой он находится."
+      }
+    },
+    {
+      "text": {
+        "es": "No, los servicios de emergencia sólo pueden ser efectuados por los vehículos habilitados para este fin.",
+        "en": "No, emergency services can only be carried out by vehicles authorized for this purpose.",
+        "ru": "Нет, экстренные службы могут осуществляться только транспортными средствами, уполномоченными для этой цели."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ley permite que otros vehículos, en situaciones extremas, tomen medidas de precaución para advertir su presencia.",
+      "en": "The law allows other vehicles, in extreme situations, to take precautionary measures to warn of their presence.",
+      "ru": "Закон позволяет другим транспортным средствам в экстренных ситуациях предпринять предостерегающие меры для предупреждения о своем присутствии."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

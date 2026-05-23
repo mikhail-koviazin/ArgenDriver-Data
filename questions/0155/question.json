@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al llegar a un cruce se presentan estas 3 señales, ¿cuál de ellas tiene prioridad normativa por sobre las demás?",
+    "en": "If you arrive at an intersection where these 3 signals are present, which one has regulatory priority over the others?",
+    "ru": "Если вы подъезжаете к перекрестку, где находятся эти 3 знака, какой из них имеет приоритет над остальными?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b66.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      }
+    },
+    {
+      "text": {
+        "es": "La opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      }
+    },
+    {
+      "text": {
+        "es": "La opción C.",
+        "en": "Option C.",
+        "ru": "Вариант C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La opción C indica la señal con la mayor jerarquía en el tráfico.",
+      "en": "Option C indicates the signal with the highest hierarchy in traffic.",
+      "ru": "Вариант C указывает на сигнал с наивысшей иерархией в движении."
+    }
+  },
+  "citation": "[4:12†source]"
+}

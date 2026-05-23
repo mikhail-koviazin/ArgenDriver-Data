@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina 'distancia de reacción'?",
+    "en": "What is meant by 'reaction distance'?",
+    "ru": "Что означает 'расстояние реакции'?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A la distancia que recorre un vehículo hasta su detención.",
+        "en": "The distance a vehicle travels until it stops.",
+        "ru": "Расстояние, которое проезжает транспортное средство до остановки."
+      }
+    },
+    {
+      "text": {
+        "es": "A la distancia que debe guardar un vehículo, respecto de otro, para poder maniobrar.",
+        "en": "The distance a vehicle must maintain from another to maneuver.",
+        "ru": "Расстояние, которое должно поддерживаться между одним транспортным средством и другим для маневрирования."
+      }
+    },
+    {
+      "text": {
+        "es": "A la distancia que recorre un vehículo desde que el conductor percibe un peligro hasta que toma una decisión.",
+        "en": "The distance a vehicle travels from the moment the driver perceives a danger until they make a decision.",
+        "ru": "Расстояние, которое проезжает транспортное средство с момента, когда водитель осознает опасность, до принятия решения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La distancia de reacción es crucial para prevenir accidentes, ya que determina cuánto avanza el vehículo antes de frenar.",
+      "en": "Reaction distance is crucial for accident prevention, as it determines how far the vehicle travels before braking.",
+      "ru": "Расстояние реакции имеет решающее значение для предотвращения аварий, так как оно определяет, сколько машина проедет перед торможением."
+    }
+  },
+  "citation": " "
+}

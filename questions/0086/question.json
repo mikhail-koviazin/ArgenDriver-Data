@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En caso de participar en un siniestro vial, es recomendable que quien llame por teléfono al servicio de emergencias (107), indique con claridad:",
+    "en": "In case of participating in a road incident, it is advisable that the person calling the emergency service (107) clearly indicates:",
+    "ru": "В случае участия в дорожно-транспортном происшествии рекомендуется, чтобы тот, кто звонит в службу экстренной помощи (107), четко указал:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Lugar del hecho, características del incidente, cantidad y estado de las víctimas.",
+        "en": "Place of the incident, characteristics of the incident, number and condition of the victims.",
+        "ru": "Место происшествия, характеристики инцидента, количество и состояние пострадавших."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lugar del hecho, número de dominio de los vehículos involucrados, cantidad y estado de las víctimas.",
+        "en": "Place of the incident, registration number of the involved vehicles, number and condition of the victims.",
+        "ru": "Место происшествия, регистрационный номер участвующих транспортных средств, количество и состояние пострадавших."
+      }
+    },
+    {
+      "text": {
+        "es": "Únicamente lugar del hecho para ganar tiempo y que el servicio de emergencia llegue lo más rápido posible.",
+        "en": "Only the place of the incident to save time and let the emergency service arrive as quickly as possible.",
+        "ru": "Только место происшествия, чтобы сэкономить время и позволить экстренной службе прибыть как можно быстрее."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial dar información completa para asegurar una respuesta adecuada de los servicios de emergencia.",
+      "en": "It is essential to provide complete information to ensure an adequate response from emergency services.",
+      "ru": "Важно предоставить полную информацию, чтобы обеспечить адекватный ответ служб экстренной помощи."
+    }
+  },
+  "citation": "【4:0†source】"
+}

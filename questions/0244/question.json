@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "En un cruce sin semáforos, un vehículo que se encuentra circulando por una avenida doble mano, tiene permitido girar a su izquierda para tomar una calle de único sentido.",
+    "en": "At an intersection without traffic lights, a vehicle traveling on a two-way avenue is allowed to turn left to take a one-way street.",
+    "ru": "На перекрестке без светофоров автотранспорт, движущийся по двусторонней авеню, имеет право повернуть налево, чтобы заехать на однонаправленную улицу."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En cruces sin semáforos, el giro a la izquierda está permitido si se cede el paso a otros vehículos.",
+      "en": "At intersections without traffic lights, left turns are allowed if the driver yields to other vehicles.",
+      "ru": "На перекрестках без светофоров поворот налево разрешен, если водитель уступает дорогу другим транспортным средствам."
+    }
+  },
+  "citation": "【4:4†source】"
+}

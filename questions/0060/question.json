@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué significa la demarcación horizontal que se visualiza en la imagen?",
+    "en": "What does the horizontal marking seen in the image mean?",
+    "ru": "Что означает горизонтальная разметка, видимая на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b31.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce peligroso por tener poca iluminación.",
+        "en": "Dangerous crossing due to low visibility.",
+        "ru": "Опасный переход из-за плохой видимости."
+      }
+    },
+    {
+      "text": {
+        "es": "Senda peatonal próxima a centros de salud.",
+        "en": "Pedestrian crossing near health centers.",
+        "ru": "Пешеходный переход рядом с медицинскими учреждениями."
+      }
+    },
+    {
+      "text": {
+        "es": "Senda peatonal próxima a zona escolar.",
+        "en": "Pedestrian crossing near school zone.",
+        "ru": "Пешеходный переход рядом со школьной зоной."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La demarcación indica un área designada para el cruce de peatones cerca de una escuela, donde se prioriza su seguridad.",
+      "en": "The marking indicates a designated area for pedestrian crossing near a school, prioritizing their safety.",
+      "ru": "Разметка указывает на обозначенную зону для перехода пешеходов рядом со школой, придавая приоритет их безопасности."
+    }
+  },
+  "citation": "【4:9†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Según la Ley 2148, los límites de velocidad para un automóvil particular que circula por esta arteria son de 30 km/h (mínima) y 60 km/h (máxima).",
+    "en": "According to Law 2148, the speed limits for a private car circulating on this artery are 30 km/h (minimum) and 60 km/h (maximum).",
+    "ru": "Согласно Закону 2148, ограничения скорости для частного автомобиля, движущегося по этой артерии, составляют 30 км/ч (минимум) и 60 км/ч (максимум)."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b136.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los límites de velocidad establecidos son correctos según la normativa mencionada.",
+      "en": "The established speed limits are correct according to the mentioned regulations.",
+      "ru": "Установленные ограничения скорости правильны в соответствии с упомянутыми нормами."
+    }
+  },
+  "citation": "【4:0†source】"
+}

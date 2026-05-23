@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Es peligroso conducir con resaca?",
+    "en": "Is it dangerous to drive with a hangover?",
+    "ru": "Опасно ли ехать за рулем с похмельем?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, es peligroso porque tiene efectos en el organismo.",
+        "en": "Yes, it is dangerous because it has effects on the body.",
+        "ru": "Да, это опасно, потому что это воздействует на организм."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, ya que los efectos del alcohol aparecen durante las primeras horas de su ingesta.",
+        "en": "No, since the effects of alcohol appear during the first hours of its intake.",
+        "ru": "Нет, поскольку эффекты алкоголя появляются в первые часы после его употребления."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que los efectos de la resaca no intervienen en la conducción.",
+        "en": "No, since hangover effects do not interfere with driving.",
+        "ru": "Нет, поскольку эффекты похмелья не влияют на вождение."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La resaca produce efectos adversos como fatiga y reducción de concentración, afectando la conducción.",
+      "en": "A hangover produces adverse effects such as fatigue and reduced concentration, impacting driving.",
+      "ru": "Похмелье вызывает отрицательные эффекты, такие как усталость и снижение концентрации, что влияет на вождение."
+    }
+  },
+  "citation": "[4:1†source]"
+}

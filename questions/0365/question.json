@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Con qué se lubrica un motor?",
+    "en": "What do you lubricate an engine with?",
+    "ru": "Чем смазывают двигатель?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b201.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант А."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción C.",
+        "en": "Option C.",
+        "ru": "Вариант C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El motor se lubrica con aceite, reduciendo la fricción y el desgaste en las piezas.",
+      "en": "The engine is lubricated with oil, reducing friction and wear on parts.",
+      "ru": "Двигатель смазывается маслом, что снижает трение и износ деталей."
+    }
+  },
+  "citation": "【4:3†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Se puede manejar un vehículo con “cédula para autorizado a conducir” a nombre de otra persona?",
+    "en": "Can a vehicle be driven with a driver's permit in someone else's name?",
+    "ru": "Можно ли управлять автомобилем с водительским удостоверением на имя другого человека?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Siempre y cuando se encuentre vigente.",
+        "en": "As long as it is valid.",
+        "ru": "Если оно действительно."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo si es un familiar directo o tiene una relación laboral.",
+        "en": "Only if it is a direct relative or has a work relationship.",
+        "ru": "Только если это близкий родственник или есть трудовые отношения."
+      }
+    },
+    {
+      "text": {
+        "es": "En ningún caso.",
+        "en": "In any case.",
+        "ru": "В любом случае."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "No se puede conducir con un permiso que no esté a su nombre.",
+      "en": "You cannot drive with a permit that is not in your name.",
+      "ru": "Вы не можете управлять автомобилем с удостоверением, не принадлежащим вам."
+    }
+  },
+  "citation": "Driving manual regulations"
+}

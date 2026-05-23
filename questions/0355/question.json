@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En este tipo de vía, ¿está permitido remolcar con su automóvil particular a otro que se encuentra descompuesto?",
+    "en": "On this type of road, is it allowed to tow another vehicle that is broken down with your private car?",
+    "ru": "На таком типе дороги разрешено ли буксировать другой автомобиль, который сломался, на вашем легковом автомобиле?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b196.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que es riesgoso que quede detenido pero sólo puede hacerse hasta el lugar más próximo donde pueda quedar inmovilizado.",
+        "en": "Yes, as it is risky to remain stopped but it can only be done to the nearest place where it can be immobilized.",
+        "ru": "Да, так как рискованно оставаться остановленным, но это можно сделать только до ближайшего места, где он может быть остановлен."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, pero sólo si soy titular de una licencia que autoriza a conducir vehículos con remolque.",
+        "en": "Yes, but only if I hold a license that authorizes towing vehicles.",
+        "ru": "Да, но только если у меня есть лицензия, разрешающая буксировку автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "No, sólo pueden hacerlo los vehículos autorizados a tal fin.",
+        "en": "No, only authorized vehicles can do it.",
+        "ru": "Нет, только авторизованные транспортные средства могут это делать."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El remolque de vehículos descompuestos solo está permitido para vehículos designados específicamente para este propósito.",
+      "en": "Towing broken down vehicles is only allowed for specifically designated vehicles.",
+      "ru": "Буксировка сломанных автомобилей разрешена только для специально предназначенных транспортных средств."
+    }
+  },
+  "citation": "【4:7†source】"
+}

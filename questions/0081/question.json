@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En caso de participar de un siniestro vial, ¿de cuánto tiempo se dispone para dar aviso sobre el hecho a la compañía aseguradora del vehículo?",
+    "en": "In case of being involved in a traffic accident, how long do you have to notify the vehicle insurance company about the incident?",
+    "ru": "В случае участия в дорожном происшествии, сколько времени нужно, чтобы уведомить страховую компанию автомобиля о произошедшем?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "24 horas.",
+        "en": "24 hours.",
+        "ru": "24 часа."
+      }
+    },
+    {
+      "text": {
+        "es": "48 horas.",
+        "en": "48 hours.",
+        "ru": "48 часов."
+      }
+    },
+    {
+      "text": {
+        "es": "72 horas.",
+        "en": "72 hours.",
+        "ru": "72 часа."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe informar a la aseguradora sobre el siniestro en un plazo de 72 horas para asegurar la cobertura.",
+      "en": "You must inform the insurer about the accident within 72 hours to ensure coverage.",
+      "ru": "Вы должны уведомить страховщика о происшествии в течение 72 часов для обеспечения покрытия."
+    }
+  },
+  "citation": "[4:0†source]"
+}

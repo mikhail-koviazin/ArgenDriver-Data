@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué consecuencias tiene conducir habiendo dormido pocas horas previamente?",
+    "en": "What are the consequences of driving after getting little sleep beforehand?",
+    "ru": "Каковы последствия вождения после недостаточного сна?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Reduce la capacidad de reacción y el estado de alerta.",
+        "en": "Reduces reaction capacity and alertness.",
+        "ru": "Снижает реакцию и бдительность."
+      }
+    },
+    {
+      "text": {
+        "es": "Predispone a tomar malas decisiones, poniendo en riesgo la vida.",
+        "en": "Prepares one to make poor decisions, putting life at risk.",
+        "ru": "Подготавливает к принятию плохих решений, ставя под угрозу жизнь."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La falta de sueño afecta la reacción y las decisiones, aumentando el riesgo de accidentes.",
+      "en": "Lack of sleep affects reaction and decisions, increasing accident risks.",
+      "ru": "Недостаток сна влияет на реакцию и решения, увеличивая риск аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

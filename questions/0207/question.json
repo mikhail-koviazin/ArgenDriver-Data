@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la siguiente situación, ¿a quién le corresponde la prioridad de paso?",
+    "en": "In the following situation, who has the right of way?",
+    "ru": "В следующей ситуации, кому принадлежит преимущество проезда?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b106.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Al vehículo A, ya que circula por la derecha.",
+        "en": "To vehicle A, since it runs on the right.",
+        "ru": "К транспортному средству A, так как оно движется вправо."
+      }
+    },
+    {
+      "text": {
+        "es": "Al vehículo B, ya que circula por una avenida.",
+        "en": "To vehicle B, since it runs on an avenue.",
+        "ru": "К транспортному средству B, так как оно движется по проспекту."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto.",
+        "en": "It is indifferent.",
+        "ru": "Это не имеет значения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo B tiene prioridad al circular por una avenida, que suele tener precedencia.",
+      "en": "Vehicle B has priority when driving on an avenue, which usually has precedence.",
+      "ru": "Транспортное средство B имеет приоритет при движении по проспекту, который обычно имеет преимущество."
+    }
+  },
+  "citation": "【4:3†source】"
+}

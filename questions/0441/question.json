@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal reglamentaria?",
+    "en": "What does this regulatory sign indicate?",
+    "ru": "Что указывает этот регулирующий знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b257.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Indica que el carril sobre el que se encuentra la señal, no puede ser utilizado por motocicletas y ciclomotores.",
+        "en": "Indicates that the lane where the sign is does not allowed motorcycles and mopeds.",
+        "ru": "Указывает на то, что полоса, на которой находится знак, не может использоваться мотоциклами и мопедами."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica que el carril sobre el que se encuentra la señal, es de uso exclusivo para motocicletas y ciclomotores.",
+        "en": "Indicates that the lane where the sign is located is for the exclusive use of motorcycles and mopeds.",
+        "ru": "Указывает на то, что полоса, на которой установлен знак, предназначена исключительно для мотоциклов и мопедов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Indica que el carril sobre el que se encuentra la señal, es de uso exclusivo para bicicletas.",
+        "en": "Indicates that the lane where the sign is located is exclusively for bicycles.",
+        "ru": "Указывает на то, что полоса, на которой установлен знак, предназначена исключительно для велосипедов."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal está diseñada para indicar un carril exclusivo para motocicletas y ciclomotores.",
+      "en": "This sign is meant to indicate a lane exclusively for motorcycles and mopeds.",
+      "ru": "Этот знак предназначен для обозначения полосы, предназначенной исключительно для мотоциклов и мопедов."
+    }
+  },
+  "citation": "【4:9†source】"
+}

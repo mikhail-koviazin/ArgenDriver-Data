@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Por dónde tienen permitida la circulación los ciclistas mayores de 12 años?",
+    "en": "Where are cyclists over 12 years old allowed to ride?",
+    "ru": "Где разрешено движение велосипедистов старше 12 лет?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Por bicisendas y ciclovías, en aquellos tramos de arterias donde estén presentes.",
+        "en": "On bike lanes and cycle paths, in sections of main roads where they are present.",
+        "ru": "На велосипедных дорожках и велоразметке в тех участках дорог, где они имеются."
+      }
+    },
+    {
+      "text": {
+        "es": "En aquellas vías sin ciclovías deben circular por el sector derecho de la calzada, a excepción de autopistas y otras vías rápidas, donde se encuentra prohibida su circulación.",
+        "en": "On roads without cycle paths, they must ride on the right side of the roadway, except on highways and other fast roads where their circulation is prohibited.",
+        "ru": "На дорогах без велосипедных дорожек они должны двигаться по правой стороне проезжей части, за исключением автомагистралей и других скоростных дорог, где их движение запрещено."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, правильные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los ciclistas pueden circular por ciclovías y a la derecha en vías sin ciclovías.",
+      "en": "Cyclists are allowed on cycle paths and to the right on roads without them.",
+      "ru": "Велосипедисты могут двигаться по велосипедным дорожкам и по правой стороне на дорогах без них."
+    }
+  },
+  "citation": "[4:0†source]"
+}

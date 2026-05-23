@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿Quién tiene prioridad de paso en el cruce de estas dos calles?",
+    "en": "Who has the right of way at the intersection of these two streets?",
+    "ru": "Кто имеет приоритет на перекрестке этих двух улиц?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b98.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Los vehículos que circulan por la calle A.",
+        "en": "The vehicles traveling on street A.",
+        "ru": "Транспортные средства, движущиеся по улице А."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Los vehículos que circulan por la calle B.",
+        "en": "The vehicles traveling on street B.",
+        "ru": "Транспортные средства, движущиеся по улице B."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Según las normas de tránsito, el vehículo que circula por la calle con preferencia tiene prioridad.",
+      "en": "According to traffic rules, the vehicle on the prioritized street has the right of way.",
+      "ru": "Согласно правилам дорожного движения, транспортное средство на приоритетной улице имеет право проезда."
+    }
+  },
+  "citation": "【4:3†source】"
+}

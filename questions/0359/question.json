@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "De los factores citados, ¿cuál interviene en el exceso de consumo de combustible?",
+    "en": "Of the cited factors, which intervenes in excessive fuel consumption?",
+    "ru": "Из перечисленных факторов, какой влияет на чрезмерный расход топлива?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La resistencia aerodinámica.",
+        "en": "The aerodynamic resistance.",
+        "ru": "Аэродинамическое сопротивление."
+      }
+    },
+    {
+      "text": {
+        "es": "La velocidad.",
+        "en": "The speed.",
+        "ru": "Скорость."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La resistencia aerodinámica aumenta a alta velocidad, generando mayor consumo de combustible.",
+      "en": "Aerodynamic resistance increases at high speed, leading to higher fuel consumption.",
+      "ru": "Аэродинамическое сопротивление увеличивается на высокой скорости, что приводит к большему расходу топлива."
+    }
+  },
+  "citation": "【4:1†source】"
+}

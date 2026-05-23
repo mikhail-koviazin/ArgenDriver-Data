@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal vertical que a continuación se presenta:",
+    "en": "Determine what the vertical sign presented below indicates:",
+    "ru": "Определите, что указывает вертикальный знак, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b238.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cruce de peatones (Peligro máximo).",
+        "en": "Crosswalk (Maximum danger).",
+        "ru": "Пешеходный переход (Максимальная опасность)."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Peatones a la izquierda.",
+        "en": "Pedestrians to the left.",
+        "ru": "Пешеходы слева."
+      }
+    },
+    {
+      "text": {
+        "es": "Prohibición de circular. Zona exclusiva peatonal.",
+        "en": "Prohibition to circulate. Pedestrian zone only.",
+        "ru": "Запрет на движение. Исключительно пешеходная зона."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica un cruce de peatones, alertando sobre la presencia de peatones en la vía.",
+      "en": "The sign indicates a crosswalk, alerting about the presence of pedestrians on the roadway.",
+      "ru": "Знак указывает на пешеходный переход, предупреждая о наличии пешеходов на дороге."
+    }
+  },
+  "citation": "【4:7†source】"
+}

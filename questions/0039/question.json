@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta seña?",
+    "en": "What does this sign indicate?",
+    "ru": "Что обозначает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b14.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Giro a la izquierda.",
+        "en": "Left turn.",
+        "ru": "Поворот налево."
+      }
+    },
+    {
+      "text": {
+        "es": "Adelantamiento por la izquierda.",
+        "en": "Overtaking on the left.",
+        "ru": "Обгон слева."
+      }
+    },
+    {
+      "text": {
+        "es": "Detenerse.",
+        "en": "Stop.",
+        "ru": "Остановиться."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este signo indica la necesidad de detenerse, lo cual es crucial en situaciones de tráfico.",
+      "en": "This sign indicates the need to stop, which is crucial in traffic situations.",
+      "ru": "Этот знак указывает на необходимость остановиться, что важно в дорожных ситуациях."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Se está habilitado a detener un vehículo en este lugar?",
+    "en": "Are you allowed to stop a vehicle in this place?",
+    "ru": "Разрешено ли останавливать транспортное средство в этом месте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b168.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, siempre y cuando no entorpezca la circulación.",
+        "en": "Yes, as long as it does not obstruct traffic.",
+        "ru": "Да, при условии, что это не мешает движению."
+      }
+    },
+    {
+      "text": {
+        "es": "No, está prohibido estacionar y detenerse por normativa.",
+        "en": "No, it is prohibited to park and stop by regulation.",
+        "ru": "Нет, по правилам запрещено парковаться и останавливаться."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Si, a menos que haya una señal que lo prohíba expresamente.",
+        "en": "Yes, unless there is a sign that expressly prohibits it.",
+        "ru": "Да, если только нет знака, который это запрещает."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Detenerse en este tipo de lugar está prohibido por la normativa de tránsito.",
+      "en": "Stopping in this type of place is prohibited by traffic regulations.",
+      "ru": "Остановка в этом месте запрещена правилами дорожного движения."
+    }
+  },
+  "citation": "【4:9†source】"
+}

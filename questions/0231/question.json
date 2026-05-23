@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Se puede traspasar la siguiente señal horizontal?",
+    "en": "Can you cross the following horizontal signal?",
+    "ru": "Можно ли пересечь следующий горизонтальный сигнал?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b120.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque ordena la circulación de carriles e indica que se puede sobrepasar a otro vehículo.",
+        "en": "Yes, because it organizes lane circulation and indicates that it is possible to overtake another vehicle.",
+        "ru": "Да, потому что это организует движение по полосам и указывает на возможность обгона другого транспортного средства."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo cuando la vía tiene dos carriles por sentido de circulación.",
+        "en": "Only when the road has two lanes for each direction.",
+        "ru": "Только когда дорога имеет две полосы в каждом направлении."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque indica prohibición de sobrepaso.",
+        "en": "No, because it indicates a prohibition to overtake.",
+        "ru": "Нет, потому что это указывает на запрет обгона."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales horizontales pueden ser de carácter informativo y permiten el sobrepaso en ciertas condiciones.",
+      "en": "Horizontal signals can be informative and allow overtaking under certain conditions.",
+      "ru": "Горизонтальные сигналы могут быть информационными и разрешать обгон в определенных условиях."
+    }
+  },
+  "citation": "【4:3†source】"
+}

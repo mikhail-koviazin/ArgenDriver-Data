@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según Ley N° 2148, ¿cuál es la velocidad máxima permitida para automóviles particulares en los carriles centrales de la Av. Gral. Paz, en el tramo entre Autopista Ingeniero Pascual Palazzo y Av. 27 de Febrero?",
+    "en": "According to Law No. 2148, what is the maximum speed allowed for private cars in the central lanes of Av. Gral. Paz, in the section between Ingeniero Pascual Palazzo Highway and Av. 27 de Febrero?",
+    "ru": "Согласно Закону № 2148, какова максимальная скорость, разрешенная для частных автомобилей на центральных полосах авеню Гранде Паз, на участке между автомагистралью Инженеро Паськаль Палаццо и авеню 27 Фебрера?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "80 km/h.",
+        "en": "80 km/h.",
+        "ru": "80 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "100 km/h.",
+        "en": "100 km/h.",
+        "ru": "100 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permítica en este tramo es de 80 km/h según las regulaciones de tránsito.",
+      "en": "The maximum allowed speed in this section is 80 km/h according to traffic regulations.",
+      "ru": "Максимально разрешенная скорость в этом участке составляет 80 км/ч согласно правилам дорожного движения."
+    }
+  },
+  "citation": "【4:1†source】"
+}

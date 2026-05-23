@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En caso de siniestro, el orden de actuación recomendado es…",
+    "en": "In case of an accident, the recommended order of action is...",
+    "ru": "В случае аварии рекомендуемый порядок действий..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Alertar - Socorrer - Proteger.",
+        "en": "Protect - Alert - Assist.",
+        "ru": "Защитить - Предупредить - Помочь."
+      }
+    },
+    {
+      "text": {
+        "es": "Proteger - Alertar - Socorrer.",
+        "en": "Alert - Assist - Protect.",
+        "ru": "Предупредить - Помочь - Защитить."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Socorrer - Proteger - Alertar.",
+        "en": "Assist - Protect - Alert.",
+        "ru": "Помочь - Защитить - Предупредить."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este orden asegura que la víctima sea protegida primero y luego asistida.",
+      "en": "This order ensures that the victim is protected first and then assisted.",
+      "ru": "Этот порядок обеспечивает первоначальную защиту жертвы перед оказанием помощи."
+    }
+  },
+  "citation": "[4:1†source]"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica la demarcación horizontal que se visualiza en la imagen?",
+    "en": "What does the horizontal marking visible in the image indicate?",
+    "ru": "Что указывает на горизонтальную разметку, видимую на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b32.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Estacionamiento para micros escolares.",
+        "en": "Parking for school buses.",
+        "ru": "Парковка для школьных автобусов."
+      }
+    },
+    {
+      "text": {
+        "es": "Carril de detención para el ascenso y descenso de escolares.",
+        "en": "Stop lane for the boarding and alighting of schoolchildren.",
+        "ru": "Полоса остановки для посадки и высадки школьников."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Zona de ascenso y descenso de pasajeros de transporte público.",
+        "en": "Area for boarding and alighting public transport passengers.",
+        "ru": "Зона посадки и высадки пассажиров общественного транспорта."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esto es una demarcación que indica donde los escolares pueden abordar o descender de vehículos.",
+      "en": "This is a marking indicating where schoolchildren can board or alight from vehicles.",
+      "ru": "Это маркировка, указывающая, где школьники могут садиться или выходить из автомобилей."
+    }
+  },
+  "citation": "【4:13†source】"
+}

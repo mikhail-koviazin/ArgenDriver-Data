@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué distancia lateral debe dejar respecto de este ciclista en caso de querer adelantarlo?",
+    "en": "What lateral distance should be left with respect to this cyclist when wanting to overtake?",
+    "ru": "Какое боковое расстояние должно быть оставлено по отношению к этому велосипедисту при желании обогнать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b10.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Al menos, un metro y medio.",
+        "en": "At least one and a half meters.",
+        "ru": "Не менее полутора метров."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al menos, medio metro.",
+        "en": "At least half a meter.",
+        "ru": "Как минимум, полметра."
+      }
+    },
+    {
+      "text": {
+        "es": "Lo suficiente para no tocarlo.",
+        "en": "Enough to not touch it.",
+        "ru": "Достаточно, чтобы не дотрагиваться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe dejar al menos un metro y medio para garantizar la seguridad del ciclista.",
+      "en": "At least one and a half meters should be left to ensure the cyclist's safety.",
+      "ru": "Необходимо оставить не менее полутора метров для обеспечения безопасности велосипедиста."
+    }
+  },
+  "citation": " "
+}

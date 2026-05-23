@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Al conducir sobre una calzada en estas condiciones, la distancia de frenado será...",
+    "en": "When driving on a road in these conditions, the braking distance will be...",
+    "ru": "При вождении по дороге в этих условиях расстояние торможения будет..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b185.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Igual que cuando la calzada se encuentra seca.",
+        "en": "The same as when the road is dry.",
+        "ru": "Так же, как когда дорога сухая."
+      }
+    },
+    {
+      "text": {
+        "es": "Menor que cuando la calzada se encuentra seca.",
+        "en": "Less than when the road is dry.",
+        "ru": "Меньше, чем когда дорога сухая."
+      }
+    },
+    {
+      "text": {
+        "es": "Mayor que cuando la calzada se encuentra seca.",
+        "en": "Greater than when the road is dry.",
+        "ru": "Больше, чем когда дорога сухая."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las distancias de frenado aumentan en condiciones de pavimento mojado debido a la menor adherencia.",
+      "en": "Braking distances increase on wet pavement due to reduced traction.",
+      "ru": "Расстояние торможения увеличивается на мокром асфальте из-за снижения сцепления."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Como norma general, en una arteria de doble circulación, con pendiente pronunciada y con un ancho que no permite la circulación simultánea de dos vehículos, ¿quién tiene la prioridad de paso?",
+    "en": "As a general rule, on a double circulation artery, with a steep slope and a width that does not allow the simultaneous circulation of two vehicles, who has priority?",
+    "ru": "В общем порядке, на дороге с двусторонним движением, с крутым уклоном и шириной, не позволяющей одновременному движению двух автомобилей, кто имеет преимущество?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo que desciende.",
+        "en": "The descending vehicle.",
+        "ru": "Спускающееся транспортное средство."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo que asciende.",
+        "en": "The ascending vehicle.",
+        "ru": "Поднимающееся транспортное средство."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No hay prioridad, cualquiera de ellos.",
+        "en": "There is no priority, either of them.",
+        "ru": "Приоритета нет, любой из них."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En pendientes pronunciadas, el vehículo que asciende tiene prioridad para evitar accidentes.",
+      "en": "On steep slopes, the ascending vehicle has priority to prevent accidents.",
+      "ru": "На крутых склонах поднимающееся транспортное средство имеет приоритет, чтобы предотвратить аварии."
+    }
+  },
+  "citation": "【4:0†source】"
+}

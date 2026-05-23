@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Está permitido estacionar una bicicleta en este lugar?",
+    "en": "Is it allowed to park a bicycle in this place?",
+    "ru": "Разрешено ли парковать велосипед в этом месте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b9.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, los estacionamientos son exclusivos para usuarios de autos y motos.",
+        "en": "No, the parking spaces are exclusive for car and motorcycle users.",
+        "ru": "Нет, парковочные места предназначены только для автомобилей и мотоциклов."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo en algunos estacionamientos está permitido.",
+        "en": "Only in some parking spaces is it allowed.",
+        "ru": "Разрешено только в некоторых парковках."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, los estacionamientos están obligados a destinar un espacio para bicicletas.",
+        "en": "Yes, parking areas are required to allocate space for bicycles.",
+        "ru": "Да, на парковочных площадках требуется выделять место для велосипедов."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los estacionamientos deben tener espacios destinados para bicicletas por ley.",
+      "en": "Parking areas must allocate spaces for bicycles by law.",
+      "ru": "Парковочные площади должны по закону выделять места для велосипедов."
+    }
+  },
+  "citation": "【4:12†source】"
+}

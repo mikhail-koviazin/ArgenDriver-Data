@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Un vehículo con emblema internacional para personas con discapacidad puede ser remitido en algunos casos.",
+    "en": "A vehicle with an international emblem for persons with disabilities may be removed in some cases.",
+    "ru": "Автомобиль с международным знаком для людей с ограниченными возможностями может быть задержан в некоторых случаях."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos con emblema internacional pueden ser objeto de una infracción si no cumplen con la normativa.",
+      "en": "Vehicles with an international emblem may be subject to penalties if they do not comply with regulations.",
+      "ru": "Автомобили с международным знаком могут подвергаться штрафам, если они не соответствуют правилам."
+    }
+  },
+  "citation": "【4:2†source】"
+}

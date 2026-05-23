@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Si el vehículo de la imagen se dispone a ingresar a un garaje, está anticipando su maniobra, utilizando las luces correctas.",
+    "en": "If the vehicle in the image is about to enter a garage, it is anticipating its maneuver using the correct lights.",
+    "ru": "Если транспортное средство на изображении собирается заехать в гараж, оно предвосхищает свой маневр, используя правильные огни."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b171.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso correcto de las luces indica la intención de maniobrar.",
+      "en": "The correct use of lights indicates the intention to maneuver.",
+      "ru": "Правильное использование огней указывает на намерение маневрировать."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Los Agentes de Tránsito pueden proceder a la detención de un vehículo únicamente con la presencia de personal policial.",
+    "en": "Traffic Agents may proceed to the detention of a vehicle only in the presence of police personnel.",
+    "ru": "Сотрудники дорожного движения могут задерживать транспортное средство только в присутствии полицейских."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неправильно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los Agentes de Tránsito no pueden detener vehículos sin personal policial.",
+      "en": "Traffic Agents cannot detain vehicles without police personnel.",
+      "ru": "Сотрудники дорожного движения не могут задерживать автомобили без полицейских."
+    }
+  },
+  "citation": "【4:1†source】"
+}

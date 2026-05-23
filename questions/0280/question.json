@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Circular a mayor velocidad de la precautoria implica que aumenten las posibilidades de que un siniestro vial sea más grave.",
+    "en": "Driving at a higher precautionary speed implies that the chances of a traffic accident being more serious increase.",
+    "ru": "Движение на большей скорости, чем осторожная, подразумевает, что вероятность более серьезной аварии увеличивается."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad excesiva reduce el control y aumenta el riesgo de accidentes graves.",
+      "en": "Excessive speed reduces control and increases the risk of serious accidents.",
+      "ru": "Избыточная скорость уменьшает контроль и увеличивает риск серьезных аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

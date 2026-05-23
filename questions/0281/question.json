@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la manera más adecuada de conducir un vehículo en este tramo de la ruta?",
+    "en": "What is the most appropriate way to drive a vehicle in this stretch of road?",
+    "ru": "Какой является наилучший способ управления автомобилем в этом участке дороги?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b145.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aumentar la velocidad gradualmente antes de ingresar en la curva.",
+        "en": "Gradually increase speed before entering the curve.",
+        "ru": "Постепенно увеличивайте скорость перед входом в поворот."
+      }
+    },
+    {
+      "text": {
+        "es": "Desacelerar antes de ingresar a la curva.",
+        "en": "Decelerate before entering the curve.",
+        "ru": "Снижайте скорость перед входом в поворот."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Mantener la misma velocidad antes de la curva y acelerar mientras se circula en ella.",
+        "en": "Maintain the same speed before the curve and accelerate while navigating through it.",
+        "ru": "Сохраняйте ту же скорость перед поворотом и ускоряйтесь, пока проходите через него."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial reducir la velocidad antes de la curva para mantener el control del vehículo.",
+      "en": "It is crucial to reduce speed before the curve to maintain control of the vehicle.",
+      "ru": "Крайне важно снижать скорость перед поворотом, чтобы сохранять контроль над автомобилем."
+    }
+  },
+  "citation": "【4:1†manual de conducción】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Al conducir por un largo lapso de tiempo y en esta condición climática…",
+    "en": "When driving for a long period of time and in this weather condition...",
+    "ru": "При вождении длительное время и в таких погодных условиях..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b182.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Es menos probable que aparezca la fatiga, ya que aumenta la atención.",
+        "en": "It is necessary to rest more frequently to avoid fatigue.",
+        "ru": "Необходимо чаще отдыхать, чтобы избежать усталости."
+      }
+    },
+    {
+      "text": {
+        "es": "Es necesario descansar con más frecuencia, para evitar la fatiga.",
+        "en": "It is less likely that fatigue will appear as attention increases.",
+        "ru": "Маловероятно, что усталость появится, так как внимание увеличивается."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No influye en la aparición de fatiga, siempre y cuando se mantenga una velocidad prudente.",
+        "en": "It does not affect the onset of fatigue as long as a prudent speed is maintained.",
+        "ru": "Это не влияет на появление усталости, при условии, что сохраняется разумная скорость."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Descansar con frecuencia reduce el riesgo de fatiga, vital para conducir.",
+      "en": "Resting frequently reduces the risk of fatigue, which is vital for driving.",
+      "ru": "Частый отдых снижает риск усталости, что важно для вождения."
+    }
+  },
+  "citation": "【4:0†manual driving rules】"
+}

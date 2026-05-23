@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué obligaciones impone la ley a aquel conductor que participe de un siniestro?",
+    "en": "What obligations does the law impose on a driver involved in an accident?",
+    "ru": "Какие обязательства накладывает закон на водителя, вовлечённого в аварию?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Detenerse inmediatamente, solicitar auxilio para atender a las víctimas si las hubiera y brindar su colaboración para evitar mayores daños para la circulación.",
+        "en": "Stop immediately, request assistance to care for any victims if there are any, and provide cooperation to prevent further damage to traffic.",
+        "ru": "Немедленно остановиться, вызвать помощь для оказания помощи пострадавшим, если таковые имеются, и оказать содействие, чтобы предотвратить дальнейшие повреждения для движения."
+      }
+    },
+    {
+      "text": {
+        "es": "Suministrar sus datos personales, del vehículo, de la licencia de conducir y del seguro obligatorio a los demás siniestrados y a la autoridad interviniente.",
+        "en": "Provide your personal details, vehicle information, driver's license, and mandatory insurance to the other parties involved and to the intervening authority.",
+        "ru": "Предоставить свои личные данные, информацию о транспортном средстве, водительские права и обязательное страхование другим участникам аварии и вмешавшейся власти."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, являются правильными."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un conductor involucrado en un accidente debe detenerse y colaborar con las autoridades y otros afectados.",
+      "en": "A driver involved in an accident must stop and cooperate with authorities and other affected parties.",
+      "ru": "Водитель, вовлеченный в аварию, должен остановиться и сотрудничать с властями и другими пострадавшими."
+    }
+  },
+  "citation": "【4:8†source】"
+}

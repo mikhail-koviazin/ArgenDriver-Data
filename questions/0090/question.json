@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Frente a un incidente de tránsito, ¿puede transferirse la Responsabilidad Penal del conductor de un vehículo al dueño del mismo?",
+    "en": "In the event of a traffic incident, can the Criminal Responsibility of the driver of a vehicle be transferred to its owner?",
+    "ru": "В случае дорожно-транспортного происшествия может ли уголовная ответственность водителя транспортного средства быть передана его владельцу?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque la responsabilidad penal es intransferible.",
+        "en": "No, because criminal responsibility is non-transferable.",
+        "ru": "Нет, потому что уголовная ответственность не может быть передана."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí. Además, del dueño también puede transferirse a la Compañía de Seguros.",
+        "en": "Yes. Moreover, the owner can also transfer it to the Insurance Company.",
+        "ru": "Да. Более того, владелец также может передать его страховой компании."
+      }
+    },
+    {
+      "text": {
+        "es": "Lo resolverá el Juez, en función de la gravedad del incidente y sus consecuencias.",
+        "en": "It will be resolved by the Judge, depending on the severity of the incident and its consequences.",
+        "ru": "Это решит судья, в зависимости от серьезности инцидента и его последствий."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La responsabilidad penal es personal y no se puede transferir a otros. Esto asegura que el conductor asuma las consecuencias de sus actos.",
+      "en": "Criminal responsibility is personal and cannot be transferred to others. This ensures that the driver faces the consequences of their actions.",
+      "ru": "Уголовная ответственность является личной и не может быть передана другим. Это обеспечивает, что водитель несет последствия своих действий."
+    }
+  },
+  "citation": "【4:1†source】"
+}

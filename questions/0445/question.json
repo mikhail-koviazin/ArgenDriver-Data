@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique qué representa la siguiente señal:",
+    "en": "Indicate what the following sign represents:",
+    "ru": "Укажите, что обозначает следующий знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b261.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Dirección obligatoria en ambos sentidos.",
+        "en": "Mandatory direction in both directions.",
+        "ru": "Обязательное направление в обоих направлениях."
+      }
+    },
+    {
+      "text": {
+        "es": "Dirección permitida en ambos sentidos.",
+        "en": "Direction allowed in both directions.",
+        "ru": "Направление разрешено в обоих направлениях."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Giros permitidos.",
+        "en": "Turns allowed.",
+        "ru": "Поворачивать разрешено."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que ambos sentidos tienen permiso para circular.",
+      "en": "The sign indicates that both directions are allowed to circulate.",
+      "ru": "Знак указывает на то, что оба направления разрешены для движения."
+    }
+  },
+  "citation": "【4:6†source】"
+}

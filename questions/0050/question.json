@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando no hay demarcación de la senda peatonal, ¿por dónde deben cruzar los peatones?",
+    "en": "When there is no marking for the pedestrian crossing, where should pedestrians cross?",
+    "ru": "Когда нет разметки пешеходного перехода, где пешеходы должны пересекать?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Es indistinto, siempre que miren a ambos lados antes de hacerlo.",
+        "en": "It doesn't matter, as long as you look both ways before doing so.",
+        "ru": "Не имеет значения, лишь бы вы смотрели по сторонам."
+      }
+    },
+    {
+      "text": {
+        "es": "En coincidencia con las paradas de transporte.",
+        "en": "In line with transport stops.",
+        "ru": "В соответствии с остановками транспорта."
+      }
+    },
+    {
+      "text": {
+        "es": "Por la esquina, por la prolongación longitudinal de la vereda sobre la calle.",
+        "en": "Around the corner, along the longitudinal extension of the sidewalk on the street.",
+        "ru": "У угла, вдоль продольного продолжения тротуара на улице."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los peatones deben cruzar por la prolongación de la vereda si no hay senda demarcada.",
+      "en": "Pedestrians should cross at the extension of the sidewalk if there is no marked crossing.",
+      "ru": "Пешеходы должны пересекать на продолжении тротуара, если нет обозначенного перехода."
+    }
+  },
+  "citation": "【4:1†source】"
+}

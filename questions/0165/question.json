@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al conducir un vehículo se encuentra en una intersección con esta señalización intermitente, ¿qué actitud debe tomar?",
+    "en": "If while driving a vehicle you encounter an intersection with this intermittent signaling, what attitude should you take?",
+    "ru": "Если при вождении автомобиля вы сталкиваетесь с перекрестком с этой прерывистой сигнализацией, какое отношение вы должны принять?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b73.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Tengo la obligación de detener la marcha y cuando no haya más vehículos circulando por la arteria que cruza, puedo reiniciarla.",
+        "en": "I am obligated to stop and when there are no more vehicles circulating on the artery that crosses, I can restart it.",
+        "ru": "Я обязан остановиться, и когда больше не будет автомобилей, движущихся по переходящей артерии, я могу возобновить движение."
+      }
+    },
+    {
+      "text": {
+        "es": "Al tener prioridad, debo atravesarla rápidamente para no obstaculizar la vía.",
+        "en": "Having priority, I must cross it quickly to not obstruct the pathway.",
+        "ru": "Имея приоритет, я должен быстро пересекать ее, чтобы не препятствовать пути."
+      }
+    },
+    {
+      "text": {
+        "es": "Efectuar el cruce con máxima precaución.",
+        "en": "Cross with maximum caution.",
+        "ru": "Пересекать с максимальной осторожностью."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales intermitentes indican precaución y requieren que los conductores actúen con cuidado al cruzar.",
+      "en": "Intermittent signals indicate caution and require drivers to act carefully when crossing.",
+      "ru": "Прерывистые сигналы указывают на необходимость осторожности и требуют от водителей осторожных действий при пересечении."
+    }
+  },
+  "citation": "[4:13†source]"
+}

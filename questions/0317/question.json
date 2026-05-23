@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si usted está conduciendo y va a girar al llegar a una intersección, debe anticipar su maniobra utilizando la luz de giro correspondiente por lo menos...",
+    "en": "If you are driving and going to turn at an intersection, you must anticipate your maneuver using the appropriate turn signal at least...",
+    "ru": "Если вы управляете автомобилем и собираетесь повернуть на перекрестке, вы должны заранее сигнализировать о своем маневре, используя соответствующий сигнал поворота, как минимум..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "20 metros antes de realizar la maniobra.",
+        "en": "20 meters before performing the maneuver.",
+        "ru": "20 метров до выполнения маневра."
+      }
+    },
+    {
+      "text": {
+        "es": "10 metros antes de realizar la maniobra.",
+        "en": "10 meters before performing the maneuver.",
+        "ru": "10 метров до выполнения маневра."
+      }
+    },
+    {
+      "text": {
+        "es": "30 metros antes de realizar la maniobra.",
+        "en": "30 meters before performing the maneuver.",
+        "ru": "30 метров до выполнения маневра."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe señalizar la maniobra al menos con 30 metros de anticipación para asegurar que otros usuarios del tránsito lo vean.",
+      "en": "You must signal the maneuver at least 30 meters in advance to ensure that other road users see it.",
+      "ru": "Вы должны сигнализировать о маневре как минимум за 30 метров, чтобы другие участники дорожного движения его увидели."
+    }
+  },
+  "citation": "【4:0†manual driving rules】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La acción que realiza el conductor en la imagen es riesgosa para la conducción.",
+    "en": "The action performed by the driver in the image is risky for driving.",
+    "ru": "Действие водителя на изображении рискованно для вождения."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b64.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La maniobra realizada puede desestabilizar el vehículo y provocar un accidente.",
+      "en": "The maneuver performed can destabilize the vehicle and cause an accident.",
+      "ru": "Совершенный маневр может дестабилизировать автомобиль и привести к аварии."
+    }
+  },
+  "citation": "【6:12†source】"
+}

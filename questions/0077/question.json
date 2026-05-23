@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En el caso de que un vehículo quede inmovilizado por un siniestro vial o desperfecto mecánico en los carriles marcados de esta vía, ¿qué es recomendable hacer?",
+    "en": "In case a vehicle is immobilized due to a traffic accident or mechanical failure on the marked lanes of this road, what is advisable to do?",
+    "ru": "В случае, если транспортное средство остановлено из-за аварии или механической неисправности на обозначенных полосах этой дороги, что рекомендуется делать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b44.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Colocar las balizas portátiles, ponerse a resguardo detrás de una defensa si las hubiere y llamar al número de emergencia de la Autopista.",
+        "en": "Place portable beacons, take cover behind a barrier if available, and call the highway emergency number.",
+        "ru": "Установите переносные маяки, укройтесь за барьером, если он есть, и позвоните по номеру экстренной службы шоссе."
+      }
+    },
+    {
+      "text": {
+        "es": "Descender del vehículo usando un chaleco reflectante para hacer señas al resto de los vehículos y llamar al número de emergencia de la Autopista.",
+        "en": "Exit the vehicle wearing a reflective vest to signal to other vehicles and call the highway emergency number.",
+        "ru": "Выйдите из автомобиля в светоотражающем жилете, чтобы подать сигнал другим транспортным средствам, и позвоните по номеру экстренной службы шоссе."
+      }
+    },
+    {
+      "text": {
+        "es": "Permanecer dentro del vehículo con el cinturón de seguridad abrochado, encender las balizas y llamar al número de emergencia de la Autopista.",
+        "en": "Stay inside the vehicle with the seatbelt fastened, turn on the hazard lights, and call the highway emergency number.",
+        "ru": "Оставайтесь внутри автомобиля с застегнутым ремнем безопасности, включите аварийные огни и позвоните по номеру экстренной службы шоссе."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es recomendable permanecer dentro del vehículo para su seguridad, y encender las balizas para ser visible.",
+      "en": "It is advisable to stay inside the vehicle for safety and to turn on the hazard lights to be visible.",
+      "ru": "Рекомендуется оставаться внутри автомобиля для безопасности и включить аварийные огни, чтобы быть видимым."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿De qué se trata el “Programa Visión Cero” creado en 1997 en Suecia?",
+    "en": "What is the 'Vision Zero' Program created in 1997 in Sweden about?",
+    "ru": "О чем программа «Нулевая видимость», созданная в 1997 году в Швеции?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Principio ético que establece que no debería existir ningún vehículo particular circulando por calles, ni avenidas urbanas; ya que son los causantes de las víctimas fatales en siniestros de tránsito.",
+        "en": "An ethical principle stating that no private vehicle should circulate on urban streets or avenues, as they are responsible for fatalities in traffic accidents.",
+        "ru": "Этический принцип, который утверждает, что никаких частных автомобилей не должно быть на городских улицах и проспектах, так как они являются причиной смертельных случаев в дорожных происшествиях."
+      }
+    },
+    {
+      "text": {
+        "es": "Principio ético que establece que nadie debería morir ni sufrir lesiones permanentes en siniestros de tránsito.",
+        "en": "An ethical principle stating that no one should die or suffer permanent injuries in traffic accidents.",
+        "ru": "Этический принцип, который гласит, что никто не должен умирать или получать постоянные травмы в дорожных происшествиях."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Principio ético que busca mejorar la velocidad en el tránsito, al no encontrarse con imprevistos en la vía.",
+        "en": "An ethical principle that aims to improve traffic speed by avoiding unforeseen circumstances on the road.",
+        "ru": "Этический принцип, направленный на улучшение скорости движения за счет избегания непредвиденных обстоятельств на дороге."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El Programa Visión Cero busca eliminar las muertes y lesiones graves en el tránsito, estableciendo la seguridad vial como prioridad.",
+      "en": "The Vision Zero Program aims to eliminate deaths and serious injuries in traffic, prioritizing road safety.",
+      "ru": "Программа «Нулевая видимость» направлена на устранение смертей и серьезных травм на дороге, придавая первостепенное значение безопасности дорожного движения."
+    }
+  },
+  "citation": "【4:4†source】"
+}

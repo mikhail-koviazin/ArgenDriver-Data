@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En caso de un siniestro vial o desperfecto mecánico, ¿qué es recomendable hacer cuando el vehículo queda inmovilizado en el sector señalado?",
+    "en": "In case of a traffic accident or mechanical failure, what is advisable to do when the vehicle is immobilized in the indicated area?",
+    "ru": "В случае дорожного происшествия или механической неисправности, что рекомендуется делать, когда транспортное средство остановилось в указанном месте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b45.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Encender las luces intermitentes, colocar las balizas portátiles y llamar al número de emergencia de la Autopista.",
+        "en": "Turn on the hazard lights, place portable beacons, and call the highway emergency number.",
+        "ru": "Включите аварийные огни, установите переносные маяки и позвоните по номеру экстренной службы на шоссе."
+      }
+    },
+    {
+      "text": {
+        "es": "Descender del vehículo usando un chaleco reflectante y ponerse a resguardo detrás de una defensa si las hubiere.",
+        "en": "Exit the vehicle wearing a reflective vest and take cover behind a barrier if available.",
+        "ru": "Выходите из автомобиля, надев светоотражающий жилет, и укрывайтесь за барьером, если он есть."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, А и Б, правильные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial activar las luces del vehículo y asegurarse de que las personas estén seguras.",
+      "en": "It's essential to activate the vehicle's lights and ensure people are safe.",
+      "ru": "Важно включить огни автомобиля и убедиться, что люди в безопасности."
+    }
+  },
+  "citation": "【4:3†source】"
+}

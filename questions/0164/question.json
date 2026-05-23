@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué tipo de señal es la siguiente imagen?",
+    "en": "What type of signal is the following image?",
+    "ru": "Какой тип сигнала изображен на следующем изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b72.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Reglamentaria.",
+        "en": "Regulatory.",
+        "ru": "Регламентирующий."
+      }
+    },
+    {
+      "text": {
+        "es": "Transitoria.",
+        "en": "Temporary.",
+        "ru": "Временная."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Informativa.",
+        "en": "Informative.",
+        "ru": "Информативный."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales transitorias son de color anaranjado e indican cambios ocasionales en la vía.",
+      "en": "Temporary signals are orange and indicate occasional changes on the road.",
+      "ru": "Временные сигналы оранжевого цвета указывают на случайные изменения на дороге."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что указывает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b251.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No avanzar.",
+        "en": "Do not advance.",
+        "ru": "Не продвигаться вперед."
+      }
+    },
+    {
+      "text": {
+        "es": "Comienzo de doble mano.",
+        "en": "Start of two-way.",
+        "ru": "Начало двустороннего движения."
+      }
+    },
+    {
+      "text": {
+        "es": "Comienzo de sentido único.",
+        "en": "Start of one-way.",
+        "ru": "Начало одностороннего движения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que la calle se convierte en de sentido único, restringiendo el flujo del tráfico en una sola dirección.",
+      "en": "This sign indicates that the street becomes one-way, restricting traffic flow in one direction.",
+      "ru": "Этот знак указывает на то, что улица становится односторонней, ограничивая движение в одном направлении."
+    }
+  },
+  "citation": " "
+}

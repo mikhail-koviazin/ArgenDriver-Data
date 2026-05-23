@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si ud. circula por la ruta y observa esta situación, debe…",
+    "en": "If you are driving on the road and observe this situation, you must...",
+    "ru": "Если вы едете по дороге и замечаете эту ситуацию, вы должны..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b193.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aumentar la velocidad para sobrepasar al animal rápidamente.",
+        "en": "Increase speed to pass the animal quickly.",
+        "ru": "Увеличить скорость, чтобы быстро обогнать животное."
+      }
+    },
+    {
+      "text": {
+        "es": "Usar la bocina para ahuyentar al animal y mantener su velocidad.",
+        "en": "Use the horn to scare away the animal and maintain your speed.",
+        "ru": "Используйте сигнал, чтобы испугать животное и поддерживать свою скорость."
+      }
+    },
+    {
+      "text": {
+        "es": "Reducir la velocidad y si es necesario detenerse.",
+        "en": "Reduce speed and if necessary, stop.",
+        "ru": "Снизьте скорость и, если необходимо, остановитесь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante reducir la velocidad para evitar un accidente y proteger al animal.",
+      "en": "It is important to reduce speed to avoid an accident and protect the animal.",
+      "ru": "Важно снизить скорость, чтобы избежать аварии и защитить животное."
+    }
+  },
+  "citation": "【4:1†source】"
+}

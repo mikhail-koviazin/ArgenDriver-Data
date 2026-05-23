@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "El ciclista, ¿tiene permitido llevar un pasajero?",
+    "en": "The cyclist, is he allowed to carry a passenger?",
+    "ru": "Разрешено ли велосипедисту брать пассажира?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, únicamente si no compromete la visibilidad.",
+        "en": "Yes, only if it does not compromise visibility.",
+        "ru": "Да, только если это не мешает видимости."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, mientras que esté ubicado en un asiento adicional detrás del conductor.",
+        "en": "Yes, as long as he is seated on an additional seat behind the driver.",
+        "ru": "Да, если он сидит на дополнительном сиденье за водителем."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Обе ответы, A и B, неверны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los ciclistas pueden llevar pasajeros en asientos específicos o portaequipajes, según las regulaciones.",
+      "en": "Cyclists can carry passengers in specific seats or carriers as per regulations.",
+      "ru": "Велосипедисты могут перевозить пассажиров на специальных сиденьях или в багажниках в соответствии с правилами."
+    }
+  },
+  "citation": "【4:0†manual.pdf】"
+}

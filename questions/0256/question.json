@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según las normas generales, ¿cuál es la velocidad máxima que puede alcanzar un vehículo, al circular por ruta cuando atraviesa una zona urbana?",
+    "en": "According to the general rules, what is the maximum speed a vehicle can reach when driving on a road that crosses an urban area?",
+    "ru": "В соответствии с общими правилами, какова максимальная скорость, которую может развить транспортное средство при движении по дороге, проходящей через городскую зону?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "80 km/h.",
+        "en": "80 km/h.",
+        "ru": "80 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "90 km/h.",
+        "en": "90 km/h.",
+        "ru": "90 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permitida en zona urbana es 60 km/h según el manual.",
+      "en": "The maximum allowed speed in urban areas is 60 km/h according to the manual.",
+      "ru": "Максимально допустимая скорость в городских зонах составляет 60 км/ч в соответствии с руководством."
+    }
+  },
+  "citation": "【4:0†source】"
+}

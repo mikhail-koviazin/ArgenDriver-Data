@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique qué tipo de señal es la que a continuación se muestra:",
+    "en": "Indicate what type of signal is shown below:",
+    "ru": "Укажите, какой тип сигнала показан ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b86.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Preventiva",
+        "en": "Preventive",
+        "ru": "Предупредительная"
+      }
+    },
+    {
+      "text": {
+        "es": "Reglamentaria.",
+        "en": "Regulatory.",
+        "ru": "Регламентирующая."
+      }
+    },
+    {
+      "text": {
+        "es": "Informativa.",
+        "en": "Informative.",
+        "ru": "Информативная."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales informativas indican rutas y servicios.",
+      "en": "Informative signals indicate routes and services.",
+      "ru": "Информативные сигналы указывают маршруты и услуги."
+    }
+  },
+  "citation": "【4:1†source】"
+}

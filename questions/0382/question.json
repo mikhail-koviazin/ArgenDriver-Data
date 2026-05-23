@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿En qué ocasiones se permite el uso de la bocina?",
+    "en": "In what occasions is the use of the horn allowed?",
+    "ru": "В каких случаях разрешено использование сигнала?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sólo para advertir una situación potencialmente de peligro.",
+        "en": "Only to warn of a potentially dangerous situation.",
+        "ru": "Только для предупреждения о потенциально опасной ситуации."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo para advertir de un sobrepaso.",
+        "en": "Only to warn of an overtaking.",
+        "ru": "Только для предупреждения об обгоне."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Обе ответы, A и B, неверны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso de la bocina se permite como advertencia para evitar accidentes.",
+      "en": "Using the horn is allowed as a warning to prevent accidents.",
+      "ru": "Использование сигнала разрешено для предупреждения во избежание аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

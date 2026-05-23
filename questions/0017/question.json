@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuáles son los dos principios básicos de todo sistema de tránsito en el mundo?",
+    "en": "What are the two basic principles of every traffic system in the world?",
+    "ru": "Каковы два основных принципа каждой транспортной системы в мире?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Velocidad y confort.",
+        "en": "Speed and comfort.",
+        "ru": "Скорость и комфорт."
+      }
+    },
+    {
+      "text": {
+        "es": "Fluidez y seguridad.",
+        "en": "Fluidity and safety.",
+        "ru": "Плавность и безопасность."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Comodidad y Agilidad.",
+        "en": "Comfort and Agility.",
+        "ru": "Комфорт и ловкость."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La fluidez y seguridad son esenciales para prevenir accidentes y mejorar el tránsito.",
+      "en": "Fluidity and safety are essential to prevent accidents and improve traffic.",
+      "ru": "Плавность и безопасность важны для предотвращения несчастных случаев и улучшения движения."
+    }
+  },
+  "citation": " "
+}

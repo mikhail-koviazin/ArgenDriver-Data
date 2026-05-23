@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a esta situación de obstrucción de vía, ¿qué debe hacer el conductor del vehículo señalado?",
+    "en": "In this obstruction situation, what should the driver of the indicated vehicle do?",
+    "ru": "В этой ситуации препятствия на дороге, что должен сделать водитель указанного автомобиля?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b105.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Debe ceder el paso al vehículo que circula en el sentido contrario.",
+        "en": "Must yield to the vehicle circulating in the opposite direction.",
+        "ru": "Должен уступить дорогу автомобилю, движущемуся в противоположном направлении."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Tiene prioridad de paso sobre el otro vehículo.",
+        "en": "Has priority over the other vehicle.",
+        "ru": "Имеет приоритет перед другим автомобилем."
+      }
+    },
+    {
+      "text": {
+        "es": "La normativa no establece prioridad de paso ante esta situación.",
+        "en": "The regulations do not establish priority in this situation.",
+        "ru": "Нормативные акты не устанавливают приоритет в этой ситуации."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos en vías estrechas deben ceder el paso al que circula en sentido contrario.",
+      "en": "Vehicles on narrow roads must yield to oncoming vehicles.",
+      "ru": "Автомобили на узких дорогах должны уступать дорогу встречным автомобилям."
+    }
+  },
+  "citation": "【4:3†source】"
+}

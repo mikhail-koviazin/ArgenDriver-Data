@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign shown below indicates:",
+    "ru": "Определите, что означает знак, показанный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b231.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Encrucijada.",
+        "en": "Crossroads.",
+        "ru": "Перекресток."
+      }
+    },
+    {
+      "text": {
+        "es": "Cruce de caminos.",
+        "en": "Crossing of roads.",
+        "ru": "Пересечение дорог."
+      }
+    },
+    {
+      "text": {
+        "es": "Incorporación de tránsito lateral.",
+        "en": "Lateral traffic incorporation.",
+        "ru": "Боковое включение движения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Indica la incorporación a una vía, donde los vehículos deben ajustar su velocidad para integrarse.",
+      "en": "Indicates merging into a road, where vehicles must adjust speed to integrate.",
+      "ru": "Указывает на вхождение на дорогу, где транспортные средства должны скорректировать скорость для интеграции."
+    }
+  },
+  "citation": " "
+}

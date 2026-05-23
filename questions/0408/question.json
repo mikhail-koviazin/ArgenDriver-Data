@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal presented indicates:",
+    "ru": "Определите, что указывает представленный сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b224.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Proximidad de bosques.",
+        "en": "Proximity of forests.",
+        "ru": "Близость лесов."
+      }
+    },
+    {
+      "text": {
+        "es": "Zonas de palmeras.",
+        "en": "Palm tree areas.",
+        "ru": "Районы пальм."
+      }
+    },
+    {
+      "text": {
+        "es": "Vientos fuertes laterales.",
+        "en": "Strong crosswinds.",
+        "ru": "Сильный боковой ветер."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que los conductores deben estar atentos a los vientos fuertes que pueden afectar el control del vehículo.",
+      "en": "The sign indicates that drivers should be aware of strong winds that can affect vehicle control.",
+      "ru": "Знак указывает, что водители должны быть внимательны к сильным ветрам, которые могут повлиять на управление автомобилем."
+    }
+  },
+  "citation": "【4:11†manual de conducción】"
+}

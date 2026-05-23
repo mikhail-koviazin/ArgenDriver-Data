@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown below indicates:",
+    "ru": "Определите, что указывает указатель, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b226.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Camino resbaladizo.",
+        "en": "Slippery road.",
+        "ru": "Скользкая дорога."
+      }
+    },
+    {
+      "text": {
+        "es": "Camino sinuoso.",
+        "en": "Winding road.",
+        "ru": "Извивающаяся дорога."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Camino cuesta arriba.",
+        "en": "Uphill road.",
+        "ru": "Восходящая дорога."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que la carretera tiene muchas curvas, exigiendo precaución.",
+      "en": "The signal indicates that the road has many curves, requiring caution.",
+      "ru": "Указатель обозначает, что дорога имеет много поворотов, необходимо быть осторожным."
+    }
+  },
+  "citation": "【4:8†source】"
+}

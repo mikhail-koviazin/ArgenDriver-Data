@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La señal que está presente en la imagen corresponde a las informativas que orientan al peatón.",
+    "en": "The sign present in the image corresponds to informational signs that guide the pedestrian.",
+    "ru": "Знак, изображенный на картинке, соответствует информационным знакам, которые ориентируют пешеходов."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b37.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Истинно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales informativas son cruciales para la seguridad peatonal.",
+      "en": "Informational signs are crucial for pedestrian safety.",
+      "ru": "Информационные знаки являются решающими для безопасности пешеходов."
+    }
+  },
+  "citation": "【4:3†source】"
+}

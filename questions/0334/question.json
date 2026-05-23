@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a esta condición climática, ¿se deben encender las luces bajas?",
+    "en": "Given this weather condition, should the low beams be turned on?",
+    "ru": "При этих погодных условиях нужно включать ближний свет?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b181.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, siempre que está disminuida la visibilidad.",
+        "en": "Yes, as long as visibility is reduced.",
+        "ru": "Да, если видимость снижена."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque las luces sólo deben utilizarse por la noche.",
+        "en": "No, because lights should only be used at night.",
+        "ru": "Нет, потому что фары должны использоваться только ночью."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, pero sólo en rutas.",
+        "en": "Yes, but only on routes.",
+        "ru": "Да, но только на трассах."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es obligatorio usar luces bajas en condiciones de baja visibilidad, como lluvia o niebla.",
+      "en": "It is mandatory to use low beams in low visibility conditions, such as rain or fog.",
+      "ru": "Обязательно использовать ближний свет при низкой видимости, например, во время дождя или тумана."
+    }
+  },
+  "citation": "【4:7†source】"
+}

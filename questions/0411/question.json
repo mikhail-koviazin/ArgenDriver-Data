@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown below indicates:",
+    "ru": "Определите, что указывает сигнал, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b227.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aproximación a un puente levadizo, rotatorio o flotante.",
+        "en": "Approaching a drawbridge, rotary, or floating bridge.",
+        "ru": "Приближение к подъемному мосту, круговой развязке или плавучему мосту."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Presencia de un puente de menor ancho que el resto de la vía.",
+        "en": "Presence of a bridge narrower than the road.",
+        "ru": "Наличие моста, уже чем дорога."
+      }
+    },
+    {
+      "text": {
+        "es": "Proximidad de un paso a nivel.",
+        "en": "Proximity to a level crossing.",
+        "ru": "Близость к железнодорожному переезду."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal advierte sobre la proximidad de estructuras que pueden cambiar el nivel de la vía.",
+      "en": "The sign warns about the proximity of structures that may change the road level.",
+      "ru": "Знак предупреждает о близости структур, которые могут изменить уровень дороги."
+    }
+  },
+  "citation": "【6:2†source】"
+}

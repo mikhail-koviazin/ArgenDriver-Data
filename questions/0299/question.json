@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la presente situación, el vehículo señalado no se encuentra en infracción si...",
+    "en": "In the current situation, the indicated vehicle is not in violation if...",
+    "ru": "В данной ситуации указанный транспорт не является нарушением, если..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b160.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Permanece de ese modo, de 2 a 5 minutos.",
+        "en": "Stays that way for 2 to 5 minutes.",
+        "ru": "Остается в таком положении от 2 до 5 минут."
+      }
+    },
+    {
+      "text": {
+        "es": "Permanece de ese modo alrededor de 2 minutos, no abandona el vehículo y además, indica su detención con las balizas.",
+        "en": "Stays that way for about 2 minutes, does not leave the vehicle and also indicates its stop with the hazard lights.",
+        "ru": "Остается в таком положении около 2 минут, не покидает транспортное средство и дополнительно указывает на свою остановку аварийными огнями."
+      }
+    },
+    {
+      "text": {
+        "es": "Es una detención previa a la maniobra de estacionamiento.",
+        "en": "It is a stop prior to the parking maneuver.",
+        "ru": "Это остановка перед маневром парковки."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La detención previa permite al conductor prepararse para estacionar.",
+      "en": "The prior stop allows the driver to prepare for parking.",
+      "ru": "Предварительная остановка позволяет водителю подготовиться к парковке."
+    }
+  },
+  "citation": "[4:2†source]"
+}

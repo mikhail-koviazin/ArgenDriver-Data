@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estas señales comunica “Prevención”?",
+    "en": "Which of these signs communicates 'Prevention'?",
+    "ru": "Какие из этих знаков сообщают о 'Предупреждении'?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b82.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La señal A.",
+        "en": "Sign A.",
+        "ru": "Знак A."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal B.",
+        "en": "Sign B.",
+        "ru": "Знак B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La señal C.",
+        "en": "Sign C.",
+        "ru": "Знак C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales de prevención son cuadradas con fondo amarillo.",
+      "en": "Prevention signs are square with a yellow background.",
+      "ru": "Знаки предупреждения квадратные с желтым фоном."
+    }
+  },
+  "citation": "【4:3†source】"
+}

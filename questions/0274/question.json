@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina “tiempo de reacción”?",
+    "en": "What is referred to as 'reaction time'?",
+    "ru": "Что означает \"время реакции\"?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Al tiempo que pasa desde que se empieza una maniobra hasta que se termina.",
+        "en": "The time that passes from when a maneuver begins until it ends.",
+        "ru": "Время, которое проходит с начала маневра до его окончания."
+      }
+    },
+    {
+      "text": {
+        "es": "Al tiempo que pasa desde que se enciende el vehículo hasta que se empieza a circular.",
+        "en": "The time that passes from when the vehicle is turned on until it starts to move.",
+        "ru": "Время, которое проходит с момента включения автомобиля до его начала движения."
+      }
+    },
+    {
+      "text": {
+        "es": "Al tiempo que pasa desde que se advierte una situación de riesgo hasta que se toma una decisión.",
+        "en": "The time that passes from when a risky situation is noticed until a decision is made.",
+        "ru": "Время, которое проходит с внезапного возникновения рискованной ситуации до принятия решения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El tiempo de reacción es crucial para anticiparse a situaciones peligrosas.",
+      "en": "Reaction time is crucial for anticipating dangerous situations.",
+      "ru": "Время реакции имеет решающее значение для предвидения опасных ситуаций."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

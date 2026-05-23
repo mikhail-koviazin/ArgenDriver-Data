@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuáles son los números de emergencia que todo usuario de la vía pública debe conocer con el objetivo de poder llamar y pedir ayuda ante el acontecimiento de algún incidente?",
+    "en": "What are the emergency numbers that every user of the public road should know in order to be able to call and ask for help in the event of an incident?",
+    "ru": "Какие номера экстренной помощи должен знать каждый пользователь общественного дорожного движения, чтобы иметь возможность позвонить и попросить о помощи в случае инцидента?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "911 y 109.",
+        "en": "911 and 109.",
+        "ru": "911 и 109."
+      }
+    },
+    {
+      "text": {
+        "es": "103 y 107.",
+        "en": "103 and 107.",
+        "ru": "103 и 107."
+      }
+    },
+    {
+      "text": {
+        "es": "107 y 911.",
+        "en": "107 and 911.",
+        "ru": "107 и 911."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los números 107 y 911 son los más importantes para emergencias médicas y asistencia policial.",
+      "en": "The numbers 107 and 911 are the most important for medical emergencies and police assistance.",
+      "ru": "Номера 107 и 911 являются наиболее важными для медицинских экстренных случаев и полицейской помощи."
+    }
+  },
+  "citation": "【4:1†source】"
+}

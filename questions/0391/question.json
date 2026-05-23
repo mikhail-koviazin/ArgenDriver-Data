@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley Nº 2148, ¿es correcto que un niño de 11 años utilice un Sistema de Retención Infantil, en este asiento central?",
+    "en": "According to Law No. 2148, is it correct for an 11-year-old child to use a Child Restraint System in this central seat?",
+    "ru": "Согласно Закону № 2148, правильно ли, что 11-летний ребенок использует детское удерживающее устройство на этом центральном сиденье?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b210.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que por su edad debe utilizarlo y las características del cinturón de seguridad (3 puntos) permite ajustarlo correctamente.",
+        "en": "Yes, since due to their age it must be used and the characteristics of the seatbelt (3 points) allow it to be adjusted correctly.",
+        "ru": "Да, так как по его возрасту он должен его использовать, и характеристики ремня безопасности (3 точки) позволяют правильно подогнать."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, sólo puede utilizar el sistema de Retención Infantil en asientos laterales.",
+        "en": "No, they can only use the Child Restraint System in side seats.",
+        "ru": "Нет, они могут использовать детское удерживающее устройство только на боковых сиденьях."
+      }
+    },
+    {
+      "text": {
+        "es": "Es indistinto, ya que al tener más de 10 años no es obligatorio que utilice el Sistema de Retención Infantil.",
+        "en": "It's indifferent, since being over 10 years old it's not mandatory for them to use the Child Restraint System.",
+        "ru": "Это не имеет значения, так как в возрасте старше 10 лет нет обязательства использовать детское удерживающее устройство."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ley establece que los niños menores de 12 años deben usar un Sistema de Retención Infantil, independientemente de la ubicación del asiento.",
+      "en": "The law states that children under 12 years old must use a Child Restraint System, regardless of seat location.",
+      "ru": "Закон гласит, что дети младше 12 лет должны использовать детское удерживающее устройство, независимо от расположения сиденья."
+    }
+  },
+  "citation": "【4:7†source】"
+}

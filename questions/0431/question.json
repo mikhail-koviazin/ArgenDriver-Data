@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a esta señal, ¿qué sucede con la prioridad de avance en esa vía?",
+    "en": "What happens to the right of way on that road in front of this sign?",
+    "ru": "Что происходит с правом проезда на этой дороге перед этим знаком?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b247.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se tiene la prioridad de avance.",
+        "en": "You have the right of way.",
+        "ru": "У вас есть право проезда."
+      }
+    },
+    {
+      "text": {
+        "es": "Se pierde la prioridad de avance.",
+        "en": "The right of way is lost.",
+        "ru": "Право проезда теряется."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Esta señal no es indicativa de prioridad de avance.",
+        "en": "This sign is not indicative of right of way.",
+        "ru": "Этот знак не указывает на право проезда."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que se pierde la prioridad de avance en esa vía.",
+      "en": "The sign indicates that the right of way is lost on that road.",
+      "ru": "Знак указывает на то, что право проезда теряется на этой дороге."
+    }
+  },
+  "citation": "【4:6†source】"
+}

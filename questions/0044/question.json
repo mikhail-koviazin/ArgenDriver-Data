@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿Cómo debe proceder, si al llegar a esta intersección, se desea continuar en línea recta?",
+    "en": "What should you do when you reach this intersection and want to continue straight?",
+    "ru": "Как вы должны действовать, когда доходите до этого перекрестка и хотите продолжать прямо?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b18.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Detener el vehículo para que el peatón termine de cruzar y, antes de avanzar, hacer contacto visual con los peatones que aún no comenzaron a cruzar, aun sabiendo que obstruiré por un momento la bocacalle.",
+        "en": "Stop the vehicle so that the pedestrian can finish crossing and, before proceeding, make eye contact with any pedestrians who have not started crossing, even knowing that I will obstruct the intersection for a moment.",
+        "ru": "Остановите автомобиль, чтобы пешеход смог закончить переход, и, прежде чем продолжить, установите зрительный контакт с пешеходами, которые еще не начали переходить, даже зная, что на chwilę заблокируете перекресток."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Avanzar porque la luz verde del semáforo me habilita pero tocando bocina para que los peatones no se distraigan. Es importante no obstruir la bocacalle.",
+        "en": "Advance because the green light of the traffic light allows me, but honking the horn so that pedestrians won't be distracted. It is important not to obstruct the intersection.",
+        "ru": "Продолжите движение, потому что зеленый свет светофора позволяет это, но сигналя в клаксон, чтобы пешеходы не отвлекались. Важно не блокировать перекресток."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El conductor debe ceder el paso a los peatones en las intersecciones, incluso con luz verde.",
+      "en": "The driver must yield to pedestrians at intersections, even on a green light.",
+      "ru": "Водитель должен уступать пешеходам на перекрестках, даже при свете зеленого."
+    }
+  },
+  "citation": "【4:4†source】"
+}

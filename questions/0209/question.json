@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En esta situación, donde hay una calzada circular, ¿quién tiene la prioridad de paso?",
+    "en": "In this situation, where there is a circular road, who has the right of way?",
+    "ru": "В данной ситуации, где есть круговое движение, кто имеет преимущество?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b107.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Транспортное средство A."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Транспортное средство B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto.",
+        "en": "It is indifferent.",
+        "ru": "Это не имеет значения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El que circula por la rotonda tiene prioridad sobre el que intenta ingresar.",
+      "en": "The one circulating in the roundabout has priority over the one trying to enter.",
+      "ru": "Тот, кто движется по кругу, имеет преимущество перед тем, кто пытается въехать."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué significa esta señal?",
+    "en": "What does this sign mean?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b248.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Indica la prohibición de estacionamiento en el frente de entidades bancarias.",
+        "en": "Indicates that the street in front of it has an opposite direction of flow, and therefore entry is not allowed.",
+        "ru": "Указывает, что улица перед ней имеет противоположное направление движения, поэтому вход запрещен."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica que la vía ante la cual se encuentra tiene sentido de circulación opuesto, y por lo tanto no se puede ingresar.",
+        "en": "Indicates the prohibition of parking in front of banks.",
+        "ru": "Указывает на запрет парковки перед банками."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Indica la prohibición de circulación de vehículos sin permiso de ingreso.",
+        "en": "Indicates the prohibition of entry for vehicles without permission.",
+        "ru": "Указывает на запрет въезда для автомобилей без разрешения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal prohíbe ingresar debido a la dirección opuesta de la vía, proporcionando seguridad vial.",
+      "en": "This sign prohibits entry due to the opposite direction of the road, providing road safety.",
+      "ru": "Этот знак запрещает въезд из-за противоположного направления дороги, обеспечивая безопасность дорожного движения."
+    }
+  },
+  "citation": "【4:7†source】"
+}

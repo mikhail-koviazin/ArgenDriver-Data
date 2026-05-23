@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley Nº 2148, ¿está permitido colocar a un automóvil particular luces adicionales?",
+    "en": "According to Law No. 2148, is it allowed to place additional lights on a private car?",
+    "ru": "Согласно закону № 2148, разрешено ли устанавливать дополнительные фары на частный автомобиль?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Está permitido el agregado de dos faros rompeniebla y de hasta dos faros elevados con luces de freno.",
+        "en": "The addition of two fog lights and up to two high-mounted brake lights is allowed.",
+        "ru": "Разрешено добавлять два противотуманных фары и до двух верхних стоп-сигналов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí. Se puede agregar las luces que se deseen ya que cuanto más capacidad de iluminación tenga el vehículo, mejor visibilidad tendrá el conductor.",
+        "en": "Yes. You can add any lights you want, as the more lighting capacity a vehicle has, the better visibility the driver will have.",
+        "ru": "Да. Вы можете добавить любые фары, так как чем больше освещения у автомобиля, тем лучше видимость у водителя."
+      }
+    },
+    {
+      "text": {
+        "es": "No, está prohibido agregar cualquier tipo de luz adicional. Sólo se podrá reponer las que traiga de fábrica, en caso de destrucción.",
+        "en": "No, it is prohibited to add any type of additional light. Only those that come from the factory can be replaced, in case of destruction.",
+        "ru": "Нет, запрещается добавлять любые дополнительные фары. Только те, что идут с завода, могут быть заменены в случае разрушения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ley permite el agregado específico de faros rompeniebla y faros elevados de freno, mejorando la visibilidad.",
+      "en": "The law specifically allows the addition of fog lights and high-mounted brake lights, enhancing visibility.",
+      "ru": "Закон специально позволяет добавлять противотуманные фары и верхние стоп-сигналы, улучшая видимость."
+    }
+  },
+  "citation": "[4:0†source]"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuáles son las señales preventivas?",
+    "en": "What are the preventive signals?",
+    "ru": "Что такое предупреждающие знаки?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Aquellas que advierten la proximidad de una circunstancia o variación de la normalidad de la vía que puede resultar sorpresiva o peligrosa a la circulación.",
+        "en": "Those that warn of the proximity of a circumstance or variation from the normal state of the road that may be surprising or dangerous to traffic.",
+        "ru": "Те, которые предупреждают о приближении обстоятельств или изменениях в нормальном состоянии дороги, которые могут быть неожиданными или опасными для движения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Aquellas que no transmiten órdenes ni previenen sobre irregularidades o riesgos en la vía. Identifican, orientan y hacen referencia a servicios, lugares, etc.",
+        "en": "Those that do not issue orders or warn about irregularities or risks on the road. They identify, guide, and reference services, places, etc.",
+        "ru": "Те, которые не отдают приказов или не предупреждают о несоответствиях или рисках на дороге. Они идентифицируют, направляют и ссылаются на услуги, места и т. д."
+      }
+    },
+    {
+      "text": {
+        "es": "Aquellas que transmiten órdenes específicas, de cumplimiento obligatorio en el lugar para el cual están destinadas.",
+        "en": "Those that transmit specific orders, mandatory for compliance in the place they are intended.",
+        "ru": "Те, которые передают конкретные команды, обязательные для выполнения в месте назначения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales preventivas tienen como función alertar sobre peligros en la vía, como curvas o pendientes. Son identificables por su forma y color.",
+      "en": "Preventive signals are meant to alert about dangers on the road, such as curves or slopes. They are identifiable by their shape and color.",
+      "ru": "Предупреждающие знаки служат для предупреждения об опасностях на дороге, таких как повороты или уклоны. Их можно идентифицировать по форме и цвету."
+    }
+  },
+  "citation": "【4:0†source】"
+}

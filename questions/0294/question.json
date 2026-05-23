@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En estas zonas, está permitido estacionar a partir de los 20 metros para cada lado.",
+    "en": "In these areas, parking is allowed starting from 20 meters on each side.",
+    "ru": "В этих зонах парковка разрешена начиная с 20 метров с каждой стороны."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b155.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "No se permite estacionar a menos de 20 metros de ciertos puntos.",
+      "en": "Parking is not allowed within 20 meters of certain points.",
+      "ru": "Парковка запрещена на расстоянии менее 20 метров от определенных точек."
+    }
+  },
+  "citation": "【4:0†source】"
+}

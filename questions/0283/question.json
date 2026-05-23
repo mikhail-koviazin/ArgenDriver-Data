@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si ve esta señal mientras conduce, usted debe…",
+    "en": "If you see this sign while driving, you must...",
+    "ru": "Если вы видите этот знак во время вождения, вы должны..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b146.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Reducir la velocidad del vehículo",
+        "en": "Reduce the speed of the vehicle",
+        "ru": "Уменьшить скорость автомобиля"
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Incrementar la velocidad del vehículo",
+        "en": "Increase the speed of the vehicle",
+        "ru": "Увеличить скорость автомобиля"
+      }
+    },
+    {
+      "text": {
+        "es": "Dar vuelta a la izquierda y después a la derecha",
+        "en": "Turn left and then right",
+        "ru": "Повернуть налево, а потом направо"
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que se debe reducir la velocidad por razones de seguridad.",
+      "en": "The sign indicates that you must reduce speed for safety reasons.",
+      "ru": "Знак указывает, что необходимо снизить скорость по соображениям безопасности."
+    }
+  },
+  "citation": "【4:16†source】"
+}

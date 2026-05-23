@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La señal que se muestra es una señal preventiva, de máximo peligro, que anuncia la existencia de un tramo de vía con fuerte pendiente descendente.",
+    "en": "The shown sign is a preventive signal of maximum danger that announces the existence of a road section with a steep downhill slope.",
+    "ru": "Показанный знак является предупредительным знаком максимальной опасности, который сообщает о наличии участка дороги с крутым спуском."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b246.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales preventivas alertan sobre situaciones peligrosas, como pendientes pronunciadas.",
+      "en": "Preventive signs alert about dangerous situations, such as steep slopes.",
+      "ru": "Предупредительные знаки предупреждают о опасных ситуациях, таких как крутые склоны."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Al conducir un vehículo y llegar a esta intersección, ¿cómo debe proceder frente a esta señal?",
+    "en": "When driving a vehicle and arriving at this intersection, how should you proceed in front of this signal?",
+    "ru": "При вождении автомобиля и подъезде к этому пересечению, как вы должны действовать перед этим сигналом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b101.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Disminuir un poco la velocidad y mirar que no se acerquen vehículos por la vía a la que se va a incorporar.",
+        "en": "Slightly reduce speed and check that no vehicles are approaching from the lane you are going to enter.",
+        "ru": "Немного снизьте скорость и проверьте, не приближаются ли транспортные средства из полосы, в которую вы собираетесь заехать."
+      }
+    },
+    {
+      "text": {
+        "es": "Reducir la velocidad y detener el vehículo antes de la senda peatonal.",
+        "en": "Reduce speed and stop the vehicle before the pedestrian crossing.",
+        "ru": "Снизьте скорость и остановите транспортное средство перед пешеходным переходом."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Avanzar.",
+        "en": "Advance.",
+        "ru": "Продолжайте движение."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial reducir la velocidad y detenerse antes de la senda para garantizar la seguridad de los peatones.",
+      "en": "It is crucial to reduce speed and stop before the crossing to ensure pedestrian safety.",
+      "ru": "Крайне важно снизить скорость и остановиться перед зеброй для обеспечения безопасности пешеходов."
+    }
+  },
+  "citation": "【4:1†source】"
+}

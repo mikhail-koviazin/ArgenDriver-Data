@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina conducción eficiente?",
+    "en": "What is meant by efficient driving?",
+    "ru": "Что подразумевается под эффективным вождением?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A una conducción que disminuya los riesgos de seguridad vial y logre un menor consumo de combustible.",
+        "en": "To a driving style that reduces road safety risks and achieves lower fuel consumption.",
+        "ru": "К стилю вождения, который снижает риски дорожной безопасности и достигает меньшего расхода топлива."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A una conducción que logre llegar a destino en el menor tiempo posible.",
+        "en": "To a driving style that aims to arrive at the destination in the shortest time possible.",
+        "ru": "К стилю вождения, который стремится достичь места назначения за кратчайшее время."
+      }
+    },
+    {
+      "text": {
+        "es": "A una conducción que mantenga durante todo el trayecto la misma velocidad.",
+        "en": "To a driving style that maintains the same speed throughout the journey.",
+        "ru": "К стилю вождения, который поддерживает одну и ту же скорость на протяжении всего пути."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La conducción eficiente se centra en la seguridad y el ahorro de combustible.",
+      "en": "Efficient driving focuses on safety and fuel savings.",
+      "ru": "Эффективное вождение сосредоточено на безопасности и экономии топлива."
+    }
+  },
+  "citation": "[4:0†source]"
+}

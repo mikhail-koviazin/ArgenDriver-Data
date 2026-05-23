@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal presented below indicates:",
+    "ru": "Определите, что указывает сигнал, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b262.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Desvío por cambio de sentido de circulación.",
+        "en": "Detour due to a change in the direction of circulation.",
+        "ru": "Объезд из-за изменения направления движения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calzada dividida.",
+        "en": "Divided roadway.",
+        "ru": "Разделенная проезжая часть."
+      }
+    },
+    {
+      "text": {
+        "es": "Cruce Peligroso.",
+        "en": "Dangerous crossing.",
+        "ru": "Опасный переход."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que los vehículos deben desviarse como resultado de un cambio en la circulación.",
+      "en": "This signal indicates that vehicles must detour due to a change in traffic direction.",
+      "ru": "Этот сигнал указывает на то, что транспортным средствам необходимо объезжать из-за изменения направления движения."
+    }
+  },
+  "citation": "[4:17†source]"
+}

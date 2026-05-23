@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la siguiente imagen, ¿qué indican las líneas centrales de la calzada señaladas?",
+    "en": "In the following image, what do the central lines of the marked roadway indicate?",
+    "ru": "На следующем изображении, что означают центральные линии обозначенной дороги?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b78.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que se pueden traspasar.",
+        "en": "That they can be crossed.",
+        "ru": "Что их можно пересекать."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que está prohibido traspasarlas.",
+        "en": "That it is prohibited to cross them.",
+        "ru": "Что пересекать их запрещено."
+      }
+    },
+    {
+      "text": {
+        "es": "Que es una zona de máximo peligro.",
+        "en": "That it is a zone of maximum danger.",
+        "ru": "Что это зона максимальной опасности."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las líneas centrales que pueden ser traspasadas permiten el cambio de carril.",
+      "en": "The central lines that can be crossed allow lane changes.",
+      "ru": "Центральные линии, которые можно пересекать, позволяют менять полосу."
+    }
+  },
+  "citation": "【4:3†source】"
+}

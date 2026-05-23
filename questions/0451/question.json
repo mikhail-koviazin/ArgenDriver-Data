@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal vertical de información?",
+    "en": "What does this vertical information sign indicate?",
+    "ru": "Что указывает этот вертикальный информационный знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b267.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Una encrucijada peligrosa.",
+        "en": "A dangerous intersection.",
+        "ru": "Опасное пересечение."
+      }
+    },
+    {
+      "text": {
+        "es": "La existencia de un puesto sanitario o de socorro.",
+        "en": "The existence of a health or rescue post.",
+        "ru": "Наличие медицинского пункта или спасательных служб."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La existencia de un templo religioso.",
+        "en": "The existence of a religious temple.",
+        "ru": "Наличие религиозного храма."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Indica la proximidad de un servicio médico o de auxilio en la ruta.",
+      "en": "Indicates the proximity of a medical or rescue service on the road.",
+      "ru": "Указывает на близость медицинского или спасательного обслуживания на дороге."
+    }
+  },
+  "citation": "【4:5†source】"
+}

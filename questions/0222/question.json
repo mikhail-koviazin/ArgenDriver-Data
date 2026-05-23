@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El conductor del vehículo A quiere volver rápidamente al carril derecho porque ve ante él una situación de peligro, ¿qué debe hacer el conductor del vehículo B?",
+    "en": "The driver of vehicle A wants to quickly return to the right lane because he sees a dangerous situation ahead, what should the driver of vehicle B do?",
+    "ru": "Водитель автомобиля A хочет быстро вернуться в правый ряд, потому что видит опасную ситуацию впереди, что должен сделать водитель автомобиля B?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b116.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Aumentar la velocidad para que realice la maniobra detrás suyo.",
+        "en": "Reduce speed to allow him to return to the lane.",
+        "ru": "Снизьте скорость, чтобы позволить ему вернуться в ряд."
+      }
+    },
+    {
+      "text": {
+        "es": "Reducir la velocidad para facilitarle el retorno al carril.",
+        "en": "Increase speed so that he can maneuver behind you.",
+        "ru": "Увеличьте скорость, чтобы он мог маневрировать за вами."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Tocar bocina y hacer guiño de luces para indicarle que no debe realizar la maniobra.",
+        "en": "Honk and flash your lights to indicate that he should not make the maneuver.",
+        "ru": "Подайте сигнал, и мигните фарами, чтобы указать, что он не должен производить маневр."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Reducir la velocidad es crucial para permitir un retorno seguro al carril, previniendo accidentes.",
+      "en": "Reducing speed is crucial to allow a safe return to the lane, preventing accidents.",
+      "ru": "Снижение скорости критически важно для безопасного возвращения в ряд, предотвращая аварии."
+    }
+  },
+  "citation": "【4:0†source】"
+}

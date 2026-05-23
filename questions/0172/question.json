@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué significa esta demarcación amarilla en la calzada?",
+    "en": "What does this yellow marking on the road mean?",
+    "ru": "Что означает эта желтая разметка на дороге?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b77.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Es una señalización que se utiliza únicamente para dividir los carriles de la vía.",
+        "en": "Indicates, for both directions of traffic, that it should not be crossed or driven over.",
+        "ru": "Указывает, что для обоих направлений движения она не должна пересекаться и не может быть преодолена."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.",
+        "en": "It is a marking used solely to divide the lanes of the road.",
+        "ru": "Это разметка, используемая исключительно для разделения полос движения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Significa que sólo pueden circular vehículos particulares.",
+        "en": "It means that only private vehicles can circulate.",
+        "ru": "Это означает, что только частные автомобили могут двигаться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La demarcación amarilla continua prohíbe cruzar y no se puede circular sobre ella.",
+      "en": "The continuous yellow marking prohibits crossing and driving over it.",
+      "ru": "Непрерывная желтая разметка запрещает пересечение и движение по ней."
+    }
+  },
+  "citation": "【4:1†source】"
+}

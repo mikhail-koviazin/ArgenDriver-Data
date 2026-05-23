@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la siguiente imagen, ¿es correcta la colocación del dispositivo de retención infantil para un niño de 7 años?",
+    "en": "In the following image, is the placement of the child restraint device correct for a 7-year-old child?",
+    "ru": "На следующем изображении правильно ли установлено детское удерживающее устройство для 7-летнего ребенка?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b212.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que se encuentra bien ajustado y en el asiento trasero.",
+        "en": "Yes, since it is well adjusted and in the back seat.",
+        "ru": "Да, так как оно хорошо отрегулировано и на заднем сиденье."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que la orientación “a contra marcha” de los SRI es sólo para los grupos 0 y 0+ y 1 de SRI según indique su fabricante y este niño supera la edad para esos grupos.",
+        "en": "No, as the 'rear-facing' orientation of SRI is only for groups 0 and 0+ and 1 of SRI as indicated by its manufacturer, and this child exceeds the age for those groups.",
+        "ru": "Нет, так как ориентация «обратно» SRI предназначена только для групп 0 и 0+ и 1 SRI, как указано производителем, и этот ребенок превышает возраст для этих групп."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, ya que la orientación “a contra marcha” reduce el efecto “latigazo” en caso de un siniestro.",
+        "en": "Yes, as the 'rear-facing' orientation reduces the 'whiplash' effect in the event of an accident.",
+        "ru": "Да, так как ориентация «обратно» снижает эффект «выталкивания» в случае аварии."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los dispositivos de retención infantil deben ser apropiados para la edad y el peso del niño, y la orientación “a contra marcha” es sólo para grupos menores.",
+      "en": "Child restraint devices must be appropriate for the child's age and weight, and the 'rear-facing' orientation is only for younger groups.",
+      "ru": "Детские удерживающие устройства должны соответствовать возрасту и весу ребенка, а ориентация «обратно» предназначена только для более младших групп."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica la señal horizontal que se encuentra demarcada sobre la calzada?",
+    "en": "What does the horizontal signal marked on the pavement indicate?",
+    "ru": "Что обозначает горизонтальный сигнал, обозначенный на проезжей части?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b29.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Carril exclusivo de colectivo de pasajeros.",
+        "en": "Exclusive lane for passenger buses.",
+        "ru": "Эксклюзивная полоса для пассажирских автобусов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cruce exclusivo de vehículos de emergencia.",
+        "en": "Exclusive crossing for emergency vehicles.",
+        "ru": "Эксклюзивный переход для экстренных автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "Ceda el paso.",
+        "en": "Yield.",
+        "ru": "Уступите дорогу."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que el carril es exclusivo para colectivos, prohibiendo otros usos.",
+      "en": "The signal indicates that the lane is exclusive for buses, prohibiting other uses.",
+      "ru": "Сигнал указывает, что полоса исключительна для автобусов, запрещая другие использования."
+    }
+  },
+  "citation": "【4:1†source】"
+}

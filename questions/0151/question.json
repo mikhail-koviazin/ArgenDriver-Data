@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La acción que se presenta en la imagen es considerada riesgosa para la conducción de un vehículo.",
+    "en": "The action shown in the image is considered risky for driving a vehicle.",
+    "ru": "Действие, показанное на изображении, считается рискованным для управления транспортным средством."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b63.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La acción descrita puede causar accidentes por falta de visibilidad o mal juicio.",
+      "en": "The described action can cause accidents due to lack of visibility or poor judgment.",
+      "ru": "Описанное действие может привести к несчастным случаям из-за недостатка видимости или плохого суждения."
+    }
+  },
+  "citation": "【4:5†source】"
+}

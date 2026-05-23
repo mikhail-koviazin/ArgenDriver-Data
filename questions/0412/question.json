@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown below indicates:",
+    "ru": "Определите, что указывает сигнал, показанный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b228.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Inicio de doble mano.",
+        "en": "Beginning of two-way traffic.",
+        "ru": "Начало движение в двух направлениях."
+      }
+    },
+    {
+      "text": {
+        "es": "Estrechamiento (en una sola mano).",
+        "en": "Narrowing (in one direction).",
+        "ru": "Узенькая улица (в одном направлении)."
+      }
+    },
+    {
+      "text": {
+        "es": "Encrucijada (bifurcación).",
+        "en": "Intersection (fork).",
+        "ru": "Перекресток (ответвление)."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que se acerca a una encrucijada, donde el tráfico se divide.",
+      "en": "The signal indicates an upcoming intersection where traffic splits.",
+      "ru": "Сигнал указывает на приближающийся перекресток, где движение разделяется."
+    }
+  },
+  "citation": " "
+}

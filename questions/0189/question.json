@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El siguiente símbolo indica que se trata de un carril que debe ser liberado cuando se aproxima un vehículo en emergencia.",
+    "en": "The following symbol indicates that it is a lane that must be cleared when an emergency vehicle approaches.",
+    "ru": "Следующий символ указывает, что это полоса, которую необходимо освободить, когда приближается аварийный автомобиль."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b90.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril debe ser liberado para los vehículos de emergencia, garantizando una vía despejada.",
+      "en": "The lane must be cleared for emergency vehicles, ensuring an unobstructed path.",
+      "ru": "Полоса должна быть освобождена для аварийных автомобилей, чтобы обеспечить свободное движение."
+    }
+  },
+  "citation": "【4:6†source】"
+}

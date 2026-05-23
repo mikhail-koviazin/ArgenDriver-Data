@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las normas generales, ¿cuál es la velocidad máxima permitida para un automóvil particular en esta avenida?",
+    "en": "According to general rules, what is the maximum speed allowed for a private car on this avenue?",
+    "ru": "Согласно общим правилам, какова максимальная скорость, разрешенная для легкового автомобиля на этом проспекте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b132.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "70 km/h.",
+        "en": "70 km/h.",
+        "ru": "70 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permitida para automóviles en avenidas es de 60 km/h.",
+      "en": "The maximum allowed speed for cars on avenues is 60 km/h.",
+      "ru": "Максимально допустимая скорость для автомобилей на проспектах составляет 60 км/ч."
+    }
+  },
+  "citation": "[4:0†source]"
+}

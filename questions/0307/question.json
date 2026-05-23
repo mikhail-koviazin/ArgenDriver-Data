@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué precauciones se deben tener al dejar estacionado un vehículo en esta situación?",
+    "en": "What precautions should be taken when parking a vehicle in this situation?",
+    "ru": "Какие меры предосторожности следует принимать при парковке автомобиля в этой ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b167.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Turn the wheels towards the curb and leave the gear in reverse or in parking position if you have an automatic transmission.",
+        "ru": "Повернуть колеса к бордюру и оставить передачу в заднем положении или в парковочном положении, если у вас автоматическая трансмиссия."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Turn the wheels towards the center of the roadway and leave the gear in first gear or in parking position if you have an automatic transmission.",
+        "ru": "Повернуть колеса к центру дороги и оставить передачу на первой или в парковочном положении, если у вас автоматическая трансмиссия."
+      }
+    },
+    {
+      "text": {
+        "es": "Orientar las ruedas paralelas al cordón y sin cambio o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Align the wheels parallel to the curb and leave in neutral or in parking position if you have an automatic transmission.",
+        "ru": "Выравнять колеса параллельно бордюру и оставить на нейтральной передаче или в парковочном положении, если у вас автоматическая трансмиссия."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Al estacionar en pendiente, es crucial orientar las ruedas hacia el cordón para evitar que el vehículo ruede hacia la calle.",
+      "en": "When parking on a slope, it is crucial to turn the wheels towards the curb to prevent the vehicle from rolling into the street.",
+      "ru": "При парковке на склоне крайне важно повернуть колеса к бордюру, чтобы предотвратить катание автомобиля на улицу."
+    }
+  },
+  "citation": "【4:0†source】"
+}

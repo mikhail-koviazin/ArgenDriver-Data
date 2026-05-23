@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Un menor de 12 años puede circular en bicicleta por…",
+    "en": "A minor under 12 years can ride a bicycle on...",
+    "ru": "Несовершеннолетний до 12 лет может кататься на велосипеде по..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La calle, acompañado de un adulto mayor de 18 años.",
+        "en": "The street, accompanied by an adult over 18 years.",
+        "ru": "По улице, в сопровождении взрослого старше 18 лет."
+      }
+    },
+    {
+      "text": {
+        "es": "Por la vereda, a la menor velocidad posible.",
+        "en": "On the sidewalk, at the lowest speed possible.",
+        "ru": "По тротуару, с минимальной возможной скоростью."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los menores de 12 años pueden circular por la vía pública, pero deben hacerlo con precaución. Se les permite andar por la calle bajo la supervisión de un adulto o a baja velocidad por la vereda.",
+      "en": "Minors under 12 can ride in public areas, but must do so cautiously. They are allowed to ride in the street under adult supervision or at low speed on the sidewalk.",
+      "ru": "Несовершеннолетние до 12 лет могут кататься в общественных местах, но должны делать это осторожно. Им разрешается двигаться по улице под присмотром взрослого или медленно по тротуару."
+    }
+  },
+  "citation": "【4:1†source】"
+}

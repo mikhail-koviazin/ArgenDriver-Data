@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuántas “cédulas para autorizados a conducir” podrán otorgarse para un mismo vehículo?",
+    "en": "How many 'certificates for authorized drivers' can be issued for the same vehicle?",
+    "ru": "Сколько \"удостоверений для водителей\" может быть выдано для одного и того же автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sólo una.",
+        "en": "Only one.",
+        "ru": "Только один."
+      }
+    },
+    {
+      "text": {
+        "es": "La cantidad que solicite el titular del vehículo.",
+        "en": "The quantity requested by the vehicle's holder.",
+        "ru": "Количество, запрашиваемое владельцем транспортного средства."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Hasta cinco.",
+        "en": "Up to five.",
+        "ru": "До пяти."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El titular del vehículo puede solicitar varias cédulas si lo desea, sin un límite fijo.",
+      "en": "The holder of the vehicle can request multiple certificates if desired, without a fixed limit.",
+      "ru": "Владелец транспортного средства может запрашивать несколько удостоверений по желанию, без фиксированного лимита."
+    }
+  },
+  "citation": "[4:2†source]"
+}

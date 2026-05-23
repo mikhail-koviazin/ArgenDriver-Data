@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Al transportar cualquier elemento, éste debe ubicarse de modo que no perturbe la visibilidad, afecte peligrosamente las condiciones aerodinámicas del vehículo, oculte luces o sobresalga de los límites permitidos.",
+    "en": "When transporting any item, it must be positioned so that it does not disturb visibility, dangerously affect the aerodynamic conditions of the vehicle, hide lights, or exceed the allowed limits.",
+    "ru": "При перевозке любого предмета его необходимо размещать так, чтобы он не мешал видимости, опасно не влиял на аэродинамические условия автомобиля, не скрывал огни и не превышал допустимые пределы."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Это правда."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Это ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La carga debe ser asegurada y no obstruir la visibilidad para prevenir accidentes.",
+      "en": "The load must be secured and not obstruct visibility to prevent accidents.",
+      "ru": "Груз должен быть закреплен и не мешать видимости, чтобы предотвратить аварии."
+    }
+  },
+  "citation": "【4:8†source】"
+}

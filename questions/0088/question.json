@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Quién es el responsable civil por un incidente de tránsito producido por un menor de edad poseedor de una licencia de conducir?",
+    "en": "Who is the civil responsible for a traffic incident caused by a minor holding a driving license?",
+    "ru": "Кто несет гражданскую ответственность за дорожное происшествие, совершенное несовершеннолетним, имеющим водительские права?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El que firmó la autorización para obtener la licencia.",
+        "en": "The one who signed the authorization to obtain the license.",
+        "ru": "Тот, кто подписал разрешение на получение лицензии."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El que lo acompaña.",
+        "en": "The one who accompanies him.",
+        "ru": "Тот, кто его сопровождает."
+      }
+    },
+    {
+      "text": {
+        "es": "El que le autorizó el uso del vehículo.",
+        "en": "The one who authorized the use of the vehicle.",
+        "ru": "Тот, кто разрешил использование транспортного средства."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La responsabilidad civil recae sobre los padres o tutores de menores que conducen.",
+      "en": "Civil responsibility falls on the parents or guardians of minors who drive.",
+      "ru": "Гражданская ответственность несут родители или опекуны несовершеннолетних, которые управляют автомобилем."
+    }
+  },
+  "citation": "【4:8†source】"
+}

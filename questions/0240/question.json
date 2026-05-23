@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El vehículo señalado con un círculo rojo, ¿circula correctamente?",
+    "en": "Does the vehicle marked with a red circle circulate correctly?",
+    "ru": "Правильно ли движется транспортное средство, помеченное красным кругом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b124.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque en esta vía las luces deben estar encendidas.",
+        "en": "Yes, because in this road the lights must be on.",
+        "ru": "Да, потому что на этом пути фары должны быть включены."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, ya que mantiene una distancia prudencial respecto del resto de los vehículos.",
+        "en": "Yes, as it maintains a safe distance from the other vehicles.",
+        "ru": "Да, так как он сохраняет безопасное расстояние от других автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "No, dado que está circulando por la banquina.",
+        "en": "No, since it is driving on the shoulder.",
+        "ru": "Нет, так как он движется по обочине."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Circulando por la banquina no está permitido, ya que puede ser peligroso.",
+      "en": "Driving on the shoulder is not allowed as it can be dangerous.",
+      "ru": "Движение по обочине не разрешено, так как это может быть опасно."
+    }
+  },
+  "citation": "【4:5†source】"
+}

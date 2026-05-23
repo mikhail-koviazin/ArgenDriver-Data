@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En esta intersección, ¿quién tiene prioridad de paso?",
+    "en": "At this intersection, who has the right of way?",
+    "ru": "На этом перекрестке, кто имеет право проезда?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b23.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El peatón.",
+        "en": "The pedestrian.",
+        "ru": "Пешеход."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El conductor.",
+        "en": "The driver.",
+        "ru": "Водитель."
+      }
+    },
+    {
+      "text": {
+        "es": "Es indistinto.",
+        "en": "It's indifferent.",
+        "ru": "Это не имеет значения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los peatones tienen prioridad sobre todos los conductores en la vía pública.",
+      "en": "Pedestrians have priority over all drivers on public roads.",
+      "ru": "Пешеходы имеют приоритет перед всеми водителями на общественных дорогах."
+    }
+  },
+  "citation": "【4:4†source】"
+}

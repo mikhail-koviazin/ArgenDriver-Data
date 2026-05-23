@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En materia de señalamiento horizontal, ¿qué se entiende por “isleta”?",
+    "en": "In terms of horizontal signaling, what is meant by 'island'?",
+    "ru": "В терминах горизонтальной разметки что понимается под 'островком'?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Son las rotondas.",
+        "en": "They are roundabouts.",
+        "ru": "Это круговые перекрестки."
+      }
+    },
+    {
+      "text": {
+        "es": "Son los espacios reservados para estacionamiento exclusivo de motovehículos.",
+        "en": "They are spaces reserved for exclusive motorcycle parking.",
+        "ru": "Это места, зарезервированные для эксклюзивной парковки мотоциклов."
+      }
+    },
+    {
+      "text": {
+        "es": "Son las marcas canalizadoras de tránsito. No se puede traspasar o circular sobre ellas.",
+        "en": "They are traffic channelizing markings. You cannot cross or circulate over them.",
+        "ru": "Это разметка для управления движением. Нельзя пересекать или ехать по ним."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las isletas son marcas que organizan el tránsito y no deben ser traspasadas.",
+      "en": "Islands are markings that organize traffic and must not be crossed.",
+      "ru": "Островки - это разметка, которая организует движение и не должна пересекаться."
+    }
+  },
+  "citation": "【4:4†source】"
+}

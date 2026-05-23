@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Además de colectivos, ¿quiénes pueden circular por este carril?",
+    "en": "In addition to buses, who else can travel on this lane?",
+    "ru": "Кроме автобусов, кто еще может передвигаться по этой полосе?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b26.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Taxis con pasajeros.",
+        "en": "Taxis with passengers.",
+        "ru": "Такси с пассажирами."
+      }
+    },
+    {
+      "text": {
+        "es": "Motos.",
+        "en": "Motorbikes.",
+        "ru": "Мотоциклы."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Обе ответы, A и B, неправильные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Este carril está reservado exclusivamente para el transporte público como colectivos, no motos ni taxis.",
+      "en": "This lane is exclusively reserved for public transport like buses, not motorcycles or taxis.",
+      "ru": "Эта полоса исключительно предназначена для общественного транспорта, такого как автобусы, а не для мотоциклов или такси."
+    }
+  },
+  "citation": "【4:1†source】"
+}

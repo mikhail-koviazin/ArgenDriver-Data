@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Una vez que dejó de ingerir alcohol, ¿qué sucede con la concentración de alcohol que tiene en su organismo?",
+    "en": "Once you stop consuming alcohol, what happens to the concentration of alcohol in your body?",
+    "ru": "Как только вы перестаете употреблять алкоголь, что происходит с концентрацией алкоголя в вашем организме?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Comienza a disminuir de forma inmediata.",
+        "en": "It begins to decrease immediately.",
+        "ru": "Он начинает сразу же уменьшаться."
+      }
+    },
+    {
+      "text": {
+        "es": "Continúa subiendo durante 1 hora y luego comienza a descender paulatinamente.",
+        "en": "It continues to rise for 1 hour and then begins to gradually descend.",
+        "ru": "Он продолжает расти в течение 1 часа, а затем начинает постепенно падать."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se mantiene en el mismo valor durante 1 hora y luego comienza a descender.",
+        "en": "It remains at the same value for 1 hour and then begins to descend.",
+        "ru": "Он остается на том же уровне в течение 1 часа, а затем начинает снижаться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La concentración de alcohol sigue aumentando debido a la absorción del alcohol antes de empezar a descender.",
+      "en": "The alcohol concentration continues to rise due to alcohol absorption before it starts to descend.",
+      "ru": "Концентрация алкоголя продолжает расти из-за абсорбции алкоголя, прежде чем начнет снижаться."
+    }
+  },
+  "citation": "【4:0†source】"
+}

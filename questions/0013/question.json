@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Todo usuario de la vía pública debe, como premisa básica…",
+    "en": "Every public road user must, as a basic premise...",
+    "ru": "Каждый пользователь общественной дороги должен, как основное правило..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Asumir la obligación de no entorpecer la circulación y no causar peligro, perjuicios o molestias innecesarias a las personas o daños a los bienes.",
+        "en": "Assume the obligation not to obstruct traffic and not to cause danger, unnecessary harm or discomfort to people or damage to property.",
+        "ru": "Брать на себя обязательство не препятствовать движению и не создавать опасности, ненужных ущербов или неудобств для людей или повреждений имущества."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Acreditar experiencia de manejo en vehículos por más de un año.",
+        "en": "Provide proof of driving experience in vehicles for more than a year.",
+        "ru": "Предоставить доказательства опыта вождения автомобилей более одного года."
+      }
+    },
+    {
+      "text": {
+        "es": "Concurrir a cursos de actualización en temática vial, con una frecuencia no mayor a seis meses.",
+        "en": "Attend refresher courses on road issues, with a frequency of no more than every six months.",
+        "ru": "Посещать курсы повышения квалификации по дорожным вопросам, не чаще одного раза в шесть месяцев."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los usuarios de la vía deben priorizar la seguridad de todos.",
+      "en": "Road users must prioritize the safety of everyone.",
+      "ru": "Пользователи дорог должны придавать первостепенное значение безопасности всех."
+    }
+  },
+  "citation": "[4:0†source]"
+}

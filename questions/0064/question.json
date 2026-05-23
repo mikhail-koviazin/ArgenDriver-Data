@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cómo se denomina la intervención de color amarillo que se visualiza en la imagen?",
+    "en": "What is the name of the yellow intervention visible in the image?",
+    "ru": "Как называется желтая интервенция, видимая на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b35.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Intervención Peatonal.",
+        "en": "Pedestrian Intervention.",
+        "ru": "Пешеходная интервенция."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Intervención Vehicular.",
+        "en": "Vehicle Intervention.",
+        "ru": "Автомобильная интервенция."
+      }
+    },
+    {
+      "text": {
+        "es": "Intervención de la Calzada.",
+        "en": "Road Intervention.",
+        "ru": "Интервенция дороги."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La intervención peatonal es una señal de advertencia que indica un cruce seguro para los peatones.",
+      "en": "Pedestrian intervention is a warning signal indicating a safe crossing for pedestrians.",
+      "ru": "Пешеходная интервенция является предупреждающим сигналом, указывающим на безопасный переход для пешеходов."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Bajo esta condición climática, ¿es recomendable aumentar la distancia de seguridad y reducir la velocidad?",
+    "en": "Under these weather conditions, is it advisable to increase the safety distance and reduce speed?",
+    "ru": "При таких погодных условиях рекомендуется увеличить дистанцию безопасности и снизить скорость?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b183.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, al reducir la velocidad, mayor es la proporción de agua en el asfalto.",
+        "en": "No, by reducing speed, the proportion of water on the asphalt is greater.",
+        "ru": "Нет, при снижении скорости доля воды на асфальте больше."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, con lluvia la adherencia es menor.",
+        "en": "Yes, with rain, the grip is lower.",
+        "ru": "Да, при дожде сцепление хуже."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No. La distancia de seguridad debe ser siempre la misma.",
+        "en": "No. The safety distance should always be the same.",
+        "ru": "Нет. Дистанция безопасности всегда должна быть одинаковой."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La lluvia disminuye la adherencia de los neumáticos, aumentando el riesgo de accidentes.",
+      "en": "Rain reduces tire grip, increasing the risk of accidents.",
+      "ru": "Дождь снижает сцепление шин, увеличивая риск аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

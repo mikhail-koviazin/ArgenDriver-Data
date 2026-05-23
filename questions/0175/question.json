@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley N° 2148, ¿qué indica un cordón pintado de este color?",
+    "en": "According to Law No. 2148, what does a curb painted this color indicate?",
+    "ru": "Согласно Закону № 2148, что означает бордюр, окрашенный в этот цвет?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b80.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Área reservada de estacionamiento exclusivo de ciclorodados (bicicletas) y motovehículos.",
+        "en": "Area reserved for exclusive parking for bicycles and motorcycles.",
+        "ru": "Зона, зарезервированная для парковки велосипедов и мотоциклов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lugar reservado para ascenso y descenso de pasajeros.",
+        "en": "Place reserved for passenger pick-up and drop-off.",
+        "ru": "Место, зарезервированное для посадки и высадки пассажиров."
+      }
+    },
+    {
+      "text": {
+        "es": "Zona exclusiva para carga y descarga de mercaderías.",
+        "en": "Area exclusively for loading and unloading goods.",
+        "ru": "Зона, предназначенная исключительно для погрузки и разгрузки товаров."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un cordón pintado de este color indica una zona designada específicamente para bicicletas y motos, promoviendo su uso y seguridad.",
+      "en": "A curb painted this color indicates a zone specifically designated for bicycles and motorcycles, promoting their use and safety.",
+      "ru": "Бордюр, окрашенный в этот цвет, указывает на зону, специально предназначенную для велосипедов и мотоциклов, что способствует их использованию и безопасности."
+    }
+  },
+  "citation": "【4:18†source】"
+}

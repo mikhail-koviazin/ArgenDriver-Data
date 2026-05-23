@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Como norma de carácter general, ¿quién tiene prioridad de paso en una encrucijada sin semáforos?",
+    "en": "As a general rule, who has priority at an intersection without traffic lights?",
+    "ru": "В соответствии с общим правилом, кто имеет приоритет на перекрестке без светофоров?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Los vehículos de transporte de pasajero.",
+        "en": "Passenger transport vehicles.",
+        "ru": "Грузовые автомобили."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo de menor tamaño.",
+        "en": "The smallest vehicle.",
+        "ru": "Самый маленький автомобиль."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo que se presenta por el lado derecho.",
+        "en": "The vehicle that approaches from the right.",
+        "ru": "Автомобиль, который приближается справа."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En una encrucijada sin semáforos, el vehículo a la derecha tiene prioridad.",
+      "en": "At an intersection without traffic lights, the vehicle on the right has priority.",
+      "ru": "На перекрестке без светофоров приоритет имеет транспортное средство, движущееся справа."
+    }
+  },
+  "citation": "【4:5†source】"
+}

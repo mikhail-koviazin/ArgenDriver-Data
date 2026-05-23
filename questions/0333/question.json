@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si la calzada está mojada y hay charcos, ¿pueden perder eficacia los frenos?",
+    "en": "If the road is wet and there are puddles, can the brakes lose effectiveness?",
+    "ru": "Если дорога мокрая и есть лужи, могут ли тормоза стать менее эффективными?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, al contrario, se mejora la adherencia porque los neumáticos se limpian.",
+        "en": "No, on the contrary, adherence improves because the tires get cleaned.",
+        "ru": "Нет, наоборот, сцепление улучшается, потому что шины очищаются."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque al mojarse pueden no funcionar eficazmente.",
+        "en": "Yes, because when wet they may not work effectively.",
+        "ru": "Да, потому что во влажном состоянии они могут не работать эффективно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque justamente los frenos sirven para contrarrestar los efectos de la calzada resbaladiza.",
+        "en": "No, because brakes are meant to counteract the effects of a slippery road.",
+        "ru": "Нет, потому что тормоза предназначены для противодействия эффектам скользкой дороги."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La eficacia de los frenos se ve afectada por la humedad en la calzada.",
+      "en": "The effectiveness of brakes is affected by moisture on the road.",
+      "ru": "Эффективность тормозов зависит от влаги на дороге."
+    }
+  },
+  "citation": "【4:6†source】"
+}

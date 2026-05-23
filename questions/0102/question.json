@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Está permitido circular con la placa de dominio de este modo?",
+    "en": "Is it allowed to circulate with the domain plate like this?",
+    "ru": "Разрешено ли ездить с номером таким образом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b47.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que exhibe una documentación provisoria.",
+        "en": "Yes, as it displays provisional documentation.",
+        "ru": "Да, так как он предъявляет временные документы."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que para poder cumplir su función como provisoria debe ampliarse.",
+        "en": "No, as to fulfill its function as provisional it must be enlarged.",
+        "ru": "Нет, так как для выполнения своей функции как временный он должен быть увеличен."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que debe estar colocada en el lugar y de forma reglamentaria.",
+        "en": "No, as it must be placed in the correct location and in a legal manner.",
+        "ru": "Нет, так как он должен быть установлен в правильном месте и в законном порядке."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las placas deben estar colocadas de forma reglamentaria para ser válidas.",
+      "en": "Plates must be properly placed to be valid.",
+      "ru": "Номера должны быть установлены правильно, чтобы быть действительными."
+    }
+  },
+  "citation": "【4:12†source】"
+}

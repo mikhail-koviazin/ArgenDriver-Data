@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida para circular con una bicicleta con asistencia eléctrica?",
+    "en": "What is the maximum speed allowed to ride an electric bicycle?",
+    "ru": "Какова максимальная скорость, разрешенная для езды на электрическом велосипеде?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La velocidad máxima permitida en la vía donde se encuentra la ciclovía.",
+        "en": "The maximum speed allowed on the road where the bike lane is located.",
+        "ru": "Максимально допустимая скорость на дороге, где расположена велосипедная дорожка."
+      }
+    },
+    {
+      "text": {
+        "es": "25 km/h",
+        "en": "25 km/h.",
+        "ru": "25 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "30 km/h.",
+        "en": "30 km/h.",
+        "ru": "30 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima recomendada para bicicletas con asistencia eléctrica es de 25 km/h para la seguridad en la vía.",
+      "en": "The maximum recommended speed for electric-assist bicycles is 25 km/h for safety on the road.",
+      "ru": "Максимально разрешенная скорость для велосипедов с электропомощью составляет 25 км/ч для безопасности на дороге."
+    }
+  },
+  "citation": "【4:2†source】"
+}

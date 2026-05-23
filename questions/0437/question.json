@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Esta señal vertical reglamentaria indica…",
+    "en": "This regulatory vertical sign indicates...",
+    "ru": "Этот регламентирующий вертикальный знак указывает..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b253.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que es un carril preferencial para ciclistas.",
+        "en": "What is a preferential lane for cyclists.",
+        "ru": "Что такое предпочительный ряд для велосипедистов."
+      }
+    },
+    {
+      "text": {
+        "es": "Que es un carril de uso exclusivo para ciclistas.",
+        "en": "What is a lane exclusively for cyclists.",
+        "ru": "Что такое полоса, предназначенная исключительно для велосипедистов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que los ciclistas no pueden circular por este carril.",
+        "en": "That cyclists cannot circulate in this lane.",
+        "ru": "Что велосипедисты не могут ездить по этой полосе."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril exclusivo para ciclistas permite un tráfico seguro y ordenado para ellos. No deben usarse para otros vehículos.",
+      "en": "The lane exclusively for cyclists allows for safe and organized traffic for them. It should not be used by other vehicles.",
+      "ru": "Полоса, предназначенная исключительно для велосипедистов, позволяет безопасное и организованное движение для них. Она не должна использоваться другими транспортными средствами."
+    }
+  },
+  "citation": "【4:2†source】"
+}

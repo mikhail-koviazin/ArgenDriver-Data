@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué precauciones se deben tener al dejar estacionado un vehículo en esta situación?",
+    "en": "What precautions should be taken when parking a vehicle in this situation?",
+    "ru": "Какие меры предосторожности необходимо принять при парковке автомобиля в данной ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b166.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Turn the wheels towards the center of the road and leave the gear in first or in the parking position if you have an automatic transmission.",
+        "ru": "Поверните колеса к центру дороги и оставьте трансмиссию на первой или в положении парковки, если у вас автоматическая коробка передач."
+      }
+    },
+    {
+      "text": {
+        "es": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Turn the wheels towards the curb and leave the gear in reverse or in the parking position if you have an automatic transmission.",
+        "ru": "Поверните колеса к бордюру и оставьте трансмиссию на задней передаче или в положении парковки, если у вас автоматическая коробка передач."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Orientar las ruedas paralelas al cordón y sin cambio o en posición de estacionamiento en el caso de tener caja automática.",
+        "en": "Position the wheels parallel to the curb and without changing gear or in the parking position if you have an automatic transmission.",
+        "ru": "Разместите колеса параллельно бордюру и без переключения скоростей или в положении парковки, если у вас автоматическая коробка передач."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es correcto orientar las ruedas hacia el centro para prevenir el movimiento del vehículo.",
+      "en": "It is correct to turn the wheels towards the center to prevent vehicle movement.",
+      "ru": "Правильно поворачивать колеса к центру, чтобы предотвратить движение автомобиля."
+    }
+  },
+  "citation": "【4:9†source】"
+}

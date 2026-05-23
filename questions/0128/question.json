@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "De acuerdo al siguiente símbolo, ¿por cuánto tiempo tiene prohibido conducir con más de 0,0 gramos de alcohol por litro de sangre el conductor de este vehículo?",
+    "en": "According to the following symbol, for how long is the driver of this vehicle prohibited from driving with more than 0.0 grams of alcohol per liter of blood?",
+    "ru": "Согласно следующему символу, на сколько времени водителю этого транспортного средства запрещается управлять, имея более 0,0 граммов алкоголя на литр крови?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b54.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "2 años.",
+        "en": "2 years.",
+        "ru": "2 года."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "1 año.",
+        "en": "1 year.",
+        "ru": "1 год."
+      }
+    },
+    {
+      "text": {
+        "es": "6 meses.",
+        "en": "6 months.",
+        "ru": "6 месяцев."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En Argentina, la conducción con más de 0,0 g/l de alcohol en sangre puede resultar en una inhabilitación de 2 años.",
+      "en": "In Argentina, driving with more than 0.0 g/l of alcohol in blood may lead to a 2-year disqualification.",
+      "ru": "В Аргентине вождение с более чем 0,0 г/л алкоголя в крови может привести к 2-летнему лишению прав."
+    }
+  },
+  "citation": "【4:18†source】"
+}

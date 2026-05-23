@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El vehículo señalizado quiere incorporarse al tránsito, ¿tiene prioridad de paso sobre los otros vehículos que están circulando por esta arteria?",
+    "en": "The indicated vehicle wants to merge into traffic, does it have the right of way over other vehicles that are circulating on this artery?",
+    "ru": "Указанный автомобиль хочет присоединиться к движению, имеет ли он преимущество перед другими автомобилями, которые движутся по этой артерии?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b109.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque los vehículos de la arteria, a la que se pretende ingresar, están circulando.",
+        "en": "No, because the vehicles on the artery that you intend to enter are circulating.",
+        "ru": "Нет, потому что транспортные средства на артерии, в которую вы собираетесь заехать, уже движутся."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, porque se encuentra a la derecha.",
+        "en": "Yes, because it is on the right.",
+        "ru": "Да, потому что он находится справа."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque señalizó su maniobra.",
+        "en": "Yes, because it signaled its maneuver.",
+        "ru": "Да, потому что он подал сигнал о маневре."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos que ya circulan por la arteria tienen prioridad de paso.",
+      "en": "Vehicles already circulating on the artery have the right of way.",
+      "ru": "Транспортные средства, которые уже движутся по артерии, имеют преимущество."
+    }
+  },
+  "citation": "【4:12†source】"
+}

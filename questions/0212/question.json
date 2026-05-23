@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuándo se debe ceder el paso a los vehículos que desean incorporarse al tránsito desde el lugar donde estaban estacionados o desde un garaje?",
+    "en": "When should you yield to vehicles that want to merge into traffic from where they were parked or from a garage?",
+    "ru": "Когда следует уступить дорогу транспортным средствам, которые хотят влиться в движение с места, где они были припаркованы, или из гаража?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Siempre, independientemente de cómo se encuentre el tránsito vehicular.",
+        "en": "When traffic is interrupted for any reason.",
+        "ru": "Когда движение прервано по какой-либо причине."
+      }
+    },
+    {
+      "text": {
+        "es": "Cuando el tránsito se encuentra interrumpido por cualquier razón.",
+        "en": "Always, regardless of how traffic is flowing.",
+        "ru": "Всегда, независимо от того, как движется транспорт."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Nunca, independientemente de cómo se encuentre el tránsito vehicular.",
+        "en": "Never, regardless of how traffic is flowing.",
+        "ru": "Никогда, независимо от того, как движется транспорт."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es fundamental ceder el paso cuando el tránsito está interrumpido, permitiendo así una circulación más segura.",
+      "en": "It is essential to yield when traffic is interrupted, allowing for safer merging.",
+      "ru": "Важно уступить дорогу, когда движение прервано, что позволяет более безопасно вливаться в поток."
+    }
+  },
+  "citation": "【4:7†source】"
+}

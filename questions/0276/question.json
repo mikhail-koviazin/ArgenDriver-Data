@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Circular por debajo del límite mínimo de velocidad puede causar incidentes.",
+    "en": "Driving below the minimum speed limit can cause incidents.",
+    "ru": "Движение ниже минимально допустимой скорости может привести к инцидентам."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Reducir la velocidad por debajo del límite puede poner en riesgo la seguridad en la vía.",
+      "en": "Driving below the limit may endanger safety on the road.",
+      "ru": "Движение ниже предела может подвергнуть опасности безопасность на дороге."
+    }
+  },
+  "citation": "【4:7†source】"
+}

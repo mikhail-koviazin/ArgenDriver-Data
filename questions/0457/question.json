@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de la tres señales indica que la ruta es provincial?",
+    "en": "Which of the three signs indicates that the route is provincial?",
+    "ru": "Какая из трех знаков указывает, что дорога является провинциальной?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b273.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La señal A.",
+        "en": "Sign A.",
+        "ru": "Знак A."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal B.",
+        "en": "Sign B.",
+        "ru": "Знак B."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal C.",
+        "en": "Sign C.",
+        "ru": "Знак C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal C representa la indicación de rutas provinciales en Argentina.",
+      "en": "Sign C represents the indication of provincial routes in Argentina.",
+      "ru": "Знак C обозначает указание на провинциальные дороги в Аргентине."
+    }
+  },
+  "citation": "【4:11†source】"
+}

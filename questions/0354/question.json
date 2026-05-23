@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué vehículo puede realizar el acarreo de otro en esta vía?",
+    "en": "Which vehicle can tow another on this road?",
+    "ru": "Какое транспортное средство может буксировать другое на этой дороге?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b195.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cualquier vehículo que posea potencia suficiente para remolcar a otro vehículo y un elemento para sujetarlo firmemente.",
+        "en": "Any vehicle with enough power to tow another vehicle and a device to secure it tightly.",
+        "ru": "Любое транспортное средство с достаточной мощностью для буксировки другого транспортного средства и устройством для его надежного крепления."
+      }
+    },
+    {
+      "text": {
+        "es": "Cualquier vehículo utilizando la cuarta de enganche para que quede sujeto firmemente sin riesgo.",
+        "en": "Any vehicle using the fourth hook to be securely attached without risk.",
+        "ru": "Любое транспортное средство, использующее четвертый крюк для надежного прикрепления без риска."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo los vehículos destinados a ese fin.",
+        "en": "Only vehicles intended for that purpose.",
+        "ru": "Только транспортные средства, предназначенные для этой цели."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Solo vehículos diseñados específicamente para el acarreo pueden realizar esta tarea de manera segura y legal.",
+      "en": "Only vehicles specifically designed for towing can safely and legally perform this task.",
+      "ru": "Только специально предназначенные для буксировки транспортные средства могут безопасно и законно выполнять эту задачу."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal reglamentaria?",
+    "en": "What does this regulatory sign indicate?",
+    "ru": "Что указывает этот регуляторный знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b258.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que no se puede circular a una velocidad inferior a 35 km/h en esa vía.",
+        "en": "That you cannot drive at a speed lower than 35 km/h on that road.",
+        "ru": "Что нельзя ехать со скоростью ниже 35 км/ч на этой дороге."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que la velocidad máxima es de 35 km/h en esa vía.",
+        "en": "That the maximum speed is 35 km/h on that road.",
+        "ru": "Что максимальная скорость составляет 35 км/ч на этой дороге."
+      }
+    },
+    {
+      "text": {
+        "es": "Que la velocidad precautoria es de 35 km/h en esa vía.",
+        "en": "That the precautionary speed is 35 km/h on that road.",
+        "ru": "Что предостереженная скорость составляет 35 км/ч на этой дороге."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que la velocidad mínima permitida es de 35 km/h, prohibiendo velocidades inferiores.",
+      "en": "The sign indicates that the minimum allowed speed is 35 km/h, prohibiting lower speeds.",
+      "ru": "Знак указывает, что минимально допустимая скорость - 35 км/ч, запрещая более низкие скорости."
+    }
+  },
+  "citation": "【4:11†manual de tránsito】"
+}

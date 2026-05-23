@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿En qué parte del vehículo es conveniente poner el equipaje?",
+    "en": "Where is it advisable to place luggage in the vehicle?",
+    "ru": "Где целесообразно помещать багаж в автомобиле?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Lo más pesado en el fondo del baúl, cerca del centro del auto. Eso ayuda a la estabilidad direccional y al comportamiento en las curvas.",
+        "en": "The heaviest items should be in the bottom of the trunk, near the center of the car. This helps with directional stability and handling in curves.",
+        "ru": "Самые тяжелые вещи должны находиться в нижней части багажника, ближе к центру автомобиля. Это помогает обеспечить направление на дороге и управление на поворотах."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lo más pesado en el techo del vehículo, sujeto con sogas. Eso ayuda al centro de gravedad.",
+        "en": "The heaviest items on the roof of the vehicle, secured with ropes. That helps the center of gravity.",
+        "ru": "Самые тяжелые вещи на крыше автомобиля, закрепленные веревками. Это помогает центру тяжести."
+      }
+    },
+    {
+      "text": {
+        "es": "Lo más pesado en los asientos traseros (si es que se viaja sin ocupantes en esa zona). Eso ayuda a la estabilidad direccional.",
+        "en": "The heaviest items in the rear seats (if traveling without occupants in that area). That helps with directional stability.",
+        "ru": "Самые тяжелые вещи на задних сиденьях (если в этом районе нет пассажиров). Это помогает обеспечить направленность торможения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Colocar el equipaje pesado en el fondo del baúl mejora la estabilidad del vehículo en movimiento.",
+      "en": "Placing heavy luggage at the bottom of the trunk improves the vehicle's stability while moving.",
+      "ru": "Размещение тяжелого багажа в нижней части багажника улучшает стабильность автомобиля в движении."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

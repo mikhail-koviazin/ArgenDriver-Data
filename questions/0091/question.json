@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En un incidente de tránsito, ¿qué significa que el conductor sea considerado responsable por negligencia?",
+    "en": "In a traffic incident, what does it mean for the driver to be considered negligent?",
+    "ru": "В случае ДТП что значит, что водитель признан небрежным?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Que no ha respondido adecuadamente a una circunstancia del tránsito por falta de práctica en la conducción.",
+        "en": "That he has not adequately responded to a traffic circumstance due to lack of driving practice.",
+        "ru": "Что он недостаточно адекватно отреагировал на дорожную ситуацию из-за отсутствия практики в вождении."
+      }
+    },
+    {
+      "text": {
+        "es": "Que ha realizado un acto con su vehículo que las reglas de prudencia indican no hacer, o sea, que ha actuado peligrosamente.",
+        "en": "That he has carried out an act with his vehicle that the rules of prudence indicate not to do, that is, he has acted dangerously.",
+        "ru": "Что он совершил действие с своим автомобилем, которое правила осторожности предписывают не делать, то есть, он действовал опасно."
+      }
+    },
+    {
+      "text": {
+        "es": "Que ha actuado no conforme a las exigencias de la Ley.",
+        "en": "That he has acted not in accordance with the demands of the Law.",
+        "ru": "Что он действовал не в соответствии с требованиями Закона."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Responsabilidad por negligencia implica actuar en contravención a la ley, lo que lleva a consecuencias legales.",
+      "en": "Liability for negligence implies acting contrary to the law, leading to legal consequences.",
+      "ru": "Ответственность за небрежность подразумевает действие в противоречии закону, что приводит к юридическим последствиям."
+    }
+  },
+  "citation": "【4:0†source】"
+}

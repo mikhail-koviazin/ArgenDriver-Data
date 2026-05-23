@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Todos los ocupantes del vehículo viajan de manera correcta?",
+    "en": "Do all the occupants of the vehicle travel correctly?",
+    "ru": "Все пассажиры в автомобиле путешествуют правильно?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b217.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que la obligación del uso del cinturón de seguridad alcanza sólo al conductor.",
+        "en": "Yes, because the seatbelt requirement only applies to the driver.",
+        "ru": "Да, потому что требование о ремне безопасности распространяется только на водителя."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, ya que la obligación del uso del cinturón de seguridad alcanza sólo a las personas que se trasladen en los asientos delanteros.",
+        "en": "Yes, because the seatbelt requirement only applies to people in the front seats.",
+        "ru": "Да, потому что требование о ремне безопасности распространяется только на людей на передних сиденьях."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque la obligación del uso del cinturón de seguridad es para todas las personas transportadas.",
+        "en": "No, because the seatbelt requirement applies to all transported people.",
+        "ru": "Нет, потому что требование о ремне безопасности распространяется на всех пассажиров."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La legislación argentina exige el uso del cinturón de seguridad para todos los ocupantes del vehículo.",
+      "en": "Argentine law requires seatbelt use for all occupants of the vehicle.",
+      "ru": "Аргентинское законодательство требует использования ремней безопасности для всех пассажиров в автомобиле."
+    }
+  },
+  "citation": "[4:5†source]"
+}

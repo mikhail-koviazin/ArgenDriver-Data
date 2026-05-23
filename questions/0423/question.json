@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estas señales indica “Cruce de Peatones (máximo peligro)”?",
+    "en": "Which of these signals indicates 'Pedestrian Crossing (maximum danger)'?",
+    "ru": "Какой из этих знаков указывает на 'Пешеходный переход (максимальная опасность)'?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b239.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La señal A.",
+        "en": "Signal A.",
+        "ru": "Знак A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La señal B.",
+        "en": "Signal B.",
+        "ru": "Знак B."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal C.",
+        "en": "Signal C.",
+        "ru": "Знак C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal A se utiliza para advertir sobre cruces peatonales peligrosos.",
+      "en": "Signal A is used to warn about dangerous pedestrian crossings.",
+      "ru": "Знак A используется для предупреждения об опасных пешеходных переходах."
+    }
+  },
+  "citation": "[4:7†source]"
+}

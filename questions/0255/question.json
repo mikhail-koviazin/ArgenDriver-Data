@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las normas generales, ¿cuál es la velocidad máxima permitida para automóviles particulares en esta zona de la ruta?",
+    "en": "According to general regulations, what is the maximum speed allowed for private cars in this area of the road?",
+    "ru": "Согласно общим правилам, какова максимальная скорость, разрешенная для частных автомобилей в этой зоне дороги?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b137.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "110 km/h.",
+        "en": "110 km/h.",
+        "ru": "110 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "130 km/h.",
+        "en": "130 km/h.",
+        "ru": "130 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "80 km/h.",
+        "en": "80 km/h.",
+        "ru": "80 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permitida en carreteras para automóviles es 110 km/h.",
+      "en": "The maximum allowed speed on highways for cars is 110 km/h.",
+      "ru": "Максимально разрешенная скорость на автомагистралях для легковых автомобилей составляет 110 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

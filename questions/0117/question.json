@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "El consumo de medicamentos, ¿puede afectar la capacidad de conducir?",
+    "en": "Can the consumption of medications affect the ability to drive?",
+    "ru": "Может ли употребление лекарств повлиять на способность водить?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Siempre.",
+        "en": "Always.",
+        "ru": "Всегда."
+      }
+    },
+    {
+      "text": {
+        "es": "Nunca.",
+        "en": "Never.",
+        "ru": "Никогда."
+      }
+    },
+    {
+      "text": {
+        "es": "Depende del tipo de medicamento.",
+        "en": "It depends on the type of medication.",
+        "ru": "Это зависит от типа лекарства."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El efecto de los medicamentos en la conducción varía según el tipo, lo que puede influir en la capacidad de manejar.",
+      "en": "The effect of medications on driving varies by type, which can influence driving ability.",
+      "ru": "Влияние медикаментов на вождение зависит от типа, что может влиять на способность управлять."
+    }
+  },
+  "citation": "【4:0†source】"
+}

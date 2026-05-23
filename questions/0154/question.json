@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Indique el orden de prioridad normativo que debe respetar (de mayor a menor jerarquía):",
+    "en": "Indicate the order of regulatory priority that must be respected (from highest to lowest hierarchy):",
+    "ru": "Укажите порядок нормативного приоритета, который необходимо соблюдать (от высшего к низшему уровню):"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Normas legales de carácter general; Señalización; Indicaciones de la autoridad competente.",
+        "en": "Instructions from the competent authority; Signage; General legal rules.",
+        "ru": "Указания компетентного органа; Знаки; Общее законодательство."
+      }
+    },
+    {
+      "text": {
+        "es": "Indicaciones de la autoridad competente; Señalización; Normas legales de carácter general.",
+        "en": "General legal rules; Signage; Instructions from the competent authority.",
+        "ru": "Общие правовые нормы; Знаки; Указания компетентного органа."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Señalización; Normas legales de carácter general; Indicaciones de la autoridad competente.",
+        "en": "Signage; General legal rules; Instructions from the competent authority.",
+        "ru": "Знаки; Общие правовые нормы; Указания компетентного органа."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las indicaciones de la autoridad competente tienen mayor prioridad sobre la señalización y las normas legales.",
+      "en": "Instructions from the competent authority take precedence over signage and general legal rules.",
+      "ru": "Указания компетентного органа имеют приоритет над знаками и общими правовыми нормами."
+    }
+  },
+  "citation": "【4:12†source】"
+}

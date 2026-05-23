@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Quién tiene prioridad de paso en una rotonda?",
+    "en": "Who has the right of way in a roundabout?",
+    "ru": "Кто имеет преимущество на круговом перекрестке?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo que circule por la derecha.",
+        "en": "The vehicle traveling to the right.",
+        "ru": "Транспортное средство, двигающееся по правой стороне."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo que pretende acceder a la rotonda.",
+        "en": "The vehicle intending to enter the roundabout.",
+        "ru": "Транспортное средство, намеревающееся войти в круг."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo que se encuentra dentro de la calzada circular.",
+        "en": "The vehicle that is within the circular roadway.",
+        "ru": "Транспортное средство, находящееся на круговой дороге."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En una rotonda, el vehículo en circulación tiene prioridad sobre el que va a ingresar.",
+      "en": "In a roundabout, the vehicle already circulating has the right of way over those entering.",
+      "ru": "На круговом перекрестке транспортное средство, находящееся в движении, имеет преимущество перед въезжающим."
+    }
+  },
+  "citation": "【4:0†source】"
+}

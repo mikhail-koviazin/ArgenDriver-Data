@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué vehículos pueden circular por el carril señalizado en la imagen?",
+    "en": "Which vehicles can circulate in the lane signaled in the image?",
+    "ru": "Какие транспортные средства могут двигаться по проезжей части, обозначенной на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b25.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Todos los transportes de pasajeros.",
+        "en": "All passenger transports.",
+        "ru": "Все пассажирские перевозки."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo colectivos entre las 07 h y las 21 h.",
+        "en": "Only buses between 7 AM and 9 PM.",
+        "ru": "Только автобусы с 07:00 до 21:00."
+      }
+    },
+    {
+      "text": {
+        "es": "Colectivos autorizados y vehículos destinados al servicio de emergencia en cumplimiento de sus funciones.",
+        "en": "Authorized buses and vehicles destined for emergency service in compliance with their functions.",
+        "ru": "Авторизованные автобусы и транспортные средства, предназначенные для экстренной службы в соответствии с их функциями."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril está reservado para colectivos autorizados y emergencias, garantizando una circulación segura.",
+      "en": "The lane is reserved for authorized buses and emergencies, ensuring safe circulation.",
+      "ru": "Проезжая часть зарезервирована для авторизованных автобусов и экстренных служб, что обеспечивает безопасность движения."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

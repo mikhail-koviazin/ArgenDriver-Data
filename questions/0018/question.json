@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Indique cuál es la premisa correcta:",
+    "en": "Indicate which is the correct premise:",
+    "ru": "Укажите, какое утверждение верное:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Al tener más alternativas de movilidad no motorizada, como el uso de bicicleta, mayor es la probabilidad de siniestralidad.",
+        "en": "Having more alternatives for non-motorized mobility, such as using a bicycle, increases the likelihood of accidents.",
+        "ru": "Наличие большего количества альтернатив для немоторизованной мобильности, таких как использование велосипеда, увеличивает вероятность аварий."
+      }
+    },
+    {
+      "text": {
+        "es": "Al disminuir la cantidad de vehículos particulares, mayor es la probabilidad de siniestralidad.",
+        "en": "By decreasing the number of private vehicles, the likelihood of accidents increases.",
+        "ru": "С уменьшением числа частных автомобилей вероятность аварий увеличивается."
+      }
+    },
+    {
+      "text": {
+        "es": "A mayor cantidad de vehículos motorizados, mayor probabilidad de siniestralidad.",
+        "en": "The greater the number of motor vehicles, the greater the likelihood of accidents.",
+        "ru": "Чем больше количество моторизованных транспортных средств, тем выше вероятность аварий."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La cantidad de vehículos aumenta la probabilidad de colisiones y accidentes viales.",
+      "en": "The number of vehicles increases the likelihood of collisions and road accidents.",
+      "ru": "Количество автомобилей увеличивает вероятность столкновений и дорожно-транспортных происшествий."
+    }
+  },
+  "citation": "【4:10†source】"
+}

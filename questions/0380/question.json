@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El siguiente elemento de seguridad, está correctamente ubicado.",
+    "en": "The following safety element is correctly located.",
+    "ru": "Следующий элемент безопасности правильно расположен."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b206.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Ubicación incorrecta puede comprometer la seguridad del vehículo.",
+      "en": "Incorrect placement can compromise vehicle safety.",
+      "ru": "Неправильное размещение может поставить под угрозу безопасность автомобиля."
+    }
+  },
+  "citation": "【4:10†source】"
+}

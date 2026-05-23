@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En este cruce de dos calles sin semáforos, ¿cuál es el límite superior de la velocidad precautoria establecida por ley?",
+    "en": "At this intersection of two streets without traffic lights, what is the maximum precautionary speed limit established by law?",
+    "ru": "На этом перекрестке двух улиц без светофоров, каков максимальный рекомендованный лимит скорости по закону?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b142.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "20 kilómetros por hora.",
+        "en": "20 kilometers per hour.",
+        "ru": "20 километров в час."
+      }
+    },
+    {
+      "text": {
+        "es": "40 kilómetros por hora.",
+        "en": "40 kilometers per hour.",
+        "ru": "40 километров в час."
+      }
+    },
+    {
+      "text": {
+        "es": "30 kilómetros por hora.",
+        "en": "30 kilometers per hour.",
+        "ru": "30 километров в час."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En cruces sin semáforos, la velocidad precautoria máxima es de 30 km/h por ley.",
+      "en": "At intersections without traffic lights, the maximum precautionary speed is 30 km/h by law.",
+      "ru": "На перекрестках без светофоров максимальная осторожная скорость по закону составляет 30 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

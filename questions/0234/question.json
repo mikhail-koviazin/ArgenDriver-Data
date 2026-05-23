@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En una vía de doble sentido de circulación, ¿qué deberá comprobar antes de iniciar un sobrepaso?",
+    "en": "On a two-way road, what should you check before starting an overtaking maneuver?",
+    "ru": "На дороге с двухсторонним движением что нужно проверить перед началом обгона?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Que el vehículo que antecede, no tenga las luces intermitentes encendidas y que ningún vehículo circule en sentido contrario, mientras dure la maniobra de sobrepaso.",
+        "en": "That the vehicle in front does not have its turn signals on and that no vehicle is coming from the opposite direction during the overtaking maneuver.",
+        "ru": "Чтобы предшествующий транспорт не имел включённых поворотников и ни один транспорт не двигался навстречу во время обгона."
+      }
+    },
+    {
+      "text": {
+        "es": "Que ningún otro vehículo esté realizando la maniobra de sobrepaso.",
+        "en": "That no other vehicle is performing the overtaking maneuver.",
+        "ru": "Чтобы ни один другой транспорт не выполнял манёвр обгона."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, правильны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial asegurarse de que sea seguro y que no haya otros vehículos realizando la maniobra de sobrepaso.",
+      "en": "It is crucial to ensure that it is safe and that no other vehicles are attempting the overtaking maneuver.",
+      "ru": "Крайне важно убедиться, что это безопасно и что никакие другие транспортные средства не пытаются обогнать."
+    }
+  },
+  "citation": " "
+}

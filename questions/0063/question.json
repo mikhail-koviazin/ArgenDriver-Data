@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Las intervenciones horizontales señaladas, sirven para…",
+    "en": "The marked horizontal interventions serve to…",
+    "ru": "Отмеченные горизонтальные вмешательства служат для..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b34.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Incrementar la seguridad de los peatones.",
+        "en": "Increase the safety of pedestrians.",
+        "ru": "Увеличить безопасность пешеходов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Promover la movilidad vehicular.",
+        "en": "Promote vehicle mobility.",
+        "ru": "Содействовать автомобильной мобильности."
+      }
+    },
+    {
+      "text": {
+        "es": "Colaborar con la rapidez en la movilidad.",
+        "en": "Collaborate with the speed of mobility.",
+        "ru": "Содействовать скорости мобильности."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las intervenciones horizontales están diseñadas para mejorar la seguridad de los peatones en la vía pública.",
+      "en": "The horizontal interventions are designed to improve pedestrian safety on public roads.",
+      "ru": "Горизонтальные вмешательства предназначены для повышения безопасности пешеходов на общественных дорогах."
+    }
+  },
+  "citation": "【4:7†source】"
+}

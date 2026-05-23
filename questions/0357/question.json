@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Una conducción preventiva o anticipada prevé que todos podemos cometer errores, a pesar de conocer la normativa y la concientización gubernamental.",
+    "en": "Preventive or anticipatory driving assumes that we all can make mistakes, despite knowing the regulations and governmental awareness.",
+    "ru": "Предупредительное или предвосхищающую вождение предполагает, что все мы можем ошибаться, несмотря на знание нормативных актов и политику правительства."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La conducción anticipativa considera la posibilidad de errores humanos, priorizando la seguridad.",
+      "en": "Anticipatory driving considers the potential for human errors, prioritizing safety.",
+      "ru": "Предупредительное вождение учитывает возможность человеческих ошибок, отводя приоритет безопасности."
+    }
+  },
+  "citation": "[4:10†source]"
+}

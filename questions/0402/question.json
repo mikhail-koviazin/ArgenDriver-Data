@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según Ley N° 2148, ¿en qué plazas deben viajar los mayores de 12 años y con altura igual o superior a 1.50 mts.?",
+    "en": "According to Law No. 2148, in which seats should those over 12 years old and at least 1.50 meters tall travel?",
+    "ru": "Согласно Закону № 2148, на каких местах должны ездить люди старше 12 лет и ростом не менее 1.50 метров?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "En cualquier asiento pero siempre con el cinturón de seguridad debidamente sujeto.",
+        "en": "In any seat but always with the seatbelt properly fastened.",
+        "ru": "На любом сиденье, но всегда с правильно пристегнутым ремнем безопасности."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo en las plazas traseras con cinturón de seguridad debidamente sujeto.",
+        "en": "Only in the back seats with the seatbelt properly fastened.",
+        "ru": "Только на задних сиденьях с правильно пристегнутым ремнем безопасности."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo en dispositivo de retención infantil correspondiente a peso y talla, debidamente homologado.",
+        "en": "Only in an appropriate child restraint device according to weight and size, duly approved.",
+        "ru": "Только в соответствующем детском удерживающем устройстве по весу и размеру, должным образом сертифицированном."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los mayores de 12 años pueden viajar en cualquier asiento mientras usen cinturón de seguridad.",
+      "en": "Persons over 12 years can travel in any seat as long as they wear a seatbelt.",
+      "ru": "Лица старше 12 лет могут ездить на любом сидении, если они пристегивают ремень безопасности."
+    }
+  },
+  "citation": "【4:0†source】"
+}

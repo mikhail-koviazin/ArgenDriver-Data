@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cómo se pueden reducir los puntos ciegos al conducir un vehículo?",
+    "en": "How can blind spots be reduced when driving a vehicle?",
+    "ru": "Как уменьшить мертвые зоны при вождении автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Acomodar correctamente los espejos retrovisores antes de iniciar la marcha. Mientras se circula, además de revisar los espejos retrovisores, utilizar la visión periférica dando vistazos por encima de los hombros cuando sea necesario.",
+        "en": "Correctly adjust the rearview mirrors before starting to drive. While driving, in addition to checking the rearview mirrors, use peripheral vision by glancing over your shoulders when necessary.",
+        "ru": "Правильно отрегулируйте зеркала перед началом движения. Во время вождения, помимо проверки зеркал, используйте периферийное зрение, время от времени глядя через плечо, когда это необходимо."
+      }
+    },
+    {
+      "text": {
+        "es": "Antes de realizar una maniobra se debe disminuir la velocidad de circulación, colocar la luz de giro y mirar por los espejos realizando un pequeño movimiento corporal hacia adelante para ampliar el ángulo de visión.",
+        "en": "Before making a maneuver, one should reduce the speed, signal the turn, and check the mirrors while leaning slightly forward to increase the field of vision.",
+        "ru": "Перед совершением маневра нужно снизить скорость, включить поворотник и посмотреть в зеркала, немного наклонившись вперед, чтобы увеличить угол обзора."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Revisar los espejos y usar visión periférica son esenciales para manejar con seguridad.",
+      "en": "Checking mirrors and using peripheral vision are essential for safe driving.",
+      "ru": "Проверка зеркал и использование периферийного зрения важны для безопасного вождения."
+    }
+  },
+  "citation": "【4:2†source】"
+}

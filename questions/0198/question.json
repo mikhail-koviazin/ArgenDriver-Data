@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "¿Quién tiene prioridad de paso en el cruce de estas dos calles?",
+    "en": "Who has the right of way at the intersection of these two streets?",
+    "ru": "Кто имеет преимущество на пересечении этих двух улиц?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b99.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Транспортное средство A."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Транспортное средство B."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo B tiene prioridad porque circula en la vía principal o tiene una señal que le otorga preferencia.",
+      "en": "Vehicle B has priority because it is on the main road or has a sign granting it right of way.",
+      "ru": "Транспортное средство B имеет преимущество, поскольку находится на главной дороге или имеет знак, предоставляющий ему преимущество."
+    }
+  },
+  "citation": "【4:3†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al circular en ruta se encuentra con esta señal, ¿qué conducta debe seguir?",
+    "en": "If while driving on the road you encounter this sign, what behavior should you follow?",
+    "ru": "Если вы находитесь на дороге и увидите этот знак, какое поведение вам следует соблюдать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b147.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se debe disminuir la velocidad y prestar atención a la posible aproximación de trenes.",
+        "en": "You should reduce speed and pay attention to the possible approach of trains.",
+        "ru": "Необходимо снизить скорость и обратить внимание на возможное приближение поездов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se continúa con la misma velocidad, salvo que se haga efectiva la aproximación del tren.",
+        "en": "Continue at the same speed unless the train's approach is confirmed.",
+        "ru": "Продолжайте с той же скоростью, если приближение поезда не подтверждено."
+      }
+    },
+    {
+      "text": {
+        "es": "Se indica al resto de los conductores, la precaución sobre la aproximación de trenes, colocando balizas.",
+        "en": "Indicate to other drivers to be cautious of the approaching trains by placing warning lights.",
+        "ru": "Сообщите другим водителям о необходимости предостережения относительно приближающихся поездов, установив предупредительные огни."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que hay un paso a nivel ferroviario, lo que es potencialmente peligroso.",
+      "en": "The sign indicates there is a railway level crossing, which is potentially dangerous.",
+      "ru": "Знак указывает на наличие железнодорожного переезда, что потенциально опасно."
+    }
+  },
+  "citation": "【4:11†source】"
+}

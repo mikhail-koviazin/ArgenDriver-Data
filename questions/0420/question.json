@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown below indicates:",
+    "ru": "Определите, что указывает сигнал, представленный ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b236.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Estrechamiento (en las dos manos).",
+        "en": "Divided roadway.",
+        "ru": "Разделенная дорога."
+      }
+    },
+    {
+      "text": {
+        "es": "Calzada dividida.",
+        "en": "Narrowing (in both directions).",
+        "ru": "Сужение (в обеих направлениях)."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Inicio doble mano.",
+        "en": "Start of a two-way road.",
+        "ru": "Начало двухстороннего движения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que la calzada está dividida, permitiendo circulación en ambas direcciones.",
+      "en": "The sign indicates that the roadway is divided, allowing traffic in both directions.",
+      "ru": "Знак указывает на то, что дорога разделена, разрешая движение в обеих направлениях."
+    }
+  },
+  "citation": " "
+}

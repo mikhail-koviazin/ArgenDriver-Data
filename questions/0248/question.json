@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las normas generales, ¿cuál es la velocidad máxima permitida en esta calle?",
+    "en": "According to the general rules, what is the maximum speed allowed on this street?",
+    "ru": "Согласно общим правилам, какова максимальная скорость, разрешенная на этой улице?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b130.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "70 km/h.",
+        "en": "70 km/h.",
+        "ru": "70 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permitida en calles urbanas es de 40 km/h.",
+      "en": "The maximum allowed speed on urban streets is 40 km/h.",
+      "ru": "Максимально разрешенная скорость в городских улицах составляет 40 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

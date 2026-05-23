@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la “distancia mínima de seguridad” a la que debe circular el vehículo A con respecto al B?",
+    "en": "What is the 'minimum safety distance' at which vehicle A should circulate relative to vehicle B?",
+    "ru": "Каково 'минимальное дистанционное расстояние', на котором автомобиль A должен двигаться относительно автомобиля B?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b144.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "A una diferencia de dos segundos.",
+        "en": "Two seconds apart.",
+        "ru": "На расстоянии двух секунд."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A una distancia de 2 metros.",
+        "en": "At a distance of 2 meters.",
+        "ru": "На расстоянии 2 метров."
+      }
+    },
+    {
+      "text": {
+        "es": "No existe una determinada. Sólo está prohibido circular inmediatamente detrás, sin dejar distancia.",
+        "en": "There is no specific distance. It is only prohibited to circulate immediately behind, without leaving distance.",
+        "ru": "Нет определенного расстояния. Запрещено только двигаться сразу за другим транспортным средством, не оставляя дистанцию."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La distancia de seguridad recomendada es de dos segundos para evitar colisiones.",
+      "en": "The recommended safety distance is two seconds to avoid collisions.",
+      "ru": "Рекомендуемая дистанция безопасности составляет две секунды для избежания столкновений."
+    }
+  },
+  "citation": "【4:4†source】"
+}

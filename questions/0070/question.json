@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál de las siguientes imágenes muestra una bicisenda?",
+    "en": "Which of the following images shows a bike lane?",
+    "ru": "Какое из следующих изображений показывает велодорожку?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b41.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción C.",
+        "en": "Option C.",
+        "ru": "Вариант C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La bicisenda está físicamente separada de la calzada y delimitada.",
+      "en": "The bike lane is physically separated from the roadway and marked.",
+      "ru": "Велодорожка физически отделена от проезжей части и обозначена."
+    }
+  }
+}

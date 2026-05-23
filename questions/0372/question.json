@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En cuanto al grado o tono de color que pueden tener los cristales de un automóvil, ¿qué establece la ley 2148, con respecto a su control en la vía pública?",
+    "en": "Regarding the degree or shade of color that car windows may have, what does law 2148 establish regarding its control on public roads?",
+    "ru": "Что устанавливает закон 2148 относительно контроля за цветом стекол автомобиля на общественных дорогах?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Para medir el grado de tonalidad debe efectuarse una prueba colorimétrica mediante un dispositivo portátil reglamentado debidamente.",
+        "en": "To measure the degree of tinting, a colorimetric test must be carried out using a duly regulated portable device.",
+        "ru": "Для измерения степени тонирования необходимо провести колориметрический тест с использованием должным образом регулируемого портативного устройства."
+      }
+    },
+    {
+      "text": {
+        "es": "Se deben distinguir los ocupantes del vehículo a corta distancia.",
+        "en": "The vehicle's occupants must be distinguishable from a short distance.",
+        "ru": "Пассажиры автомобиля должны быть различимы на близком расстоянии."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se debería poder observar las facciones del conductor a una distancia mínima de 15 metros.",
+        "en": "The driver's features should be observable from a minimum distance of 15 meters.",
+        "ru": "Лицо водителя должно быть видно с минимального расстояния 15 метров."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ley 2148 exige que los ocupantes sean visibles para garantizar la seguridad en la conducción.",
+      "en": "Law 2148 requires occupants to be visible to ensure safety while driving.",
+      "ru": "Закон 2148 требует, чтобы пассажиры были видимы для обеспечения безопасности во время вождения."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuáles de los siguientes vehículos NO se encuentran en infracción?",
+    "en": "Which of the following vehicles are NOT in violation?",
+    "ru": "Какие из следующих транспортных средств НЕ нарушают правила?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b112.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Los vehículos A y B.",
+        "en": "Vehicles A and B.",
+        "ru": "Транспортные средства A и B."
+      }
+    },
+    {
+      "text": {
+        "es": "Los vehículos A y C.",
+        "en": "Vehicles A and C.",
+        "ru": "Транспортные средства A и C."
+      }
+    },
+    {
+      "text": {
+        "es": "Los vehículos B y C.",
+        "en": "Vehicles B and C.",
+        "ru": "Транспортные средства B и C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La respuesta correcta es que los vehículos B y C no violan ninguna regla.",
+      "en": "The correct answer is that vehicles B and C do not violate any rules.",
+      "ru": "Правильный ответ: транспортные средства B и C не нарушают никаких правил."
+    }
+  },
+  "citation": "【4:4†source】"
+}

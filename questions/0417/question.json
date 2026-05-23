@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign presented indicates:",
+    "ru": "Определите, что указывает представленный знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b233.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Rotonda.",
+        "en": "Roundabout.",
+        "ru": "Круговое движение."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Peligro extremo de rotonda.",
+        "en": "Extreme danger of roundabout.",
+        "ru": "Экстремальная опасность круга."
+      }
+    },
+    {
+      "text": {
+        "es": "Preferencia de avance.",
+        "en": "Priority of advance.",
+        "ru": "Приоритет движения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que hay una rotonda, donde los vehículos dentro tienen prioridad.",
+      "en": "The sign indicates that there is a roundabout, where vehicles inside have priority.",
+      "ru": "Знак указывает на наличие кольцевого движения, где приоритет имеют автомобили внутри."
+    }
+  },
+  "citation": " "
+}

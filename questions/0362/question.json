@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Para qué sirve esta varilla metálica?",
+    "en": "What is the purpose of this metal rod?",
+    "ru": "Какова цель этого металлического стержня?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b199.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Para comprobar la temperatura del aceite.",
+        "en": "To check the oil temperature.",
+        "ru": "Для проверки температуры масла."
+      }
+    },
+    {
+      "text": {
+        "es": "Para comprobar el nivel del aceite.",
+        "en": "To check the oil level.",
+        "ru": "Чтобы проверить уровень масла."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Para comprobar la presión del aceite y del líquido de frenos.",
+        "en": "To check the oil and brake fluid pressure.",
+        "ru": "Для проверки давления масла и тормозной жидкости."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La varilla metálica se utiliza para medir el nivel del aceite en el motor, asegurando un funcionamiento adecuado.",
+      "en": "The metal rod is used to measure the oil level in the engine, ensuring proper operation.",
+      "ru": "Металлический стержень используется для измерения уровня масла в двигателе, что обеспечивает его правильную работу."
+    }
+  },
+  "citation": "【4:1†source】"
+}

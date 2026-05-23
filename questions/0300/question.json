@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Encender las balizas permite detenerse en doble fila por un lapso de tiempo, entre 2 y 5 minutos.",
+    "en": "Turning on the hazard lights allows for double parking for a duration of 2 to 5 minutes.",
+    "ru": "Включение аварийной сигнализации позволяет парковаться в два ряда на срок от 2 до 5 минут."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Detenerse en doble fila no está permitido, incluso con balizas encendidas.",
+      "en": "Double parking is not allowed, even with hazard lights on.",
+      "ru": "Парковка в два ряда не разрешена, даже с включенной аварийной сигнализацией."
+    }
+  },
+  "citation": "[4:12†manual.pdf]"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Para realizar una conducción segura, ¿cuándo es recomendable verificar la orientación de los espejos retrovisores?",
+    "en": "To ensure safe driving, when is it advisable to check the orientation of the rearview mirrors?",
+    "ru": "Для обеспечения безопасного вождения, когда рекомендуется проверять ориентацию зеркал заднего вида?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Antes de iniciar la marcha.",
+        "en": "Before starting to drive.",
+        "ru": "Перед началом движения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Durante la conducción, para poder hacer una prueba real.",
+        "en": "During driving, to conduct a real test.",
+        "ru": "Во время вождения, чтобы провести реальный тест."
+      }
+    },
+    {
+      "text": {
+        "es": "Con el vehículo inmovilizado y el conductor fuera del mismo.",
+        "en": "With the vehicle immobilized and the driver outside.",
+        "ru": "С остановленным автомобилем и водителем вне его."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante ajustar los espejos antes de conducir para garantizar la visibilidad adecuada.",
+      "en": "It's important to adjust mirrors before driving to ensure proper visibility.",
+      "ru": "Важно отрегулировать зеркала перед началом движения, чтобы обеспечить хорошую видимость."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

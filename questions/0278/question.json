@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Los excesos de velocidad...",
+    "en": "Speeding is responsible for most fatal incidents regardless of the type of road.",
+    "ru": "Превышение скорости является причиной большинства смертельных инцидентов независимо от типа дороги."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "En la actualidad apenas tienen incidencia en los incidentes, debido a la seguridad de los vehículos.",
+        "en": "Currently, they hardly impact incidents, due to vehicle safety.",
+        "ru": "В настоящее время они едва ли влияют на инциденты из-за безопасности автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "Son responsables de la mayoría de los incidentes solamente en vías de doble sentido.",
+        "en": "They are responsible for most incidents only on two-way roads.",
+        "ru": "Они несут ответственность за большинство инцидентов только на двухсторонних дорогах."
+      }
+    },
+    {
+      "text": {
+        "es": "Son responsables de la mayoría de los incidentes fatales cualquiera sea la vía de circulación.",
+        "en": "They are responsible for most fatal incidents regardless of the type of road.",
+        "ru": "Они несут ответственность за большинство смертельных инцидентов независимо от типа дороги."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El exceso de velocidad es una de las principales causas de accidentes fatales en rutas.",
+      "en": "Speeding is one of the main causes of fatal accidents on roads.",
+      "ru": "Превышение скорости является одной из основных причин смертельных аварий на дорогах."
+    }
+  },
+  "citation": "【4:6†source】"
+}

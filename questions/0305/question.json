@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Este vehículo se encuentra bien estacionado?",
+    "en": "Is this vehicle properly parked?",
+    "ru": "Запаркован ли этот автомобиль правильно?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b165.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí. Al no estar el cordón pintado de amarillo, está habilitado a estacionarse y detenerse.",
+        "en": "Yes. Since the curb is not painted yellow, parking and stopping is allowed.",
+        "ru": "Да. Поскольку бордюр не окрашен в желтый, парковка и остановка разрешены."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí. Al no estar el cordón pintado de rojo, está habilitado a estacionarse pero no a detenerse.",
+        "en": "Yes. Since the curb is not painted red, parking is allowed but not stopping.",
+        "ru": "Да. Поскольку бордюр не окрашен в красный, парковка разрешена, но не остановка."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque debería estar más alejado del cordón (a 20 cm de él).",
+        "en": "No, because it should be parked further away from the curb (20 cm from it).",
+        "ru": "Нет, потому что он должен быть припаркован дальше от бордюра (на 20 см от него)."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo debe estar a al menos 20 cm del cordón para estar correctamente estacionado.",
+      "en": "The vehicle must be at least 20 cm away from the curb to be parked properly.",
+      "ru": "Автомобиль должен находиться на расстоянии не менее 20 см от бордюра, чтобы быть правильно припаркованным."
+    }
+  },
+  "citation": "【4:17†source】"
+}

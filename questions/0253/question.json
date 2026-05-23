@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida para automóviles particulares en este tramo de la Av. Costanera Rafael Obligado?",
+    "en": "What is the maximum allowed speed for private cars in this section of Av. Costanera Rafael Obligado?",
+    "ru": "Какова максимальная допустимая скорость для легковых автомобилей в этом участке авеню Костанера Рафаэля Облигадо?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b135.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "70 km/h.",
+        "en": "70 km/h.",
+        "ru": "70 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima en avenidas es de 60 km/h según las normas de tránsito.",
+      "en": "The maximum speed on avenues is 60 km/h according to traffic regulations.",
+      "ru": "Максимальная скорость на проспектах составляет 60 км/ч согласно правилам дорожного движения."
+    }
+  },
+  "citation": "【4:2†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En esta intersección sin semáforos, donde el conductor del vehículo realiza un giro a la derecha, ¿quién tiene prioridad de paso?",
+    "en": "At this intersection without traffic lights, where the vehicle driver makes a right turn, who has the right of way?",
+    "ru": "На этом перекрестке без светофоров, где водитель автомобиля выполняет поворот направо, кто имеет преимущество?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b95.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El automóvil, porque circula por la mano derecha.",
+        "en": "The car, because it drives on the right side.",
+        "ru": "Автомобиль, потому что он движется по правой стороне."
+      }
+    },
+    {
+      "text": {
+        "es": "El ciclista, porque el automóvil pierde la prioridad al querer girar.",
+        "en": "The cyclist, because the car loses priority when attempting to turn.",
+        "ru": "Велосипедист, потому что автомобиль теряет приоритет, пытаясь повернуть."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El ciclista, porque al circular por la ciclovía siempre tiene prioridad.",
+        "en": "The cyclist, because when riding in the bike lane they always have priority.",
+        "ru": "Велосипедист, потому что при движении по велосипедной дорожке он всегда имеет приоритет."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El ciclista tiene prioridad sobre el automóvil al girar, ya que el automóvil debe ceder el paso.",
+      "en": "The cyclist has priority over the car when turning, as the car must yield.",
+      "ru": "Велосипедист имеет приоритет перед автомобилем при повороте, так как автомобиль должен уступить."
+    }
+  },
+  "citation": "【4:9†source】"
+}

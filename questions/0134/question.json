@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "El cansancio puede verse inducido por ingerir:",
+    "en": "Fatigue can be induced by ingesting:",
+    "ru": "Усталость может быть вызвана употреблением:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Bebidas alcohólicas.",
+        "en": "Alcoholic beverages.",
+        "ru": "Алкогольные напитки."
+      }
+    },
+    {
+      "text": {
+        "es": "Comidas abundantes.",
+        "en": "Abundant meals.",
+        "ru": "Обильные блюда."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cansancio puede ser causado tanto por el consumo de alcohol como por comidas pesadas.",
+      "en": "Fatigue can be caused by both alcohol consumption and heavy meals.",
+      "ru": "Усталость может быть вызвана как употреблением алкоголя, так и обильными блюдами."
+    }
+  },
+  "citation": "【4:1†manual.pdf】"
+}

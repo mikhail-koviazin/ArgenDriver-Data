@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué peligro debe preverse al sobrepasar un colectivo detenido?",
+    "en": "What danger should be foreseen when overtaking a stopped bus?",
+    "ru": "Какую опасность следует предусмотреть при обгоне остановленного автобуса?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Que los peatones, ocultos por el colectivo, puedan cruzar por delante o por detrás de éste.",
+        "en": "That pedestrians, hidden by the bus, may cross in front of or behind it.",
+        "ru": "Что пешеходы, скрытые автобусом, могут перейти впереди или позади него."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que los pasajeros bajen por la parte izquierda del colectivo detenido.",
+        "en": "That passengers get off on the left side of the stopped bus.",
+        "ru": "Что пассажиры выходят с левой стороны остановленного автобуса."
+      }
+    },
+    {
+      "text": {
+        "es": "Ninguno, mientras no sobrepase la velocidad máxima permitida por la Ley.",
+        "en": "None, as long as the maximum legal speed is not exceeded.",
+        "ru": "Ничего, если не превышать максимальную законную скорость."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial tener cuidado al sobrepasar un colectivo porque los peatones pueden aparecer repentinamente.",
+      "en": "It is crucial to be cautious when overtaking a bus because pedestrians can appear unexpectedly.",
+      "ru": "Важно быть осторожным при обгоне автобуса, поскольку пешеходы могут неожиданно появиться."
+    }
+  },
+  "citation": "【4:1†source】"
+}

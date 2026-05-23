@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si el conductor de un vehículo se niega a realizar este test, ¿constituye ésto una falta?",
+    "en": "If the driver of a vehicle refuses to take this test, does it constitute an infringement?",
+    "ru": "Если водитель автомобиля отказывается от этого теста, является ли это правонарушением?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b53.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sólo si se ha participado de un siniestro vial.",
+        "en": "Only if involved in a traffic accident.",
+        "ru": "Только в случае участия в ДТП."
+      }
+    },
+    {
+      "text": {
+        "es": "No. Sólo la prueba positiva, efectivamente realizada, se considera una falta.",
+        "en": "No. Only the positively performed test is considered a fault.",
+        "ru": "Нет. Только положительный тест, фактически пройденный, считается нарушением."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, la misma se toma como una presunción de alcoholemia positiva.",
+        "en": "Yes, it is taken as a presumption of positive blood alcohol content.",
+        "ru": "Да, это рассматривается как презумпция положительного содержания алкоголя в крови."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Negarse a realizar la prueba de alcoholemia implica una presunción de que el conductor está bajo la influencia de alcohol.",
+      "en": "Refusing to take the breathalyzer test implies a presumption that the driver is under the influence of alcohol.",
+      "ru": "Отказ от прохождения теста на алкоголь подразумевает предположение о том, что водитель находится под влиянием алкоголя."
+    }
+  },
+  "citation": "[4:1†source]"
+}

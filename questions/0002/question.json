@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las últimas estadísticas del Observatorio Vial de la Ciudad de Bs. As., la tasa más alta de víctimas fatales como consecuencia de incidentes de tránsito (luego de los peatones) son los usuarios de:",
+    "en": "According to the latest statistics from the Road Observatory of Buenos Aires, the highest rate of fatalities due to traffic incidents (after pedestrians) are users of:",
+    "ru": "Согласно последним статистическим данным Дорожного наблюдательного совета Буэнос-Айреса, наивысший уровень смертности в результате дорожных происшествий (после пешеходов) приходится на пользователей:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b2.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción C.",
+        "en": "Option C.",
+        "ru": "Вариант C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los motociclistas tienen una alta tasa de mortalidad debido a su vulnerabilidad en la vía.",
+      "en": "Motorcyclists have a high mortality rate due to their vulnerability on the road.",
+      "ru": "Мотоциклистам угрожает высокий уровень смертности из-за их уязвимости на дороге."
+    }
+  },
+  "citation": "【4:7†source】"
+}

@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Conducir de noche aumenta el riesgo de sufrir un incidente.",
+    "en": "Driving at night increases the risk of encountering an incident.",
+    "ru": "Вождение ночью увеличивает риск несчастного случая."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La baja visibilidad durante la noche dificulta la percepción de obstáculos y otros vehículos.",
+      "en": "Low visibility at night makes it harder to perceive obstacles and other vehicles.",
+      "ru": "Низкая видимость ночью затрудняет восприятие препятствий и других транспортных средств."
+    }
+  },
+  "citation": "【4:0†source】"
+}

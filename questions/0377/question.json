@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al circular se presenta la siguiente situación, ¿cuál es la acción que se recomienda realizar?",
+    "en": "If while driving the following situation occurs, what action is recommended?",
+    "ru": "Если при движении возникает следующая ситуация, какое действие рекомендуется?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b204.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Frenar inmediatamente.",
+        "en": "Brake immediately.",
+        "ru": "Резко тормозить."
+      }
+    },
+    {
+      "text": {
+        "es": "Desacelerar rápidamente y frenar.",
+        "en": "Decelerate quickly and brake.",
+        "ru": "Быстро замедлиться и тормозить."
+      }
+    },
+    {
+      "text": {
+        "es": "Desacelerar lentamente y sujetar el volante.",
+        "en": "Slowly decelerate and grip the steering wheel.",
+        "ru": "Медленно замедляйтесь и держитесь за рулевое колесо."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Desacelerar lentamente permite mantener el control del vehículo y reaccionar adecuadamente.",
+      "en": "Slowly decelerating allows maintaining vehicle control and reacting appropriately.",
+      "ru": "Медленное замедление позволяет сохранить контроль над автомобилем и адекватно реагировать."
+    }
+  },
+  "citation": "【4:10†source】"
+}

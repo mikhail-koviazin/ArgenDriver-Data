@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es correcto estacionar el vehículo de esta manera?",
+    "en": "Is it correct to park the vehicle this way?",
+    "ru": "Правильно ли парковать автомобиль таким образом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b149.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, excepto que se encuentre junto al cordón del garaje del propietario del vehículo.",
+        "en": "No, except when it is next to the owner's garage curb.",
+        "ru": "Нет, кроме случаев, когда он находится рядом с бордюром гаража владельца автомобиля."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, siempre que se estacione paralelo al cordón los días no hábiles.",
+        "en": "Yes, as long as it is parked parallel to the curb on non-working days.",
+        "ru": "Да, если он припаркован параллельно бордюру в нерабочие дни."
+      }
+    },
+    {
+      "text": {
+        "es": "No. Está prohibido ya que pone en riesgo a los ciclistas.",
+        "en": "No. It is prohibited as it puts cyclists at risk.",
+        "ru": "Нет. Это запрещено, так как ставит под угрозу велосипедистов."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Estacionar así bloquea el espacio para ciclistas, afectando su seguridad.",
+      "en": "Parking this way blocks space for cyclists, affecting their safety.",
+      "ru": "Парковка таким образом блокирует пространство для велосипедистов, что влияет на их безопасность."
+    }
+  },
+  "citation": "[4:13†source]"
+}

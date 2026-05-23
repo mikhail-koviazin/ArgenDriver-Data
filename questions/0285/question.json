@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿El vehículo de la imagen se encuentra en infracción?",
+    "en": "Is the vehicle in the image violating any rules?",
+    "ru": "Нарушает ли автомобиль на изображении какие-либо правила?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b148.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, salvo que el propietario del vehículo sea el mismo que el de la vivienda.",
+        "en": "Yes, unless the vehicle owner is the same as the homeowner.",
+        "ru": "Да, если только владелец автомобиля тот же, что и владелец жилья."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que hay espacio suficiente para el paso del peatón.",
+        "en": "No, as there is enough space for pedestrians to pass.",
+        "ru": "Нет, так как для пешеходов достаточно места."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son incorrectas.",
+        "en": "Both answers A and B are incorrect.",
+        "ru": "Обе ответы A и B неверны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un vehículo no puede estacionarse en la acera, esto afecta la seguridad del peatón.",
+      "en": "A vehicle cannot park on the sidewalk as it endangers pedestrian safety.",
+      "ru": "Автомобиль не может парковаться на тротуаре, так как это угрожает безопасности пешеходов."
+    }
+  },
+  "citation": "【4:5†source】"
+}

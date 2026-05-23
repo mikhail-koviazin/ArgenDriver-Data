@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Para evitar o retrasar la aparición de la fatiga, es aconsejable que el conductor:",
+    "en": "To avoid or delay the onset of fatigue, it is advisable that the driver:",
+    "ru": "Чтобы избежать или задержать появление усталости, рекомендуется, чтобы водитель:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Escuche música a alto volúmen.",
+        "en": "Listen to music at high volume.",
+        "ru": "Слушайте музыку на высоком уровне громкости."
+      }
+    },
+    {
+      "text": {
+        "es": "Mantenga el interior del vehículo a una temperatura superior a 25 °C.",
+        "en": "Keep the interior of the vehicle at a temperature above 25 °C.",
+        "ru": "Держите внутреннюю часть автомобиля при температуре выше 25 °C."
+      }
+    },
+    {
+      "text": {
+        "es": "Mantenga bien ventilado el interior del vehículo.",
+        "en": "Keep the interior of the vehicle well ventilated.",
+        "ru": "Обеспечьте хорошую вентиляцию внутри автомобиля."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ventilación adecuada reduce la fatiga y mejora la concentración del conductor.",
+      "en": "Adequate ventilation reduces fatigue and improves the driver's concentration.",
+      "ru": "Адекватная вентиляция снижает усталость и повышает Concentration водителя."
+    }
+  },
+  "citation": "[4:4†source]"
+}

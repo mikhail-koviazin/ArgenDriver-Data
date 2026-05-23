@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal preventiva?",
+    "en": "What does this warning sign indicate?",
+    "ru": "Что указывает этот предупредительный знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b234.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Indica que de la elevación próxima a la ruta, pueden desprenderse rocas o partes que ruedan sobre la calzada.",
+        "en": "Indicates that rocks or parts can detach from the elevation near the road and roll onto the roadway.",
+        "ru": "Указывает на то, что из-за возвышенности рядом с дорогой могут отрываться камни или части и катиться на проезжую часть."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Indica que circulamos por una zona selvática.",
+        "en": "Indicates that we are traveling through a jungle area.",
+        "ru": "Указывает на то, что мы проезжаем через джунгли."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica que por la vía en la que se circula, la calzada presenta irregularidades.",
+        "en": "Indicates that the roadway has irregularities.",
+        "ru": "Указывает на то, что на дороге есть неровности."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal alertará sobre el desprendimiento de rocas, lo que puede ser peligroso para la circulación.",
+      "en": "The sign warns of potential rock falls, which can be hazardous for drivers.",
+      "ru": "Знак предупреждает о возможных обрушениях скал, что может быть опасно для водителей."
+    }
+  },
+  "citation": "【4:8†source】"
+}

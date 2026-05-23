@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si al circular por ruta, el vehículo sale involuntariamente de la calzada, es recomendable:",
+    "en": "If while driving on a road, the vehicle unintentionally leaves the roadway, it is advisable:",
+    "ru": "Если во время движения по дороге автомобиль невольно покидает проезжую часть, рекомендуется:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Usar el freno de mano.",
+        "en": "Decelerate (do not brake).",
+        "ru": "Снижать скорость (не тормозить)."
+      }
+    },
+    {
+      "text": {
+        "es": "Desacelerar (no frenar).",
+        "en": "Use the handbrake.",
+        "ru": "Использовать стояночный тормоз."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Accionar fuertemente el pedal de freno.",
+        "en": "Apply the brake pedal hard.",
+        "ru": "Сильно нажать на тормоза."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es recomendable desacelerar gradualmente para mantener el control del vehículo.",
+      "en": "It's advisable to gradually decelerate to maintain control of the vehicle.",
+      "ru": "Рекомендуется постепенно снижать скорость, чтобы сохранить контроль над автомобилем."
+    }
+  },
+  "citation": "【4:18†source】"
+}

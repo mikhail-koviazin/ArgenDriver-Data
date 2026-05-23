@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál de estas sustancias pueden afectar negativamente la capacidad de conducir?",
+    "en": "Which of these substances can negatively affect driving ability?",
+    "ru": "Какие из этих веществ могут негативно повлиять на способность к вождению?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Todos los medicamentos, de venta libre, que no necesitan receta.",
+        "en": "All medications with sedative effects.",
+        "ru": "Все лекарства с седативным эффектом."
+      }
+    },
+    {
+      "text": {
+        "es": "Todos los medicamentos con efectos sedantes.",
+        "en": "All over-the-counter medications that do not require a prescription.",
+        "ru": "Все лекарства, отпускать без рецепта, которые не требуют рецепта."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, правильные."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los medicamentos con efectos sedantes pueden provocar somnolencia y afectar la coordinación.",
+      "en": "Medications with sedative effects can cause drowsiness and affect coordination.",
+      "ru": "Лекарства с седативным эффектом могут вызывать сонливость и ухудшать координацию."
+    }
+  },
+  "citation": "【4:0†source】"
+}

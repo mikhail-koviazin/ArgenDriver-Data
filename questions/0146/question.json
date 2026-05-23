@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La siguiente acción del conductor, ¿es considerada un factor de riesgo?",
+    "en": "Is the following action of the driver considered a risk factor?",
+    "ru": "Является ли следующее действие водителя фактором риска?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b59.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que el conductor no está utilizando sus manos para mantener una comunicación telefónica.",
+        "en": "No, since the driver is not using their hands to engage in telephone communication.",
+        "ru": "Нет, так как водитель не использует руки для телефонной связи."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, sólo cuando circula a altas velocidades.",
+        "en": "Yes, only when driving at high speeds.",
+        "ru": "Да, только при движении на высокой скорости."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque interfiere en su atención al contexto.",
+        "en": "Yes, because it interferes with their attention to the context.",
+        "ru": "Да, потому что это мешает их вниманию к ситуации."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso del teléfono celular distrae al conductor y reduce su atención, aumentando el riesgo de accidentes.",
+      "en": "Using a mobile phone distracts the driver and reduces their attention, increasing the risk of accidents.",
+      "ru": "Использование мобильного телефона отвлекает водителя и снижает его внимание, увеличивая риск аварий."
+    }
+  },
+  "citation": "【4:6†source】"
+}

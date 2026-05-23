@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что указывает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b223.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Prohibido estacionar por la existencia de un aeropuerto cercano.",
+        "en": "Low altitude flights of aircraft over the road, due to the proximity of an airfield or airport.",
+        "ru": "Низколетящие самолеты над дорогой из-за близости аэропорта."
+      }
+    },
+    {
+      "text": {
+        "es": "Vuelos a baja altura de aviones sobre la vía, por la proximidad de aeródromo o aeropuerto.",
+        "en": "No parking due to the existence of a nearby airport.",
+        "ru": "Запрещено парковаться из-за близости аэропорта."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibido estacionar y detenerse por la existencia de un aeropuerto cercano.",
+        "en": "No stopping or parking due to the existence of a nearby airport.",
+        "ru": "Запрещено остановка и парковка из-за близости аэропорта."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal alerta sobre vuelos bajos de aviones, indicando riesgo en la vía.",
+      "en": "The sign warns about low flights of aircraft, indicating a risk on the road.",
+      "ru": "Знак предупреждает о низколетящих самолетах, указывая на риск на дороге."
+    }
+  },
+  "citation": "【4:9†source】"
+}

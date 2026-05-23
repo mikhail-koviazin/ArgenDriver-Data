@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la siguiente situación, ¿a quién le corresponde la prioridad de paso?",
+    "en": "In the following situation, who has the right of way?",
+    "ru": "В следующей ситуации, кому принадлежит преимущество в проезде?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b104.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Al automóvil.",
+        "en": "To the bus.",
+        "ru": "Автобусу."
+      }
+    },
+    {
+      "text": {
+        "es": "Al colectivo.",
+        "en": "To the car.",
+        "ru": "Автомобилю."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto.",
+        "en": "It is the same.",
+        "ru": "Не имеет значения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El colectivo tiene prioridad sobre otros vehículos al cruzar intersecciones.",
+      "en": "The bus has priority over other vehicles when crossing intersections.",
+      "ru": "Автобус имеет преимущество перед другими транспортными средствами на перекрестках."
+    }
+  },
+  "citation": "【4:15†source】"
+}

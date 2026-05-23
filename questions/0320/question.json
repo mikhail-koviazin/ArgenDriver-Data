@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El vehículo, señalado con un círculo rojo, circula utilizando las luces correctas.",
+    "en": "The vehicle, marked with a red circle, is driving using the correct lights.",
+    "ru": "Автомобиль, отмеченный красным кругом, движется с использованием правильного света."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b174.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso de luces correctas es obligatorio en rutas argentinas, lo que no se respeta en la imagen.",
+      "en": "Using the correct lights is mandatory on Argentine routes, which is not adhered to in the image.",
+      "ru": "Использование правильного освещения обязательно на аргентинских дорогах, что не соблюдается на изображении."
+    }
+  },
+  "citation": "【4:0†source】"
+}

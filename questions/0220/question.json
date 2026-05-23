@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estos carriles es el llamado ''carril de sobrepaso''?",
+    "en": "Which of these lanes is called the ''passing lane''?",
+    "ru": "Какой из этих рядов называется ''обгонным рядом''?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b115.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cualquiera de ellos.",
+        "en": "Any of them.",
+        "ru": "Любой из них."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo el carril señalado como A.",
+        "en": "Only the lane marked as A.",
+        "ru": "Только ряд, обозначенный как A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo el carril señalado como F.",
+        "en": "Only the lane marked as F.",
+        "ru": "Только ряд, обозначенный как F."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril de sobrepaso es utilizado para adelantar, y siempre se debe hacer por la izquierda.",
+      "en": "The passing lane is used for overtaking, and should always be taken on the left.",
+      "ru": "Обгонный ряд используется для обгона и всегда должен быть слева."
+    }
+  },
+  "citation": "【4:0†source】"
+}

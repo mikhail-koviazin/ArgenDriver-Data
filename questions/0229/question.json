@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En esta situación, ¿quién tiene prioridad para realizar el sobrepaso al camión?",
+    "en": "In this situation, who has priority to overtake the truck?",
+    "ru": "В данной ситуации, кто имеет приоритет для обгона грузовика?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b119.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Автомобиль А."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Автомобиль B."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo C.",
+        "en": "Vehicle C.",
+        "ru": "Автомобиль C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo C tiene prioridad ya que la maniobra de sobrepaso requiere espacio y visibilidad.",
+      "en": "Vehicle C has priority as the overtaking maneuver requires space and visibility.",
+      "ru": "Автомобиль C имеет приоритет, так как маневр обгона требует пространства и видимости."
+    }
+  },
+  "citation": "【4:1†source】"
+}

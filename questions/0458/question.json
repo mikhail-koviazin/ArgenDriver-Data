@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique qué significa esta señal:",
+    "en": "Indicate what this sign means:",
+    "ru": "Укажите, что значит этот знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b274.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Ruta Nacional N°5.",
+        "en": "National Route No. 5.",
+        "ru": "Национальная дорога №5."
+      }
+    },
+    {
+      "text": {
+        "es": "Ruta Provincial N°5.",
+        "en": "Provincial Route No. 5.",
+        "ru": "Провинциальная дорога №5."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ruta Panamericana N°5.",
+        "en": "Pan-American Route No. 5.",
+        "ru": "Панамская дорога №5."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que están cerca de la Ruta Provincial N°5.",
+      "en": "The sign indicates that you are near Provincial Route No. 5.",
+      "ru": "Знак указывает на то, что вы находитесь рядом с Провинциальной дорогой №5."
+    }
+  },
+  "citation": "【4:1†manual del conductor】"
+}

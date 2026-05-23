@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta seña?",
+    "en": "What does this sign indicate?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b13.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Adelantamiento por la derecha.",
+        "en": "Overtaking on the right.",
+        "ru": "Обгон справа."
+      }
+    },
+    {
+      "text": {
+        "es": "Giro a la derecha.",
+        "en": "Right turn.",
+        "ru": "Поворот направо."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Detenerse.",
+        "en": "Stop.",
+        "ru": "Остановиться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que los vehículos deben girar a la derecha.",
+      "en": "This sign indicates that vehicles should turn right.",
+      "ru": "Этот знак указывает, что транспортные средства должны поворачивать направо."
+    }
+  },
+  "citation": "【4:0†source】"
+}

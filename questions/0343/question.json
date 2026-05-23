@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Con estas condiciones climáticas, ¿qué luces debe utilizar para poder circular en esta ruta?",
+    "en": "In these weather conditions, what lights should you use to drive on this road?",
+    "ru": "В этих погодных условиях, какие огни вы должны использовать, чтобы проезжать по этому пути?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b189.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Las luces altas, durante todo el recorrido mientras continúe la niebla.",
+        "en": "Low beams and fog lights (if available).",
+        "ru": "Низкие фары и противотуманные фары (если есть)."
+      }
+    },
+    {
+      "text": {
+        "es": "Las luces bajas y las rompeniebla (en el caso de tenerlas).",
+        "en": "High beams throughout the journey as long as the fog continues.",
+        "ru": "Дальний свет на протяжении всего пути, пока туман продолжается."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Las luces bajas, las rompenieblas (en caso de tenerlas) y las balizas.",
+        "en": "Low beams, fog lights (if available), and hazard lights.",
+        "ru": "Низкие фары, противотуманные фары (если есть) и аварийные огни."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces bajas son recomendadas para la niebla, ya que evitan el deslumbramiento.",
+      "en": "Low beams are recommended in fog, as they prevent glare.",
+      "ru": "Низкие фары рекомендуются в туман, так как они предотвращают ослепление."
+    }
+  },
+  "citation": "【4:16†source】"
+}

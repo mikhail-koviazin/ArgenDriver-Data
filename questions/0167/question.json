@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a esta situación, ¿qué debe hacer el conductor del vehículo señalado con el círculo rojo?",
+    "en": "In this situation, what should the driver of the vehicle marked with the red circle do?",
+    "ru": "В данной ситуации, что должен сделать водитель автомобиля, отмеченного красным кругом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b75.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Avanzar si es que el vehículo que cruza lo hace lentamente porque la prioridad de paso está dada por la luz verde.",
+        "en": "Advance if the crossing vehicle does so slowly because the right of way is given by the green light.",
+        "ru": "Продолжать, если пересекающее транспортное средство движется медленно, поскольку приоритетный проезд определяется зеленым светом."
+      }
+    },
+    {
+      "text": {
+        "es": "No iniciar el cruce, hasta que el otro vehículo haya completado el suyo.",
+        "en": "Do not start crossing until the other vehicle has completed its crossing.",
+        "ru": "Не начинать пересечение, пока другое транспортное средство не завершит свое пересечение."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Avanzar rápidamente si el vehículo que cruza todavía no llegó a mitad del cruce, de esa manera se deja libre la intersección.",
+        "en": "Advance quickly if the crossing vehicle has not yet reached the middle of the crossing, thus clearing the intersection.",
+        "ru": "Продолжить быстро, если пересекающее транспортное средство еще не достигло середины перекрестка, таким образом очищая перекресток."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Al tener en cuenta la prioridad de paso, es esencial esperar hasta que el otro vehículo termine de cruzar.",
+      "en": "Considering the right of way, it is essential to wait until the other vehicle has finished crossing.",
+      "ru": "С учетом приоритета движения, важно дождаться, пока другое транспортное средство закончит пересечение."
+    }
+  },
+  "citation": "【4:0†source】"
+}

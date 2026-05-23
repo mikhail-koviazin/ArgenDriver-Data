@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si al conducir un vehículo se encuentra en una intersección con esta señalización intermitente, ¿qué actitud debe tomar?",
+    "en": "If while driving a vehicle you find yourself at an intersection with this flashing signal, what attitude should you take?",
+    "ru": "Если вы управляете автомобилем и находитесь на перекрестке с этим мигающим сигналом, какому поведению следует следовать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b74.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Detener la marcha y realizar el cruce cuando se tenga la certeza de que no existe riesgo alguno.",
+        "en": "Stop and cross when you are sure that there is no risk.",
+        "ru": "Остановитесь и пересекайте, когда вы уверены, что нет риска."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al tener prioridad, debo atravesarla rápidamente para no obstaculizar la vía.",
+        "en": "When having priority, I must cross it quickly to avoid obstructing the road.",
+        "ru": "Приоритетом я должен быстро пересечь, чтобы не препятствовать движению."
+      }
+    },
+    {
+      "text": {
+        "es": "Extremar precauciones al cruzar sin la necesidad de detenerme.",
+        "en": "Increase precautions when crossing without the need to stop.",
+        "ru": "Увеличить меры предосторожности при пересечении без необходимости останавливаться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es esencial detenerse para asegurarse de que no hay riesgo al cruzar, especialmente bajo señalización intermitente.",
+      "en": "It's essential to stop to ensure that there is no risk when crossing, especially under flashing signals.",
+      "ru": "Важно остановиться, чтобы убедиться, что при пересечении нет риска, особенно под мигающими сигналами."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué relación existe entre la velocidad y el campo visual del conductor?",
+    "en": "What relationship exists between the speed and the driver's visual field?",
+    "ru": "Какова связь между скоростью и полем зрения водителя?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A mayor velocidad, menor campo visual.",
+        "en": "At higher speeds, smaller visual field.",
+        "ru": "На большей скорости поле зрения меньше."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A menor velocidad, menor campo visual.",
+        "en": "At lower speeds, smaller visual field.",
+        "ru": "При меньшей скорости поле зрения меньше."
+      }
+    },
+    {
+      "text": {
+        "es": "A mayor velocidad, mayor campo visual.",
+        "en": "At higher speeds, larger visual field.",
+        "ru": "На большей скорости поле зрения больше."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "A mayor velocidad, la percepción de los objetos laterales se reduce.",
+      "en": "At higher speeds, the perception of lateral objects decreases.",
+      "ru": "На большей скорости восприятие боковых объектов уменьшается."
+    }
+  },
+  "citation": "[4:0†source]"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "\"Como usuarios de la vía pública estamos obligados a no entorpecer injustificadamente la circulación y a no causar peligro, perjuicios o molestias innecesarias a las personas o daños a los bienes.\" ¿Es correcta esta premisa?",
+    "en": "\"As users of public roads, we are obliged not to unjustifiably impede traffic and not to cause danger, damage, or unnecessary inconvenience to people or harm to property.\" Is this premise correct?",
+    "ru": "\"Как пользователи общественных дорог, мы обязаны не мешать движению без необходимости и не создавать опасности, ущерба или ненужных неудобств для людей в ущерб имуществу.\" Является ли это утверждение правильным?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b11.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, independientemente del tipo de movilidad elegido.",
+        "en": "Yes, regardless of the type of mobility chosen.",
+        "ru": "Да, независимо от выбранного вида передвижения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, los peatones son usuarios de la vía pública y no están obligados.",
+        "en": "No, pedestrians are users of the public road and are not obliged.",
+        "ru": "Нет, пешеходы являются пользователями общественных дорог и не обязаны."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí pero sólo si estamos conduciendo un vehículo.",
+        "en": "Yes, but only if we are driving a vehicle.",
+        "ru": "Да, но только если мы управляем транспортным средством."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Todos los usuarios de la vía pública, incluidos peatones, deben respetar las normas para evitar accidentes.",
+      "en": "All users of public roads, including pedestrians, must respect the rules to avoid accidents.",
+      "ru": "Все пользователи общественных дорог, включая пешеходов, должны соблюдать правила для избежания аварий."
+    }
+  },
+  "citation": "La normativa de tránsito en Argentina resalta que el respeto a las normas es un deber de todos los usuarios de la vía pública."
+}

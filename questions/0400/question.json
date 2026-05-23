@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Luego de un largo viaje en ruta, realizó una parada y le faltan muy pocos kilómetros para llegar a destino, ¿es necesario que todos los ocupantes vuelvan a ponerse el cinturón de seguridad?",
+    "en": "After a long journey on the road, a stop was made and only a few kilometers remain to reach the destination, is it necessary for all occupants to put on their seatbelts again?",
+    "ru": "После долгого путешествия по дороге был сделан перерыв, и осталось всего несколько километров до места назначения, необходимо ли всем пассажирам снова пристегнуть ремни безопасности?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "No, sólo es obligatorio para los que se ubiquen en los asientos delanteros.",
+        "en": "No, it is only mandatory for those in the front seats.",
+        "ru": "Нет, это обязательно только для тех, кто сидит на передних сиденьях."
+      }
+    },
+    {
+      "text": {
+        "es": "No, porque se está por llegar a destino.",
+        "en": "No, because the destination is near.",
+        "ru": "Нет, потому что место назначения близко."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque su uso es obligatorio para todos los ocupantes.",
+        "en": "Yes, because its use is mandatory for all occupants.",
+        "ru": "Да, потому что его использование обязательно для всех пассажиров."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En Argentina, el uso del cinturón de seguridad es obligatorio para todos los ocupantes del vehículo, sin excepción.",
+      "en": "In Argentina, wearing a seatbelt is mandatory for all vehicle occupants, without exception.",
+      "ru": "В Аргентине обязательным является ношение ремня безопасности для всех пассажиров автомобиля, без исключений."
+    }
+  },
+  "citation": "【4:2†source】"
+}

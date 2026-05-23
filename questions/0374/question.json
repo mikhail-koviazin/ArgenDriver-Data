@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cómo deben encontrarse los neumáticos para comprobar la correcta presión de aire?",
+    "en": "How should the tires be to check the correct air pressure?",
+    "ru": "Как должны находиться шины для проверки правильного давления в них?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Fríos.",
+        "en": "Cold.",
+        "ru": "Холодные."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calientes.",
+        "en": "Hot.",
+        "ru": "Горячие."
+      }
+    },
+    {
+      "text": {
+        "es": "Es indistinto, al ser de caucho se mantienen aislados de la temperatura.",
+        "en": "It does not matter, being made of rubber they remain insulated from temperature.",
+        "ru": "Не важно, поскольку они сделаны из резины, они защищены от температуры."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los neumáticos deben revisarse en frío para obtener una medición precisa de presión.",
+      "en": "Tires should be checked when cold for accurate pressure measurement.",
+      "ru": "Шины следует проверять в холодном состоянии для получения точных показаний давления."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Es importante realizar un correcto mantenimiento vehicular porque...",
+    "en": "It is essential to perform proper vehicle maintenance because...",
+    "ru": "Важно проводить надлежащее техническое обслуживание автомобиля, потому что..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Evita desperfectos del motor y ayuda a reducir el consumo de combustible.",
+        "en": "Prevents engine faults and helps reduce fuel consumption.",
+        "ru": "Предотвращает поломки двигателя и помогает снизить расход топлива."
+      }
+    },
+    {
+      "text": {
+        "es": "Ayuda a reducir el factor de riesgo vehicular involucrado en los siniestros viales.",
+        "en": "Helps reduce the vehicular risk factor involved in traffic accidents.",
+        "ru": "Помогает снизить фактор дорожного риска, связанный с дорожными происшествиями."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, А и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un buen mantenimiento no solo mejora la eficiencia del motor, sino también la seguridad vial.",
+      "en": "Proper maintenance not only improves engine efficiency but also enhances road safety.",
+      "ru": "Правильное обслуживание не только улучшает эффективность двигателя, но и повышает безопасность на дороге."
+    }
+  },
+  "citation": "【4:15†source】"
+}

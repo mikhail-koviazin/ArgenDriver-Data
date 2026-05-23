@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the following sign indicates:",
+    "ru": "Определите, что указывает следующий знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b232.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Inicio de doble circulación.",
+        "en": "Start of double circulation.",
+        "ru": "Начало двойного движения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calzada dividida.",
+        "en": "Divided roadway.",
+        "ru": "Деление проезжей части."
+      }
+    },
+    {
+      "text": {
+        "es": "Camino sinuoso.",
+        "en": "Winding road.",
+        "ru": "Извивающаяся дорога."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica el inicio de una zona donde se permite la doble circulación de vehículos.",
+      "en": "The sign indicates the start of an area where double circulation of vehicles is allowed.",
+      "ru": "Знак указывает на начало зоны, где разрешено двойное движение транспортных средств."
+    }
+  },
+  "citation": " "
+}

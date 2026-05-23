@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "En caso de participar de un siniestro vial en una avenida, es recomendable señalizar la zona para que no se produzcan más incidentes viales.",
+    "en": "In the event of participating in a traffic accident on an avenue, it is advisable to mark the area to prevent further traffic incidents.",
+    "ru": "В случае участия в дорожном происшествии на авеню рекомендуется обозначить зону, чтобы избежать дальнейших инцидентов на дороге."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señalización inmediata ayuda a prevenir nuevos accidentes al advertir a otros conductores.",
+      "en": "Immediate marking helps prevent new accidents by warning other drivers.",
+      "ru": "Немедленная сигнализация помогает предотвратить новые аварии, предупреждая других водителей."
+    }
+  },
+  "citation": "[4:1†source]"
+}

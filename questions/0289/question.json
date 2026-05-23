@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es correcta la detención del vehículo en este sector?",
+    "en": "Is the stopping of the vehicle in this area correct?",
+    "ru": "Правильно ли остановить автомобиль в этом месте?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b151.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que se encuentra con balizas encendidas.",
+        "en": "Yes, since the hazard lights are on.",
+        "ru": "Да, так как включены аварийные огни."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque sólo está prohibido el estacionamiento.",
+        "en": "Yes, because only parking is prohibited.",
+        "ru": "Да, потому что только стоянка запрещена."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que tanto la detención como el estacionamiento en este sector se encuentra prohibido.",
+        "en": "No, as both stopping and parking in this area are prohibited.",
+        "ru": "Нет, остановка и парковка в этой зоне запрещены."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La detención está prohibida en este sector para mantener la fluidez del tránsito.",
+      "en": "Stopping is prohibited in this area to maintain the flow of traffic.",
+      "ru": "Остановка запрещена в этой зоне для поддержания потока движения."
+    }
+  },
+  "citation": "【4:12†source】"
+}

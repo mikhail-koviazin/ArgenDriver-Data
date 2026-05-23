@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En cuanto a la velocidad frente a esta situación, ¿qué debería considerar un conductor?",
+    "en": "Regarding the speed in this situation, what should a driver consider?",
+    "ru": "Что должен учитывать водитель по поводу скорости в данной ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b179.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Debería circular a la mitad de la velocidad máxima establecida por Ley.",
+        "en": "He should adjust the speed according to the weather conditions and the road.",
+        "ru": "Ему следует корректировать скорость в зависимости от погодных условий и дороги."
+      }
+    },
+    {
+      "text": {
+        "es": "Debería adecuar la velocidad de acuerdo a las condiciones climáticas y de dicha vía de circulación.",
+        "en": "He should drive at half of the maximum speed established by law.",
+        "ru": "Он должен двигаться на половине максимальной скорости, установленной законом."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Lo único que debería hacer es respetar es la velocidad máxima de la arteria por la que circula.",
+        "en": "The only thing he should do is respect the maximum speed of the road he is on.",
+        "ru": "Единственное, что он должен делать, это уважать максимальную скорость дороги, по которой движется."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad debe ajustarse a las condiciones climáticas para evitar accidentes.",
+      "en": "Speed must be adjusted to weather conditions to prevent accidents.",
+      "ru": "Скорость должна регулироваться в зависимости от погодных условий для предотвращения аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

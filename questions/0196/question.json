@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En un cruce de dos calles sin semáforo, frente a la siguiente situación, ¿quién tiene prioridad de paso?",
+    "en": "In an intersection of two streets without traffic lights, facing the following situation, who has the right of way?",
+    "ru": "На перекрестке двух улиц без светофоров, сталкиваясь с такой ситуацией, кто имеет преимущество?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b97.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A.",
+        "en": "Vehicle A.",
+        "ru": "Автомобиль A."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo B.",
+        "en": "Vehicle B.",
+        "ru": "Автомобиль B."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En un cruce sin semáforos, el que circula por la vía principal tiene prioridad.",
+      "en": "At an intersection without traffic lights, the vehicle on the main road has priority.",
+      "ru": "На перекрестке без светофоров приоритет имеет автомобиль на главной дороге."
+    }
+  },
+  "citation": "【4:1†source】"
+}

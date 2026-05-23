@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La Ley Nº 2148 establece como norma general que en este tipo de calles está prohibido estacionar vehículos...",
+    "en": "Law No. 2148 establishes as a general rule that in this type of streets it is prohibited to park vehicles...",
+    "ru": "Закон № 2148 устанавливает в качестве общего правила, что в таких улицах парковка автомобилей запрещена..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b158.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Junto a la acera derecha los días hábiles durante las 24 horas.",
+        "en": "Next to the right sidewalk on weekdays during 24 hours.",
+        "ru": "У тротуара справа в будние дни круглосуточно."
+      }
+    },
+    {
+      "text": {
+        "es": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.",
+        "en": "Next to the left sidewalk on weekdays between 7 AM and 9 PM.",
+        "ru": "У тротуара слева в будние дни с 7 до 21 часов."
+      }
+    },
+    {
+      "text": {
+        "es": "Junto a la acera izquierda todos los días durante las 24 horas.",
+        "en": "Next to the left sidewalk every day for 24 hours.",
+        "ru": "У тротуара слева каждый день, круглосуточно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Estacionar junto a la acera izquierda está permitido todos los días, lo que es distinto de otras reglas restrictivas.",
+      "en": "Parking next to the left sidewalk is allowed every day, which is different from other restrictive rules.",
+      "ru": "Парковка у тротуара слева разрешена каждый день, что отличается от других ограничительных правил."
+    }
+  },
+  "citation": "【4:4†source】"
+}

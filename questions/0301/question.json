@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La Ley N° 2148 establece como norma general la prohibición de detenerse de la siguiente forma, excepto:",
+    "en": "Law No. 2148 establishes as a general rule the prohibition of stopping in the following way, except:",
+    "ru": "Закон № 2148 устанавливает в качестве общего правила запрет на остановку таким образом, кроме:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b161.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que se trate de una detención para el ascenso o descenso de pasajeros.",
+        "en": "It refers to a stop for the boarding or alighting of passengers.",
+        "ru": "Это относится к остановке для посадки или высадки пассажиров."
+      }
+    },
+    {
+      "text": {
+        "es": "Que se trate de una detención previa a la maniobra de estacionamiento.",
+        "en": "It refers to a stop prior to the parking maneuver.",
+        "ru": "Это относится к остановке перед маневром парковки."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Detenerse para realizar una maniobra de estacionamiento es permitido, mientras que otras detenciones no lo son.",
+      "en": "Stopping to carry out a parking maneuver is allowed, while other stops are not.",
+      "ru": "Остановка для выполнения маневра парковки разрешена, тогда как другие остановки не разрешены."
+    }
+  },
+  "citation": "【4:0†source】"
+}

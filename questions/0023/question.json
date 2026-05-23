@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿A qué medio de transporte corresponden todos los siguientes beneficios: ecológico, saludable, económico y rápido?",
+    "en": "Which mode of transport corresponds to the following benefits: ecological, healthy, economical, and fast?",
+    "ru": "Какому виду транспорта соответствуют следующие преимущества: экологически чистый, здоровый, экономичный и быстрый?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b5.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción C.",
+        "en": "Option C.",
+        "ru": "Вариант C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La bicicleta es ecológica, saludable y económica, además puede ser rápida en distancias cortas.",
+      "en": "The bicycle is ecological, healthy, and economical, plus it can be fast for short distances.",
+      "ru": "Велосипед экологически чистый, здоровый и экономичный, кроме того, он может быть быстрым на коротких дистанциях."
+    }
+  },
+  "citation": "【4:0†source】"
+}

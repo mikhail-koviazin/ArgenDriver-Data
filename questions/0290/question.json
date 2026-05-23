@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué línea debe tomarse de referencia cuando se detiene o estaciona en proximidad de una esquina?",
+    "en": "What line should be taken as a reference when stopping or parking near a corner?",
+    "ru": "Какую линию нужно использовать в качестве ориентира, когда вы останавливаетесь или паркуетесь вблизи угла?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La línea peatonal.",
+        "en": "The pedestrian line.",
+        "ru": "Пешеходная линия."
+      }
+    },
+    {
+      "text": {
+        "es": "La línea imaginaria de prolongación de ochava.",
+        "en": "The imaginary line of the extended corner.",
+        "ru": "Воображаемая линия продления угла."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La línea de edificación transversal.",
+        "en": "The transverse building line.",
+        "ru": "Поперечная линия застройки."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe usar la línea imaginaria para evitar obstruir la vía y garantizar seguridad.",
+      "en": "The imaginary line should be used to avoid obstructing the road and ensure safety.",
+      "ru": "Следует использовать воображаемую линию, чтобы не блокировать дорогу и обеспечивать безопасность."
+    }
+  },
+  "citation": "【4:0†manual.pdf】"
+}

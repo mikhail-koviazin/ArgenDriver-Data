@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida para un automóvil particular en este tramo de la avenida?",
+    "en": "What is the maximum speed allowed for a private car on this stretch of the avenue?",
+    "ru": "Какова максимальная скорость для частного автомобиля на этом участке авеню?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b133.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "50 km/h.",
+        "en": "50 km/h.",
+        "ru": "50 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima permitida en calles es de 40 km/h según las normas.",
+      "en": "The maximum allowed speed on streets is 40 km/h according to the regulations.",
+      "ru": "Максимально допустимая скорость на улицах составляет 40 км/ч согласно правилам."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué Ley rige al momento de circular por la Ciudad de Buenos Aires?",
+    "en": "What law governs the movement in the City of Buenos Aires?",
+    "ru": "Какой закон регулирует движение в Городе Буэнос-Айрес?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La Ley Nacional N° 24.449.",
+        "en": "National Law No. 24.449.",
+        "ru": "Национальный закон № 24.449."
+      }
+    },
+    {
+      "text": {
+        "es": "La Ley de la Ciudad N° 2.148.",
+        "en": "City Law No. 2.148.",
+        "ru": "Городской закон № 2.148."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, являются правильными."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Ambas leyes regulan aspectos del tránsito en Buenos Aires.",
+      "en": "Both laws regulate aspects of traffic in Buenos Aires.",
+      "ru": "Оба закона регулируют аспекты дорожного движения в Буэнос-Айресе."
+    }
+  },
+  "citation": "【4:1†manual.pdf】"
+}

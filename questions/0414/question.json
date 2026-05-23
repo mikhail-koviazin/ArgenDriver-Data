@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown indicates:",
+    "ru": "Определите, что указывает представленное табло:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b230.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Túnel.",
+        "en": "Tunnel.",
+        "ru": "Туннель."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Puente angosto.",
+        "en": "Narrow bridge.",
+        "ru": "Узкий мост."
+      }
+    },
+    {
+      "text": {
+        "es": "Altura mínima.",
+        "en": "Minimum height.",
+        "ru": "Минимальная высота."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la proximidad de un túnel, requiriendo atención al tránsito.",
+      "en": "The signal indicates proximity to a tunnel, requiring attention to traffic.",
+      "ru": "Знак указывает на близость туннеля, требуя внимания к движению."
+    }
+  },
+  "citation": "【4:3†source】"
+}

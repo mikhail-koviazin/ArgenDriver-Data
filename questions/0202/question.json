@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Estas señales son las únicas que indican que se pierde la prioridad de paso en una bocacalle sin semáforo.",
+    "en": "These signals are the only ones that indicate a loss of right of way at an intersection without traffic lights.",
+    "ru": "Эти знаки являются единственными, которые указывают на потерю преимущества на перекрестке без светофора."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b103.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales son fundamentales para indicar la prioridad en intersecciones sin semáforos.",
+      "en": "The signals are essential for indicating priority at intersections without traffic lights.",
+      "ru": "Знаки являются важными для указания приоритета на перекрестках без светофоров."
+    }
+  },
+  "citation": "【4:0†source】"
+}

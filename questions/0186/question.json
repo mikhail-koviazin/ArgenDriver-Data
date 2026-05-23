@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de las siguientes imágenes , por forma y color, corresponde a la señal indicativa de una rotonda o pendiente pronunciada?",
+    "en": "Which of the following images, by shape and color, corresponds to the indicative sign of a roundabout or steep slope?",
+    "ru": "Какая из следующих картинок формой и цветом соответствует указателю о круговом движении или крутом спуске?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b87.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Figura A.",
+        "en": "Figure A.",
+        "ru": "Фигура A."
+      }
+    },
+    {
+      "text": {
+        "es": "Figura B.",
+        "en": "Figure B.",
+        "ru": "Фигура B."
+      }
+    },
+    {
+      "text": {
+        "es": "Figura C.",
+        "en": "Figure C.",
+        "ru": "Фигура C."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal de una rotonda es generalmente redonda con fondo azul y un símbolo de flecha en blanco.",
+      "en": "The sign for a roundabout is generally round with a blue background and a white arrow symbol.",
+      "ru": "Знак о круговом движении обычно круглый с синим фоном и белой стрелкой."
+    }
+  },
+  "citation": "【4:6†source】"
+}

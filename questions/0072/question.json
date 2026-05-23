@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es la principal diferencia entre bicisendas y ciclovías?",
+    "en": "What is the main difference between bike lanes and cycle paths?",
+    "ru": "В чем основное различие между велодорожками и велосипедными дорожками?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La bicisenda es de uso exclusivo de bicicletas y la ciclovía de uso preferencial.",
+        "en": "The bike lane is exclusively for bicycles and the cycle path is preferential use.",
+        "ru": "Велодорожка используется исключительно для велосипедов, а велосипедная дорожка имеет приоритетное использование."
+      }
+    },
+    {
+      "text": {
+        "es": "La bicisenda se encuentra sobre la calzada y la ciclovía sobre la vereda.",
+        "en": "The bike lane is located on the roadway and the cycle path on the sidewalk.",
+        "ru": "Велодорожка находится на проезжей части, а велосипедная дорожка на тротуаре."
+      }
+    },
+    {
+      "text": {
+        "es": "La bicisenda se encuentra sobre la vereda y la ciclovía sobre la calzada.",
+        "en": "The bike lane is located on the sidewalk and the cycle path on the roadway.",
+        "ru": "Велодорожка находится на тротуаре, а велосипедная дорожка на проезжей части."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las bicisendas están designadas para uso exclusivo de bicicletas y generalmente están sobre las aceras, mientras que las ciclovías están en la calzada.",
+      "en": "Bike lanes are designated exclusively for bicycles and are usually on sidewalks, while cycle paths are on the roadway.",
+      "ru": "Велодорожки предназначены исключительно для велосипедов и обычно находятся на тротуарах, в то время как велосипедные дорожки находятся на проезжей части."
+    }
+  },
+  "citation": "【4:0†source】"
+}

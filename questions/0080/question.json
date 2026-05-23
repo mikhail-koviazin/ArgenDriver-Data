@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "La persona que se da a la fuga en un siniestro vial, dejando a alguien herido, puede ser juzgada por el delito de abandono de persona.",
+    "en": "A person who flees from a traffic incident, leaving someone injured, can be judged for the crime of abandonment of a person.",
+    "ru": "Человек, который скрывается с места ДТП, оставляя раненого, может быть осужден за преступление оставления человека в беде."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El abandono de persona es un delito grave en Argentina.",
+      "en": "Abandonment of a person is a serious crime in Argentina.",
+      "ru": "Оставление человека в беде - серьезное преступление в Аргентине."
+    }
+  },
+  "citation": "【4:1†source】"
+}

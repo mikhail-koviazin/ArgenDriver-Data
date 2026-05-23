@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Si los espejos retrovisores de su vehículo están bien orientados, igualmente es posible que se produzcan puntos ciegos cuando observe por los mismos.",
+    "en": "If your vehicle's mirrors are well oriented, it is still possible for blind spots to occur when looking through them.",
+    "ru": "Если зеркала вашего автомобиля правильно ориентированы, все равно могут возникать мертвые зоны при их использовании."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los espejos retrovisores no cubren todas las áreas alrededor del vehículo, creando puntos ciegos.",
+      "en": "The rearview mirrors do not cover all areas around the vehicle, creating blind spots.",
+      "ru": "Зеркала заднего вида не охватывают все области вокруг автомобиля, создавая мертвые зоны."
+    }
+  },
+  "citation": "【4:1†source】"
+}

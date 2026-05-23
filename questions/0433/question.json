@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b249.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que existe la opción de doblar hacia la derecha.",
+        "en": "That there is an option to turn right.",
+        "ru": "Что существует возможность повернуть направо."
+      }
+    },
+    {
+      "text": {
+        "es": "Que hay un giro obligatorio hacia la derecha.",
+        "en": "That there is a mandatory turn to the right.",
+        "ru": "Что есть обязательный поворот направо."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que se aproxima una curva peligrosa con inclinación hacia la derecha.",
+        "en": "That a dangerous curve approaching to the right.",
+        "ru": "Что приближается опасный поворот направо."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica un giro obligatorio hacia la derecha para garantizar la seguridad en la intersección.",
+      "en": "The sign indicates a mandatory turn to the right to ensure safety at the intersection.",
+      "ru": "Знак указывает на обязательный поворот направо для обеспечения безопасности на перекрестке."
+    }
+  },
+  "citation": "【4:4†source】"
+}

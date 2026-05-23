@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign presented below indicates:",
+    "ru": "Определите, что обозначает представленный ниже знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b235.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Niños jugando.",
+        "en": "Children playing.",
+        "ru": "Дети играют."
+      }
+    },
+    {
+      "text": {
+        "es": "Zona escolar.",
+        "en": "School zone.",
+        "ru": "Школьная зона."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calle peatonal.",
+        "en": "Pedestrian street.",
+        "ru": "Пешеходная улица."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica una zona escolar, donde se debe reducir la velocidad por seguridad.",
+      "en": "The sign indicates a school zone, where speed must be reduced for safety.",
+      "ru": "Знак указывает на школьную зону, где скорость должна быть снижена ради безопасности."
+    }
+  },
+  "citation": "【4:1†source】"
+}

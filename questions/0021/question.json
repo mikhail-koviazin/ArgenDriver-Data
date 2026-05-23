@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Indique cuál es la premisa correcta:",
+    "en": "Indicate which is the correct premise:",
+    "ru": "Укажите, какое утверждение верно:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A menor cantidad de vehículos, mayor probabilidad de siniestralidad.",
+        "en": "Fewer vehicles, higher probability of accidents.",
+        "ru": "Меньшее количество транспортных средств, большая вероятность аварий."
+      }
+    },
+    {
+      "text": {
+        "es": "A mayor cantidad de vehículos, menor probabilidad de siniestralidad.",
+        "en": "More vehicles, lower probability of accidents.",
+        "ru": "Большее количество транспортных средств, меньшая вероятность аварий."
+      }
+    },
+    {
+      "text": {
+        "es": "A menor cantidad de vehículos, menor probabilidad de siniestralidad.",
+        "en": "Fewer vehicles, lower probability of accidents.",
+        "ru": "Меньшее количество транспортных средств, меньшая вероятность аварий."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Una menor cantidad de vehículos reduce las interacciones y posibles colisiones en las vías.",
+      "en": "Fewer vehicles lead to reduced interactions and potential collisions on the roads.",
+      "ru": "Меньшее количество транспортных средств приводит к снижению взаимодействий и потенциальных столкновений на дорогах."
+    }
+  },
+  "citation": "【4:13†source】"
+}

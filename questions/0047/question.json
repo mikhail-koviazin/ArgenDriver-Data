@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a la siguiente situación, ¿qué actitud debe tomar usted como conductor?",
+    "en": "In the following situation, what attitude should you take as a driver?",
+    "ru": "В следующей ситуации, какое поведение должны проявить вы как водитель?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b21.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Hacer contacto visual con la peatona y en el caso de que comience a cruzar cederle el paso.",
+        "en": "Make eye contact with the pedestrian and, if she starts to cross, yield to her.",
+        "ru": "Установите зрительный контакт с пешеходом и, если она начнет переходить, уступите ей дорогу."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Avanzar ya que se tiene prioridad sobre la peatona por circular desde la derecha.",
+        "en": "Advance since you have priority over the pedestrian for driving from the right.",
+        "ru": "Двигайтесь вперед, так как у вас есть приоритет над пешеходом, проезжая справа."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Обе ответы, A и B, неверны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial ceder el paso a los peatones, especialmente al hacer contacto visual.",
+      "en": "It's crucial to yield to pedestrians, especially when making eye contact.",
+      "ru": "Важно уступить дорогу пешеходам, особенно при установлении зрительного контакта."
+    }
+  },
+  "citation": "【4:1†source】"
+}

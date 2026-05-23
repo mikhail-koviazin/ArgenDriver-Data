@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Se deben utilizar balizas mientras se conduce bajo estas condiciones climáticas.",
+    "en": "Hazards must be used while driving under these weather conditions.",
+    "ru": "Необходимо использовать аварийные сигналы при управлении в этих погодных условиях."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b192.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Bajo condiciones climáticas adversas, como niebla o lluvia, se deben usar luces bajas.",
+      "en": "In adverse weather conditions, such as fog or rain, low beams must be used.",
+      "ru": "При неблагоприятных погодных условиях, таких как туман или дождь, необходимо использовать ближний свет."
+    }
+  },
+  "citation": "[4:11†source]"
+}

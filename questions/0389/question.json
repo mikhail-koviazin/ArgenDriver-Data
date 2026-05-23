@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Este elemento de seguridad...",
+    "en": "This safety element...",
+    "ru": "Этот элемент безопасности..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b209.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Permite prescindir del uso del cinturón de seguridad.",
+        "en": "Allows to dispense with the use of the seat belt.",
+        "ru": "Позволяет отказаться от использования ремня безопасности."
+      }
+    },
+    {
+      "text": {
+        "es": "Complementa el uso del cinturón de seguridad.",
+        "en": "Complements the use of the seat belt.",
+        "ru": "Дополняет использование ремня безопасности."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es incompatible con el uso del cinturón de seguridad.",
+        "en": "Is incompatible with the use of the seat belt.",
+        "ru": "Не совместим с использованием ремня безопасности."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cinturón de seguridad y el airbag funcionan juntos para maximizar la seguridad.",
+      "en": "The seat belt and airbag work together to maximize safety.",
+      "ru": "Ремень безопасности и подушка безопасности работают вместе для максимизации безопасности."
+    }
+  },
+  "citation": "【4:17†source】"
+}

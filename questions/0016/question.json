@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina Movilidad Sustentable?",
+    "en": "What is Sustainable Mobility?",
+    "ru": "Что такое устойчивую мобильность?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Forma de trasladarnos de manera más efectiva, priorizando el uso del vehículo particular.",
+        "en": "Way to move more effectively, prioritizing the use of private vehicles.",
+        "ru": "Способ передвижения более эффективно, приоритизируя использование личных автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "Forma de trasladarnos de manera más rápida, independientemente del tipo de movilidad elegida.",
+        "en": "Way to move faster, regardless of the type of mobility chosen.",
+        "ru": "Способ перемещения быстрее, независимо от выбранного типа мобильности."
+      }
+    },
+    {
+      "text": {
+        "es": "Forma de trasladarnos de manera rápida, segura y ordenada; haciendo hincapié en los peatones y ciclistas y contribuyendo a una mejor calidad ambiental.",
+        "en": "Way to move quickly, safely and orderly; focusing on pedestrians and cyclists and contributing to a better environmental quality.",
+        "ru": "Способ передвижения быстрым, безопасным и упорядоченным образом; акцентируя внимание на пешеходах и велосипедистах и способствуя улучшению качества окружающей среды."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La movilidad sustentable busca un equilibrio entre rapidez y seguridad, priorizando el bienestar de todos.",
+      "en": "Sustainable mobility seeks a balance between speed and safety, prioritizing the welfare of all.",
+      "ru": "Устойчивую мобильность направлены на баланс между скоростью и безопасностью, приоритизируя благосостояние всех."
+    }
+  },
+  "citation": "【4:1†source】"
+}

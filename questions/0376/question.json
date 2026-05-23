@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es la correcta presión de los neumáticos de un automóvil particular?",
+    "en": "What is the correct tire pressure for a particular car?",
+    "ru": "Каково правильное давление в шинах для конкретного автомобиля?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "28 lbs.",
+        "en": "28 lbs.",
+        "ru": "28 фунтов."
+      }
+    },
+    {
+      "text": {
+        "es": "La que indique el manual del usuario de ese automóvil.",
+        "en": "That indicated in the user manual of that car.",
+        "ru": "Указано в руководстве пользователя этого автомобиля."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "30 lbs.",
+        "en": "30 lbs.",
+        "ru": "30 фунтов."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La presión correcta de los neumáticos se encuentra en el manual del usuario.",
+      "en": "The correct tire pressure is found in the user manual.",
+      "ru": "Правильное давление в шинах указано в руководстве пользователя."
+    }
+  },
+  "citation": "【4:0†source】"
+}

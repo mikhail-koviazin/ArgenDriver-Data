@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué se conoce como velocidad precautoria?",
+    "en": "What is known as precautionary speed?",
+    "ru": "Что называется предостерегающей скоростью?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "A la velocidad adecuada a las circunstancias (dentro de los límites establecidos) que permite mantener el total dominio del vehículo sin generar riesgo.",
+        "en": "At a speed appropriate to the circumstances (within established limits) that allows maintaining total control of the vehicle without creating risk.",
+        "ru": "На скорости, соответствующей обстоятельствам (в пределах установленных ограничений), что позволяет сохранять полный контроль над автомобилем без создания риска."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La circulación a la velocidad mínima establecida para una vía.",
+        "en": "Driving at the minimum speed established for a road.",
+        "ru": "Движение на минимальной скорости, установленной для дороги."
+      }
+    },
+    {
+      "text": {
+        "es": "La circulación a no más de 30 km/h en calles y de 45 km/h en avenidas.",
+        "en": "Driving at no more than 30 km/h in streets and 45 km/h in avenues.",
+        "ru": "Движение не более 30 км/ч по улицам и 45 км/ч по проспектам."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad precautoria permite al conductor reaccionar adecuadamente ante imprevistos.",
+      "en": "Precautionary speed allows the driver to react adequately to unforeseen events.",
+      "ru": "Предостерегающая скорость позволяет водителю адекватно реагировать на непредвиденные обстоятельства."
+    }
+  },
+  "citation": "【4:1†source】"
+}

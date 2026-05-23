@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En este tramo de la vía no se puede realizar un sobrepaso",
+    "en": "In this section of the road, overtaking is not allowed",
+    "ru": "На этом участке дороги обгон запрещён"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b117.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El adelantamiento está prohibido en tramos peligrosos, como curva o intersección.",
+      "en": "Overtaking is prohibited in dangerous sections, like curves or intersections.",
+      "ru": "Обгон запрещён в опасных местах, таких как повороты или пересечения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

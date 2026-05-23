@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "El estrés no necesariamente puede alterar las capacidades para conducir de manera segura.",
+    "en": "Stress does not necessarily alter the abilities to drive safely.",
+    "ru": "Стресс не обязательно снижает способности к безопасному вождению."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El estrés puede afectar la concentración y el juicio del conductor.",
+      "en": "Stress can affect the driver's concentration and judgment.",
+      "ru": "Стресс может повлиять на концентрацию и суждение водителя."
+    }
+  },
+  "citation": "【4:1†source】"
+}

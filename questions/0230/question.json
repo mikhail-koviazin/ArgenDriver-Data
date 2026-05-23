@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si al llegar a una intersección sin semáforos, se encuentra que el vehículo que está delante suyo está detenido esperando poder doblar hacia la izquierda, ¿qué debe hacer si ud. desea continuar en línea recta?",
+    "en": "If you arrive at an intersection without traffic lights and find that the vehicle in front of you is stopped waiting to turn left, what should you do if you want to continue straight?",
+    "ru": "Если вы приехали на перекресток без светофоров и увидели, что транспортное средство перед вами остановилось, ожидая поворота налево, что вам делать, если вы хотите продолжить движение прямо?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sobrepasarlo por la derecha de manera segura, colocando luz de giro y observando por los espejos retrovisores.",
+        "en": "Overtake it safely on the right, signaling with your turn signal and checking your mirrors.",
+        "ru": "Обгонять его безопасно справа, сигнализируя поворотом и проверяя зеркала."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sobrepaso por la izquierda, colocando la luz de giro y observando por los espejos retrovisores.",
+        "en": "Overtake on the left, signaling with your turn signal and checking your mirrors.",
+        "ru": "Обгонять слева, сигнализируя поворотом и проверяя зеркала."
+      }
+    },
+    {
+      "text": {
+        "es": "Tocarle bocina para indicarle que debe seguir.",
+        "en": "Honk to indicate that he should proceed.",
+        "ru": "Посигналить, чтобы дать понять, что нужно продолжать движение."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La opción correcta implica realizar el sobrepaso por la derecha, que es más seguro, siempre que se indique correctamente la maniobra.",
+      "en": "The correct option involves overtaking on the right, which is safer, as long as you signal your maneuver correctly.",
+      "ru": "Правильный вариант включает обгон справа, что безопаснее, при условии, что вы правильно сигнализируете о маневре."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

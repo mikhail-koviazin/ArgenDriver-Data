@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique cuál de las siguientes situaciones conlleva mayor probabilidad de siniestralidad",
+    "en": "Indicate which of the following situations involves a higher probability of accidents",
+    "ru": "Укажите, какая из следующих ситуаций сопряжена с более высокой вероятностью несчастных случаев"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b3.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A.",
+        "en": "Option A.",
+        "ru": "Вариант A."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción B.",
+        "en": "Option B.",
+        "ru": "Вариант B."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Condiciones como niebla o agua en la calzada son críticas para la seguridad vial.",
+      "en": "Conditions like fog or water on the pavement are critical for road safety.",
+      "ru": "Такие условия, как туман или вода на дороге, критически важны для безопасности на дороге."
+    }
+  },
+  "citation": "【4:18†source】"
+}

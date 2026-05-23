@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "El factor ambiental es el principal factor de riesgo ya que las colisiones, en su mayoría, se deben a las condiciones meteorológicas o del camino",
+    "en": "The environmental factor is the main risk factor since collisions mostly occur due to weather or road conditions",
+    "ru": "Экологический фактор является основным фактором риска, так как столкновения в основном происходят из-за погодных условий или состояния дороги"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las colisiones no se deben únicamente a las condiciones ambientales.",
+      "en": "Collisions do not solely depend on environmental conditions.",
+      "ru": "Столкновения зависят не только от экологических условий."
+    }
+  },
+  "citation": "【4:2†source】"
+}

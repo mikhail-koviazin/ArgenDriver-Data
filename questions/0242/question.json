@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El vehículo señalizado tiene permitido girar a la izquierda en este cruce que no tiene semáforo.",
+    "en": "The indicated vehicle is allowed to turn left at this intersection with no traffic light.",
+    "ru": "Указанному автомобилю разрешено поворачивать налево на этом перекрестке без светофора."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b126.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "No se permite girar a la izquierda en un cruce sin semáforo si otros vehículos tienen preferencia.",
+      "en": "Turning left at an intersection without a traffic light is not allowed if other vehicles have priority.",
+      "ru": "Поворот налево на перекрестке без светофора не разрешен, если у других автомобилей есть преимущество."
+    }
+  },
+  "citation": "【4:18†source】"
+}

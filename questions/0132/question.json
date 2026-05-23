@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si se va a conducir por un largo tiempo, lo recomendable es dormir la noche anterior...",
+    "en": "If you are going to drive for a long time, it is advisable to sleep the night before...",
+    "ru": "Если вы собираетесь водить долгое время, рекомендуется выспаться накануне..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Aproximadamente 8 horas.",
+        "en": "Approximately 8 hours.",
+        "ru": "Примерно 8 часов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Al menos 4 horas.",
+        "en": "At least 4 hours.",
+        "ru": "Как минимум 4 часа."
+      }
+    },
+    {
+      "text": {
+        "es": "Algunas horas, su cantidad no influye en la conducción ya que lo importante es realizar paradas de descanso.",
+        "en": "Some hours, their amount does not influence driving as the important thing is to make rest stops.",
+        "ru": "Некоторое количество часов, их количество не влияет на вождение, так как важно делать перерывы."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Dormir adecuadamente antes de conducir asegura que el conductor esté alerta y tenga la capacidad de reacción necesaria.",
+      "en": "Adequate sleep before driving ensures the driver is alert and has the necessary reaction ability.",
+      "ru": "Достаточный сон перед вождением гарантирует, что водитель будет внимателен и сможет быстро реагировать."
+    }
+  },
+  "citation": "【4:1†source】"
+}

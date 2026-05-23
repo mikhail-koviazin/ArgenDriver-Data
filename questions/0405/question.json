@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Los ocupantes de este vehículo ¿viajan de manera segura?",
+    "en": "Are the occupants of this vehicle traveling safely?",
+    "ru": "Путешествуют ли пассажиры этого автомобиля безопасно?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b221.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, ya que las personas se encuentran con cinturón de seguridad.",
+        "en": "Yes, since the people are wearing seat belts.",
+        "ru": "Да, поскольку люди пристегнуты ремнями безопасности."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que por normativa no está permitido trasladar mascotas en un automóvil particular.",
+        "en": "No, as the regulation does not allow transporting pets in a private car.",
+        "ru": "Нет, так как по правилам нельзя перевозить домашних животных в легковых автомобилях."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, ya que las mascotas deben ser transportadas en los asientos traseros sujetos con arnés o sistema de retención correspondiente.",
+        "en": "No, as pets must be transported in the back seats secured with a harness or appropriate restraint system.",
+        "ru": "Нет, так как домашних животных необходимо перевозить на задних сиденьях, крепя их с помощью ремня или соответствующей системы удержания."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es obligatorio llevar mascotas en los asientos traseros y sujetas adecuadamente.",
+      "en": "It is mandatory to transport pets in the back seats and secured properly.",
+      "ru": "Обязательно транспортировать домашних животных на заднем сиденье и надежно фиксировать."
+    }
+  },
+  "citation": "【4:11†source】"
+}

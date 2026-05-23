@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Por lo general, las fallas mecánicas se deben a conductas negligentes por parte de los propietarios de los vehículos, que no se ocupan de la verificación del estado de su automóvil",
+    "en": "Generally, mechanical failures are due to negligent behaviors by vehicle owners who do not ensure the condition of their car.",
+    "ru": "Как правило, механические неисправности связаны с небрежным поведением владельцев автомобилей, которые не заботятся о проверке состояния своего автомобиля."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El mantenimiento adecuado previene fallas mecánicas y accidentes viales.",
+      "en": "Proper maintenance prevents mechanical failures and road accidents.",
+      "ru": "Правильное обслуживание предотвращает механические неисправности и аварии на дороге."
+    }
+  },
+  "citation": "【4:4†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "La Organización Mundial de la Salud manifiesta que el riesgo en la vía pública surge como resultado de diversos factores, ¿cuáles son?",
+    "en": "The World Health Organization states that the risk on public roads arises as a result of various factors, what are they?",
+    "ru": "Всемирная организация здравоохранения утверждает, что риск на общественных дорогах возникает в результате различных факторов, что это за факторы?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Vehicular y Ambiental.",
+        "en": "Vehicle and Environmental.",
+        "ru": "Транспортный и экологический."
+      }
+    },
+    {
+      "text": {
+        "es": "Humano y Vehicular.",
+        "en": "Human and Vehicle.",
+        "ru": "Человеческий и транспортный."
+      }
+    },
+    {
+      "text": {
+        "es": "Humano, Vehicular y Ambiental.",
+        "en": "Human, Vehicle, and Environmental.",
+        "ru": "Человеческий, транспортный и экологический."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los accidentes de tránsito involucran factores humanos, vehiculares y ambientales. Todos ellos influyen en la seguridad vial.",
+      "en": "Traffic accidents involve human, vehicular, and environmental factors. All of them influence road safety.",
+      "ru": "Дорожно-транспортные происшествия связаны с человеческими, транспортными и экологическими факторами. Все они влияют на безопасность на дорогах."
+    }
+  },
+  "citation": "【4:1†source】"
+}

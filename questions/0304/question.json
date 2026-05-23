@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley Nº 24.449, en el caso de detener un vehículo en esta zona, ¿cuál es la distancia mínima que se debe mantener?",
+    "en": "According to Law No. 24,449, if stopping a vehicle in this area, what is the minimum distance that must be maintained?",
+    "ru": "Согласно закону № 24.449, при остановке автомобиля в этой зоне какое минимальное расстояние должно быть соблюдено?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b164.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "5 metros respecto de los rieles.",
+        "en": "5 meters from the tracks.",
+        "ru": "5 метров от рельсов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "2 metros respecto de los rieles.",
+        "en": "2 meters from the tracks.",
+        "ru": "2 метра от рельсов."
+      }
+    },
+    {
+      "text": {
+        "es": "No existe una distancia mínima.",
+        "en": "There is no minimum distance.",
+        "ru": "Минимального расстояния нет."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La Ley Nº 24.449 establece que se debe mantener una distancia mínima de 5 metros respecto de los rieles para garantizar la seguridad en pasos a nivel de tren.",
+      "en": "Law No. 24,449 states that a minimum distance of 5 meters from the tracks must be maintained to ensure safety at railway crossings.",
+      "ru": "Закон № 24.449 устанавливает минимальное расстояние в 5 метров от рельсов для обеспечения безопасности на железнодорожных переездах."
+    }
+  },
+  "citation": "【4:0†source】"
+}

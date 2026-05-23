@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "La circulación de un vehículo de dos ruedas suele ser más riesgosa porque...",
+    "en": "The circulation of a two-wheeled vehicle is often riskier because...",
+    "ru": "Передвижение на двухколесном транспортном средстве часто более рискованно, потому что..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Puede circular a más velocidad que los automóviles.",
+        "en": "It can travel faster than cars.",
+        "ru": "Он может двигаться быстрее, чем автомобили."
+      }
+    },
+    {
+      "text": {
+        "es": "La posición del conductor es más elevada que en un automóvil.",
+        "en": "The driver's position is higher than in a car.",
+        "ru": "Положение водителя выше, чем в автомобиле."
+      }
+    },
+    {
+      "text": {
+        "es": "Por su tamaño, es menos visible.",
+        "en": "Due to its size, it is less visible.",
+        "ru": "Из-за его размера его труднее увидеть."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos de dos ruedas son menos visibles para otros conductores, aumentando el riesgo de accidentes.",
+      "en": "Two-wheeled vehicles are less visible to other drivers, increasing the risk of accidents.",
+      "ru": "Двухколесные транспортные средства менее заметны для других водителей, что увеличивает риск аварий."
+    }
+  },
+  "citation": "【4:1†source】"
+}

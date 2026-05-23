@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "El certificado del seguro de responsabilidad civil es obligatorio llevarlo ÚNICAMENTE cuando se conduce por vías interurbanas.",
+    "en": "The civil liability insurance certificate is mandatory to carry ONLY when driving on intercity roads.",
+    "ru": "Сертификат гражданской ответственности по страхованию обязательно носить ТОЛЬКО при вождении на междугородних дорогах."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es obligatorio portar el certificado de seguro en todo momento al conducir.",
+      "en": "It is mandatory to carry the insurance certificate at all times while driving.",
+      "ru": "Обязательно иметь страховой сертификат всегда при вождении."
+    }
+  },
+  "citation": "【4:13†source】"
+}

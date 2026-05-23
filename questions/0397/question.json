@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es obligatoria la utilización de este elemento en todos los asientos del automóvil?",
+    "en": "Is the use of this element mandatory in all seats of the car?",
+    "ru": "Обязателен ли этот элемент для использования на всех сиденьях автомобиля?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b215.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí. Lo establece la normativa para evitar lesiones graves en la zona cervical.",
+        "en": "Yes. This is established by regulations to prevent serious injuries in the cervical area.",
+        "ru": "Да. Это установлено нормами для предотвращения серьезных травм в шейной области."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No en todos, para los asientos traseros no cumplen ninguna función.",
+        "en": "Not in all, they serve no purpose for the rear seats.",
+        "ru": "Не во всех, для задних сидений они не играют никакой роли."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que no forma parte de la seguridad activa ni pasiva de los vehículos.",
+        "en": "No, as it is not part of the active or passive safety of vehicles.",
+        "ru": "Нет, так как это не часть активной или пассивной безопасности транспортных средств."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso del apoya cabezas es obligatorio para reducir el riesgo de lesiones cervicales en caso de accidente.",
+      "en": "The use of headrests is mandatory to reduce the risk of cervical injuries in case of an accident.",
+      "ru": "Использование подголовников обязательно для снижения риска травм шеи в случае аварии."
+    }
+  },
+  "citation": "【4:0†source】"
+}

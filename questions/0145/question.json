@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estos sistemas de comunicación telefónica no es considerado riesgoso al momento de conducir un vehículo?",
+    "en": "Which of these telephone communication systems is not considered risky when driving a vehicle?",
+    "ru": "Какая из этих систем телефонной связи не считается рискованной при вождении автомобиля?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b58.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Opción A. Ya que al utilizar un sólo auricular la audición no se encuentra afectada.",
+        "en": "Option A. Because using just one earphone does not affect hearing.",
+        "ru": "Вариант A. Так как использование только одного наушника не влияет на слух."
+      }
+    },
+    {
+      "text": {
+        "es": "Opción B. Ya que al activar el manos libres las manos quedan disponibles para la conducción.",
+        "en": "Option B. Because when using hands-free, hands are free for driving.",
+        "ru": "Вариант B. Так как при использовании громкой связи руки свободны для вождения."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambos sistemas son riesgosos.",
+        "en": "Both systems are risky.",
+        "ru": "Обе системы рискованные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Ambos sistemas presentan distracciones, afectando la atención del conductor.",
+      "en": "Both systems present distractions, affecting the driver's attention.",
+      "ru": "Обе системы представляют собой отвлечения, влияющие на внимание водителя."
+    }
+  },
+  "citation": "Driving manual, section on communication systems and driving distractions."
+}

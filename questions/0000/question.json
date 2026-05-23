@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Según la Organización Mundial de la Salud, la siguiente problemática es categorizada como 'pandemia' ya que constituye la décima causa de muerte en todo el mundo.",
+    "en": "According to the World Health Organization, the following issue is categorized as 'pandemic' as it constitutes the tenth leading cause of death worldwide.",
+    "ru": "Согласно Всемирной организации здравоохранения, следующая проблема классифицируется как 'пандемия', так как является десятой причиной смерти во всем мире."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b1.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El reconocimiento de pandemias se basa en datos de mortalidad a nivel global, donde esta problemática se destaca.",
+      "en": "The recognition of pandemics is based on global mortality data, where this issue stands out.",
+      "ru": "Признание пандемий основывается на глобальных данных о смертности, где эта проблема выделяется."
+    }
+  },
+  "citation": "[4:11†source]"
+}

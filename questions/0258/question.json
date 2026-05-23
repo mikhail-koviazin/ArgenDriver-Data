@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida en este tramo de calle?",
+    "en": "What is the maximum speed allowed in this street section?",
+    "ru": "Какова максимальная разрешенная скорость в этом участке улицы?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b138.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "20 km/h.",
+        "en": "20 km/h.",
+        "ru": "20 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "30 km/h.",
+        "en": "30 km/h.",
+        "ru": "30 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima en calles es 40 km/h, pero zonas escolares requieren 20 km/h.",
+      "en": "The maximum speed on streets is 40 km/h, but school zones require 20 km/h.",
+      "ru": "Максимальная скорость на улицах составляет 40 км/ч, но в школьных зонах необходимо 20 км/ч."
+    }
+  },
+  "citation": "[4:1†manual]"
+}

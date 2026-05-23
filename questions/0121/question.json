@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Consumir cerveza influye en la conducción de un vehículo, haciendo que el conductor reduzca su capacidad de reacción y aumentando el tiempo necesario para responder ante un estímulo.",
+    "en": "Consuming beer influences the driving of a vehicle, causing the driver to reduce their reaction capacity and increasing the time needed to respond to a stimulus.",
+    "ru": "Употребление пива влияет на управление автомобилем, снижая реакцию водителя и увеличивая время, необходимое для реагирования на стимул."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El consumo de cerveza afecta gravemente los reflejos y la percepción del conductor, aumentando el riesgo de accidentes.",
+      "en": "The consumption of beer severely affects the driver's reflexes and perception, increasing the risk of accidents.",
+      "ru": "Употребление пива серьезно влияет на рефлексы и восприятие водителя, увеличивая риск аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

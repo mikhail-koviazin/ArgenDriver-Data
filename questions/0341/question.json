@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es el límite de velocidad máxima en esta situación?",
+    "en": "What is the maximum speed limit in this situation?",
+    "ru": "Каков максимальный лимит скорости в этой ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b187.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "80 km/h.",
+        "en": "80 km/h.",
+        "ru": "80 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En avenidas, el límite de velocidad máxima permitido es de 60 km/h.",
+      "en": "In avenues, the maximum permitted speed limit is 60 km/h.",
+      "ru": "На проспектах максимальная разрешенная скорость составляет 60 км/ч."
+    }
+  },
+  "citation": "【4:0†source】"
+}

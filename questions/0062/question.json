@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La siguiente imagen corresponde a:",
+    "en": "The following image corresponds to:",
+    "ru": "Следующее изображение соответствует:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b33.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Calle Prioridad Peatón.",
+        "en": "Pedestrian Priority Street.",
+        "ru": "Улица приоритета пешеходов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calle con Intervención Peatonal.",
+        "en": "Street with Pedestrian Intervention.",
+        "ru": "Улица с пешеходным вмешательством."
+      }
+    },
+    {
+      "text": {
+        "es": "Calle con Bicisenda.",
+        "en": "Street with Bike Lane.",
+        "ru": "Улица с велодорожкой."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que los peatones tienen prioridad, lo que mejora su seguridad.",
+      "en": "This sign indicates that pedestrians have priority, enhancing their safety.",
+      "ru": "Этот знак указывает на приоритет пешеходов, повышая их безопасность."
+    }
+  },
+  "citation": "【4:1†source】"
+}

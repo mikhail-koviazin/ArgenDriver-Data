@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si va a detenerse o estacionar en las cercanías de esta esquina, ¿dónde sería correcto hacerlo?",
+    "en": "If you are going to stop or park near this corner, where would it be correct to do so?",
+    "ru": "Если вы собираетесь остановиться или припарковаться рядом с этим углом, где было бы правильно это сделать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b163.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Detrás de la prolongación de la línea imaginaria de la ochava, de modo que la esquina quede libre, sin obstaculizar la visibilidad de los conductores.",
+        "en": "Behind the extension of the imaginary line of the chamfer, so that the corner remains clear and does not obstruct the visibility of drivers.",
+        "ru": "За продолжением воображаемой линии заострения, так что угол остается свободным и не затрудняет видимость водителей."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es indistinto siempre que quede la senda peatonal libre, para no obstaculizar el cruce del peatón.",
+        "en": "It's indifferent as long as the crosswalk remains clear, to not obstruct the pedestrian crossing.",
+        "ru": "Это не имеет значения, пока пешеходный переход остается свободным, чтобы не мешать переходу пешеходов."
+      }
+    },
+    {
+      "text": {
+        "es": "Dentro de la intersección.",
+        "en": "Inside the intersection.",
+        "ru": "Внутри перекрестка."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es correcto estacionar detrás de la prolongación de la línea imaginaria de la ochava para mantener la visibilidad en la esquina.",
+      "en": "It is correct to park behind the extension of the imaginary line of the chamfer to maintain visibility at the corner.",
+      "ru": "Правильно парковаться за продолжением воображаемой линии заострения, чтобы сохранять видимость на углу."
+    }
+  },
+  "citation": "【4:0†source】"
+}

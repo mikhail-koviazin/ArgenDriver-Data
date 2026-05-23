@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "El vehículo, que circula por el carril destinado al tránsito lento, no puede abandonarlo para sobrepasar a otro vehículo que transita más lento.",
+    "en": "The vehicle that travels in the lane designated for slow traffic cannot leave it to overtake another vehicle traveling slower.",
+    "ru": "Транспортное средство, движущееся по полосе, предназначенной для медленного движения, не может покинуть ее, чтобы обогнать другое более медленное транспортное средство."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los vehículos en el carril de tránsito lento deben permanecer en él.",
+      "en": "Vehicles in the slow traffic lane must remain in it.",
+      "ru": "Автомобили на полосе медленного движения обязаны оставаться на ней."
+    }
+  },
+  "citation": "【4:1†source】"
+}

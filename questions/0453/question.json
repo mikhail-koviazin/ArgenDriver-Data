@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b269.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Existencia de un teatro, en las inmediaciones.",
+        "en": "Presence of a theater nearby.",
+        "ru": "Наличие театра поблизости."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibición de estacionar en la puerta de un teatro.",
+        "en": "Prohibition of parking at the theater entrance.",
+        "ru": "Запрет парковки у входа в театр."
+      }
+    },
+    {
+      "text": {
+        "es": "Prohibición de detenerse en la puerta de un teatro.",
+        "en": "Prohibition of stopping at the theater entrance.",
+        "ru": "Запрет на остановку у входа в театр."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que hay un teatro cercano al lugar.",
+      "en": "The sign indicates that there is a theater nearby.",
+      "ru": "Знак указывает на то, что поблизости есть театр."
+    }
+  },
+  "citation": "[4:7†source]"
+}

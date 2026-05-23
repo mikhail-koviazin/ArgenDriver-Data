@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Como norma general, ¿dónde está prohibido el sobrepaso de un vehículo?",
+    "en": "As a general rule, where is it prohibited to overtake a vehicle?",
+    "ru": "В общем, где запрещено обгонять транспортное средство?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Donde la delimitación de carriles es de trazo continuo.",
+        "en": "Where the lane marking is continuous.",
+        "ru": "Где разметка полосы непрерывная."
+      }
+    },
+    {
+      "text": {
+        "es": "En curvas, encrucijadas, pasos a nivel o puentes.",
+        "en": "In curves, intersections, level crossings, or bridges.",
+        "ru": "На поворотах, перекрестках, на железнодорожных переездах или мостах."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответа, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sobrepaso está prohibido en zonas de alta peligrosidad como curvas y encrucijadas.",
+      "en": "Overtaking is prohibited in high-risk areas such as curves and intersections.",
+      "ru": "Обгон запрещен в зонах с высоким риском, таких как повороты и перекрестки."
+    }
+  },
+  "citation": "【4:5†source】"
+}

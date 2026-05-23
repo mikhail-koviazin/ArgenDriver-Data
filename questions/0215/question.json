@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En la siguiente situación, ¿el vehículo B puede sobrepasar al vehículo A?",
+    "en": "In the following situation, can vehicle B overtake vehicle A?",
+    "ru": "В следующей ситуации может ли транспортное средство B обогнать транспортное средство A?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b111.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, salvo que se acerque un vehículo en el sentido contrario.",
+        "en": "Yes, unless a vehicle approaches from the opposite direction.",
+        "ru": "Да, если только к нему не приближается транспортное средство, движущееся навстречу."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que está prohibido por la demarcación horizontal.",
+        "en": "No, as it is prohibited by the horizontal marking.",
+        "ru": "Нет, так как это запрещено горизонтальной разметкой."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, haciendo las señales de luces correspondientes y si el vehículo que circula en sentido contrario está lejos.",
+        "en": "Yes, by using the appropriate light signals and if the vehicle coming from the opposite direction is far.",
+        "ru": "Да, подав соответствующие сигналы света, если транспортное средство, движущееся навстречу, далеко."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El adelantamiento debe cumplirse con las reglas de seguridad, como evitar la línea continua.",
+      "en": "Overtaking must comply with safety rules, such as avoiding a solid line.",
+      "ru": "Обгон должен соответствовать правилам безопасности, таким как избегание сплошной линии."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Los vehículos que circulan por la siguiente avenida, al llegar a esta bocacalle sin semáforos, ¿cuál es el límite superior de velocidad precautoria que deben respetar?",
+    "en": "Vehicles driving on the following avenue, when reaching this intersection without traffic lights, what is the upper limit of precautionary speed they must respect?",
+    "ru": "Какая предельная скорость предостережения должна соблюдаться транспортными средствами, проходящими по следующему проспекту, когда они достигают этого перекрестка без светофоров?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b143.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "20 kilómetros por hora.",
+        "en": "20 kilometers per hour.",
+        "ru": "20 километров в час."
+      }
+    },
+    {
+      "text": {
+        "es": "40 kilómetros por hora.",
+        "en": "40 kilometers per hour.",
+        "ru": "40 километров в час."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "30 kilómetros por hora.\t",
+        "en": "30 kilometers per hour.",
+        "ru": "30 километров в час."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad precautoria máxima en bocacalles sin semáforos es de 30 km/h, pero aquí se permite 40 km/h debido a ser una avenida.",
+      "en": "The maximum precautionary speed at intersections without traffic lights is 30 km/h, but here 40 km/h is allowed as it is an avenue.",
+      "ru": "Максимальная предостерегающая скорость на перекрестках без светофоров составляет 30 км/ч, но здесь допустимо 40 км/ч, так как это проспект."
+    }
+  },
+  "citation": "【4:7†source】"
+}

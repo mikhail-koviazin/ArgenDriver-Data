@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida para automóviles particulares en este tramo de la Av. Gral Roca, por encontrarse cerca de un establecimiento escolar?",
+    "en": "What is the maximum speed limit for private cars in this section of Av. Gral Roca, being near a school?",
+    "ru": "Каков максимальный предел скорости для легковых автомобилей на данном участке авеню Грнл Рока, находящемся рядом со школой?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b140.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "30 km/h.",
+        "en": "30 km/h.",
+        "ru": "30 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "60 km/h.",
+        "en": "60 km/h.",
+        "ru": "60 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad máxima en proximidad de escuelas es 20 km/h.",
+      "en": "The maximum speed near schools is 20 km/h.",
+      "ru": "Максимально разрешенная скорость вблизи школ составляет 20 км/ч."
+    }
+  },
+  "citation": "【4:2†source】"
+}

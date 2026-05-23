@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta demarcación amarilla en la calzada?",
+    "en": "What does this yellow marking on the roadway indicate?",
+    "ru": "Что означает эта желтая разметка на дороге?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b76.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que es un sector destinado a la detención y al estacionamiento de vehículos.",
+        "en": "That it is an area designated for stopping and parking vehicles.",
+        "ru": "Что это зона, предназначенная для остановки и парковки автомобилей."
+      }
+    },
+    {
+      "text": {
+        "es": "Que se debe circular lentamente por su sector central.",
+        "en": "That you should drive slowly through its central area.",
+        "ru": "Что необходимо медленно двигаться по его центральной части."
+      }
+    },
+    {
+      "text": {
+        "es": "Que no se debe circular sobre ella.",
+        "en": "That you must not drive over it.",
+        "ru": "Что нельзя двигаться по ней."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La demarcación amarilla indica una zona prohibida para circular.",
+      "en": "The yellow marking indicates a prohibited area for driving.",
+      "ru": "Желтая разметка указывает на запрещенную для движения зону."
+    }
+  },
+  "citation": "【4:0†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En cuanto a su indumentaria, ¿cuál de los dos ciclistas presenta menor riesgo de sufrir un siniestro vial?",
+    "en": "Regarding their clothing, which of the two cyclists presents a lower risk of suffering a traffic accident?",
+    "ru": "Что касается их одежды, какой из двух велосипедистов представляет меньший риск стать жертвой дорожно-транспортного происшествия?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b7.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La opción A, ya que al tener ropa clara es más visible.",
+        "en": "Option A, as wearing light clothing makes them more visible.",
+        "ru": "Вариант А, так как светлая одежда делает их более заметными."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Opción B, ya que al tener ropa oscura no genera distracciones en los demás conductores.",
+        "en": "Option B, as wearing dark clothing does not distract other drivers.",
+        "ru": "Вариант Б, так как темная одежда не отвлекает других водителей."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas opciones presentan el mismo riesgo por igual.",
+        "en": "Both options present the same risk equally.",
+        "ru": "Обе опции представляют одинаковый риск."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ropa clara aumenta la visibilidad y reduce el riesgo de accidentes en vías nocturnas.",
+      "en": "Light clothing increases visibility and reduces the risk of accidents on roads at night.",
+      "ru": "Светлая одежда увеличивает видимость и снижает риск несчастных случаев на дорогах в ночное время."
+    }
+  },
+  "citation": "【4:1†source】"
+}

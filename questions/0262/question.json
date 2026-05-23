@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Al pretender abandonar una autopista o semiautopista, ¿cuándo se debe reducir la velocidad?",
+    "en": "When intending to leave a highway or semi-highway, when should speed be reduced?",
+    "ru": "Когда вы намереваетесь покинуть автомагистраль или полупроводник, когда необходимо снизить скорость?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Poco antes de abandonar la misma.",
+        "en": "Just before leaving it.",
+        "ru": "Непосредственно перед тем, как покинуть её."
+      }
+    },
+    {
+      "text": {
+        "es": "Cuando se haya entrado en el carril de desaceleración.",
+        "en": "When entering the deceleration lane.",
+        "ru": "Когда вы заедете в полосу снижения скорости."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cuando se ingresa a la nueva vía de circulación.",
+        "en": "When entering the new circulation lane.",
+        "ru": "Когда вы вступаете на новую полосу движения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se debe reducir la velocidad al entrar en el carril de desaceleración, ya que es el área destinada para disminuir la velocidad antes de salir de la autopista.",
+      "en": "Speed should be reduced when entering the deceleration lane, as this is the area designated for slowing down before exiting the highway.",
+      "ru": "Скорость должна быть снижена при входе в полосу замедления, так как это зона, предназначенная для уменьшения скорости перед выходом с автомагистрали."
+    }
+  },
+  "citation": "【4:12†source】"
+}

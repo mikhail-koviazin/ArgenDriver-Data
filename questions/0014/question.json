@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Los ciclistas no están obligados a respetar todas las normas de tránsito, ya que no utilizan un vehículo que genera altas velocidades.",
+    "en": "Cyclists are not required to follow all traffic rules as they do not use a vehicle that generates high speeds.",
+    "ru": "Велосипедистам не требуется соблюдать все правила дорожного движения, поскольку они не используют транспортное средство, генерирующее высокие скорости."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los ciclistas deben seguir las normas de tránsito como cualquier otro vehículo, independientemente de su velocidad.",
+      "en": "Cyclists must follow traffic rules like any other vehicle, regardless of their speed.",
+      "ru": "Велосипедисты должны соблюдать правила дорожного движения, как и любое другое транспортное средство, независимо от скорости."
+    }
+  },
+  "citation": "【4:11†source】"
+}

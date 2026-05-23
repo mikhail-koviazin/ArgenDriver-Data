@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si se encuentra en esta situación y el personal ferroviario le indica que avance, ¿qué debe hacer?",
+    "en": "If you find yourself in this situation and the railway staff indicates that you can advance, what should you do?",
+    "ru": "Если вы оказались в этой ситуации и железнодорожный персонал указывает вам продвигаться, что вы должны сделать?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b70.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Avanzar porque el personal ferroviario está autorizado a regular el paso de vehículos.",
+        "en": "Advance because the railway staff is authorized to regulate the passage of vehicles.",
+        "ru": "Продолжайте движение, так как железнодорожный персонал имеет полномочия регулировать проезд транспортных средств."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Detenerme y esperar hasta que la barrera se levante porque el personal ferroviario no tiene la autoridad legal para realizar dicha indicación.",
+        "en": "Stop and wait until the barrier is raised because the railway staff does not have the legal authority to make such an indication.",
+        "ru": "Остановитесь и ждите, пока шлагбаум не поднимется, потому что железнодорожный персонал не имеет законных полномочий для данного указания."
+      }
+    },
+    {
+      "text": {
+        "es": "Detenerme y esperar hasta que la barrera se levante, salvo que la indicación sea realizada por un agente de tránsito ya que es la única autoridad competente.",
+        "en": "Stop and wait until the barrier is raised, unless the indication is given by a traffic officer, as he is the only competent authority.",
+        "ru": "Остановитесь и ждите, пока шлагбаум не поднимется, если указание не дано дорожным офицером, так как он единственная компетентная власть."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El personal ferroviario tiene la autoridad de regular el paso cuando es necesario, y la seguridad del cruce debe ser siempre prioritaria.",
+      "en": "Railway staff have the authority to regulate passage when necessary, and safety at crossings must always be a priority.",
+      "ru": "Железнодорожный персонал имеет полномочия регулировать движение, когда это необходимо, и безопасность на перекрестках всегда должна быть приоритетом."
+    }
+  },
+  "citation": "【4:2†source】"
+}

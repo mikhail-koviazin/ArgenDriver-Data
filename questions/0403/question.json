@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Esta persona tiene el cinturón correctamente colocado?",
+    "en": "Is this person wearing the seat belt correctly?",
+    "ru": "Правильно ли этот человек пристегнут ремнем безопасности?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b219.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, porque pasa por el abdomen y debería hacerlo por los huesos de la cadera.",
+        "en": "No, because it goes over the abdomen and should go over the hip bones.",
+        "ru": "Нет, потому что он проходит по животу, а должен проходить по костям бедра."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, porque pasa por el abdomen y debería hacerlo por los muslos.",
+        "en": "No, because it goes over the abdomen and should go over the thighs.",
+        "ru": "Нет, потому что он проходит по животу, а должен быть на бедрах."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque pasa por la clavícula y el abdomen.",
+        "en": "Yes, because it goes over the collarbone and the abdomen.",
+        "ru": "Да, потому что он проходит по ключице и животу."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El cinturón debe pasar por los huesos de la cadera para ser efectivo.",
+      "en": "The seatbelt should go over the hip bones for effective restraint.",
+      "ru": "Ремень безопасности должен проходить по костям бедра для эффективного удержания."
+    }
+  },
+  "citation": "[4] manual.pdf"
+}

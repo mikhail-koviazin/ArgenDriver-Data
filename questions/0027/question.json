@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué se debe evitar al circular en bicicleta?",
+    "en": "What should be avoided when riding a bicycle?",
+    "ru": "Что следует избегать при езде на велосипеде?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Usar auriculares y dispositivos electrónicos, que afecten la concentración.",
+        "en": "Using headphones and electronic devices that affect concentration.",
+        "ru": "Использование наушников и электронных устройств, которые отвлекают."
+      }
+    },
+    {
+      "text": {
+        "es": "Usar ropa oscura y suelta.",
+        "en": "Wearing dark and loose clothing.",
+        "ru": "Ношение темной и свободной одежды."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es fundamental evitar distracciones y usar ropa adecuada para mayor seguridad.",
+      "en": "It is essential to avoid distractions and dress appropriately for increased safety.",
+      "ru": "Важно избегать отвлекающих факторов и носить подходящую одежду для повышения безопасности."
+    }
+  },
+  "citation": "【4:14†source】"
+}

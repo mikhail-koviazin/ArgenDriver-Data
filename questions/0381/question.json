@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "El siguiente elemento de seguridad, está correctamente ubicado.",
+    "en": "The following safety element is correctly located.",
+    "ru": "Следующий элемент безопасности установлен правильно."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b207.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La ubicación correcta de los elementos de seguridad es crucial para la protección de los ocupantes.",
+      "en": "The correct placement of safety elements is crucial for occupant protection.",
+      "ru": "Правильное размещение элементов безопасности имеет решающее значение для защиты пассажиров."
+    }
+  },
+  "citation": "【4:1†source】"
+}

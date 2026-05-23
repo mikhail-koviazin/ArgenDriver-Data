@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Para qué sirven estas luces intermitentes?",
+    "en": "What are these flashing lights for?",
+    "ru": "Для чего служат эти мигающие огни?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b176.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Para advertir a los demás conductores, frente a malas condiciones climáticas, que el vehículo circula a baja velocidad.",
+        "en": "To warn other drivers, in bad weather conditions, that the vehicle is moving at low speed.",
+        "ru": "Чтобы предупредить других водителей о низкой скорости движения автомобиля в плохих погодных условиях."
+      }
+    },
+    {
+      "text": {
+        "es": "Para señalizar y advertir a los demás conductores que el vehículo se encuentra detenido o próximo a una maniobra de detención, estacionamiento o emergencia.",
+        "en": "To signal and warn other drivers that the vehicle is stopped or about to make a stopping, parking, or emergency maneuver.",
+        "ru": "Чтобы сигнализировать и предупреждать других водителей о том, что транспортное средство остановлено или собирается выполнить маневр остановки, парковки или в экстренной ситуации."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, правильные."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces intermitentes indican que el vehículo está detenido o en una maniobra, aumentando la seguridad.",
+      "en": "Flashing lights indicate that the vehicle is stopped or in a maneuver, enhancing safety.",
+      "ru": "Мигающие огни указывают на то, что транспортное средство остановлено или выполняет маневр, повышая безопасность."
+    }
+  },
+  "citation": "【4:18†source】"
+}

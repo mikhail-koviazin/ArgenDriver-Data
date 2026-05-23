@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Como norma general, frente a esta señal, ¿está permitido detenerse para el ascenso o descenso de pasajeros?",
+    "en": "As a general rule, is it allowed to stop for the boarding or alighting of passengers in front of this sign?",
+    "ru": "Как правило, разрешено ли останавливаться для посадки или высадки пассажиров перед этим знаком?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b154.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No. Está prohibido estacionar y detenerse.",
+        "en": "No. It is prohibited to park and stop.",
+        "ru": "Нет. Остановка и парковка запрещены."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí. Sólo está prohibido estacionar pero no detenerse.",
+        "en": "Yes. Only parking is prohibited, but stopping is allowed.",
+        "ru": "Да. Запрещено только парковаться, но останавливаться можно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Según la hora en que quiera realizarse la detención.",
+        "en": "Depending on the time you want to stop.",
+        "ru": "В зависимости от времени, когда вы хотите остановиться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal permite la detención para ascenso o descenso de pasajeros, pero no el estacionamiento.",
+      "en": "The sign allows stopping for passenger boarding or alighting, but not parking.",
+      "ru": "Знак разрешает остановку для посадки или высадки пассажиров, но не парковку."
+    }
+  },
+  "citation": "【4:9†source】"
+}

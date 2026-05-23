@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según la Ley Nº 2148, ¿qué indica la siguiente demarcación horizontal?",
+    "en": "According to Law No. 2148, what does the following horizontal marking indicate?",
+    "ru": "Согласно закону № 2148, что указывает следующая горизонтальная разметка?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b81.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que sólo está prohibido estacionar, pudiendo efectuarse detenciones.",
+        "en": "That parking is only prohibited, but stops can be made.",
+        "ru": "Что только запрещено парковаться, но остановки могут быть сделаны."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que es un lugar reservado para el estacionamiento exclusivo de vehículos destinados al transporte de pasajeros.",
+        "en": "That it is a place reserved for the exclusive parking of vehicles intended for passenger transport.",
+        "ru": "Что это место, зарезервированное для эксклюзивной парковки транспортных средств, предназначенных для пассажирских перевозок."
+      }
+    },
+    {
+      "text": {
+        "es": "Que está prohibido estacionar o detenerse al costado de la vereda.",
+        "en": "That parking or stopping is prohibited at the sidewalk.",
+        "ru": "Что запрещено парковать или останавливаться у обочины."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La demarcación indica que se permite detenerse pero no estacionar, garantizando la fluidez del tránsito.",
+      "en": "The marking indicates that stopping is allowed but parking is not, ensuring traffic flow.",
+      "ru": "Разметка указывает, что остановка разрешена, но парковка запрещена, что обеспечивает движение."
+    }
+  },
+  "citation": "Ley Nº 2148 sobre demarcación horizontal en el contexto del tráfico."
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Todo vehículo debe estar cubierto por un seguro, ¿qué daños mínimamente debe cubrir?",
+    "en": "Every vehicle must be covered by insurance, what damages must it minimally cover?",
+    "ru": "Каждое транспортное средство должно быть застраховано, какие убытки оно должно минимально покрывать?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Eventuales daños causados a terceros transportados únicamente.",
+        "en": "Possible damages caused to third parties transported or not.",
+        "ru": "Возможные ущербы, причиненные третьим лицам, перевезенным или не перевезенным."
+      }
+    },
+    {
+      "text": {
+        "es": "Eventuales daños causados a terceros transportados o no.",
+        "en": "Possible damages caused to third parties transported only.",
+        "ru": "Возможные убытки, причиненные только перевезенным третьим лицам."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Daños causados a los vehículos únicamente.",
+        "en": "Damages caused to vehicles only.",
+        "ru": "Вред, причиненный только транспортным средствам."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El seguro debe cubrir daños a terceros, independientemente de su relación con el accidente.",
+      "en": "The insurance must cover damages to third parties, regardless of their relation to the accident.",
+      "ru": "Страховка должна покрывать ущерб третьим лицам, независимо от их связи с аварией."
+    }
+  },
+  "citation": "【4:2†source】"
+}

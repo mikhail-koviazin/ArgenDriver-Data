@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué vehículo tiene prioridad de paso en esta intersección sin semáforo?",
+    "en": "Which vehicle has priority at this intersection without a traffic light?",
+    "ru": "Какой автомобиль имеет преимущество на этом перекрестке без светофора?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b100.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo A porque circula por una avenida.",
+        "en": "Vehicle A because it is traveling on an avenue.",
+        "ru": "Автомобиль A, потому что он движется по проспекту."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El vehículo B porque circula por la derecha.",
+        "en": "Vehicle B because it is traveling on the right.",
+        "ru": "Автомобиль B, потому что он движется вправо."
+      }
+    },
+    {
+      "text": {
+        "es": "Es indistinto ya que es una esquina sin semáforo.",
+        "en": "It is indifferent since this is a corner without a traffic signal.",
+        "ru": "Это не имеет значения, так как это угол без светофора."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo A tiene prioridad en avenidas. En intersecciones sin semáforos, las avenidas tienen preferencia.",
+      "en": "Vehicle A has priority on avenues. At intersections without traffic lights, avenues take precedence.",
+      "ru": "Автомобиль A имеет преимущество на проспектах. На перекрестках без светофоров проспекты имеют преимущество."
+    }
+  },
+  "citation": "【6:4†source】"
+}

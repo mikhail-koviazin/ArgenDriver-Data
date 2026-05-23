@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál es la velocidad máxima permitida en este tramo de calle?",
+    "en": "What is the maximum speed allowed on this street section?",
+    "ru": "Какова максимальная скорость, разрешенная на этом участке улицы?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b139.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "20 km/h.",
+        "en": "20 km/h.",
+        "ru": "20 км/ч."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "30 km/h.",
+        "en": "30 km/h.",
+        "ru": "30 км/ч."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En áreas de alta concentración de personas, la velocidad máxima es 20 km/h.",
+      "en": "In areas with high concentrations of people, the maximum speed is 20 km/h.",
+      "ru": "В районах с высокой концентрацией людей максимальная скорость составляет 20 км/ч."
+    }
+  },
+  "citation": "【4:1†source】"
+}

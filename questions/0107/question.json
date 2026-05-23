@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según Ley N°2265, ¿Cuándo debe realizar la primer VTV un automóvil 0km radicado en CABA?",
+    "en": "According to Law No. 2265, when should a 0km car based in CABA carry out its first VTV?",
+    "ru": "Согласно Закону №2265, когда должен проходить первую VTV автомобіль 0km, зарегистрированный в CABA?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Pasados los 3 años de antigüedad, en el mes que le corresponda, o superados los 60.000 km.",
+        "en": "After 3 years of age, in the corresponding month, or exceeding 60,000 km.",
+        "ru": "По истечении 3 лет, в соответствующем месяце или превышении 60,000 км."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Inmediatamente al retirarlo de la agencia.",
+        "en": "Immediately after taking it from the dealership.",
+        "ru": "Немедленно после получения его из дилерского центра."
+      }
+    },
+    {
+      "text": {
+        "es": "En el mes que le corresponda, inmediatamente seguido al año transcurrido.",
+        "en": "In the corresponding month, immediately after the year has passed.",
+        "ru": "В соответствующем месяце, сразу после истечения года."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La primera VTV para vehículos 0km se realiza a los 36 meses de patentamiento.",
+      "en": "The first VTV for 0km vehicles is carried out at 36 months from registration.",
+      "ru": "Первую VTV для автомобилей 0 км проводят через 36 месяцев с момента регистрации."
+    }
+  },
+  "citation": "[4:1†source]"
+}

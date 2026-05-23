@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Es correcta la colocación del dispositivo de retención infantil en este vehículo?",
+    "en": "Is the placement of the child restraint device in this vehicle correct?",
+    "ru": "Правильная ли установка устройства для удержания детей в этом автомобиле?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b211.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, salvo en rutas nacionales.",
+        "en": "Yes, except on national roads.",
+        "ru": "Да, кроме национальных дорог."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, siempre y cuando esté debidamente ajustado.",
+        "en": "Yes, as long as it is properly adjusted.",
+        "ru": "Да, при условии, что он правильно отрегулирован."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que estos dispositivos deben ir colocados en los asientos traseros.",
+        "en": "No, as these devices must be placed in the rear seats.",
+        "ru": "Нет, так как эти устройства должны быть установлены на задних сиденьях."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los niños y bebés siempre deben viajar en el asiento trasero para mayor seguridad.",
+      "en": "Children and infants must always travel in the rear seat for greater safety.",
+      "ru": "Дети и младенцы всегда должны сидеть на заднем сиденье для большей безопасности."
+    }
+  },
+  "citation": "【4:4†source】"
+}

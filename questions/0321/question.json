@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Para circular de noche por una calle de la Ciudad de Buenos Aires, ¿qué luces deben utilizarse?",
+    "en": "What lights should be used to drive at night on a street in Buenos Aires?",
+    "ru": "Какие фары следует использовать для вождения ночью по улице в Буэнос-Айресе?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Las bajas.",
+        "en": "Low beams.",
+        "ru": "Низкие фары."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Las altas.",
+        "en": "High beams.",
+        "ru": "Высокие фары."
+      }
+    },
+    {
+      "text": {
+        "es": "Las de posición solamente.",
+        "en": "Only position lights.",
+        "ru": "Только габаритные огни."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante usar luces bajas para no deslumbrar a otros conductores.",
+      "en": "Using low beams is important to avoid blinding other drivers.",
+      "ru": "Использование низких фар важно, чтобы не ослеплять других водителей."
+    }
+  },
+  "citation": "【4:8†source】"
+}

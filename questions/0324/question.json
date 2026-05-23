@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Es obligatoria la circulación con luces bajas encendidas las 24 horas en...",
+    "en": "It is mandatory to drive with low beams on 24 hours a day in...",
+    "ru": "Обязательно движение с включенными фарами ближнего света 24 часа в сутки на..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Todas las autopistas.",
+        "en": "All highways.",
+        "ru": "Все автомагистрали."
+      }
+    },
+    {
+      "text": {
+        "es": "Avenida Gral. Paz, Lugones e Intendente Cantilo.",
+        "en": "General Paz Avenue, Lugones and Intendente Cantilo.",
+        "ru": "Авенида Гр. Паз, Лугонес и Интенденте Кантило."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Оба ответа, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En rutas nacionales, es obligatorio usar luces bajas para mayor visibilidad.",
+      "en": "On national roads, it is mandatory to use low beams for greater visibility.",
+      "ru": "На национальных дорогах обязательно использовать ближний свет для большей видимости."
+    }
+  },
+  "citation": "【4:0†source】"
+}

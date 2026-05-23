@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál es la importancia del color de las señales viales?",
+    "en": "What is the importance of the color of traffic signs?",
+    "ru": "Какова важность цвета дорожных знаков?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "El color es para llamar la atención al conductor de categoría particular.",
+        "en": "The color is to attract the attention of a particular category driver.",
+        "ru": "Цвет призван привлечь внимание водителя определенной категории."
+      }
+    },
+    {
+      "text": {
+        "es": "El color es irrelevante para el conductor particular pero sí para el conductor profesional.",
+        "en": "The color is irrelevant for the private driver but is for the professional driver.",
+        "ru": "Цвет не имеет значения для частного водителя, но важен для профессионального водителя."
+      }
+    },
+    {
+      "text": {
+        "es": "El color, además de su forma, brinda información al conductor sobre el trayecto de la vía por la cual circula.",
+        "en": "The color, in addition to its shape, provides information to the driver about the route of the road they are traveling on.",
+        "ru": "Цвет, помимо своей формы, предоставляет водителю информацию о маршруте дороги, по которой он едет."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El color de las señales proporciona información crítica sobre la condición de la vía y las regulaciones.",
+      "en": "The color of the signs provides critical information about the road conditions and regulations.",
+      "ru": "Цвет знаков предоставляет ключевую информацию о состоянии дороги и правилах."
+    }
+  },
+  "citation": "【4:1†source】"
+}

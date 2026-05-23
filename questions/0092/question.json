@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Frente a un control de tránsito en CABA, si la autoridad realiza una infracción ante una falta cometida por un conductor, ¿dónde puede efectuarse el pago de la multa por dicha infracción",
+    "en": "In front of a traffic control in CABA, if the authority issues a fine for an offense committed by a driver, where can the payment of the fine for that offense be made?",
+    "ru": "На контрольном пункте дорожного движения в CABA, если власти выписывают штраф за нарушение, совершенное водителем, где можно оплатить штраф за это нарушение?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "En ese mismo momento y ante la Autoridad de Control si ésta lo requiere.",
+        "en": "At that same moment and before the Control Authority if required.",
+        "ru": "В тот же момент и перед органом контроля, если это требуется."
+      }
+    },
+    {
+      "text": {
+        "es": "Ante la oficina de la Dirección General de Administración de Infracciones que corresponda.",
+        "en": "At the office of the corresponding General Administration of Infractions.",
+        "ru": "В офисе соответствующей Генеральной администрации штрафов."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El pago de multas por infracciones se realiza en oficinas designadas específicas.",
+      "en": "The payment of fines for violations is made at designated specific offices.",
+      "ru": "Оплата штрафов за нарушения производится в специальных назначенных офисах."
+    }
+  },
+  "citation": "[4:0†source]"
+}

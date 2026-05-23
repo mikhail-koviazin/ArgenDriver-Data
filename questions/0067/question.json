@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "En la imagen se muestra un cruce exclusivo para ciclistas.",
+    "en": "The image shows an exclusive crossing for cyclists.",
+    "ru": "На изображении показан перекрёсток, предназначенный исключительно для велосипедистов."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b38.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Правда."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los cruces para ciclistas son generalmente señalizados, y su forma y ubicación son clave para su identificación.",
+      "en": "Crossings for cyclists are typically marked, and their shape and location are key for identification.",
+      "ru": "Перекрестки для велосипедистов обычно обозначены, и их форма и местоположение важны для идентификации."
+    }
+  },
+  "citation": "[4:4†source]"
+}

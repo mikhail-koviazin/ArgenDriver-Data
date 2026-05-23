@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta señal?",
+    "en": "What does this sign indicate?",
+    "ru": "Что указывает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b272.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se encuentra permitido detenerse en esa vía.",
+        "en": "It is allowed to stop on that road.",
+        "ru": "Разрешено останавливаться на этой дороге."
+      }
+    },
+    {
+      "text": {
+        "es": "Existencia de un estacionamiento vehicular, en las inmediaciones.",
+        "en": "Existence of a parking lot in the vicinity.",
+        "ru": "Наличие парковки в окрестностях."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se encuentra permitido estacionar en esa vía.",
+        "en": "It is allowed to park on that road.",
+        "ru": "Разрешено парковаться на этой дороге."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la proximidad de un estacionamiento, permitiendo estacionar en esa vía.",
+      "en": "The sign indicates the proximity of a parking area, allowing parking on that road.",
+      "ru": "Знак указывает на близость зоны для парковки, позволяя парковаться на этой дороге."
+    }
+  },
+  "citation": "【4:17†source】"
+}

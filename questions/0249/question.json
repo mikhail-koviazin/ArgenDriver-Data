@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Según las normas generales, ¿cuál es la velocidad mínima permitida en esta calle?",
+    "en": "According to the general rules, what is the minimum speed allowed on this street?",
+    "ru": "Согласно общим правилам, какая минимальная скорость разрешена на этой улице?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b131.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "30 km/h.",
+        "en": "30 km/h.",
+        "ru": "30 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "40 km/h.",
+        "en": "40 km/h.",
+        "ru": "40 км/ч."
+      }
+    },
+    {
+      "text": {
+        "es": "20 km/h.",
+        "en": "20 km/h.",
+        "ru": "20 км/ч."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La velocidad mínima permitida en calles es de 20 km/h para garantizar la fluidez del tránsito.",
+      "en": "The minimum allowed speed on streets is 20 km/h to ensure traffic flow.",
+      "ru": "Минимально допустимая скорость на улицах составляет 20 км/ч для обеспечения потока движения."
+    }
+  },
+  "citation": "【4:0†source】"
+}

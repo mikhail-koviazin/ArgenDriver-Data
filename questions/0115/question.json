@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "La persona que conduce bajo los efectos de estupefacientes…",
+    "en": "The person driving under the influence of narcotics...",
+    "ru": "Человек, управляющий автомобилем под воздействием наркотиков..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Se pone en grave riesgo a sí mismo y a todos los que lo rodean.",
+        "en": "They put themselves and everyone around them in serious danger.",
+        "ru": "Он ставит себя и окружающих под серьезную опасность."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo pone en riesgo su propia vida.",
+        "en": "They only endanger their own life.",
+        "ru": "Он ставит под угрозу только свою жизнь."
+      }
+    },
+    {
+      "text": {
+        "es": "Al estar desinhibido, asume menos riesgos.",
+        "en": "Being uninhibited, they take fewer risks.",
+        "ru": "Будучи раскрепощенным, они берут на себя меньше рисков."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Conducir bajo estupefacientes altera gravemente la percepción y el juicio, poniendo en riesgo a todos.",
+      "en": "Driving under the influence of narcotics severely alters perception and judgment, endangering everyone.",
+      "ru": "Управление автомобилем под воздействием наркотиков серьезно искажает восприятие и суждение, ставя под угрозу всех."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the following signal indicates:",
+    "ru": "Определите, что указывает следующий сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b222.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Senda peatonal.",
+        "en": "Pedestrian path.",
+        "ru": "Пешеходная дорожка."
+      }
+    },
+    {
+      "text": {
+        "es": "Personas trabajando.",
+        "en": "People working.",
+        "ru": "Люди работают."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cruce peatonal de máximo peligro.",
+        "en": "Crosswalk of maximum danger.",
+        "ru": "Пешеходный переход最高危险."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal alerta sobre la presencia de personal trabajando en la vía. Es fundamental prestarle atención.",
+      "en": "The signal warns about the presence of personnel working on the road. It's crucial to pay attention.",
+      "ru": "Сигнал предупреждает о наличии рабочего персонала на дороге. Важно обратить на это внимание."
+    }
+  },
+  "citation": "【4:6†source】"
+}

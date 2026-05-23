@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Consumir cuál de estas sustancias pueden afectar la capacidad para conducir?",
+    "en": "Which of these substances can affect driving ability?",
+    "ru": "Какое из этих веществ может повлиять на способность водить?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Las drogas ilegales y algunas legales (como el alcohol y algunos medicamentos).",
+        "en": "Illegal drugs and some legal ones (such as alcohol and certain medications).",
+        "ru": "Незаконные наркотики и некоторые легальные (такие как алкоголь и некоторые лекарства)."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo las drogas ilegales.",
+        "en": "Only illegal drugs.",
+        "ru": "Только незаконные наркотики."
+      }
+    },
+    {
+      "text": {
+        "es": "Todo tipo de drogas (las legales e ilegales).",
+        "en": "All types of drugs (both legal and illegal).",
+        "ru": "Все виды наркотиков (как легальных, так и незаконных)."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Tanto las drogas ilegales como algunas legales pueden alterar la conducción.",
+      "en": "Both illegal drugs and some legal substances can impair driving.",
+      "ru": "Как незаконные наркотики, так и некоторые легальные вещества могут ухудшить управление."
+    }
+  },
+  "citation": "【4:4†source】"
+}

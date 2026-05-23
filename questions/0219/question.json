@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Es obligatorio al finalizar un adelantamiento...",
+    "en": "It is mandatory at the end of an overtaking...",
+    "ru": "Обязательно в конце обгона..."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Permanecer en el carril ocupado, independientemente de la fluidez del tránsito.",
+        "en": "Stay in the occupied lane, regardless of traffic flow.",
+        "ru": "Оставаться в занятом ряду, независимо от потока транспорта."
+      }
+    },
+    {
+      "text": {
+        "es": "Incorporarse al carril derecho, si éste se encuentra libre, de forma gradual y sin obstaculizar la fluidez de tránsito.",
+        "en": "Merge into the right lane, if it is free, gradually and without obstructing traffic flow.",
+        "ru": "Переходите в правый ряд, если он свободен, постепенно и не мешая движению."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Incorporarse al carril derecho, aunque ésto implique que otro vehículo deba modificar su velocidad.",
+        "en": "Merge into the right lane, even if this means another vehicle must modify its speed.",
+        "ru": "Переходите в правый ряд, даже если это означает, что другому транспорту нужно изменить скорость."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Finalizando un adelantamiento, se debe retornar al carril adecuado sin obstruir la circulación.",
+      "en": "At the end of an overtaking, you must return to the appropriate lane without obstructing traffic.",
+      "ru": "В конце обгона нужно вернуться в соответствующий ряд, не создавая помех для движения."
+    }
+  },
+  "citation": "【4:2†manual.pdf】"
+}

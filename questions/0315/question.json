@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "El ingreso hacia un garaje o estacionamiento, ¿cómo debe ser indicado por el conductor?",
+    "en": "How should the driver indicate entering a garage or parking lot?",
+    "ru": "Как водитель должен указать на въезд в гараж или парковку?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Con la luz de giro hacia el lado donde se irá a ingresar.",
+        "en": "With the hazard lights (flashers).",
+        "ru": "С аварийными огнями (вспышками)."
+      }
+    },
+    {
+      "text": {
+        "es": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.",
+        "en": "With the turn signal towards the side where you will enter.",
+        "ru": "С поворотником в сторону, куда вы собираетесь въехать."
+      }
+    },
+    {
+      "text": {
+        "es": "Con las luces intermitentes (balizas).",
+        "en": "With the turn signal towards the opposite side where you will enter.",
+        "ru": "С поворотником в сторону, противоположную, куда вы собираетесь въехать."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante usar las balizas para alertar a otros vehículos cuando se ingresa a un garaje o estacionamiento.",
+      "en": "It is important to use hazard lights to alert other vehicles when entering a garage or parking lot.",
+      "ru": "Важно использовать аварийные огни, чтобы предупредить другие транспортные средства при въезде в гараж или парковку."
+    }
+  },
+  "citation": "[4:5†source]"
+}

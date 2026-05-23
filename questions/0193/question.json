@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Ud. se encuentra frente a la siguiente situación donde el conductor toca repetidamente la bocina, ¿qué debe hacer si se encuentra conduciendo en su proximidad?",
+    "en": "You are confronted with the following situation where the driver repeatedly honks, what should you do if you are driving nearby?",
+    "ru": "Вы столкнулись со следующей ситуацией, когда водитель неоднократно сигналит, что вы должны сделать, если вы находитесь рядом?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b94.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Cederle el paso, ya que está indicando que se encuentra en emergencia.",
+        "en": "Yield to him, as he is indicating that he is in an emergency.",
+        "ru": "Уступите ему дорогу, так как он показывает, что находится в чрезвычайной ситуации."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Brindar mi colaboración, ya que está indicando que el vehículo tiene un desperfecto mecánico.",
+        "en": "Offer my assistance, as he is indicating that the vehicle has a mechanical failure.",
+        "ru": "Предложите свою помощь, так как он указывает на то, что у автомобиля есть механическая неисправность."
+      }
+    },
+    {
+      "text": {
+        "es": "Alertar a otros conductores, tocando repetidamente la bocina, que ese vehículo cruzará un semáforo en rojo.",
+        "en": "Alert other drivers by repeatedly honking that this vehicle will cross a red light.",
+        "ru": "Предупредите других водителей, сигналя, что этот автомобиль проедет на красный свет."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Cuando un vehículo está haciendo sonar su bocina de forma constante, generalmente indica una situación de emergencia.",
+      "en": "When a vehicle is honking continuously, it typically indicates an emergency situation.",
+      "ru": "Когда автомобиль неоднократно сигналит, это обычно указывает на чрезвычайную ситуацию."
+    }
+  },
+  "citation": "[4:1†source]"
+}

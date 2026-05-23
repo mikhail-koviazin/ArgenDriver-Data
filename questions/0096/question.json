@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuánto dura en su totalidad la condición de principiante?",
+    "en": "How long does the beginner's condition last in total?",
+    "ru": "Какова продолжительность условия новичка?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "2 años, sólo en el caso de los menores de 21 años de edad.",
+        "en": "2 years, regardless of age.",
+        "ru": "2 года, независимо от возраста."
+      }
+    },
+    {
+      "text": {
+        "es": "6 meses, sólo para quien la tramita por primera vez.",
+        "en": "6 months, only for those applying for the first time.",
+        "ru": "6 месяцев, только для тех, кто подает заявление в первый раз."
+      }
+    },
+    {
+      "text": {
+        "es": "2 años, independientemente a la edad.",
+        "en": "2 years, only for those under 21 years of age.",
+        "ru": "2 года, только для тех, кто младше 21 года."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La condición de principiante dura 2 años, sin importar la edad.",
+      "en": "The beginner status lasts 2 years, regardless of age.",
+      "ru": "Статус новичка действует 2 года, независимо от возраста."
+    }
+  },
+  "citation": "【4:0†source】"
+}

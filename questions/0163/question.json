@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "La señalización transitoria se encuentra como prioridad normativa sobre los semáforos, si es que modifica el régimen normal de uso de la vía.",
+    "en": "The temporary signage has normative priority over traffic lights when it modifies the normal traffic regime of the road.",
+    "ru": "Временные знаки имеют нормативный приоритет перед светофорами, если они изменяют нормальный режим использования дороги."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señalización transitoria señala condiciones temporales que deben ser priorizadas para la seguridad vial.",
+      "en": "Temporary signage indicates temporary conditions that must be prioritized for road safety.",
+      "ru": "Временные знаки указывают на временные условия, которым следует придавать приоритет для безопасности на дороге."
+    }
+  },
+  "citation": "【4:14†source】"
+}

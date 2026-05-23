@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal shown below indicates:",
+    "ru": "Определите, что указывает сигнал, который представлен ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b237.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Estrechamiento (en una mano).",
+        "en": "Narrowing (one side).",
+        "ru": "Сужение (с одной стороны)."
+      }
+    },
+    {
+      "text": {
+        "es": "Calzada dividida.",
+        "en": "Divided roadway.",
+        "ru": "Разделенная дорожная полоса."
+      }
+    },
+    {
+      "text": {
+        "es": "Estrechamiento (en las dos manos).",
+        "en": "Narrowing (both sides).",
+        "ru": "Сужение (с обеих сторон)."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que la calzada se estrecha por ambos lados, lo que puede causar reducción en el espacio de circulación.",
+      "en": "The signal indicates that the road narrows on both sides, which may cause a reduction in driving space.",
+      "ru": "Сигнал указывает на то, что дорога сужается с обеих сторон, что может привести к уменьшению пространства для движения."
+    }
+  },
+  "citation": "【4:10†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué significado tiene el color de las luces encendidas que se indican en la imagen?",
+    "en": "What does the color of the lights indicated in the image mean?",
+    "ru": "Какое значение имеет цвет огней, указанных на изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b178.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Al estar ubicada en la parte posterior del vehículo, el color blanco es para diferenciarla de las luces de freno, posición y giro.",
+        "en": "Since it is located at the rear of the vehicle, the white color is to differentiate it from the brake, position, and turn lights.",
+        "ru": "Поскольку он расположен на задней части автомобиля, белый цвет предназначен для различения с фонарями тормоза, положения и поворота."
+      }
+    },
+    {
+      "text": {
+        "es": "Al ser de color blanco se obtiene mejor visión cuando la maniobra de retroceso se debe realizar de noche o en condiciones de poca visibilidad.",
+        "en": "Being white provides better visibility when reversing at night or in low visibility conditions.",
+        "ru": "Будучи белым, он обеспечивает лучшую видимость при движении задним ходом ночью или в условиях низкой видимости."
+      }
+    },
+    {
+      "text": {
+        "es": "Indica el sentido de circulación. La luz blanca significa que el vehículo circula en sentido contrario al del vehículo rojo que está detrás de él.",
+        "en": "Indicates the direction of circulation. The white light means that the vehicle is traveling in the opposite direction to the red vehicle behind it.",
+        "ru": "Указывает направление движения. Белый свет означает, что автомобиль движется в противоположном направлении относительно красного автомобиля позади него."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces blancas indican el sentido de circulación del vehículo, diferenciando direcciones.",
+      "en": "White lights indicate the vehicle's direction of travel, distinguishing directions.",
+      "ru": "Белые огни указывают направление движения автомобиля, различая направления."
+    }
+  },
+  "citation": "【4:17†source】"
+}

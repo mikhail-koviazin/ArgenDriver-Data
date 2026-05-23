@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta demarcación amarilla en la calzada?",
+    "en": "What does this yellow marking on the roadway indicate?",
+    "ru": "Что обозначает эта желтая разметка на проезжей части?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b123.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Indica que se puede traspasar.",
+        "en": "Divides opposite directions of traffic and indicates that it is prohibited to cross it.",
+        "ru": "Разделяет противоположные направления движения и указывает на запрещение пересечения."
+      }
+    },
+    {
+      "text": {
+        "es": "Divide sentidos opuestos de circulación e indica que está prohibido traspasarla.",
+        "en": "Indicates that it can be crossed.",
+        "ru": "Указывает на возможность пересечения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que es una zona que se puede circular sobre ella.",
+        "en": "That it is an area that can be driven on.",
+        "ru": "Что это зона, по которой можно проехать."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las demarcaciones amarillas indican la separación de direcciones opuestas, prohibiendo el cruce para prevenir accidentes.",
+      "en": "Yellow markings indicate the separation of opposite traffic directions, prohibiting crossing to prevent accidents.",
+      "ru": "Желтые разметки указывают на разделение противоположных направлений движения, запрещая пересечение для предотвращения аварий."
+    }
+  },
+  "citation": "【4:0†source】"
+}

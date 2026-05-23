@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿En qué consiste el Sistema de Evaluación Permanente de Conductores (Scoring)?",
+    "en": "What does the Permanent Driver Evaluation System (Scoring) consist of?",
+    "ru": "В чем заключается Система постоянной оценки водителей (Scoring)?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "En la asignación de un puntaje para cada conductor, al que se le irá restando puntos por infracciones cometidas.",
+        "en": "In assigning a score for each driver, from which points will be deducted for violations committed.",
+        "ru": "В присвоении баллов каждому водителю, из которых будут вычитаться баллы за совершенные нарушения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La obligación de los conductores a realizar un curso vial anual.",
+        "en": "The obligation for drivers to take an annual road course.",
+        "ru": "Обязанность водителей проходить ежегодный курс безопасности на дороге."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Обе ответы, A и B, неверные."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sistema de scoring asigna puntos a los conductores y los penaliza al cometer infracciones.",
+      "en": "The scoring system assigns points to drivers and penalizes them for committing violations.",
+      "ru": "Система начисления баллов присваивает очки водителям и наказывает их за совершенные нарушения."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Según la Ley N°2148, ¿qué significa el término sobrepaso?",
+    "en": "According to Law N°2148, what does the term overtaking mean?",
+    "ru": "Согласно закону N°2148, что означает термин обгон?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sobrepasar la línea de otro vehículo en circulación, sin necesidad de cambiar de carril.",
+        "en": "Crossing the line of another vehicle in circulation, without the need to change lanes.",
+        "ru": "Пересечение линии другого транспортного средства в движении, без необходимости изменения полосы."
+      }
+    },
+    {
+      "text": {
+        "es": "Sobrepasar la línea de otro vehículo en circulación, cambiando de carril.",
+        "en": "Crossing the line of another vehicle in circulation, changing lanes.",
+        "ru": "Пересечение линии другого транспортного средства в движении, с изменением полосы."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Exceder el límite de velocidad máxima.",
+        "en": "Exceeding the maximum speed limit.",
+        "ru": "Превышение максимальной скорости."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El sobrepaso implica cambiar de carril para adelantar a otro vehículo.",
+      "en": "Overtaking involves changing lanes to pass another vehicle.",
+      "ru": "Обгон включает изменение полосы для обгона другого транспортного средства."
+    }
+  },
+  "citation": "【4:0†source】"
+}

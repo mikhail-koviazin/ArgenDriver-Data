@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "En un procedimiento judicial de un siniestro vial, al ser convocados en carácter de testigo, no es obligatorio presentarse a declarar en la Fiscalía correspondiente.",
+    "en": "In a judicial procedure of a traffic accident, when summoned as a witness, it is not mandatory to appear to testify at the corresponding Prosecutor's Office.",
+    "ru": "В судебном разбирательстве по дорожному происшествию, когда вызывают в качестве свидетеля, не обязательно являться для дачи показаний в соответствующую прокуратуру."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Testigos deben presentarse al ser citados por la fiscalía según la normativa legal.",
+      "en": "Witnesses must appear when summoned by the prosecutor according to legal regulations.",
+      "ru": "Свидетели должны являться, когда их вызывают в прокуратуру в соответствии с законодательными нормами."
+    }
+  },
+  "citation": "【4:5†source】"
+}

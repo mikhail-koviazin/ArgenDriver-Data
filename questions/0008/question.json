@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina incidente de tránsito o incidente vial?",
+    "en": "What is referred to as a traffic incident or traffic accident?",
+    "ru": "Что называется дорожным инцидентом или дорожным случаем?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Hecho que puede ser evitado, en el cual se produce daño a persona o cosa, en ocasión de circulación en la vía pública.",
+        "en": "An avoidable event that results in harm to person or property while circulating on public roads.",
+        "ru": "Событие, которое можно избежать и которое приводит к ущербу для человека или имущества во время движения по общественным дорогам."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Hecho impredecible e inevitable en ocasión de circulación en la vía pública.",
+        "en": "An unpredictable and inevitable event while circulating on public roads.",
+        "ru": "Непредсказуемое и неизбежное событие во время движения по общественным дорогам."
+      }
+    },
+    {
+      "text": {
+        "es": "Hecho, evitable o no, que involucra daños a terceros.",
+        "en": "An event, whether avoidable or not, that involves damage to third parties.",
+        "ru": "Событие, которое может быть избегаемым или нет, которое включает ущерб третьим лицам."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Un incidente de tránsito implica daños potencialmente evitables y afecta a personas o bienes.",
+      "en": "A traffic incident involves potentially avoidable harm affecting persons or property.",
+      "ru": "Дорожный инцидент включает в себя потенциально избегаемый ущерб, затрагивающий людей или имущество."
+    }
+  },
+  "citation": "【4:0†source】"
+}

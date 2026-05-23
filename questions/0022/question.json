@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cuál de las siguientes opciones representa a los usuarios de la vía, ordenados de más a menos vulnerable?",
+    "en": "Which of the following options represents road users, ordered from most to least vulnerable?",
+    "ru": "Какой из следующих вариантов представляет участников дорожного движения, упорядоченных от наиболее уязвимого к наименее уязвимому?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Camión - Colectivo - Moto - Ciclista - Peatón - Taxi/Automóvil.",
+        "en": "Pedestrian - Cyclist - Motorcycle - Bus - Taxi/Car - Truck.",
+        "ru": "Пешеход - Велосипедист - Мотоцикл - Автобус - Такси/Автомобиль - Грузовик."
+      }
+    },
+    {
+      "text": {
+        "es": "Peatón - Ciclista - Moto - Colectivo - Taxi/Automóvil - Camión.",
+        "en": "Truck - Bus - Motorcycle - Cyclist - Pedestrian - Taxi/Car.",
+        "ru": "Грузовик - Автобус - Мотоцикл - Велосипедист - Пешеход - Такси/Автомобиль."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Peatón - Ciclista - Colectivo - Moto - Taxi/Automóvil - Camión.",
+        "en": "Pedestrian - Cyclist - Bus - Motorcycle - Taxi/Car - Truck.",
+        "ru": "Пешеход - Велосипедист - Автобус - Мотоцикл - Такси/Автомобиль - Грузовик."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los peatones son los más vulnerables, seguidos por ciclistas y motociclistas.",
+      "en": "Pedestrians are the most vulnerable, followed by cyclists and motorcyclists.",
+      "ru": "Пешеходы являются наиболее уязвимыми, за ними следуют велосипедисты и мотоциклисты."
+    }
+  },
+  "citation": "【4:0†source】"
+}

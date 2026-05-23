@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En este tipo de arteria, ¿quién tiene prioridad cuando se desea realizar un cambio de carril?",
+    "en": "In this type of artery, who has priority when changing lanes?",
+    "ru": "На таком типе дороги, кто имеет приоритет при изменении полосы движения?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b114.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "El vehículo que circula por el carril que se pretende ocupar.",
+        "en": "The vehicle that is traveling in the lane that is intended to be occupied.",
+        "ru": "Транспортное средство, движущееся по полосе, которую предполагается занять."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "El vehículo que realiza el cambio de carril.",
+        "en": "The vehicle that is changing lanes.",
+        "ru": "Транспортное средство, которое меняет полосу."
+      }
+    },
+    {
+      "text": {
+        "es": "El vehículo del carril más lento.",
+        "en": "The vehicle in the slower lane.",
+        "ru": "Транспортное средство в более медленной полосе."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El vehículo que circula por el carril que se quiere ocupar tiene prioridad. Esto es crucial para evitar accidentes al cambiar de carril.",
+      "en": "The vehicle traveling in the lane to be occupied has priority. This is crucial to avoid accidents during a lane change.",
+      "ru": "Транспортное средство, движущееся по полосе, которую предполагается занять, имеет преимущество. Это критически важно для предотвращения аварий при изменении полосы."
+    }
+  },
+  "citation": "【4:10†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign presented indicates:",
+    "ru": "Определите, что указывает представленный знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b244.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Panel de Prevención (Objeto Rígido).",
+        "en": "Prevention Panel (Rigid Object).",
+        "ru": "Панель предупреждения (Жесткий объект)."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Calzada Reducida.",
+        "en": "Reduced Road.",
+        "ru": "Сужение дороги."
+      }
+    },
+    {
+      "text": {
+        "es": "Contramano.",
+        "en": "Against Traffic.",
+        "ru": "Против движения."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica un objeto rígido que presenta un peligro, debe existir precaución.",
+      "en": "The sign indicates a rigid object presenting a hazard; caution is necessary.",
+      "ru": "Знак указывает на жесткий объект, представляющий опасность; требуется осторожность."
+    }
+  },
+  "citation": "【4:5†source】"
+}

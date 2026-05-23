@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué está indicando el agente de tránsito al realizar esta señal a un conductor?",
+    "en": "What is the traffic officer indicating by making this signal to a driver?",
+    "ru": "Что указывает офицер дорожного движения, делая этот сигнал водителю?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b68.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que circule con precaución.",
+        "en": "To drive with caution.",
+        "ru": "Двигаться осторожно."
+      }
+    },
+    {
+      "text": {
+        "es": "Que detenga el vehículo.",
+        "en": "To stop the vehicle.",
+        "ru": "Остановить транспортное средство."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que continúe avanzando.",
+        "en": "To continue moving forward.",
+        "ru": "Продолжать движение вперед."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal de un agente de tránsito indicando detenerse es un mandato claro para prevenir accidentes.",
+      "en": "The signal from a traffic officer to stop is a clear mandate to prevent accidents.",
+      "ru": "Сигнал дорожного офицера остановиться является ясным требованием предотвратить аварии."
+    }
+  },
+  "citation": "【4:5†source】"
+}

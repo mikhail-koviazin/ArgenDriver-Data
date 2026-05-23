@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Se puede circular en bicicleta por esta vía?",
+    "en": "Can you ride a bicycle on this road?",
+    "ru": "Можно ли ездить на велосипеде по этой дороге?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b8.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, siempre que se mantenga en el carril derecho.",
+        "en": "Yes, as long as you stay in the right lane.",
+        "ru": "Да, если вы остаетесь в правом ряду."
+      }
+    },
+    {
+      "text": {
+        "es": "No, está prohibido.",
+        "en": "No, it is prohibited.",
+        "ru": "Нет, это запрещено."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, mientras se respete la velocidad mínima de la arteria.",
+        "en": "Yes, as long as the minimum speed of the road is respected.",
+        "ru": "Да, если соблюдается минимальная скорость дороги."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Circular en vías donde no se permite es riesgoso y potencialmente ilegal.",
+      "en": "Riding on roads where it's not allowed is risky and potentially illegal.",
+      "ru": "Езда по дорогам, где это не разрешено, опасна и потенциально незаконна."
+    }
+  },
+  "citation": "【4:5†source】"
+}

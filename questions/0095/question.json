@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Cuando se vence la licencia de conducir, ¿cuánto tiempo puede transcurrir para su renovación antes de que se necesite tramitarla como si fuese un otorgamiento?",
+    "en": "When the driving license expires, how much time can pass for its renewal before it needs to be processed as a new issuance?",
+    "ru": "Когда истекает срок действия водительских прав, сколько времени может пройти для их продления, прежде чем их необходимо будет оформить как новое получение?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "30 días corridos desde su vencimiento.",
+        "en": "It should not exceed one year from its expiration.",
+        "ru": "Это не должно превышать одного года с момента истечения."
+      }
+    },
+    {
+      "text": {
+        "es": "Para que se la pueda renovar, siempre debe hacerse antes de su vencimiento. Una vez vencida se la debe tramitar como licencia nueva.",
+        "en": "For it to be renewed, it must always be done before its expiration. Once expired, it must be processed as a new license.",
+        "ru": "Для продления она всегда должна быть сделана до истечения. Как только она истечет, ее необходимо оформить как новую лицензию."
+      }
+    },
+    {
+      "text": {
+        "es": "No debe superar el año desde su vencimiento.",
+        "en": "30 calendar days from its expiration.",
+        "ru": "30 календарных дней с момента истечения."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La licencia puede renovarse hasta un año después de su vencimiento sin necesidad de realizar un nuevo examen.",
+      "en": "The license can be renewed up to one year after its expiration without the need to take a new exam.",
+      "ru": "Лицензию можно продлить в течение одного года после ее истечения без необходимости сдачи нового экзамена."
+    }
+  },
+  "citation": "【4:0†source】"
+}

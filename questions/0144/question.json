@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Durante esta situación, ¿es riesgoso que el conductor utilice el teléfono celular?",
+    "en": "During this situation, is it risky for the driver to use the mobile phone?",
+    "ru": "В этой ситуации опасно ли водителю использовать мобильный телефон?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b57.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "No, ya que no hay otros vehículos junto a él.",
+        "en": "No, as there are no other vehicles next to it.",
+        "ru": "Нет, так как рядом нет других транспортных средств."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, ya que a pesar de estar detenido, está en la vía de circulación y su atención no está dirigida al contexto.",
+        "en": "Yes, because despite being stopped, it is in the traffic lane and their attention is not directed to the context.",
+        "ru": "Да, потому что, хотя и остановлено, это на дороге и внимание не направлено на контекст."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "No, ya que el vehículo no está en movimiento.",
+        "en": "No, since the vehicle is not in motion.",
+        "ru": "Нет, так как транспортное средство стоит."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso del celular distrae al conductor, afectando su atención hacia el tráfico.",
+      "en": "Using a mobile phone distracts the driver, affecting their attention towards traffic.",
+      "ru": "Использование мобильного телефона отвлекает водителя, что отрицательно сказывается на его внимании к дорожной ситуации."
+    }
+  },
+  "citation": "【4:6†source】"
+}

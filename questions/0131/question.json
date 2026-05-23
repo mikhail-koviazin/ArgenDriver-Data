@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Cada cuánto tiempo es recomendable parar si se realiza un viaje largo?",
+    "en": "How often is it recommended to stop if making a long trip?",
+    "ru": "Как часто рекомендуется останавливаться при длительной поездке?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Cada 2 horas aproximadamente.",
+        "en": "Every approximately 2 hours.",
+        "ru": "Каждые примерно 2 часа."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Cada 4 horas aproximadamente.",
+        "en": "Every approximately 4 hours.",
+        "ru": "Каждые примерно 4 часа."
+      }
+    },
+    {
+      "text": {
+        "es": "Cada 1 hora aproximadamente.",
+        "en": "Every approximately 1 hour.",
+        "ru": "Каждые примерно 1 час."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es recomendable hacer paradas de 10 minutos cada 2 horas para evitar la fatiga.",
+      "en": "It is recommended to take 10-minute breaks every 2 hours to prevent fatigue.",
+      "ru": "Рекомендуется делать перерывы по 10 минут каждые 2 часа, чтобы избежать усталости."
+    }
+  },
+  "citation": "【4:1†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Este elemento de seguridad pasiva sirve para reducir el daño producido a los ocupantes de un vehículo al momento de un siniestro.",
+    "en": "This passive safety element serves to reduce the damage caused to vehicle occupants at the time of an accident.",
+    "ru": "Этот элемент пассивной безопасности предназначен для уменьшения повреждений, причиняемых пассажирам автомобиля во время аварии."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b208.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложь."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El airbag es un dispositivo de seguridad pasiva que reduce lesiones durante un accidente.",
+      "en": "The airbag is a passive safety device that reduces injuries during an accident.",
+      "ru": "Подушка безопасности - это устройство пассивной безопасности, которое снижает травмы во время аварии."
+    }
+  },
+  "citation": "【4:1†source】"
+}

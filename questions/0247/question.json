@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "El vehículo con un círculo de color rojo quería girar a la derecha y, por error continuó en línea recta, de modo que:",
+    "en": "The vehicle with a red circle wanted to turn right, but mistakenly continued straight.",
+    "ru": "Транспортное средство с красным кругом хотело повернуть направо, но по ошибке продолжило движение прямо."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b129.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Puede circular marcha atrás, porque es un tramo corto el que tiene que recorrer, y efectuar el giro.",
+        "en": "It can reverse because it is a short distance that needs to be covered and make the turn.",
+        "ru": "Он может двигаться задним ходом, потому что это короткое расстояние, которое нужно пройти, и совершить поворот."
+      }
+    },
+    {
+      "text": {
+        "es": "Puede dar la vuelta en U para tomar el sentido contrario y así efectuar el giro programado.",
+        "en": "It can make a U-turn to take the opposite direction and thus make the planned turn.",
+        "ru": "Он может развернуться, чтобы взять противоположный курс, и таким образом выполнить запланированный поворот."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son incorrectas.",
+        "en": "Both answers, A and B, are incorrect.",
+        "ru": "Оба ответа, A и B, неверны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Realizar maniobras de marcha atrás o giro en U puede ser riesgoso e inapropiado en esa situación.",
+      "en": "Performing reverse maneuvers or U-turns can be risky and inappropriate in that situation.",
+      "ru": "Выполнение маневров задним ходом или разворотом может быть рискованным и неуместным в данной ситуации."
+    }
+  },
+  "citation": "【4:0†source】"
+}

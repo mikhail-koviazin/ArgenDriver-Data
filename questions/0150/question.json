@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La presente conducta, ¿es riesgosa al momento de conducir?",
+    "en": "Is this behavior risky while driving?",
+    "ru": "Это поведение рискованно во время вождения?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b62.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque es considerado un factor de distracción.",
+        "en": "Yes, because it is considered a distraction.",
+        "ru": "Да, потому что это считается отвлекающим фактором."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Únicamente si se circula a altas velocidades.",
+        "en": "Only if driving at high speeds.",
+        "ru": "Только если движение осуществляется на высокой скорости."
+      }
+    },
+    {
+      "text": {
+        "es": "Al contrario, ayuda a mantener la atención en la conducción.",
+        "en": "On the contrary, it helps keep attention on driving.",
+        "ru": "Напротив, это помогает сосредоточиться на вождении."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El uso de teléfonos celulares y otros factores pueden distraer al conductor, aumentando el riesgo de accidentes.",
+      "en": "Using cell phones and other factors can distract the driver, increasing accident risk.",
+      "ru": "Использование мобильных телефонов и других факторов может отвлекать водителя, увеличивая риск аварий."
+    }
+  },
+  "citation": "[4:0†source]"
+}

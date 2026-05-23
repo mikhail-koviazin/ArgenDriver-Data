@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En un túnel, con ambos sentidos de circulación, ¿está permitido sobrepasar a un vehículo?",
+    "en": "In a tunnel, with both directions of circulation, is it allowed to overtake a vehicle?",
+    "ru": "В туннеле, с двухсторонним движением, разрешено ли обгонять транспортное средство?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, cuando no haya señal que lo prohíba.",
+        "en": "Yes, when there is no sign prohibiting it.",
+        "ru": "Да, если нет знака, запрещающего это."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que está prohibido por normativa.",
+        "en": "No, as it is prohibited by regulation.",
+        "ru": "Нет, так как это запрещено правилами."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sí, si hay suficiente visibilidad.",
+        "en": "Yes, if there is sufficient visibility.",
+        "ru": "Да, если достаточно видимости."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En los túneles, adelantar está prohibido por razones de seguridad.",
+      "en": "In tunnels, overtaking is prohibited for safety reasons.",
+      "ru": "В туннелях обгон запрещен по соображениям безопасности."
+    }
+  },
+  "citation": "[4:5†source]"
+}

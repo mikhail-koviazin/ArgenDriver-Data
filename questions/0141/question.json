@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Bajo los efectos del estrés, la conducción se vuelve:",
+    "en": "Under the effects of stress, driving becomes:",
+    "ru": "Под воздействием стресса вождение становится:"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Más temeraria.",
+        "en": "More reckless.",
+        "ru": "Более безрассудным."
+      }
+    },
+    {
+      "text": {
+        "es": "Menos segura.",
+        "en": "Less safe.",
+        "ru": "Менее безопасным."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, A y B, son correctas.",
+        "en": "Both answers, A and B, are correct.",
+        "ru": "Обе ответы, A и B, верны."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El estrés afecta la concentración y aumenta el riesgo de accidentes.",
+      "en": "Stress affects concentration and increases the risk of accidents.",
+      "ru": "Стресс влияет на концентрацию и увеличивает риск несчастных случаев."
+    }
+  },
+  "citation": " "
+}

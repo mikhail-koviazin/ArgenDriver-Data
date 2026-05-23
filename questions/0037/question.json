@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta seña?",
+    "en": "What does this sign indicate?",
+    "ru": "Что означает этот знак?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b12.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Giro a la izquierda.",
+        "en": "Turn left.",
+        "ru": "Поворот налево."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Adelantamiento por la izquierda.",
+        "en": "Overtaking on the left.",
+        "ru": "Обгон слева."
+      }
+    },
+    {
+      "text": {
+        "es": "Detenerse.",
+        "en": "Stop.",
+        "ru": "Остановиться."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El giro a la izquierda es indicado por una señal clara en la carretera.",
+      "en": "A left turn is indicated by a clear sign on the road.",
+      "ru": "Поворот налево обозначается ясным знаком на дороге."
+    }
+  },
+  "citation": "【4:4†source】"
+}

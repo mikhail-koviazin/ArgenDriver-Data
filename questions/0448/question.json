@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the sign shown indicates:",
+    "ru": "Определите, что указывает знак, который представлен ниже:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b264.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Fin de semiautopista.",
+        "en": "End of semi-highway.",
+        "ru": "Конец полупаводного пути."
+      }
+    },
+    {
+      "text": {
+        "es": "Fin de ruta.",
+        "en": "End of route.",
+        "ru": "Конец маршрута."
+      }
+    },
+    {
+      "text": {
+        "es": "Fin de autopista.",
+        "en": "End of highway.",
+        "ru": "Конец автострады."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que el conductor sale de una autopista y debe tener precauciones adicionales.",
+      "en": "This sign indicates that the driver is exiting a highway and should exercise additional caution.",
+      "ru": "Этот знак указывает, что водитель покидает автостраду и должен проявлять дополнительную осторожность."
+    }
+  },
+  "citation": "【4:17†manual】"
+}

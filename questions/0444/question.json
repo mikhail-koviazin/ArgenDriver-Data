@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "La señal que se muestra indica un camino sin salida:",
+    "en": "The sign shown indicates a dead-end road:",
+    "ru": "Знак, показанный на изображении, указывает на тупиковую дорогу:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b260.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Una señal de camino sin salida indica que no hay salida a esa vía.",
+      "en": "A dead-end sign indicates that there is no exit to that road.",
+      "ru": "Знак о тупиковой дороге указывает на то, что выхода с этой дороги нет."
+    }
+  },
+  "citation": "【4:4†source】"
+}

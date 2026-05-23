@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿De qué color es la cartelería de Permitido Estacionar?",
+    "en": "What color is the parking permit sign?",
+    "ru": "Какого цвета знак разрешения на парковку?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Azul.",
+        "en": "Blue.",
+        "ru": "Синий."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Blanco.",
+        "en": "White.",
+        "ru": "Белый."
+      }
+    },
+    {
+      "text": {
+        "es": "Rojo.",
+        "en": "Red.",
+        "ru": "Красный."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal de 'Permitido Estacionar' tiene un fondo azul, lo que indica la permisión bajo ciertas condiciones.",
+      "en": "The 'Parking Allowed' sign has a blue background, indicating allowance under certain conditions.",
+      "ru": "Знак 'Разрешено парковаться' имеет синий фон, что указывает на разрешение при определенных условиях."
+    }
+  },
+  "citation": "【4:1†source】"
+}

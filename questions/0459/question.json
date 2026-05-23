@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Indique qué significa esta señal:",
+    "en": "Indicate what this sign means:",
+    "ru": "Укажите, что обозначает этот знак:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b275.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Ruta Nacional N°3.",
+        "en": "National Route No. 3.",
+        "ru": "Национальный маршрут №3."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ruta Provincial N°3.",
+        "en": "Provincial Route No. 3.",
+        "ru": "Провинциальный маршрут №3."
+      }
+    },
+    {
+      "text": {
+        "es": "Ruta Panamericana N°3.",
+        "en": "Panamerican Route No. 3.",
+        "ru": "Панамериканский маршрут №3."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Esta señal indica que se está en la Ruta Nacional N°3.",
+      "en": "This sign indicates that you are on National Route No. 3.",
+      "ru": "Этот знак указывает, что вы находитесь на Национальном маршруте №3."
+    }
+  },
+  "citation": "【4:8†source】"
+}

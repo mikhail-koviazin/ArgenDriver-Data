@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Cuando conduce bajo esta condición climática, ¿a cuánto se debe incrementar la regla de 2 segundos en la distancia de seguridad?",
+    "en": "When driving under this weather condition, how much should the 2-second rule be increased for safety distance?",
+    "ru": "Когда вы ведете автомобиль в этих погодных условиях, на сколько секунд следует увеличить правило 2 секунд для соблюдения безопасной дистанции?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b184.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "A 4 segundos.",
+        "en": "To 4 seconds.",
+        "ru": "До 4 секунд."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "A 3 segundos.",
+        "en": "To 3 seconds.",
+        "ru": "До 3 секунд."
+      }
+    },
+    {
+      "text": {
+        "es": "A 5 segundos.",
+        "en": "To 5 seconds.",
+        "ru": "До 5 секунд."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Se recomienda aumentar la distancia de seguridad a 4 segundos en condiciones de lluvia.",
+      "en": "It is recommended to increase the safety distance to 4 seconds in rainy conditions.",
+      "ru": "Рекомендуется увеличить безопасную дистанцию до 4 секунд в дождливых условиях."
+    }
+  },
+  "citation": "【4:0†source】"
+}

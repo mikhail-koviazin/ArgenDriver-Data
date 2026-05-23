@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Frente a la demarcación central de la calzada señalada, ¿cuál es la conducta a seguir?",
+    "en": "In front of the marked central demarcation of the road, what is the behavior to follow?",
+    "ru": "Перед центральной разметкой дороги, какое поведение следует принять?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b122.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se debe respetar lo que rige con respecto a la línea más próxima; si es continua no traspasarla y si es discontinua está permitido hacerlo.",
+        "en": "It is necessary to respect what governs regarding the nearest line; if it is continuous, do not cross it, and if it is discontinuous, it is permitted to do so.",
+        "ru": "Необходимо соблюдать правила относительно ближайшей линии; если она сплошная, пересекать ее нельзя, а если прерывистая, это разрешено."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Se debe respetar lo que rige con respecto a la línea más próxima; si es discontinua no traspasarla y si es continua está permitido hacerlo.",
+        "en": "It is necessary to respect what governs regarding the nearest line; if it is discontinuous, do not cross it, and if it is continuous, it is permitted to do so.",
+        "ru": "Необходимо соблюдать правила относительно ближайшей линии; если она прерывистая, пересекать ее нельзя, а если сплошная, это разрешено."
+      }
+    },
+    {
+      "text": {
+        "es": "No debe traspasarse ninguna de ellas.",
+        "en": "None of them should be crossed.",
+        "ru": "Ни одну из них пересекать нельзя."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las líneas continuas tienen características restrictivas y no se pueden atravesar, mientras que las discontinuas lo permiten.",
+      "en": "Continuous lines have restrictive characteristics and cannot be crossed, while discontinuous lines allow it.",
+      "ru": "Сплошные линии имеют ограничительные характеристики и не могут быть пересечены, тогда как прерывистые линии это допускают."
+    }
+  },
+  "citation": "[4:0†source]"
+}

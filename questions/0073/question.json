@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué es una ciclovía?",
+    "en": "What is a bike lane?",
+    "ru": "Что такое велодорожка?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Sector señalizado especialmente en la calzada para la circulación con carácter preferente de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+        "en": "A section of the roadway marked specifically with a physical separation or horizontal demarcation for the exclusive circulation of bicycles and personal mobility devices.",
+        "ru": "Сегмент дороги, специально отмеченный физическим разделением или горизонтальной разметкой для эксклюзивного движения велосипедов и устройств личной мобильности."
+      }
+    },
+    {
+      "text": {
+        "es": "Sector de la calzada señalizado especialmente con una separación física o demarcación horizontal para la circulación exclusiva de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+        "en": "A roadway section marked especially for preferential circulation of bicycles and personal mobility devices.",
+        "ru": "Участок дороги, специально отмеченный для предпочитаемого движения велосипедов и средств личной мобильности."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sector señalizado y especialmente acondicionado en aceras y espacios verdes para la circulación de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+        "en": "Marked and specially prepared sector on sidewalks and green spaces for the circulation of bicycles and personal mobility devices.",
+        "ru": "Отмеченный и специально подготовленный участок на тротуарах и зеленых зонах для движения велосипедов и средств личной мобильности."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las ciclovías están diseñadas para garantizar la seguridad y comodidad de los ciclistas.",
+      "en": "Bike lanes are designed to ensure the safety and comfort of cyclists.",
+      "ru": "Велодорожки предназначены для обеспечения безопасности и комфорта велосипедистов."
+    }
+  },
+  "citation": "【4:12†source】"
+}

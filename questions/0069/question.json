@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Qué indica esta demarcación horizontal verde?",
+    "en": "What does this green horizontal marking indicate?",
+    "ru": "Что обозначает эта зеленая горизонтальная разметка?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b40.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que en esa intersección hay una ciclovía o bicisenda.",
+        "en": "That there is a bike lane or bike path at that intersection.",
+        "ru": "Что на этом перекрестке есть велосипедная дорожка."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Que se aproxima a un cruce ferroviario.",
+        "en": "That there is an approaching railway crossing.",
+        "ru": "Что приближается железнодорожный переезд."
+      }
+    },
+    {
+      "text": {
+        "es": "Que es un cruce exclusivo de peatones.",
+        "en": "That it is a pedestrian-only crossing.",
+        "ru": "Что это переход только для пешеходов."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La demarcación horizontal verde indica la existencia de una ciclovía o bicisenda, separando el tránsito de bicicletas del de vehículos.",
+      "en": "The green horizontal marking indicates the existence of a bike lane or bike path, separating bicycle traffic from vehicle traffic.",
+      "ru": "Зеленая горизонтальная разметка указывает на наличие велосипедной дорожки, отделяющей вело-трафик от автомобильного."
+    }
+  },
+  "citation": "【4:0†source】"
+}

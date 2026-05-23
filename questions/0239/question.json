@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿A qué se denomina 'carril de aceleración'?",
+    "en": "What is referred to as the 'acceleration lane'?",
+    "ru": "Что называется 'полосой разгона'?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Es el carril de incorporación a una autopista.",
+        "en": "It is the lane for merging onto a highway.",
+        "ru": "Это полоса для вхождения на автомагистраль."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Es el carril derecho de una autopista.",
+        "en": "It is the right lane of a highway.",
+        "ru": "Это правая полоса автомагистрали."
+      }
+    },
+    {
+      "text": {
+        "es": "Es el carril izquierdo de una autopista.",
+        "en": "It is the left lane of a highway.",
+        "ru": "Это левая полоса автомагистрали."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El carril de aceleración permite a los vehículos aumentar su velocidad antes de incorporarse a la autopista.",
+      "en": "The acceleration lane allows vehicles to increase their speed before merging onto the highway.",
+      "ru": "Полоса разгона позволяет автомобилям увеличить скорость перед вхождением на автомагистраль."
+    }
+  },
+  "citation": " "
+}

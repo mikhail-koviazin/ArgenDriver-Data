@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "Si un conductor necesita realizar una llamada de urgencia con el teléfono celular, ¿qué debe hacer para no generar una situación de riesgo en la vía pública?",
+    "en": "If a driver needs to make an emergency call with a cell phone, what should they do to avoid creating a risk situation on public roads?",
+    "ru": "Если водитель нуждается в экстренном звонке с мобильного телефона, что ему следует сделать, чтобы избежать создания рискованной ситуации на общественных дорогах?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Colocar balizas y detenerse en un lugar donde esté permitido.",
+        "en": "Use hazard lights and stop in a place where it is allowed.",
+        "ru": "Включите аварийные огни и остановитесь в разрешенном месте."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Ocupar el carril derecho, para circular a baja velocidad, y utilizar las balizas.",
+        "en": "Use the right lane to drive at low speed and use hazard lights.",
+        "ru": "Занять правую полосу, чтобы двигаться на низкой скорости, и использовать аварийные огни."
+      }
+    },
+    {
+      "text": {
+        "es": "Al tratarse de una llamada de urgencia, no importa donde se realice.",
+        "en": "If it's an emergency call, it doesn't matter where it takes place.",
+        "ru": "Если это экстренный звонок, не имеет значения, где он осуществляется."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es importante no comprometer la seguridad de la vía pública al hacer una llamada.",
+      "en": "It's crucial not to compromise public road safety when making a call.",
+      "ru": "Важно не ставить под угрозу безопасность общественных дорог при совершении звонка."
+    }
+  },
+  "citation": "【4:5†source】"
+}

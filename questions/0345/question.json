@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si se encuentra en esta vía bajo estas condiciones climáticas, ¿lo más conveniente es detenerse en la banquina?",
+    "en": "If you find yourself on this road under these weather conditions, is it best to stop on the shoulder?",
+    "ru": "Если вы находитесь на этом пути в таких погодных условиях, лучше ли остановиться на обочине?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b191.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, cuando el banco de niebla es muy denso.",
+        "en": "Yes, when the fog bank is very dense.",
+        "ru": "Да, когда туман очень густой."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, siempre y cuando se coloquen las luces altas para ser más visibles.",
+        "en": "Yes, as long as the high beams are turned on to be more visible.",
+        "ru": "Да, при условии, что включены дальние огни для большей видимости."
+      }
+    },
+    {
+      "text": {
+        "es": "No. Si no hay posibilidad de circular, debe alejarse lo más posible de la calzada y de la banquina.",
+        "en": "No. If there is no possibility to circulate, you must move as far away from the roadway and the shoulder as possible.",
+        "ru": "Нет. Если нет возможности двигаться, нужно как можно дальше уехать с проезжей части и обочины."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Detenerse en la banquina es peligroso en condiciones de baja visibilidad. Esto puede provocar un accidente.",
+      "en": "Stopping on the shoulder is dangerous in low visibility conditions. This can lead to an accident.",
+      "ru": "Остановка на обочине опасна в условиях низкой видимости. Это может привести к аварии."
+    }
+  },
+  "citation": "【4:2†source】"
+}

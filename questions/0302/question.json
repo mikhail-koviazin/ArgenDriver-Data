@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Está permitida la acción que se presenta en la siguiente imagen?",
+    "en": "Is the action presented in the following image allowed?",
+    "ru": "Разрешено ли действие, представленное на следующем изображении?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b162.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Sí, porque tiene las balizas encendidas y no necesita permanecer más de 5 minutos para que descienda un pasajero.",
+        "en": "Yes, because it has the hazard lights on and does not need to stay more than 5 minutes for a passenger to descend.",
+        "ru": "Да, потому что у него включены аварийные огни и не нужно оставаться более 5 минут, чтобы пассажир вышел."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, porque la doble fila está permitida cuando se trata de ascenso y descenso de pasajeros.",
+        "en": "Yes, because double parking is allowed when it comes to picking up and dropping off passengers.",
+        "ru": "Да, потому что двойная парковка разрешена, когда речь идет о посадке и высадке пассажиров."
+      }
+    },
+    {
+      "text": {
+        "es": "No, ya que la doble fila está permitida sólo como detención previa a la maniobra de estacionamiento.",
+        "en": "No, as double parking is only allowed as a stop before the parking maneuver.",
+        "ru": "Нет, так как двойная парковка разрешена только как остановка перед маневром парковки."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La doble fila sólo se permite para detenerse brevemente antes de estacionar.",
+      "en": "Double parking is only permitted for a brief stop before parking.",
+      "ru": "Двойная парковка разрешена только для краткосрочной остановки перед парковкой."
+    }
+  },
+  "citation": "【4:0†source】"
+}

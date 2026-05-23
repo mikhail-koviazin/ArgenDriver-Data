@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Si ud. es el conductor del vehículo, ¿qué conducta debe adoptar en la siguiente situación?",
+    "en": "If you are the driver of the vehicle, what behavior should you adopt in the following situation?",
+    "ru": "Если вы водитель автомобиля, какое поведение вы должны выбрать в следующей ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b22.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Priorizar la circulación del peatón, indefectiblemente.",
+        "en": "Prioritize the circulation of the pedestrian, unconditionally.",
+        "ru": "Приоритизировать движение пешехода, безусловно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Realizar una guiñada para advertir su preferencia de avance.",
+        "en": "Make a gesture to warn of their preference to advance.",
+        "ru": "Сделать жест, чтобы предупредить о своем приоритете продвижения."
+      }
+    },
+    {
+      "text": {
+        "es": "Completar la maniobra como sea posible, para disminuir su tiempo de permanencia sobre la vereda.",
+        "en": "Complete the maneuver as much as possible to reduce their time on the sidewalk.",
+        "ru": "Завершите маневр максимально, чтобы уменьшить время на тротуаре."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Los peatones tienen prioridad sobre todos los conductores en la vía pública.",
+      "en": "Pedestrians have priority over all drivers on public roads.",
+      "ru": "Пешеходы имеют преимущество перед всеми водителями на общественных дорогах."
+    }
+  },
+  "citation": " "
+}

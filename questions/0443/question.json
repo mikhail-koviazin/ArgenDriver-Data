@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal presented indicates:",
+    "ru": "Определите, что указывает представленный сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b259.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Prohibición de Girar a la Derecha.",
+        "en": "Prohibition of Turning Right.",
+        "ru": "Запрет на правый поворот."
+      }
+    },
+    {
+      "text": {
+        "es": "Prohibición de Cambiar de Carril.",
+        "en": "Prohibition of Changing Lanes.",
+        "ru": "Запрет на изменение полосы."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibición de Adelantar.",
+        "en": "Prohibition of Overtaking.",
+        "ru": "Запрет на обгон."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica que no se permite cambiar de carril en esa área específica.",
+      "en": "The signal indicates that changing lanes is not allowed in that specific area.",
+      "ru": "Сигнал указывает на то, что изменение полосы не разрешено в этой конкретной зоне."
+    }
+  },
+  "citation": "[4:4†source]"
+}

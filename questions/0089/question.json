@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "En materia de Responsabilidad Civil, ¿qué es lo que se considera como factor determinante para dar inicio a una demanda?",
+    "en": "In terms of Civil Liability, what is considered a determining factor to initiate a lawsuit?",
+    "ru": "В сфере гражданской ответственности, что считается определяющим фактом для подачи иска?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "La intención de la conducta dañosa.",
+        "en": "The intention of the harmful conduct.",
+        "ru": "Намерение вредоносного поведения."
+      }
+    },
+    {
+      "text": {
+        "es": "La existencia de un daño real, que afecte a algún particular, provocado como consecuencia del incidente.",
+        "en": "The existence of real harm that affects a particular individual, caused as a consequence of the incident.",
+        "ru": "Существование реального ущерба, который влияет на конкретное лицо, вызванного в результате инцидента."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Los antecedentes de la persona que provoca el daño.",
+        "en": "The background of the person causing the damage.",
+        "ru": "Предыстория лица, причиняющего ущерб."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El factor clave en una demanda es la existencia de un daño real causado a un particular.",
+      "en": "The key factor in a lawsuit is the existence of real harm caused to an individual.",
+      "ru": "Ключевым фактором иска является наличие реального ущерба, причиненного физическому лицу."
+    }
+  },
+  "citation": "【4:3†source】"
+}

@@ -1,0 +1,33 @@
+{
+  "text": {
+    "es": "Esta señal advierte que en el lugar ocurrió un siniestro vial que produjo una víctima fatal.",
+    "en": "This sign warns that an accident occurred at the place that caused a fatal victim.",
+    "ru": "Этот знак предупреждает о том, что в данном месте произошла авария, в результате которой погиб человек."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b266.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Неверно."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal indica la existencia de un siniestro con pérdidas humanas.",
+      "en": "The sign indicates the occurrence of an accident with human losses.",
+      "ru": "Знак указывает на то, что произошла авария с человеческими жертвами."
+    }
+  },
+  "citation": "【4:3†source】"
+}

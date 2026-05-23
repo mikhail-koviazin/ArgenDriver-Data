@@ -1,0 +1,39 @@
+{
+  "text": {
+    "es": "¿Qué debe hacer usted si su vehículo queda inmovilizado en un túnel?",
+    "en": "What should you do if your vehicle is immobilized in a tunnel?",
+    "ru": "Что делать, если ваш автомобиль остановился в туннеле?"
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Dejar el vehículo cerrado y salir del túnel cuanto antes.",
+        "en": "Leave the vehicle closed and exit the tunnel as soon as possible.",
+        "ru": "Оставьте автомобиль закрытым и как можно скорее покиньте туннель."
+      }
+    },
+    {
+      "text": {
+        "es": "Apagar todas las luces si el túnel está iluminado y solicitar auxilio a través del teléfono móvil.",
+        "en": "Turn off all the lights if the tunnel is illuminated and request assistance via mobile phone.",
+        "ru": "Выключите все огни, если туннель освещен, и запросите помощь через мобильный телефон."
+      }
+    },
+    {
+      "text": {
+        "es": "Apagar el motor, colocar las balizas portátiles, mantener encendidas las luces de posición e intermitentes y llamar al número de asistencia.",
+        "en": "Switch off the engine, place emergency beacons, keep the position lights and indicators on, and call the assistance number.",
+        "ru": "Выключите двигатель, установите аварийные сигналы, включите габаритные огни и указатели поворота, и позвоните в службу помощи."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es fundamental activar las balizas y llamadas de asistencia para seguridad.",
+      "en": "It's essential to activate beacons and call for assistance for safety.",
+      "ru": "Важно включить сигналы и вызвать помощь для безопасности."
+    }
+  },
+  "citation": "【4:8†source】"
+}

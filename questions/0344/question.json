@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿En qué caso deberán utilizarse estas luces?",
+    "en": "In what case should these lights be used?",
+    "ru": "В каком случае эти огни должны быть включены?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b190.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Únicamente de noche y por una vía sin asfaltar.",
+        "en": "Only at night and on an unpaved road.",
+        "ru": "Только ночью и на грунтовой дороге."
+      }
+    },
+    {
+      "text": {
+        "es": "Sólo por vías sin banquina.",
+        "en": "Only on roads without a shoulder.",
+        "ru": "Только на дорогах без обочины."
+      }
+    },
+    {
+      "text": {
+        "es": "En vías afectadas por niebla, en cualquier horario.",
+        "en": "On roads affected by fog, at any time.",
+        "ru": "На дорогах, затянутых туманом, в любое время."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las luces deben usarse para mejorar la visibilidad en condiciones de niebla.",
+      "en": "Lights should be used to improve visibility in fog conditions.",
+      "ru": "Фары должны использоваться для улучшения видимости в условиях тумана."
+    }
+  },
+  "citation": "【4:10†source】"
+}

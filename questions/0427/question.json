@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Determine qué indica la señal que a continuación se presenta:",
+    "en": "Determine what the signal presented indicates:",
+    "ru": "Определите, что означает представленный сигнал:"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b243.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Paneles de prevención.",
+        "en": "Prevention panels.",
+        "ru": "Панели предупреждения."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Prohibición de circular.",
+        "en": "Prohibition to circulate.",
+        "ru": "Запрет на движение."
+      }
+    },
+    {
+      "text": {
+        "es": "Reducción de velocidad.",
+        "en": "Speed reduction.",
+        "ru": "Снижение скорости."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La señal presentada es de tipo preventiva, alertando sobre posibles peligros.",
+      "en": "The presented signal is of a preventive type, alerting about possible dangers.",
+      "ru": "Представленный сигнал является предупреждающим, указывая на возможные опасности."
+    }
+  },
+  "citation": "【4:7†source】"
+}

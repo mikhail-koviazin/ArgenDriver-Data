@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "En caso de un siniestro vial en este tipo de calle, ¿cómo es recomendable señalizar la zona del vehículo inmovilizado?",
+    "en": "In case of a traffic accident on this type of street, how is it advisable to signal the area of the immobilized vehicle?",
+    "ru": "В случае дорожного происшествия на такой улице, как рекомендуется обозначить территорию неподвижного транспортного средства?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b43.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Se deben encender las luces bajas y, en lo posible, colocar balizas portátiles delante y detrás del mismo.",
+        "en": "You should turn on the low beams and, if possible, place portable beacons in front of and behind it.",
+        "ru": "Необходимо включить ближний свет и, по возможности, разместить переносные сигнальные огни спереди и сзади."
+      }
+    },
+    {
+      "text": {
+        "es": "Se deben encender las luces altas y, en lo posible, colocar balizas portátiles detrás del mismo.",
+        "en": "You should turn on the high beams and, if possible, place portable beacons behind it.",
+        "ru": "Необходимо включить дальний свет и, по возможности, разместить переносные сигнальные огни позади."
+      }
+    },
+    {
+      "text": {
+        "es": "Se deben encender las balizas y, en lo posible, colocar balizas portátiles del lado de donde provienen los vehículos a una distancia adecuada del vehículo.",
+        "en": "You should turn on the hazard lights and, if possible, place portable beacons on the side from which vehicles are approaching, at an adequate distance from the vehicle.",
+        "ru": "Необходимо включить аварийные огни и, по возможности, разместить переносные сигнальные огни с той стороны, откуда приближаются транспортные средства, на соответствующем расстоянии от машины."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Es crucial para advertir a otros conductores y evitar más accidentes.",
+      "en": "It is crucial to alert other drivers and prevent further accidents.",
+      "ru": "Это критически важно для предупреждения других водителей и предотвращения дальнейших аварий."
+    }
+  },
+  "citation": "【4:11†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "De acuerdo a la Ley N°2148 durante la siguiente circunstancia, ¿qué acción está prohibida realizar?",
+    "en": "According to Law No. 2148 during the following circumstance, what action is prohibited to perform?",
+    "ru": "Согласно Закону №2148, что запрещено делать в следующей ситуации?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b197.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Ubicarse cerca del surtidor.",
+        "en": "Positioning oneself close to the pump.",
+        "ru": "Находиться близко к колонке."
+      }
+    },
+    {
+      "text": {
+        "es": "Dejar el motor y las luces encendidas.",
+        "en": "Leaving the engine and lights on.",
+        "ru": "Оставление двигателя и фар включенными."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Sólo dejar el motor encendido.",
+        "en": "Only leaving the engine running.",
+        "ru": "Оставить только двигатель работающим."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Dejar el motor y las luces encendidas puede causar incendios y emisiones peligrosas.",
+      "en": "Leaving the engine and lights on can cause fires and hazardous emissions.",
+      "ru": "Оставление двигателя и фар включенными может привести к пожарам и опасным выбросам."
+    }
+  },
+  "citation": "【4:11†source】"
+}

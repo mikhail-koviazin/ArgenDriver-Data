@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuál de estas señales es Informativa?",
+    "en": "Which of these signs is Informative?",
+    "ru": "Какой из этих знаков является информационным?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b85.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "La señal A.",
+        "en": "Sign A.",
+        "ru": "Знак A."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "La señal B.",
+        "en": "Sign B.",
+        "ru": "Знак B."
+      }
+    },
+    {
+      "text": {
+        "es": "La señal C.",
+        "en": "Sign C.",
+        "ru": "Знак C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Las señales informativas indican destinos y servicios, facilitando la navegación.",
+      "en": "Informative signs indicate destinations and services, facilitating navigation.",
+      "ru": "Информационные знаки указывают направления и услуги, облегчая навигацию."
+    }
+  },
+  "citation": "【4:5†source】"
+}

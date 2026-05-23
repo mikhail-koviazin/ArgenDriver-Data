@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "¿Cuáles de las siguientes acciones son consideradas factores de distracción cuando se conduce un vehículo?",
+    "en": "Which of the following actions are considered distraction factors when driving a vehicle?",
+    "ru": "Какие из следующих действий считаются факторами отвлечения при управлении автомобилем?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b65.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Las opciones A, B y C.",
+        "en": "Options A, B, and C.",
+        "ru": "Варианты A, B и C."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Las opciones A y C.",
+        "en": "Options A and C.",
+        "ru": "Варианты A и C."
+      }
+    },
+    {
+      "text": {
+        "es": "Las opciones B y C.",
+        "en": "Options B and C.",
+        "ru": "Варианты B и C."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "Factores como el uso del teléfono, comer o la música pueden distraer al conductor.",
+      "en": "Factors such as using a phone, eating, or music can distract the driver.",
+      "ru": "Факторы, такие как использование телефона, еда или музыка, могут отвлекать водителя."
+    }
+  },
+  "citation": "[4:1†source]"
+}

@@ -1,0 +1,32 @@
+{
+  "text": {
+    "es": "Al circular por una ruta a la velocidad máxima permitida sólo se está habilitado a superarla en el momento del sobrepaso.",
+    "en": "When driving on a road at the maximum allowed speed, you are only permitted to exceed it during overtaking.",
+    "ru": "При движении по дороге на максимальной разрешенной скорости вы можете превышать ее только во время обгона."
+  },
+  "responses": [
+    {
+      "text": {
+        "es": "Verdadero.",
+        "en": "True.",
+        "ru": "Верно."
+      }
+    },
+    {
+      "text": {
+        "es": "Falso.",
+        "en": "False.",
+        "ru": "Ложно."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "En Argentina, sólo se puede sobrepasar el límite de velocidad en circunstancias específicas y nunca de manera continua.",
+      "en": "In Argentina, you can only exceed the speed limit under specific circumstances and never continuously.",
+      "ru": "В Аргентине вы можете превышать ограничение скорости только в определенных обстоятельствах и никогда непрерывно."
+    }
+  },
+  "citation": "【4:6†source】"
+}

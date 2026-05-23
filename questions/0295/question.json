@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "La Ley Nº 2148 establece como norma general que en avenidas de este tipo, está prohibido estacionar vehículos...",
+    "en": "Law No. 2148 establishes as a general rule that in such avenues, parking vehicles is prohibited...",
+    "ru": "Закон № 2148 устанавливает, что на таких проспектах запрещено парковать автомобили..."
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b156.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Junto a ambas aceras los días hábiles entre las 7 y las 21 horas.",
+        "en": "Next to both sidewalks on weekdays between 7 AM and 9 PM.",
+        "ru": "Рядом с обеими тротуарами в будние дни с 7 до 21 часа."
+      },
+      "correct": true
+    },
+    {
+      "text": {
+        "es": "Junto a la acera derecha los días hábiles entre las 7 y las 21 horas.",
+        "en": "Next to the right sidewalk on weekdays between 7 AM and 9 PM.",
+        "ru": "Рядом с правым тротуаром в будние дни с 7 до 21 часа."
+      }
+    },
+    {
+      "text": {
+        "es": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.",
+        "en": "Next to the left sidewalk on weekdays between 7 AM and 9 PM.",
+        "ru": "Рядом с левым тротуаром в будние дни с 7 до 21 часа."
+      }
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "El estacionamiento está prohibido en estas áreas para garantizar la fluidez del tránsito.",
+      "en": "Parking is prohibited in these areas to ensure traffic flow.",
+      "ru": "Парковка запрещена в этих зонах для обеспечения свободного движения транспорта."
+    }
+  },
+  "citation": "【4:14†source】"
+}

@@ -1,0 +1,40 @@
+{
+  "text": {
+    "es": "Como conductor, observa que esta luz se encuentra intermitente, ¿qué debería esperar que haga el peatón?",
+    "en": "As a driver, you notice that this light is flashing; what should you expect the pedestrian to do?",
+    "ru": "Как водитель, вы замечаете, что этот свет мигает. Что вы ожидаете от пешехода?"
+  },
+  "img": "https://www.testdeconducir.com.ar/images/preguntas/b24.jpg",
+  "responses": [
+    {
+      "text": {
+        "es": "Que no comience a cruzar la calzada.",
+        "en": "That he does not start to cross the road.",
+        "ru": "Чтобы он не начинал переходить дорогу."
+      }
+    },
+    {
+      "text": {
+        "es": "Si inició el cruce, que lo finalice con mucha precaución.",
+        "en": "If he started crossing, he should finish it with great caution.",
+        "ru": "Если он начал переходить, он должен закончить это с большой осторожностью."
+      }
+    },
+    {
+      "text": {
+        "es": "Ambas respuestas, la A y la B son correctas.",
+        "en": "Both answers, A and B are correct.",
+        "ru": "Обе реакции, A и B, правильные."
+      },
+      "correct": true
+    }
+  ],
+  "explanation": {
+    "text": {
+      "es": "La luz intermitente roja indica precaución y puede advertir la presencia de un cruce peligroso.",
+      "en": "The flashing red light indicates caution and may warn of a dangerous crossing.",
+      "ru": "Мигающий красный свет указывает на осторожность и может предупреждать о опасном переходе."
+    }
+  },
+  "citation": "【4:1†source】"
+}
