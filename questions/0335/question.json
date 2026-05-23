@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Es menos probable que aparezca la fatiga, ya que aumenta la atención.",
-        "en": "It is necessary to rest more frequently to avoid fatigue.",
-        "ru": "Необходимо чаще отдыхать, чтобы избежать усталости."
+        "en": "It is less likely that fatigue will appear as attention increases.",
+        "ru": "Маловероятно, что усталость появится, так как внимание увеличивается."
       }
     },
     {
       "text": {
         "es": "Es necesario descansar con más frecuencia, para evitar la fatiga.",
-        "en": "It is less likely that fatigue will appear as attention increases.",
-        "ru": "Маловероятно, что усталость появится, так как внимание увеличивается."
+        "en": "It is necessary to rest more frequently to avoid fatigue.",
+        "ru": "Необходимо чаще отдыхать, чтобы избежать усталости."
       },
       "correct": true
     },

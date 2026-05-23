@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "No, ya que al portar la oblea universal de discapacidad tiene libre estacionamiento y por ello puede estacionar en este lugar.",
-        "en": "Yes. All vehicles are prohibited from parking in this sector as it endangers passengers and pedestrians.",
-        "ru": "Да. Всем автомобилям запрещено парковаться в этом секторе, так как это ставит под угрозу пассажиров и пешеходов."
+        "en": "No, since carrying the universal disability label allows for free parking and thus can park in this place.",
+        "ru": "Нет, так как наличие универсальной инвалидной метки позволяет бесплатно парковаться, и поэтому можно стоять в этом месте."
       }
     },
     {
       "text": {
         "es": "Sí. Todo vehículo tiene prohibido estacionar en este sector ya que pone en riesgo a pasajeros y peatones.",
-        "en": "No, since carrying the universal disability label allows for free parking and thus can park in this place.",
-        "ru": "Нет, так как наличие универсальной инвалидной метки позволяет бесплатно парковаться, и поэтому можно стоять в этом месте."
+        "en": "Yes. All vehicles are prohibited from parking in this sector as it endangers passengers and pedestrians.",
+        "ru": "Да. Всем автомобилям запрещено парковаться в этом секторе, так как это ставит под угрозу пассажиров и пешеходов."
       },
       "correct": true
     }

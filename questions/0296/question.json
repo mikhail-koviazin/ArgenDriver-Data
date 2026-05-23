@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Junto a la acera izquierda los días hábiles durante las 24 horas.",
-        "en": "Next to the left curb on weekdays between 7 AM and 9 PM.",
-        "ru": "У левого бордюра в будние дни с 7 до 21 часов."
+        "en": "Next to the left curb on weekdays for 24 hours.",
+        "ru": "У левого бордюра в будние дни круглосуточно."
       }
     },
     {
       "text": {
         "es": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.",
-        "en": "Next to the left curb on weekdays for 24 hours.",
-        "ru": "У левого бордюра в будние дни круглосуточно."
+        "en": "Next to the left curb on weekdays between 7 AM and 9 PM.",
+        "ru": "У левого бордюра в будние дни с 7 до 21 часов."
       },
       "correct": true
     },

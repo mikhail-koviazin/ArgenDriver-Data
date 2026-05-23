@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Sí, porque se encuentra en el asiento delantero.",
-        "en": "No, because the prohibition on the use of cellular telephony only applies to the driver of the vehicle.",
-        "ru": "Нет, потому что запрет на использование сотовой связи касается только водителя автомобиля."
+        "en": "Yes, because he is in the front seat.",
+        "ru": "Да, потому что он на переднем сиденье."
       }
     },
     {
       "text": {
         "es": "No, porque la prohibición del uso de telefonía celular alcanza sólo al conductor del vehículo.",
-        "en": "Yes, because he is in the front seat.",
-        "ru": "Да, потому что он на переднем сиденье."
+        "en": "No, because the prohibition on the use of cellular telephony only applies to the driver of the vehicle.",
+        "ru": "Нет, потому что запрет на использование сотовой связи касается только водителя автомобиля."
       },
       "correct": true
     },

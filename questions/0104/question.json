@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Sólo pueden, eventualmente, ampliarse para mejorar su visibilidad.",
-        "en": "No, they must be placed in the correct place and manner.",
-        "ru": "Нет, они должны быть размещены в правильном месте и там, где это необходимо."
+        "en": "They can only be enlarged occasionally to improve their visibility.",
+        "ru": "Их можно только иногда увеличивать для улучшения видимости."
       }
     },
     {
       "text": {
         "es": "No, deben estar colocadas en el lugar y de forma reglamentaria.",
-        "en": "They can only be enlarged occasionally to improve their visibility.",
-        "ru": "Их можно только иногда увеличивать для улучшения видимости."
+        "en": "No, they must be placed in the correct place and manner.",
+        "ru": "Нет, они должны быть размещены в правильном месте и там, где это необходимо."
       },
       "correct": true
     },
@@ -24,7 +24,7 @@
       "text": {
         "es": "Sólo está prohibido modificar la placa de dominio trasera, no así la delantera.",
         "en": "Only the rear license plate is prohibited from being modified, not the front one.",
-        "ru": "Запрещено изменять только заднюю номерную табличку, переднюю изменить нельзя."
+        "ru": "Запрещено изменять только заднюю номерную табличку, но не переднюю."
       }
     }
   ],

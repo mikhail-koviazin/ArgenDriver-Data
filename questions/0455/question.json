@@ -16,15 +16,15 @@
     {
       "text": {
         "es": "Prohibición de estacionar en las inmediaciones a la plaza.",
-        "en": "Presence of a square in the vicinity.",
-        "ru": "Наличие площади в окрестностях."
+        "en": "Prohibition of parking near the square.",
+        "ru": "Запрет на парковку вблизи площади."
       }
     },
     {
       "text": {
         "es": "Existencia de una plaza, en las inmediaciones.",
-        "en": "Prohibition of parking near the square.",
-        "ru": "Запрет на парковку вблизи площади."
+        "en": "Presence of a square in the vicinity.",
+        "ru": "Наличие площади в окрестностях."
       },
       "correct": true
     }

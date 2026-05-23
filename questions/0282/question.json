@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Usar el freno de mano.",
-        "en": "Decelerate (do not brake).",
-        "ru": "Снижать скорость (не тормозить)."
+        "en": "Use the handbrake.",
+        "ru": "Использовать стояночный тормоз."
       }
     },
     {
       "text": {
         "es": "Desacelerar (no frenar).",
-        "en": "Use the handbrake.",
-        "ru": "Использовать стояночный тормоз."
+        "en": "Decelerate (do not brake).",
+        "ru": "Снижать скорость (не тормозить)."
       },
       "correct": true
     },

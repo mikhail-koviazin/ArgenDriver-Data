@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "No, porque es un documento personal.",
-        "en": "Only in cases where the current regulations indicate so.",
-        "ru": "Только в случаях, когда это указывает действующее законодательство."
+        "en": "No, because it is a personal document.",
+        "ru": "Нет, потому что это личный документ."
       }
     },
     {
       "text": {
         "es": "Sólo en los casos que la normativa vigente así lo indique.",
-        "en": "No, because it is a personal document.",
-        "ru": "Нет, потому что это личный документ."
+        "en": "Only in cases where the current regulations indicate so.",
+        "ru": "Только в случаях, когда это указывает действующее законодательство."
       },
       "correct": true
     },

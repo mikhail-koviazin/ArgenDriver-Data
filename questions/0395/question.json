@@ -16,15 +16,15 @@
     {
       "text": {
         "es": "No, ya que la niña debería ubicarse “a contra marcha” para reducir el efecto “latigazo”.",
-        "en": "No, because the girl is not using the seatbelt of the CRS.",
-        "ru": "Нет, потому что девочка не использует ремень безопасности детского кресла."
+        "en": "No, as the girl should be positioned 'rear-facing' to reduce the 'whiplash' effect.",
+        "ru": "Нет, так как девочка должна сидеть 'лицом назад', чтобы уменьшить эффект 'сотрясения'."
       }
     },
     {
       "text": {
         "es": "No, ya que la niña no utiliza el cinturón de seguridad del SRI.",
-        "en": "No, as the girl should be positioned 'rear-facing' to reduce the 'whiplash' effect.",
-        "ru": "Нет, так как девочка должна сидеть 'лицом назад', чтобы уменьшить эффект 'сотрясения'."
+        "en": "No, because the girl is not using the seatbelt of the CRS.",
+        "ru": "Нет, потому что девочка не использует ремень безопасности детского кресла."
       },
       "correct": true
     }

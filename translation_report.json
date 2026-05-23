@@ -1,0 +1,1919 @@
+[
+  {
+    "folder": "0009",
+    "check": 3,
+    "field": "explanation.text",
+    "lang": "ru",
+    "issue": "'Visión Cero' mistranslated as 'Нулевая видимость' in explanation too",
+    "es": "El Programa Visión Cero busca eliminar las muertes y lesiones graves",
+    "translation": "Программа «Нулевая видимость» направлена на устранение смертей и серьезных травм"
+  },
+  {
+    "folder": "0009",
+    "check": 3,
+    "field": "text",
+    "lang": "ru",
+    "issue": "'Visión Cero' mistranslated as 'Нулевая видимость' (Zero Visibility) instead of 'Нулевое видение' (Vision Zero)",
+    "es": "Programa Visión Cero creado en 1997 en Suecia",
+    "translation": "программа «Нулевая видимость», созданная в 1997 году в Швеции"
+  },
+  {
+    "folder": "0022",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "Vulnerability order reversed: ES lists Camión first (least vulnerable) but EN lists Pedestrian first",
+    "es": "Camión - Colectivo - Moto - Ciclista - Peatón - Taxi/Automóvil",
+    "translation": "Pedestrian - Cyclist - Motorcycle - Bus - Taxi/Car - Truck"
+  },
+  {
+    "folder": "0022",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "Vulnerability order reversed: ES lists Camión first but RU lists Пешеход first",
+    "es": "Camión - Colectivo - Moto - Ciclista - Peatón - Taxi/Automóvil",
+    "translation": "Пешеход - Велосипедист - Мотоцикл - Автобус - Такси/Автомобиль - Грузовик"
+  },
+  {
+    "folder": "0022",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "Vulnerability order reversed: ES lists Peatón first (most vulnerable) but EN lists Truck first",
+    "es": "Peatón - Ciclista - Moto - Colectivo - Taxi/Automóvil - Camión",
+    "translation": "Truck - Bus - Motorcycle - Cyclist - Pedestrian - Taxi/Car"
+  },
+  {
+    "folder": "0022",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "Vulnerability order reversed: ES lists Peatón first but RU lists Грузовик first",
+    "es": "Peatón - Ciclista - Moto - Colectivo - Taxi/Automóvil - Camión",
+    "translation": "Грузовик - Автобус - Мотоцикл - Велосипедист - Пешеход - Такси/Автомобиль"
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN/RU of all 3 responses cyclically shifted; responses[0] EN belongs to responses[1] ES",
+    "es": "No pueden hacerlo. Únicamente deben circular por ciclovías o bicisendas y los menores de 12 años por la vereda.",
+    "translation": "Close to the right edge of the roadway."
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "EN/RU of all 3 responses cyclically shifted; responses[0] RU belongs to responses[1] ES",
+    "es": "No pueden hacerlo. Únicamente deben circular por ciclovías o bicisendas y los menores de 12 años por la vereda.",
+    "translation": "Близко к правому краю проезжей части."
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN says 'left edge' but ES says 'borde derecho' (right edge)",
+    "es": "Cerca del borde derecho de la calzada.",
+    "translation": "Close to the left edge of the roadway."
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU says 'левому краю' but ES says 'borde derecho'",
+    "es": "Cerca del borde derecho de la calzada.",
+    "translation": "Близко к левому краю проезжей части."
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0] ES, not responses[2] ES",
+    "es": "Cerca del borde izquierdo de la calzada.",
+    "translation": "They cannot circulate. They can only do so on cycle lanes or bike paths, and those under 12 years old on the sidewalk."
+  },
+  {
+    "folder": "0034",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0] ES, not responses[2] ES",
+    "es": "Cerca del borde izquierdo de la calzada.",
+    "translation": "Они не могут передвигаться. Они могут делать это только по велосипедным дорожкам или маршруткам, и те, кто моложе 12 лет, по тротуарам."
+  },
+  {
+    "folder": "0043",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN/RU of responses[0] and [1] swapped; responses[0] EN says 'No, pedestrians still crossing' but ES says 'Sí, no circulan peatones'",
+    "es": "Sí, porque por allí no circulan peatones y no hay peligro.",
+    "translation": "No, because there are still pedestrians crossing from one side of the artery to the other."
+  },
+  {
+    "folder": "0043",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "responses[0] RU belongs to responses[1] ES — swapped",
+    "es": "Sí, porque por allí no circulan peatones y no hay peligro.",
+    "translation": "Нет, потому что все еще есть пешеходы, переходящие с одной стороны улицы на другую."
+  },
+  {
+    "folder": "0043",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "responses[1] EN (correct answer) says 'Yes, no pedestrians' but ES says 'No, hay peatones cruzando'",
+    "es": "No, porque aún hay peatones cruzando de un lado al otro de la arteria.",
+    "translation": "Yes, because there are no pedestrians circulating there and there is no danger."
+  },
+  {
+    "folder": "0043",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU (correct answer) belongs to responses[0] ES — swapped",
+    "es": "No, porque aún hay peatones cruzando de un lado al otro de la arteria.",
+    "translation": "Да, потому что там нет пешеходов и нет опасности."
+  },
+  {
+    "folder": "0044",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "Polish word 'chwilę' embedded in Russian text",
+    "es": "aun sabiendo que obstruiré por un momento la bocacalle",
+    "translation": "даже зная, что на chwilę заблокируете перекресток"
+  },
+  {
+    "folder": "0046",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN says 'Yes, always.' but ES says 'No, pero si el peatón se encuentra cruzando...' — responses[0] and [1] EN/RU swapped",
+    "es": "No, pero si el peatón se encuentra cruzando, el conductor debe dejarlo pasar para no producir un siniestro vial.",
+    "translation": "Yes, always."
+  },
+  {
+    "folder": "0046",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU says 'Да, всегда.' but ES says 'No, pero si...' — swapped",
+    "es": "No, pero si el peatón se encuentra cruzando, el conductor debe dejarlo pasar para no producir un siniestro vial.",
+    "translation": "Да, всегда."
+  },
+  {
+    "folder": "0046",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN says 'No, but if the pedestrian is crossing...' but ES says 'Sí, siempre.' — swapped",
+    "es": "Sí, siempre.",
+    "translation": "No, but if the pedestrian is crossing, the driver must let him pass to avoid causing an accident."
+  },
+  {
+    "folder": "0046",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU says 'Нет, но если пешеход переходит...' but ES says 'Sí, siempre.' — swapped",
+    "es": "Sí, siempre.",
+    "translation": "Нет, но если пешеход переходит, водитель должен его пропустить, чтобы избежать аварии."
+  },
+  {
+    "folder": "0058",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN is translation of responses[1].es, not responses[0].es — swapped",
+    "es": "Vías con un único sentido de circulación.",
+    "translation": "Longitudinal bands marked on the pavement, intended for the circulation of certain vehicles."
+  },
+  {
+    "folder": "0058",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU is translation of responses[1].es — swapped",
+    "es": "Vías con un único sentido de circulación.",
+    "translation": "Долгосрочные полосы, размеченные на проезжей части, предназначенные для движения определенных транспортных средств."
+  },
+  {
+    "folder": "0058",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN is translation of responses[0].es — swapped",
+    "es": "Bandas longitudinales demarcadas en la calzada, destinadas a la circulación de determinados vehículos.",
+    "translation": "Roads with a single direction of circulation."
+  },
+  {
+    "folder": "0058",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU is translation of responses[0].es — swapped",
+    "es": "Bandas longitudinales demarcadas en la calzada, destinadas a la circulación de determinados vehículos.",
+    "translation": "Дороги с односторонним движением."
+  },
+  {
+    "folder": "0073",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN describes 'exclusive with physical separation' (= responses[1].es), not 'preferential' (= responses[0].es) — swapped",
+    "es": "Sector señalizado especialmente en la calzada para la circulación con carácter preferente de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+    "translation": "A section of the roadway marked specifically with a physical separation or horizontal demarcation for the exclusive circulation of bicycles and personal mobility devices."
+  },
+  {
+    "folder": "0073",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Sector señalizado especialmente en la calzada para la circulación con carácter preferente de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+    "translation": "Сегмент дороги, специально отмеченный физическим разделением или горизонтальной разметкой для эксклюзивного движения велосипедов и устройств личной мобильности."
+  },
+  {
+    "folder": "0073",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN describes 'preferential' (= responses[0].es), not 'exclusive' (= responses[1].es) — swapped",
+    "es": "Sector de la calzada señalizado especialmente con una separación física o demarcación horizontal para la circulación exclusiva de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+    "translation": "A roadway section marked especially for preferential circulation of bicycles and personal mobility devices."
+  },
+  {
+    "folder": "0073",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Sector de la calzada señalizado especialmente con una separación física o demarcación horizontal para la circulación exclusiva de ciclorodados (bicicletas) y dispositivos de movilidad personal.",
+    "translation": "Участок дороги, специально отмеченный для предпочитаемого движения велосипедов и средств личной мобильности."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "All 3 responses EN/RU cyclically shifted; responses[0] EN shows 'Protect-Alert-Assist' but ES says 'Alertar-Socorrer-Proteger'",
+    "es": "Alertar - Socorrer - Proteger.",
+    "translation": "Protect - Alert - Assist."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "responses[0] RU shows 'Защитить-Предупредить-Помочь' but ES says 'Alertar-Socorrer-Proteger'",
+    "es": "Alertar - Socorrer - Proteger.",
+    "translation": "Защитить - Предупредить - Помочь."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "responses[1] EN (correct) shows 'Alert-Assist-Protect' but ES says 'Proteger-Alertar-Socorrer'",
+    "es": "Proteger - Alertar - Socorrer.",
+    "translation": "Alert - Assist - Protect."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU (correct) shows 'Предупредить-Помочь-Защитить' but ES says 'Proteger-Alertar-Socorrer'",
+    "es": "Proteger - Alertar - Socorrer.",
+    "translation": "Предупредить - Помочь - Защитить."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "responses[2] EN shows 'Assist-Protect-Alert' but ES says 'Socorrer-Proteger-Alertar'",
+    "es": "Socorrer - Proteger - Alertar.",
+    "translation": "Assist - Protect - Alert."
+  },
+  {
+    "folder": "0084",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "responses[2] RU shows 'Помочь-Защитить-Предупредить' but ES says 'Socorrer-Proteger-Alertar'",
+    "es": "Socorrer - Proteger - Alertar.",
+    "translation": "Помочь - Защитить - Предупредить."
+  },
+  {
+    "folder": "0094",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped",
+    "es": "No, porque es un documento personal.",
+    "translation": "Only in cases where the current regulations indicate so."
+  },
+  {
+    "folder": "0094",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "No, porque es un documento personal.",
+    "translation": "Только в случаях, когда это указывает действующее законодательство."
+  },
+  {
+    "folder": "0094",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped",
+    "es": "Sólo en los casos que la normativa vigente así lo indique.",
+    "translation": "No, because it is a personal document."
+  },
+  {
+    "folder": "0094",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Sólo en los casos que la normativa vigente así lo indique.",
+    "translation": "Нет, потому что это личный документ."
+  },
+  {
+    "folder": "0095",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN corresponds to responses[2].es ('No debe superar el año'), not responses[0].es ('30 días corridos')",
+    "es": "30 días corridos desde su vencimiento.",
+    "translation": "It should not exceed one year from its expiration."
+  },
+  {
+    "folder": "0095",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU corresponds to responses[2].es — swapped",
+    "es": "30 días corridos desde su vencimiento.",
+    "translation": "Это не должно превышать одного года с момента истечения."
+  },
+  {
+    "folder": "0095",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "EN corresponds to responses[0].es ('30 días corridos') — swapped",
+    "es": "No debe superar el año desde su vencimiento.",
+    "translation": "30 calendar days from its expiration."
+  },
+  {
+    "folder": "0095",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "RU corresponds to responses[0].es — swapped",
+    "es": "No debe superar el año desde su vencimiento.",
+    "translation": "30 календарных дней с момента истечения."
+  },
+  {
+    "folder": "0096",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN says 'regardless of age' but responses[0].es says 'sólo menores de 21 años' — responses[0] and [2] EN/RU swapped",
+    "es": "2 años, sólo en el caso de los menores de 21 años de edad.",
+    "translation": "2 years, regardless of age."
+  },
+  {
+    "folder": "0096",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU says 'независимо от возраста' but responses[0].es says only for under-21 — swapped",
+    "es": "2 años, sólo en el caso de los menores de 21 años de edad.",
+    "translation": "2 года, независимо от возраста."
+  },
+  {
+    "folder": "0096",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "EN says 'only for those under 21' but responses[2].es says 'independientemente a la edad' — swapped",
+    "es": "2 años, independientemente a la edad.",
+    "translation": "2 years, only for those under 21 years of age."
+  },
+  {
+    "folder": "0096",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "RU says 'только для тех, кто младше 21 года' but responses[2].es says 'regardless of age' — swapped",
+    "es": "2 años, independientemente a la edad.",
+    "translation": "2 года, только для тех, кто младше 21 года."
+  },
+  {
+    "folder": "0099",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "EN says 'In any case' but ES says 'En ningún caso' — opposite meaning",
+    "es": "En ningún caso.",
+    "translation": "In any case."
+  },
+  {
+    "folder": "0099",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "RU says 'В любом случае' but ES says 'En ningún caso' — opposite meaning",
+    "es": "En ningún caso.",
+    "translation": "В любом случае."
+  },
+  {
+    "folder": "0101",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('transportados o no') but responses[0].es says 'transportados únicamente' — swapped",
+    "es": "Eventuales daños causados a terceros transportados únicamente.",
+    "translation": "Possible damages caused to third parties transported or not."
+  },
+  {
+    "folder": "0101",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Eventuales daños causados a terceros transportados únicamente.",
+    "translation": "Возможные ущербы, причиненные третьим лицам, перевезенным или не перевезенным."
+  },
+  {
+    "folder": "0101",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('únicamente') — swapped",
+    "es": "Eventuales daños causados a terceros transportados o no.",
+    "translation": "Possible damages caused to third parties transported only."
+  },
+  {
+    "folder": "0101",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Eventuales daños causados a terceros transportados o no.",
+    "translation": "Возможные убытки, причиненные только перевезенным третьим лицам."
+  },
+  {
+    "folder": "0103",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es (Registro Nacional) but responses[0].es says 'cualquier establecimiento comercial' — swapped",
+    "es": "Se la puede solicitar en cualquier establecimiento comercial que la realice.",
+    "translation": "It should be requested at the National Register of Motor Vehicle Ownership corresponding to the vehicle."
+  },
+  {
+    "folder": "0103",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Se la puede solicitar en cualquier establecimiento comercial que la realice.",
+    "translation": "Её следует запрашивать в Национальном реестре собственности автомобилей, соответствующем автомобилю."
+  },
+  {
+    "folder": "0103",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('cualquier establecimiento comercial') — swapped",
+    "es": "Se la debe solicitar en el Registro Nacional de la Propiedad del Automotor que corresponde al vehículo.",
+    "translation": "It can be requested at any commercial establishment that does this."
+  },
+  {
+    "folder": "0103",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Se la debe solicitar en el Registro Nacional de la Propiedad del Automotor que corresponde al vehículo.",
+    "translation": "Её можно запросить в любом коммерческом заведении, которое этим занимается."
+  },
+  {
+    "folder": "0104",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('No, reglamentariamente') but responses[0].es says 'Sólo pueden ampliarse' — swapped",
+    "es": "Sólo pueden, eventualmente, ampliarse para mejorar su visibilidad.",
+    "translation": "No, they must be placed in the correct place and manner."
+  },
+  {
+    "folder": "0104",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Sólo pueden, eventualmente, ampliarse para mejorar su visibilidad.",
+    "translation": "Нет, они должны быть размещены в правильном месте и там, где это необходимо."
+  },
+  {
+    "folder": "0104",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('ampliarse') — swapped",
+    "es": "No, deben estar colocadas en el lugar y de forma reglamentaria.",
+    "translation": "They can only be enlarged occasionally to improve their visibility."
+  },
+  {
+    "folder": "0104",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "No, deben estar colocadas en el lugar y de forma reglamentaria.",
+    "translation": "Их можно только иногда увеличивать для улучшения видимости."
+  },
+  {
+    "folder": "0106",
+    "check": 1,
+    "field": "text",
+    "lang": "ru",
+    "issue": "Untranslated English phrase embedded in Russian question text",
+    "es": "¿Cuál de las siguientes opciones está directamente vinculada a la prevención y reducción de siniestros viales?",
+    "translation": "Какой из следующих вариантов непосредственно связан с prevention and reduction of road accidents?"
+  },
+  {
+    "folder": "0106",
+    "check": 3,
+    "field": "explanation.text",
+    "lang": "ru",
+    "issue": "'mantenerse alerta' (stay alert) translated as 'оставаться настойчивым' (stay persistent/insistent) — wrong meaning",
+    "es": "la necesidad de seguir reglas de tránsito y mantenerse alerta",
+    "translation": "необходимость соблюдать правила дорожного движения и оставаться настойчивым"
+  },
+  {
+    "folder": "0116",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('efectos sedantes') but responses[0].es says 'de venta libre, sin receta' — swapped",
+    "es": "Todos los medicamentos, de venta libre, que no necesitan receta.",
+    "translation": "All medications with sedative effects."
+  },
+  {
+    "folder": "0116",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Todos los medicamentos, de venta libre, que no necesitan receta.",
+    "translation": "Все лекарства с седативным эффектом."
+  },
+  {
+    "folder": "0116",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('de venta libre') — swapped",
+    "es": "Todos los medicamentos con efectos sedantes.",
+    "translation": "All over-the-counter medications that do not require a prescription."
+  },
+  {
+    "folder": "0116",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Todos los medicamentos con efectos sedantes.",
+    "translation": "Все лекарства, отпускать без рецепта, которые не требуют рецепта."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "All 3 responses EN/RU cyclically shifted; responses[0] EN belongs to responses[2].es",
+    "es": "Sí, pero sólo cuando la bebida alcohólica que se ingirió tiene un alto grado de concentración.",
+    "translation": "Yes, it can affect coordination, attention, and reaction time."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "responses[0] RU belongs to responses[2].es — cyclically shifted",
+    "es": "Sí, pero sólo cuando la bebida alcohólica que se ingirió tiene un alto grado de concentración.",
+    "translation": "Да, это может повлиять на координацию, внимание и время реакции."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "responses[1] EN belongs to responses[0].es — cyclically shifted",
+    "es": "No, el nivel de alcohol se ve reducido en cuestión de horas, por ello conducir con resaca no altera las percepciones.",
+    "translation": "Yes, but only when the alcoholic beverage ingested has a high concentration."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU belongs to responses[0].es — cyclically shifted",
+    "es": "No, el nivel de alcohol se ve reducido en cuestión de horas, por ello conducir con resaca no altera las percepciones.",
+    "translation": "Да, но только если потребляемый алкогольный напиток имеет высокую концентрацию."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "responses[2] EN belongs to responses[1].es — cyclically shifted",
+    "es": "Sí, puede afectar la coordinación, la atención y el tiempo de reacción.",
+    "translation": "No, the alcohol level is reduced in a matter of hours, so driving with a hangover does not alter perceptions."
+  },
+  {
+    "folder": "0123",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "responses[2] RU belongs to responses[1].es — cyclically shifted",
+    "es": "Sí, puede afectar la coordinación, la atención y el tiempo de reacción.",
+    "translation": "Нет, уровень алкоголя снижается в течение нескольких часов, поэтому вождение в состоянии похмелья не изменяет восприятия."
+  },
+  {
+    "folder": "0139",
+    "check": 3,
+    "field": "explanation.text",
+    "lang": "ru",
+    "issue": "English word 'Concentration' not translated, left in Russian text",
+    "es": "mejora la concentración del conductor",
+    "translation": "повышает Concentration водителя"
+  },
+  {
+    "folder": "0140",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped",
+    "es": "Sólo si es con el conductor. Si la discusión es con otra persona, lo mantiene en alerta ya que la tensión evita la somnolencia.",
+    "translation": "Yes, it can hinder your ability to pay attention to the context, as arguments create a state of stress."
+  },
+  {
+    "folder": "0140",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Sólo si es con el conductor. Si la discusión es con otra persona, lo mantiene en alerta ya que la tensión evita la somnolencia.",
+    "translation": "Да, это может мешать вашей способности обращать внимание на обстановку, так как споры создают состояние стресса."
+  },
+  {
+    "folder": "0140",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped; correct-marked response shows wrong EN answer",
+    "es": "Sí, puede entorpecer su capacidad de atención al contexto, ya que las discusiones generan un estado de estrés.",
+    "translation": "Only if it's with the driver. If the argument is with another person, it keeps them alert since the tension prevents drowsiness."
+  },
+  {
+    "folder": "0140",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct-marked response shows wrong RU answer",
+    "es": "Sí, puede entorpecer su capacidad de atención al contexto, ya que las discusiones generan un estado de estrés.",
+    "translation": "Только если это с водителем. Если спор с другим человеком, это держит их в бдительности, так как напряжение предотвращает сонливость."
+  },
+  {
+    "folder": "0148",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped",
+    "es": "Sí, porque se encuentra en el asiento delantero.",
+    "translation": "No, because the prohibition on the use of cellular telephony only applies to the driver of the vehicle."
+  },
+  {
+    "folder": "0148",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Sí, porque se encuentra en el asiento delantero.",
+    "translation": "Нет, потому что запрет на использование сотовой связи касается только водителя автомобиля."
+  },
+  {
+    "folder": "0148",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped; correct answer shows 'Yes' in EN but ES says 'No'",
+    "es": "No, porque la prohibición del uso de telefonía celular alcanza sólo al conductor del vehículo.",
+    "translation": "Yes, because he is in the front seat."
+  },
+  {
+    "folder": "0148",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct answer shows 'Да' in RU but ES says 'No'",
+    "es": "No, porque la prohibición del uso de telefonía celular alcanza sólo al conductor del vehículo.",
+    "translation": "Да, потому что он на переднем сиденье."
+  },
+  {
+    "folder": "0154",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped (wrong priority order)",
+    "es": "Normas legales de carácter general; Señalización; Indicaciones de la autoridad competente.",
+    "translation": "Instructions from the competent authority; Signage; General legal rules."
+  },
+  {
+    "folder": "0154",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Normas legales de carácter general; Señalización; Indicaciones de la autoridad competente.",
+    "translation": "Указания компетентного органа; Знаки; Общее законодательство."
+  },
+  {
+    "folder": "0154",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped; correct answer shows wrong priority order",
+    "es": "Indicaciones de la autoridad competente; Señalización; Normas legales de carácter general.",
+    "translation": "General legal rules; Signage; Instructions from the competent authority."
+  },
+  {
+    "folder": "0154",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct answer shows wrong priority order",
+    "es": "Indicaciones de la autoridad competente; Señalización; Normas legales de carácter general.",
+    "translation": "Общие правовые нормы; Знаки; Указания компетентного органа."
+  },
+  {
+    "folder": "0156",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped",
+    "es": "Avanzar porque la luz verde del semáforo lo habilita.",
+    "translation": "Stop and wait for the traffic officer's indication to proceed."
+  },
+  {
+    "folder": "0156",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Avanzar porque la luz verde del semáforo lo habilita.",
+    "translation": "Остановитесь и ждите указаний инспектора дорожного движения, чтобы продолжить."
+  },
+  {
+    "folder": "0156",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped; correct answer says 'Go' in EN but ES says 'Stop'",
+    "es": "Detenerse y esperar a la indicación del agente de tránsito para avanzar.",
+    "translation": "Go ahead because the green traffic light allows it."
+  },
+  {
+    "folder": "0156",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct answer says 'Продолжайте движение' in RU but ES says 'Stop'",
+    "es": "Detenerse y esperar a la indicación del agente de tránsito para avanzar.",
+    "translation": "Продолжайте движение, потому что зеленый сигнал светофора это позволяет."
+  },
+  {
+    "folder": "0158",
+    "check": 3,
+    "field": "explanation.text",
+    "lang": "en",
+    "issue": "ES explanation says agents cannot detain without police, but the correct answer is Falso — explanation contradicts the correct answer",
+    "es": "Los Agentes de Tránsito no pueden detener vehículos sin personal policial.",
+    "translation": "Traffic Agents cannot detain vehicles without police personnel."
+  },
+  {
+    "folder": "0158",
+    "check": 3,
+    "field": "explanation.text",
+    "lang": "ru",
+    "issue": "ES explanation contradicts correct answer Falso — also wrong in RU",
+    "es": "Los Agentes de Tránsito no pueden detener vehículos sin personal policial.",
+    "translation": "Сотрудники дорожного движения не могут задерживать автомобили без полицейских."
+  },
+  {
+    "folder": "0172",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es — swapped",
+    "es": "Es una señalización que se utiliza únicamente para dividir los carriles de la vía.",
+    "translation": "Indicates, for both directions of traffic, that it should not be crossed or driven over."
+  },
+  {
+    "folder": "0172",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Es una señalización que se utiliza únicamente para dividir los carriles de la vía.",
+    "translation": "Указывает, что для обоих направлений движения она не должна пересекаться и не может быть преодолена."
+  },
+  {
+    "folder": "0172",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es — swapped; correct answer shows wrong EN meaning",
+    "es": "Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.",
+    "translation": "It is a marking used solely to divide the lanes of the road."
+  },
+  {
+    "folder": "0172",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct answer shows wrong RU meaning",
+    "es": "Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.",
+    "translation": "Это разметка, используемая исключительно для разделения полос движения."
+  },
+  {
+    "folder": "0190",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN/RU of responses[1] and [2] swapped; responses[1] EN belongs to responses[2].es",
+    "es": "El único que debería apartarse es el auto 2 hacia su derecha.",
+    "translation": "Car 1 to its left and Car 2 to its right."
+  },
+  {
+    "folder": "0190",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU belongs to responses[2].es — swapped",
+    "es": "El único que debería apartarse es el auto 2 hacia su derecha.",
+    "translation": "Автомобиль 1 налево, а автомобиль 2 направо."
+  },
+  {
+    "folder": "0190",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "responses[2] EN (correct) belongs to responses[1].es — swapped; correct answer translated as wrong answer",
+    "es": "El auto 1 hacia su izquierda y el 2 hacia su derecha.",
+    "translation": "The only one that should move aside is car 2 to its right."
+  },
+  {
+    "folder": "0190",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "responses[2] RU (correct) belongs to responses[1].es — swapped",
+    "es": "El auto 1 hacia su izquierda y el 2 hacia su derecha.",
+    "translation": "Единственный, кто должен уступить, это автомобиль 2 направо."
+  },
+  {
+    "folder": "0192",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "English phrase 'Repeatedly honking the horn' embedded in Russian text",
+    "es": "Avisar a otros conductores de la presencia de este vehículo, usando repetidamente la bocina.",
+    "translation": "Уведомить других водителей о присутствии этого автомобиля, Repeatedly honking the horn."
+  },
+  {
+    "folder": "0204",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "'Los vehículos de transporte de pasajero' (passenger transport) mistranslated as 'Грузовые автомобили' (freight/cargo vehicles)",
+    "es": "Los vehículos de transporte de pasajero.",
+    "translation": "Грузовые автомобили."
+  },
+  {
+    "folder": "0205",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "'Al automóvil' (car) translated as 'To the bus' — vehicle type swapped with responses[1]",
+    "es": "Al automóvil.",
+    "translation": "To the bus."
+  },
+  {
+    "folder": "0205",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "'Al automóvil' translated as 'Автобусу' (bus) — swapped",
+    "es": "Al automóvil.",
+    "translation": "Автобусу."
+  },
+  {
+    "folder": "0205",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "'Al colectivo' (bus) translated as 'To the car' — swapped; this is the correct answer so EN test-takers are misled",
+    "es": "Al colectivo.",
+    "translation": "To the car."
+  },
+  {
+    "folder": "0205",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "'Al colectivo' translated as 'Автомобилю' — swapped; correct answer",
+    "es": "Al colectivo.",
+    "translation": "Автомобилю."
+  },
+  {
+    "folder": "0212",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('traffic interrupted') but responses[0].es says 'Always, regardless' — swapped",
+    "es": "Siempre, independientemente de cómo se encuentre el tránsito vehicular.",
+    "translation": "When traffic is interrupted for any reason."
+  },
+  {
+    "folder": "0212",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Siempre, independientemente de cómo se encuentre el tránsito vehicular.",
+    "translation": "Когда движение прервано по какой-либо причине."
+  },
+  {
+    "folder": "0212",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('Always, regardless') — swapped; correct answer misleads EN test-taker",
+    "es": "Cuando el tránsito se encuentra interrumpido por cualquier razón.",
+    "translation": "Always, regardless of how traffic is flowing."
+  },
+  {
+    "folder": "0212",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped; correct answer misleads RU test-taker",
+    "es": "Cuando el tránsito se encuentra interrumpido por cualquier razón.",
+    "translation": "Всегда, независимо от того, как движется транспорт."
+  },
+  {
+    "folder": "0222",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "'Aumentar la velocidad' (increase speed) translated as 'Reduce speed' — opposite meaning",
+    "es": "Aumentar la velocidad para que realice la maniobra detrás suyo.",
+    "translation": "Reduce speed to allow him to return to the lane."
+  },
+  {
+    "folder": "0222",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "'Aumentar la velocidad' translated as 'Снизьте скорость' (reduce) — opposite meaning",
+    "es": "Aumentar la velocidad para que realice la maniobra detrás suyo.",
+    "translation": "Снизьте скорость, чтобы позволить ему вернуться в ряд."
+  },
+  {
+    "folder": "0222",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "'Reducir la velocidad' (reduce speed) translated as 'Increase speed' — opposite meaning; this is the correct answer",
+    "es": "Reducir la velocidad para facilitarle el retorno al carril.",
+    "translation": "Increase speed so that he can maneuver behind you."
+  },
+  {
+    "folder": "0222",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "'Reducir la velocidad' translated as 'Увеличьте скорость' — opposite meaning; correct answer",
+    "es": "Reducir la velocidad para facilitarle el retorno al carril.",
+    "translation": "Увеличьте скорость, чтобы он мог маневрировать за вами."
+  },
+  {
+    "folder": "0237",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('prohibited to cross') not responses[0].es ('can be crossed') — swapped",
+    "es": "Indica que se puede traspasar.",
+    "translation": "Divides opposite directions of traffic and indicates that it is prohibited to cross it."
+  },
+  {
+    "folder": "0237",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Indica que se puede traspasar.",
+    "translation": "Разделяет противоположные направления движения и указывает на запрещение пересечения."
+  },
+  {
+    "folder": "0237",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('can be crossed'); correct answer reads as 'can be crossed' in EN, inverting the correct meaning",
+    "es": "Divide sentidos opuestos de circulación e indica que está prohibido traspasarla.",
+    "translation": "Indicates that it can be crossed."
+  },
+  {
+    "folder": "0237",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es; correct answer reads as 'can be crossed' in RU — inverted meaning",
+    "es": "Divide sentidos opuestos de circulación e indica que está prohibido traspasarla.",
+    "translation": "Указывает на возможность пересечения."
+  },
+  {
+    "folder": "0260",
+    "check": 2,
+    "field": "explanation.text",
+    "lang": "es",
+    "issue": "ES explanation states 20 km/h near schools, but the marked correct answer is 30 km/h — explanation contradicts the correct answer in the ES source itself",
+    "es": "La velocidad máxima en proximidad de escuelas es 20 km/h.",
+    "translation": ""
+  },
+  {
+    "folder": "0282",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('Desacelerar') but responses[0].es says 'Usar el freno de mano' — swapped",
+    "es": "Usar el freno de mano.",
+    "translation": "Decelerate (do not brake)."
+  },
+  {
+    "folder": "0282",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Usar el freno de mano.",
+    "translation": "Снижать скорость (не тормозить)."
+  },
+  {
+    "folder": "0282",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN says 'Use the handbrake' but responses[1].es (correct) says 'Desacelerar (no frenar)'",
+    "es": "Desacelerar (no frenar).",
+    "translation": "Use the handbrake."
+  },
+  {
+    "folder": "0282",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU says 'Использовать стояночный тормоз' but responses[1].es (correct) says 'Desacelerar'",
+    "es": "Desacelerar (no frenar).",
+    "translation": "Использовать стояночный тормоз."
+  },
+  {
+    "folder": "0287",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('Yes. All vehicles prohibited') but responses[0].es says 'No, because disability label allows parking' — swapped",
+    "es": "No, ya que al portar la oblea universal de discapacidad tiene libre estacionamiento y por ello puede estacionar en este lugar.",
+    "translation": "Yes. All vehicles are prohibited from parking in this sector as it endangers passengers and pedestrians."
+  },
+  {
+    "folder": "0287",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "No, ya que al portar la oblea universal de discapacidad tiene libre estacionamiento y por ello puede estacionar en este lugar.",
+    "translation": "Да. Всем автомобилям запрещено парковаться в этом секторе, так как это ставит под угрозу пассажиров и пешеходов."
+  },
+  {
+    "folder": "0287",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) belongs to responses[0].es — correct answer says 'No' in EN but ES says 'Sí'",
+    "es": "Sí. Todo vehículo tiene prohibido estacionar en este sector ya que pone en riesgo a pasajeros y peatones.",
+    "translation": "No, since carrying the universal disability label allows for free parking and thus can park in this place."
+  },
+  {
+    "folder": "0287",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) belongs to responses[0].es — correct answer says 'Нет' in RU but ES says 'Sí'",
+    "es": "Sí. Todo vehículo tiene prohibido estacionar en este sector ya que pone en riesgo a pasajeros y peatones.",
+    "translation": "Нет, так как наличие универсальной инвалидной метки позволяет бесплатно парковаться, и поэтому можно стоять в этом месте."
+  },
+  {
+    "folder": "0296",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN says '7 AM–9 PM' but responses[0].es says '24 hours' — swapped with responses[1]",
+    "es": "Junto a la acera izquierda los días hábiles durante las 24 horas.",
+    "translation": "Next to the left curb on weekdays between 7 AM and 9 PM."
+  },
+  {
+    "folder": "0296",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU says 'с 7 до 21 часов' but responses[0].es says '24 horas' — swapped",
+    "es": "Junto a la acera izquierda los días hábiles durante las 24 horas.",
+    "translation": "У левого бордюра в будние дни с 7 до 21 часов."
+  },
+  {
+    "folder": "0296",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says '24 hours' but responses[1].es says '7–21 horas' — swapped; correct answer has wrong hours",
+    "es": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.",
+    "translation": "Next to the left curb on weekdays for 24 hours."
+  },
+  {
+    "folder": "0296",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'круглосуточно' but responses[1].es says '7–21' — swapped",
+    "es": "Junto a la acera izquierda los días hábiles entre las 7 y las 21 horas.",
+    "translation": "У левого бордюра в будние дни круглосуточно."
+  },
+  {
+    "folder": "0306",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN says 'towards center, gear in first' but responses[0].es says 'towards curb, gear in reverse' — swapped",
+    "es": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.",
+    "translation": "Turn the wheels towards the center of the road and leave the gear in first or in the parking position if you have an automatic transmission."
+  },
+  {
+    "folder": "0306",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU says 'к центру, первая передача' but responses[0].es says 'к бордюру, задняя' — swapped",
+    "es": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.",
+    "translation": "Поверните колеса к центру дороги и оставьте трансмиссию на первой или в положении парковки, если у вас автоматическая коробка передач."
+  },
+  {
+    "folder": "0306",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'towards curb, gear in reverse' but responses[1].es says 'towards center, gear in first' — swapped; correct answer describes wrong direction and wrong gear",
+    "es": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.",
+    "translation": "Turn the wheels towards the curb and leave the gear in reverse or in the parking position if you have an automatic transmission."
+  },
+  {
+    "folder": "0306",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'к бордюру, задняя' but responses[1].es says 'к центру, первая' — swapped",
+    "es": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.",
+    "translation": "Поверните колеса к бордюру и оставьте трансмиссию на задней передаче или в положении парковки, если у вас автоматическая коробка передач."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "All 3 responses EN/RU cyclically shifted; responses[0] EN belongs to responses[2].es ('hazard lights')",
+    "es": "Con la luz de giro hacia el lado donde se irá a ingresar.",
+    "translation": "With the hazard lights (flashers)."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "responses[0] RU belongs to responses[2].es — cyclically shifted",
+    "es": "Con la luz de giro hacia el lado donde se irá a ingresar.",
+    "translation": "С аварийными огнями (вспышками)."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "responses[1] EN belongs to responses[0].es — cyclically shifted",
+    "es": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.",
+    "translation": "With the turn signal towards the side where you will enter."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU belongs to responses[0].es — cyclically shifted",
+    "es": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.",
+    "translation": "С поворотником в сторону, куда вы собираетесь въехать."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "responses[2] EN (correct) belongs to responses[1].es ('opposite side') — should say 'hazard lights'",
+    "es": "Con las luces intermitentes (balizas).",
+    "translation": "With the turn signal towards the opposite side where you will enter."
+  },
+  {
+    "folder": "0315",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "responses[2] RU (correct) belongs to responses[1].es — should say 'hazard lights'",
+    "es": "Con las luces intermitentes (balizas).",
+    "translation": "С поворотником в сторону, противоположную, куда вы собираетесь въехать."
+  },
+  {
+    "folder": "0318",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('turn signal 30m before') but responses[0].es says 'Tocando bocina' — swapped",
+    "es": "Tocando bocina.",
+    "translation": "Using the turn signal on the corresponding side, at least 30 meters before."
+  },
+  {
+    "folder": "0318",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Tocando bocina.",
+    "translation": "Используя указатель поворота с соответствующей стороны, не менее чем за 30 метров до."
+  },
+  {
+    "folder": "0318",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'Honk the horn' but responses[1].es says 'turn signal 30m before' — swapped",
+    "es": "Utilizando la luz de giro del lado correspondiente, al menos 30 metros antes.",
+    "translation": "Honk the horn."
+  },
+  {
+    "folder": "0318",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'Сигналить' but responses[1].es says 'use turn signal 30m before' — swapped",
+    "es": "Utilizando la luz de giro del lado correspondiente, al menos 30 metros antes.",
+    "translation": "Сигналить."
+  },
+  {
+    "folder": "0330",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('adjust speed to weather') but responses[0].es says 'half the max speed' — swapped",
+    "es": "Debería circular a la mitad de la velocidad máxima establecida por Ley.",
+    "translation": "He should adjust the speed according to the weather conditions and the road."
+  },
+  {
+    "folder": "0330",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Debería circular a la mitad de la velocidad máxima establecida por Ley.",
+    "translation": "Ему следует корректировать скорость в зависимости от погодных условий и дороги."
+  },
+  {
+    "folder": "0330",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'half the max speed' but responses[1].es says 'adjust to weather conditions' — swapped",
+    "es": "Debería adecuar la velocidad de acuerdo a las condiciones climáticas y de dicha vía de circulación.",
+    "translation": "He should drive at half of the maximum speed established by law."
+  },
+  {
+    "folder": "0330",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'половина макс. скорости' but responses[1].es says 'adjust to weather' — swapped",
+    "es": "Debería adecuar la velocidad de acuerdo a las condiciones climáticas y de dicha vía de circulación.",
+    "translation": "Он должен двигаться на половине максимальной скорости, установленной законом."
+  },
+  {
+    "folder": "0335",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('rest more frequently') but responses[0].es says 'fatigue less likely, attention increases' — swapped",
+    "es": "Es menos probable que aparezca la fatiga, ya que aumenta la atención.",
+    "translation": "It is necessary to rest more frequently to avoid fatigue."
+  },
+  {
+    "folder": "0335",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Es menos probable que aparezca la fatiga, ya que aumenta la atención.",
+    "translation": "Необходимо чаще отдыхать, чтобы избежать усталости."
+  },
+  {
+    "folder": "0335",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('fatigue less likely') — swapped",
+    "es": "Es necesario descansar con más frecuencia, para evitar la fatiga.",
+    "translation": "It is less likely that fatigue will appear as attention increases."
+  },
+  {
+    "folder": "0335",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Es necesario descansar con más frecuencia, para evitar la fatiga.",
+    "translation": "Маловероятно, что усталость появится, так как внимание увеличивается."
+  },
+  {
+    "folder": "0341",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('both hands, reduce speed, fog lights') but responses[0].es says 'use fog lights only' — swapped",
+    "es": "Utilizar las luces rompeniebla, lo cual es suficiente porque permite ampliar la visibilidad del conductor.",
+    "translation": "Drive with both hands on the wheel, reduce speed, increase distance between vehicles, and use the appropriate lights of the vehicle."
+  },
+  {
+    "folder": "0341",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Utilizar las luces rompeniebla, lo cual es suficiente porque permite ampliar la visibilidad del conductor.",
+    "translation": "Двигаться с обеими руками на руле, уменьшить скорость, увеличить расстояние между автомобилями и использовать соответствующие фары автомобиля."
+  },
+  {
+    "folder": "0341",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'use fog lights only' but responses[1].es says 'both hands, reduce speed, distance' — swapped",
+    "es": "Conducir con ambas manos en el volante, reducir la velocidad, aumentar la distancia entre vehículos y utilizar las luces correspondientes del vehículo.",
+    "translation": "Use the fog lights, which is sufficient because it increases the driver's visibility."
+  },
+  {
+    "folder": "0341",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'используйте противотуманные фары' but responses[1].es says more comprehensive measures — swapped",
+    "es": "Conducir con ambas manos en el volante, reducir la velocidad, aumentar la distancia entre vehículos y utilizar las luces correspondientes del vehículo.",
+    "translation": "Используйте противотуманные фары, что достаточно, потому что это увеличивает видимость водителя."
+  },
+  {
+    "folder": "0342",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('low beams and fog lights') but responses[0].es says 'high beams throughout' — swapped",
+    "es": "Las luces altas, durante todo el recorrido mientras continúe la niebla.",
+    "translation": "Low beams and fog lights (if available)."
+  },
+  {
+    "folder": "0342",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Las luces altas, durante todo el recorrido mientras continúe la niebla.",
+    "translation": "Низкие фары и противотуманные фары (если есть)."
+  },
+  {
+    "folder": "0342",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('high beams') — swapped",
+    "es": "Las luces bajas y las rompeniebla (en el caso de tenerlas).",
+    "translation": "High beams throughout the journey as long as the fog continues."
+  },
+  {
+    "folder": "0342",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Las luces bajas y las rompeniebla (en el caso de tenerlas).",
+    "translation": "Дальний свет на протяжении всего пути, пока туман продолжается."
+  },
+  {
+    "folder": "0350",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('exit at next ramp') but responses[0].es says 'stay in deceleration lane' — swapped",
+    "es": "Seguir circulando por la autopista pero por el carril de desaceleración, destinado a los vehículos lentos.",
+    "translation": "Drive on the right lane and exit the highway at the next exit to call for vehicle assistance."
+  },
+  {
+    "folder": "0350",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Seguir circulando por la autopista pero por el carril de desaceleración, destinado a los vehículos lentos.",
+    "translation": "Двигайтесь по правой полосе и съедьте с автомагистрали на следующем съезде, чтобы вызвать помощь."
+  },
+  {
+    "folder": "0350",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'stay in deceleration lane' but responses[1].es says 'exit at next ramp' — swapped",
+    "es": "Circular por el carril derecho y en la próxima salida abandonar la autopista para llamar al auxilio del vehículo.",
+    "translation": "Continue driving on the highway but in the deceleration lane intended for slow vehicles."
+  },
+  {
+    "folder": "0350",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'deceleration lane' but responses[1].es says 'exit at next ramp' — swapped",
+    "es": "Circular por el carril derecho y en la próxima salida abandonar la autopista para llamar al auxilio del vehículo.",
+    "translation": "Продолжайте движение по автомагистрали, но по полосе замедления, предназначенной для медленных транспортных средств."
+  },
+  {
+    "folder": "0353",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('cautious behaviors') but responses[0].es says 'check vehicle functioning' — swapped",
+    "es": "A controlar el buen funcionamiento del vehículo, los niveles de combustible, aceite e inflado de neumáticos.",
+    "translation": "To adopt cautious behaviors while driving, taking into account responsibility for one's actions and anticipating the behavior of others."
+  },
+  {
+    "folder": "0353",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "A controlar el buen funcionamiento del vehículo, los niveles de combustible, aceite e inflado de neumáticos.",
+    "translation": "Принимать осторожные меры при вождении, учитывая ответственность за свои действия и предугадывая поведение других."
+  },
+  {
+    "folder": "0353",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('check vehicle functioning') — swapped",
+    "es": "A adoptar conductas cautelosas al conducir, que consideran la responsabilidad por los actos que se llevan a cabo y a anticipar la conducta de los demás.",
+    "translation": "To check the good functioning of the vehicle, the fuel levels, oil, and tire inflation."
+  },
+  {
+    "folder": "0353",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "A adoptar conductas cautelosas al conducir, que consideran la responsabilidad por los actos que se llevan a cabo y a anticipar la conducta de los demás.",
+    "translation": "Проверить хорошую работу автомобиля, уровни топлива, масла и давление в шинах."
+  },
+  {
+    "folder": "0358",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('wind resistance') but responses[0].es says 'vehicle becomes lighter' — swapped",
+    "es": "Aumenta el consumo de combustible porque el vehículo se vuelve más ligero.",
+    "translation": "Increases wind resistance and therefore increases fuel consumption."
+  },
+  {
+    "folder": "0358",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Aumenta el consumo de combustible porque el vehículo se vuelve más ligero.",
+    "translation": "Увеличивает аэродинамическое сопротивление, что приводит к увеличению расхода топлива."
+  },
+  {
+    "folder": "0358",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('vehicle becomes lighter') — swapped",
+    "es": "Incrementa la resistencia del viento y con ello, aumenta el consumo de combustible.",
+    "translation": "Increases fuel consumption because the vehicle becomes lighter."
+  },
+  {
+    "folder": "0358",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Incrementa la resistencia del viento y con ello, aumenta el consumo de combustible.",
+    "translation": "Увеличивает расход топлива, поскольку транспортное средство становится легче."
+  },
+  {
+    "folder": "0360",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('no, lights and engine prohibition') but responses[0].es says 'yes, only phone is prohibited' — swapped",
+    "es": "Sí, ya que no se observa al conductor utilizar el celular que es la única prohibición al respecto.",
+    "translation": "No, because regulations state that refueling should not be done with lights and engine on."
+  },
+  {
+    "folder": "0360",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Sí, ya que no se observa al conductor utilizar el celular que es la única prohibición al respecto.",
+    "translation": "Нет, так как по правилам заправлять нельзя с включенными фарами и работающим двигателем."
+  },
+  {
+    "folder": "0360",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'yes, only phone' but responses[1].es says 'no, lights and engine prohibition' — swapped",
+    "es": "No, ya que por normativa no debe cargarse combustible con luces y motor encendido.",
+    "translation": "Yes, since the driver is not seen using the cell phone, which is the only prohibition regarding this."
+  },
+  {
+    "folder": "0360",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'Да, только телефон' but responses[1].es says 'Нет' — swapped",
+    "es": "No, ya que por normativa no debe cargarse combustible con luces y motor encendido.",
+    "translation": "Да, так как не видно, чтобы водитель использовал мобильный телефон, что является единственным запретом на этот счет."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "All 3 responses EN/RU cyclically shifted; responses[0] EN belongs to responses[1].es",
+    "es": "Solamente de adentro del automóvil hacia afuera.",
+    "translation": "From inside out and from outside in the vehicle."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "responses[0] RU belongs to responses[1].es — cyclically shifted",
+    "es": "Solamente de adentro del automóvil hacia afuera.",
+    "translation": "Снутри наружу и снаружи внутрь автомобиля."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "responses[1] EN belongs to responses[2].es ('only windshield') not responses[1].es ('from inside and outside')",
+    "es": "Desde adentro hacia fuera y de afuera hacia adentro del vehículo.",
+    "translation": "The only glass that must ensure full visibility is the windshield."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "responses[1] RU belongs to responses[2].es — cyclically shifted",
+    "es": "Desde adentro hacia fuera y de afuera hacia adentro del vehículo.",
+    "translation": "Единственное стекло, которое должно обеспечивать полную видимость, это лобовое стекло."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "responses[2] EN belongs to responses[0].es ('only from inside outwards')",
+    "es": "El único cristal que debe garantizar plena y total visibilidad es el parabrisas.",
+    "translation": "Only from inside the car outwards."
+  },
+  {
+    "folder": "0371",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "responses[2] RU belongs to responses[0].es — cyclically shifted",
+    "es": "El único cristal que debe garantizar plena y total visibilidad es el parabrisas.",
+    "translation": "Только изнутри автомобиля наружу."
+  },
+  {
+    "folder": "0378",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN says 'Yes, can affect' but responses[0].es says 'No, will not affect' — swapped with responses[1]",
+    "es": "No, porque al ser el sistema de suspensión delantero el deteriorado, éste no influirá en la conducción.",
+    "translation": "Yes, it can affect the proper control of the vehicle."
+  },
+  {
+    "folder": "0378",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU says 'Да' but responses[0].es says 'No' — swapped",
+    "es": "No, porque al ser el sistema de suspensión delantero el deteriorado, éste no influirá en la conducción.",
+    "translation": "Да, это может повлиять на правильное управление автомобилем."
+  },
+  {
+    "folder": "0378",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'No, will not affect' but responses[1].es says 'Sí, puede afectar' — swapped",
+    "es": "Sí, puede afectar al correcto control del vehículo.",
+    "translation": "No, because if the front suspension system is the one deteriorated, it will not affect driving."
+  },
+  {
+    "folder": "0378",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'Нет' but responses[1].es says 'Sí' — swapped",
+    "es": "Sí, puede afectar al correcto control del vehículo.",
+    "translation": "Нет, потому что если передняя подвеска является поврежденной, это не повлияет на управление."
+  },
+  {
+    "folder": "0385",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "'направленность торможения' (directional braking) mistranslates 'estabilidad direccional' (directional stability)",
+    "es": "Eso ayuda a la estabilidad direccional.",
+    "translation": "Это помогает обеспечить направленность торможения."
+  },
+  {
+    "folder": "0406",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "Russian text contains Japanese/Chinese characters '最高危険' — corrupted/wrong-language content",
+    "es": "Cruce peatonal de máximo peligro.",
+    "translation": "Пешеходный переход最高危険."
+  },
+  {
+    "folder": "0407",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('low altitude flights') but responses[0].es says 'no parking near airport' — swapped",
+    "es": "Prohibido estacionar por la existencia de un aeropuerto cercano.",
+    "translation": "Low altitude flights of aircraft over the road, due to the proximity of an airfield or airport."
+  },
+  {
+    "folder": "0407",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Prohibido estacionar por la existencia de un aeropuerto cercano.",
+    "translation": "Низколетящие самолеты над дорогой из-за близости аэропорта."
+  },
+  {
+    "folder": "0407",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN (correct) says 'no parking' but responses[1].es says 'low altitude flights' — swapped",
+    "es": "Vuelos a baja altura de aviones sobre la vía, por la proximidad de aeródromo o aeropuerto.",
+    "translation": "No parking due to the existence of a nearby airport."
+  },
+  {
+    "folder": "0407",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU (correct) says 'парковка запрещена' but responses[1].es says 'low altitude flights' — swapped",
+    "es": "Vuelos a baja altura de aviones sobre la vía, por la proximidad de aeródromo o aeropuerto.",
+    "translation": "Запрещено парковаться из-за близости аэропорта."
+  },
+  {
+    "folder": "0420",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('Calzada dividida') but responses[0].es says 'Estrechamiento' — swapped",
+    "es": "Estrechamiento (en las dos manos).",
+    "translation": "Divided roadway."
+  },
+  {
+    "folder": "0420",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Estrechamiento (en las dos manos).",
+    "translation": "Разделенная дорога."
+  },
+  {
+    "folder": "0420",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('Estrechamiento') but responses[1].es says 'Calzada dividida' — swapped",
+    "es": "Calzada dividida.",
+    "translation": "Narrowing (in both directions)."
+  },
+  {
+    "folder": "0420",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Calzada dividida.",
+    "translation": "Сужение (в обеих направлениях)."
+  },
+  {
+    "folder": "0432",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('opposite direction, no entry') but responses[0].es says 'no parking near banks' — swapped",
+    "es": "Indica la prohibición de estacionamiento en el frente de entidades bancarias.",
+    "translation": "Indicates that the street in front of it has an opposite direction of flow, and therefore entry is not allowed."
+  },
+  {
+    "folder": "0432",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Indica la prohibición de estacionamiento en el frente de entidades bancarias.",
+    "translation": "Указывает, что улица перед ней имеет противоположное направление движения, поэтому вход запрещен."
+  },
+  {
+    "folder": "0432",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('no parking near banks') — swapped",
+    "es": "Indica que la vía ante la cual se encuentra tiene sentido de circulación opuesto, y por lo tanto no se puede ingresar.",
+    "translation": "Indicates the prohibition of parking in front of banks."
+  },
+  {
+    "folder": "0432",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Indica que la vía ante la cual se encuentra tiene sentido de circulación opuesto, y por lo tanto no se puede ingresar.",
+    "translation": "Указывает на запрет парковки перед банками."
+  },
+  {
+    "folder": "0437",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN uses 'What is a preferential lane' (question fragment) instead of 'That it is a preferential lane' (completing the question stem)",
+    "es": "Que es un carril preferencial para ciclistas.",
+    "translation": "What is a preferential lane for cyclists."
+  },
+  {
+    "folder": "0437",
+    "check": 3,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN uses 'What is a lane exclusively' instead of 'That it is a lane exclusively'",
+    "es": "Que es un carril de uso exclusivo para ciclistas.",
+    "translation": "What is a lane exclusively for cyclists."
+  },
+  {
+    "folder": "0438",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('mandatory dismount') but responses[0].es says 'only cycling allowed' — swapped",
+    "es": "Que sólo está permitido circular en bicicleta a partir de donde se encuentra la señal.",
+    "translation": "Indicates to the cyclist that it is mandatory to dismount from the bicycle starting from where the sign is located."
+  },
+  {
+    "folder": "0438",
+    "check": 1,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped",
+    "es": "Que sólo está permitido circular en bicicleta a partir de donde se encuentra la señal.",
+    "translation": "Указывает велосипедисту, что обязательно сойти с велосипеда, начиная с места, где установлен знак."
+  },
+  {
+    "folder": "0438",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[0].es ('only cycling') — swapped",
+    "es": "Indica al ciclista que es obligatorio descender de la bicicleta a partir de donde se encuentra la señal.",
+    "translation": "That it is only allowed to ride a bicycle starting from where the sign is located."
+  },
+  {
+    "folder": "0438",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[0].es — swapped",
+    "es": "Indica al ciclista que es obligatorio descender de la bicicleta a partir de donde se encuentra la señal.",
+    "translation": "Что разрешено только ездить на велосипеде, начиная с места, где находится знак."
+  },
+  {
+    "folder": "0447",
+    "check": 3,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "'Начало полудороги' is nonsensical for 'Comienzo de semiautopista'; should be 'Начало полуавтострады'",
+    "es": "Comienzo de semiautopista.",
+    "translation": "Начало полудороги."
+  },
+  {
+    "folder": "0448",
+    "check": 3,
+    "field": "responses[0].text",
+    "lang": "ru",
+    "issue": "'Конец полупаводного пути' (end of semi-flood path) is nonsensical for 'Fin de semiautopista'; should be 'Конец полуавтострады'",
+    "es": "Fin de semiautopista.",
+    "translation": "Конец полупаводного пути."
+  },
+  {
+    "folder": "0455",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[2].es ('Presence of a square') but responses[1].es says 'Prohibition of parking' — swapped",
+    "es": "Prohibición de estacionar en las inmediaciones a la plaza.",
+    "translation": "Presence of a square in the vicinity."
+  },
+  {
+    "folder": "0455",
+    "check": 1,
+    "field": "responses[1].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[2].es — swapped",
+    "es": "Prohibición de estacionar en las inmediaciones a la plaza.",
+    "translation": "Наличие площади в окрестностях."
+  },
+  {
+    "folder": "0455",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "en",
+    "issue": "EN belongs to responses[1].es ('no parking') but responses[2].es (correct) says 'presence of square' — swapped",
+    "es": "Existencia de una plaza, en las inmediaciones.",
+    "translation": "Prohibition of parking near the square."
+  },
+  {
+    "folder": "0455",
+    "check": 1,
+    "field": "responses[2].text",
+    "lang": "ru",
+    "issue": "RU belongs to responses[1].es — swapped; correct answer shows wrong meaning",
+    "es": "Existencia de una plaza, en las inmediaciones.",
+    "translation": "Запрет на парковку вблизи площади."
+  }
+]

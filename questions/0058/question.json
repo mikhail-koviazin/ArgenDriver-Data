@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Vías con un único sentido de circulación.",
-        "en": "Longitudinal bands marked on the pavement, intended for the circulation of certain vehicles.",
-        "ru": "Долгосрочные полосы, размеченные на проезжей части, предназначенные для движения определенных транспортных средств."
+        "en": "Roads with a single direction of circulation.",
+        "ru": "Дороги с односторонним движением."
       }
     },
     {
       "text": {
         "es": "Bandas longitudinales demarcadas en la calzada, destinadas a la circulación de determinados vehículos.",
-        "en": "Roads with a single direction of circulation.",
-        "ru": "Дороги с односторонним движением."
+        "en": "Longitudinal bands marked on the pavement, intended for the circulation of certain vehicles.",
+        "ru": "Долгосрочные полосы, размеченные на проезжей части, предназначенные для движения определенных транспортных средств."
       },
       "correct": true
     },

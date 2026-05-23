@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Debería circular a la mitad de la velocidad máxima establecida por Ley.",
-        "en": "He should adjust the speed according to the weather conditions and the road.",
-        "ru": "Ему следует корректировать скорость в зависимости от погодных условий и дороги."
+        "en": "He should drive at half of the maximum speed established by law.",
+        "ru": "Он должен двигаться на половине максимальной скорости, установленной законом."
       }
     },
     {
       "text": {
         "es": "Debería adecuar la velocidad de acuerdo a las condiciones climáticas y de dicha vía de circulación.",
-        "en": "He should drive at half of the maximum speed established by law.",
-        "ru": "Он должен двигаться на половине максимальной скорости, установленной законом."
+        "en": "He should adjust the speed according to the weather conditions and the road.",
+        "ru": "Ему следует корректировать скорость в зависимости от погодных условий и дороги."
       },
       "correct": true
     },

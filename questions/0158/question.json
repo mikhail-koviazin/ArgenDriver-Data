@@ -23,9 +23,9 @@
   ],
   "explanation": {
     "text": {
-      "es": "Los Agentes de Tránsito no pueden detener vehículos sin personal policial.",
-      "en": "Traffic Agents cannot detain vehicles without police personnel.",
-      "ru": "Сотрудники дорожного движения не могут задерживать автомобили без полицейских."
+      "es": "Los Agentes de Tránsito pueden proceder a la detención de un vehículo de manera autónoma, sin necesidad de personal policial.",
+      "en": "Traffic Agents can proceed to the detention of a vehicle independently, without the need for police personnel.",
+      "ru": "Сотрудники дорожного движения могут задерживать транспортные средства самостоятельно, без присутствия полицейских."
     }
   },
   "citation": "【4:1†source】"

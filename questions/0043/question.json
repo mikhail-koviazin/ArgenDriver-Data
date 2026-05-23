@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Sí, porque por allí no circulan peatones y no hay peligro.",
-        "en": "No, because there are still pedestrians crossing from one side of the artery to the other.",
-        "ru": "Нет, потому что все еще есть пешеходы, переходящие с одной стороны улицы на другую."
+        "en": "Yes, because there are no pedestrians circulating there and there is no danger.",
+        "ru": "Да, потому что там нет пешеходов и нет опасности."
       }
     },
     {
       "text": {
         "es": "No, porque aún hay peatones cruzando de un lado al otro de la arteria.",
-        "en": "Yes, because there are no pedestrians circulating there and there is no danger.",
-        "ru": "Да, потому что там нет пешеходов и нет опасности."
+        "en": "No, because there are still pedestrians crossing from one side of the artery to the other.",
+        "ru": "Нет, потому что все еще есть пешеходы, переходящие с одной стороны улицы на другую."
       },
       "correct": true
     },

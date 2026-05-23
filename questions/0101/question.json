@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Eventuales daños causados a terceros transportados únicamente.",
-        "en": "Possible damages caused to third parties transported or not.",
-        "ru": "Возможные ущербы, причиненные третьим лицам, перевезенным или не перевезенным."
+        "en": "Possible damages caused to third parties transported only.",
+        "ru": "Возможные убытки, причиненные только перевезенным третьим лицам."
       }
     },
     {
       "text": {
         "es": "Eventuales daños causados a terceros transportados o no.",
-        "en": "Possible damages caused to third parties transported only.",
-        "ru": "Возможные убытки, причиненные только перевезенным третьим лицам."
+        "en": "Possible damages caused to third parties transported or not.",
+        "ru": "Возможные ущербы, причиненные третьим лицам, перевезенным или не перевезенным."
       },
       "correct": true
     },

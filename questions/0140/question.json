@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Sólo si es con el conductor. Si la discusión es con otra persona, lo mantiene en alerta ya que la tensión evita la somnolencia.",
-        "en": "Yes, it can hinder your ability to pay attention to the context, as arguments create a state of stress.",
-        "ru": "Да, это может мешать вашей способности обращать внимание на обстановку, так как споры создают состояние стресса."
+        "en": "Only if it's with the driver. If the argument is with another person, it keeps them alert since the tension prevents drowsiness.",
+        "ru": "Только если это с водителем. Если спор с другим человеком, это держит их в бдительности, так как напряжение предотвращает сонливость."
       }
     },
     {
       "text": {
         "es": "Sí, puede entorpecer su capacidad de atención al contexto, ya que las discusiones generan un estado de estrés.",
-        "en": "Only if it's with the driver. If the argument is with another person, it keeps them alert since the tension prevents drowsiness.",
-        "ru": "Только если это с водителем. Если спор с другим человеком, это держит их в бдительности, так как напряжение предотвращает сонливость."
+        "en": "Yes, it can hinder your ability to pay attention to the context, as arguments create a state of stress.",
+        "ru": "Да, это может мешать вашей способности обращать внимание на обстановку, так как споры создают состояние стресса."
       },
       "correct": true
     },

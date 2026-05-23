@@ -16,15 +16,15 @@
     {
       "text": {
         "es": "El único que debería apartarse es el auto 2 hacia su derecha.",
-        "en": "Car 1 to its left and Car 2 to its right.",
-        "ru": "Автомобиль 1 налево, а автомобиль 2 направо."
+        "en": "The only one that should move aside is car 2 to its right.",
+        "ru": "Единственный, кто должен уступить, это автомобиль 2 направо."
       }
     },
     {
       "text": {
         "es": "El auto 1 hacia su izquierda y el 2 hacia su derecha.",
-        "en": "The only one that should move aside is car 2 to its right.",
-        "ru": "Единственный, кто должен уступить, это автомобиль 2 направо."
+        "en": "Car 1 to its left and Car 2 to its right.",
+        "ru": "Автомобиль 1 налево, а автомобиль 2 направо."
       },
       "correct": true
     }

@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Seguir circulando por la autopista pero por el carril de desaceleración, destinado a los vehículos lentos.",
-        "en": "Drive on the right lane and exit the highway at the next exit to call for vehicle assistance.",
-        "ru": "Двигайтесь по правой полосе и съедьте с автомагистрали на следующем съезде, чтобы вызвать помощь."
+        "en": "Continue driving on the highway but in the deceleration lane intended for slow vehicles.",
+        "ru": "Продолжайте движение по автомагистрали, но по полосе замедления, предназначенной для медленных транспортных средств."
       }
     },
     {
       "text": {
         "es": "Circular por el carril derecho y en la próxima salida abandonar la autopista para llamar al auxilio del vehículo.",
-        "en": "Continue driving on the highway but in the deceleration lane intended for slow vehicles.",
-        "ru": "Продолжайте движение по автомагистрали, но по полосе замедления, предназначенной для медленных транспортных средств."
+        "en": "Drive on the right lane and exit the highway at the next exit to call for vehicle assistance.",
+        "ru": "Двигайтесь по правой полосе и съедьте с автомагистрали на следующем съезде, чтобы вызвать помощь."
       },
       "correct": true
     },

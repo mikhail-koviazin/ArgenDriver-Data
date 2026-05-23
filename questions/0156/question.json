@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Avanzar porque la luz verde del semáforo lo habilita.",
-        "en": "Stop and wait for the traffic officer's indication to proceed.",
-        "ru": "Остановитесь и ждите указаний инспектора дорожного движения, чтобы продолжить."
+        "en": "Go ahead because the green traffic light allows it.",
+        "ru": "Продолжайте движение, потому что зеленый сигнал светофора это позволяет."
       }
     },
     {
       "text": {
         "es": "Detenerse y esperar a la indicación del agente de tránsito para avanzar.",
-        "en": "Go ahead because the green traffic light allows it.",
-        "ru": "Продолжайте движение, потому что зеленый сигнал светофора это позволяет."
+        "en": "Stop and wait for the traffic officer's indication to proceed.",
+        "ru": "Остановитесь и ждите указаний инспектора дорожного движения, чтобы продолжить."
       },
       "correct": true
     },

@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Normas legales de carácter general; Señalización; Indicaciones de la autoridad competente.",
-        "en": "Instructions from the competent authority; Signage; General legal rules.",
-        "ru": "Указания компетентного органа; Знаки; Общее законодательство."
+        "en": "General legal rules; Signage; Instructions from the competent authority.",
+        "ru": "Общие правовые нормы; Знаки; Указания компетентного органа."
       }
     },
     {
       "text": {
         "es": "Indicaciones de la autoridad competente; Señalización; Normas legales de carácter general.",
-        "en": "General legal rules; Signage; Instructions from the competent authority.",
-        "ru": "Общие правовые нормы; Знаки; Указания компетентного органа."
+        "en": "Instructions from the competent authority; Signage; General legal rules.",
+        "ru": "Указания компетентного органа; Знаки; Общее законодательство."
       },
       "correct": true
     },

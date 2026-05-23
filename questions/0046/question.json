@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "No, pero si el peatón se encuentra cruzando, el conductor debe dejarlo pasar para no producir un siniestro vial.",
-        "en": "Yes, always.",
-        "ru": "Да, всегда."
+        "en": "No, but if the pedestrian is crossing, the driver must let him pass to avoid causing an accident.",
+        "ru": "Нет, но если пешеход переходит, водитель должен его пропустить, чтобы избежать аварии."
       }
     },
     {
       "text": {
         "es": "Sí, siempre.",
-        "en": "No, but if the pedestrian is crossing, the driver must let him pass to avoid causing an accident.",
-        "ru": "Нет, но если пешеход переходит, водитель должен его пропустить, чтобы избежать аварии."
+        "en": "Yes, always.",
+        "ru": "Да, всегда."
       },
       "correct": true
     }

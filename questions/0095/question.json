@@ -8,8 +8,8 @@
     {
       "text": {
         "es": "30 días corridos desde su vencimiento.",
-        "en": "It should not exceed one year from its expiration.",
-        "ru": "Это не должно превышать одного года с момента истечения."
+        "en": "30 calendar days from its expiration.",
+        "ru": "30 календарных дней с момента истечения."
       }
     },
     {
@@ -22,8 +22,8 @@
     {
       "text": {
         "es": "No debe superar el año desde su vencimiento.",
-        "en": "30 calendar days from its expiration.",
-        "ru": "30 календарных дней с момента истечения."
+        "en": "It should not exceed one year from its expiration.",
+        "ru": "Это не должно превышать одного года с момента истечения."
       },
       "correct": true
     }

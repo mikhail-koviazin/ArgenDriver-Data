@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Es una señalización que se utiliza únicamente para dividir los carriles de la vía.",
-        "en": "Indicates, for both directions of traffic, that it should not be crossed or driven over.",
-        "ru": "Указывает, что для обоих направлений движения она не должна пересекаться и не может быть преодолена."
+        "en": "It is a marking used solely to divide the lanes of the road.",
+        "ru": "Это разметка, используемая исключительно для разделения полос движения."
       }
     },
     {
       "text": {
         "es": "Indica, para ambos sentidos de circulación, que no debe ser traspasada ni se puede circular sobre ella.",
-        "en": "It is a marking used solely to divide the lanes of the road.",
-        "ru": "Это разметка, используемая исключительно для разделения полос движения."
+        "en": "Indicates, for both directions of traffic, that it should not be crossed or driven over.",
+        "ru": "Указывает, что для обоих направлений движения она не должна пересекаться и не может быть преодолена."
       },
       "correct": true
     },

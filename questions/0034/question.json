@@ -9,23 +9,23 @@
     {
       "text": {
         "es": "No pueden hacerlo. Únicamente deben circular por ciclovías o bicisendas y los menores de 12 años por la vereda.",
-        "en": "Close to the right edge of the roadway.",
-        "ru": "Близко к правому краю проезжей части."
+        "en": "They cannot do it. They must only circulate on bike lanes or bicycle paths, and children under 12 must use the sidewalk.",
+        "ru": "Они не могут этого сделать. Им разрешено ездить только по велодорожкам или велосупервещениям, а детям до 12 лет — по тротуарам."
       }
     },
     {
       "text": {
         "es": "Cerca del borde derecho de la calzada.",
-        "en": "Close to the left edge of the roadway.",
-        "ru": "Близко к левому краю проезжей части."
+        "en": "Close to the right edge of the roadway.",
+        "ru": "Близко к правому краю проезжей части."
       },
       "correct": true
     },
     {
       "text": {
         "es": "Cerca del borde izquierdo de la calzada.",
-        "en": "They cannot do it. They must only circulate on bike lanes or bicycle paths, and children under 12 must use the sidewalk.",
-        "ru": "Они не могут этого сделать. Им разрешено ездить только по велодорожкам или велосупервещениям, а детям до 12 лет — по тротуарам."
+        "en": "Close to the left edge of the roadway.",
+        "ru": "Близко к левому краю проезжей части."
       }
     }
   ],

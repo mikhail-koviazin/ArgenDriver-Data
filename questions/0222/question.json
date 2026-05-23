@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Aumentar la velocidad para que realice la maniobra detrás suyo.",
-        "en": "Reduce speed to allow him to return to the lane.",
-        "ru": "Снизьте скорость, чтобы позволить ему вернуться в ряд."
+        "en": "Increase speed so that he can maneuver behind you.",
+        "ru": "Увеличьте скорость, чтобы он мог маневрировать за вами."
       }
     },
     {
       "text": {
         "es": "Reducir la velocidad para facilitarle el retorno al carril.",
-        "en": "Increase speed so that he can maneuver behind you.",
-        "ru": "Увеличьте скорость, чтобы он мог маневрировать за вами."
+        "en": "Reduce speed to allow him to return to the lane.",
+        "ru": "Снизьте скорость, чтобы позволить ему вернуться в ряд."
       },
       "correct": true
     },

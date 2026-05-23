@@ -9,14 +9,14 @@
     {
       "text": {
         "es": "Que es un carril preferencial para ciclistas.",
-        "en": "What is a preferential lane for cyclists.",
+        "en": "That it is a preferential lane for cyclists.",
         "ru": "Что такое предпочительный ряд для велосипедистов."
       }
     },
     {
       "text": {
         "es": "Que es un carril de uso exclusivo para ciclistas.",
-        "en": "What is a lane exclusively for cyclists.",
+        "en": "That it is a lane exclusively for cyclists.",
         "ru": "Что такое полоса, предназначенная исключительно для велосипедистов."
       },
       "correct": true

@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Camión - Colectivo - Moto - Ciclista - Peatón - Taxi/Automóvil.",
-        "en": "Pedestrian - Cyclist - Motorcycle - Bus - Taxi/Car - Truck.",
-        "ru": "Пешеход - Велосипедист - Мотоцикл - Автобус - Такси/Автомобиль - Грузовик."
+        "en": "Truck - Bus - Motorcycle - Cyclist - Pedestrian - Taxi/Car.",
+        "ru": "Грузовик - Автобус - Мотоцикл - Велосипедист - Пешеход - Такси/Автомобиль."
       }
     },
     {
       "text": {
         "es": "Peatón - Ciclista - Moto - Colectivo - Taxi/Automóvil - Camión.",
-        "en": "Truck - Bus - Motorcycle - Cyclist - Pedestrian - Taxi/Car.",
-        "ru": "Грузовик - Автобус - Мотоцикл - Велосипедист - Пешеход - Такси/Автомобиль."
+        "en": "Pedestrian - Cyclist - Motorcycle - Bus - Taxi/Car - Truck.",
+        "ru": "Пешеход - Велосипедист - Мотоцикл - Автобус - Такси/Автомобиль - Грузовик."
       },
       "correct": true
     },

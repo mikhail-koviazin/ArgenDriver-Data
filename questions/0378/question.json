@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "No, porque al ser el sistema de suspensión delantero el deteriorado, éste no influirá en la conducción.",
-        "en": "Yes, it can affect the proper control of the vehicle.",
-        "ru": "Да, это может повлиять на правильное управление автомобилем."
+        "en": "No, because if the front suspension system is the one deteriorated, it will not affect driving.",
+        "ru": "Нет, потому что если передняя подвеска является поврежденной, это не повлияет на управление."
       }
     },
     {
       "text": {
         "es": "Sí, puede afectar al correcto control del vehículo.",
-        "en": "No, because if the front suspension system is the one deteriorated, it will not affect driving.",
-        "ru": "Нет, потому что если передняя подвеска является поврежденной, это не повлияет на управление."
+        "en": "Yes, it can affect the proper control of the vehicle.",
+        "ru": "Да, это может повлиять на правильное управление автомобилем."
       },
       "correct": true
     },

@@ -8,22 +8,22 @@
     {
       "text": {
         "es": "Con la luz de giro hacia el lado donde se irá a ingresar.",
-        "en": "With the hazard lights (flashers).",
-        "ru": "С аварийными огнями (вспышками)."
-      }
-    },
-    {
-      "text": {
-        "es": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.",
         "en": "With the turn signal towards the side where you will enter.",
         "ru": "С поворотником в сторону, куда вы собираетесь въехать."
       }
     },
     {
       "text": {
-        "es": "Con las luces intermitentes (balizas).",
+        "es": "Con la luz de giro hacia el lado opuesto donde se irá a ingresar.",
         "en": "With the turn signal towards the opposite side where you will enter.",
         "ru": "С поворотником в сторону, противоположную, куда вы собираетесь въехать."
+      }
+    },
+    {
+      "text": {
+        "es": "Con las luces intermitentes (balizas).",
+        "en": "With the hazard lights (flashers).",
+        "ru": "С аварийными огнями (вспышками)."
       },
       "correct": true
     }

@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Indica la prohibición de estacionamiento en el frente de entidades bancarias.",
-        "en": "Indicates that the street in front of it has an opposite direction of flow, and therefore entry is not allowed.",
-        "ru": "Указывает, что улица перед ней имеет противоположное направление движения, поэтому вход запрещен."
+        "en": "Indicates the prohibition of parking in front of banks.",
+        "ru": "Указывает на запрет парковки перед банками."
       }
     },
     {
       "text": {
         "es": "Indica que la vía ante la cual se encuentra tiene sentido de circulación opuesto, y por lo tanto no se puede ingresar.",
-        "en": "Indicates the prohibition of parking in front of banks.",
-        "ru": "Указывает на запрет парковки перед банками."
+        "en": "Indicates that the street in front of it has an opposite direction of flow, and therefore entry is not allowed.",
+        "ru": "Указывает, что улица перед ней имеет противоположное направление движения, поэтому вход запрещен."
       },
       "correct": true
     },

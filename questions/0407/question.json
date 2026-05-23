@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Prohibido estacionar por la existencia de un aeropuerto cercano.",
-        "en": "Low altitude flights of aircraft over the road, due to the proximity of an airfield or airport.",
-        "ru": "Низколетящие самолеты над дорогой из-за близости аэропорта."
+        "en": "No parking due to the existence of a nearby airport.",
+        "ru": "Запрещено парковаться из-за близости аэропорта."
       }
     },
     {
       "text": {
         "es": "Vuelos a baja altura de aviones sobre la vía, por la proximidad de aeródromo o aeropuerto.",
-        "en": "No parking due to the existence of a nearby airport.",
-        "ru": "Запрещено парковаться из-за близости аэропорта."
+        "en": "Low altitude flights of aircraft over the road, due to the proximity of an airfield or airport.",
+        "ru": "Низколетящие самолеты над дорогой из-за близости аэропорта."
       },
       "correct": true
     },

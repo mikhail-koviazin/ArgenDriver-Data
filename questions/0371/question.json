@@ -8,23 +8,23 @@
     {
       "text": {
         "es": "Solamente de adentro del automóvil hacia afuera.",
-        "en": "From inside out and from outside in the vehicle.",
-        "ru": "Снутри наружу и снаружи внутрь автомобиля."
+        "en": "Only from inside the car outwards.",
+        "ru": "Только изнутри автомобиля наружу."
       }
     },
     {
       "text": {
         "es": "Desde adentro hacia fuera y de afuera hacia adentro del vehículo.",
-        "en": "The only glass that must ensure full visibility is the windshield.",
-        "ru": "Единственное стекло, которое должно обеспечивать полную видимость, это лобовое стекло."
+        "en": "From inside out and from outside in the vehicle.",
+        "ru": "Изнутри наружу и снаружи внутрь автомобиля."
       },
       "correct": true
     },
     {
       "text": {
         "es": "El único cristal que debe garantizar plena y total visibilidad es el parabrisas.",
-        "en": "Only from inside the car outwards.",
-        "ru": "Только изнутри автомобиля наружу."
+        "en": "The only glass that must ensure full visibility is the windshield.",
+        "ru": "Единственное стекло, которое должно обеспечивать полную видимость, это лобовое стекло."
       }
     }
   ],

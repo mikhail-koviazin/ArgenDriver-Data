@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Orientar las ruedas hacia el cordón de la vereda y dejar la marcha hacia atrás o en posición de estacionamiento en el caso de tener caja automática.",
-        "en": "Turn the wheels towards the center of the road and leave the gear in first or in the parking position if you have an automatic transmission.",
-        "ru": "Поверните колеса к центру дороги и оставьте трансмиссию на первой или в положении парковки, если у вас автоматическая коробка передач."
+        "en": "Turn the wheels towards the curb and leave the gear in reverse or in the parking position if you have an automatic transmission.",
+        "ru": "Поверните колеса к бордюру и оставьте трансмиссию на задней передаче или в положении парковки, если у вас автоматическая коробка передач."
       }
     },
     {
       "text": {
         "es": "Orientar las ruedas hacia el centro de la calzada y dejar la marcha en primera o en posición de estacionamiento en el caso de tener caja automática.",
-        "en": "Turn the wheels towards the curb and leave the gear in reverse or in the parking position if you have an automatic transmission.",
-        "ru": "Поверните колеса к бордюру и оставьте трансмиссию на задней передаче или в положении парковки, если у вас автоматическая коробка передач."
+        "en": "Turn the wheels towards the center of the road and leave the gear in first or in the parking position if you have an automatic transmission.",
+        "ru": "Поверните колеса к центру дороги и оставьте трансмиссию на первой или в положении парковки, если у вас автоматическая коробка передач."
       },
       "correct": true
     },

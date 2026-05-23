@@ -8,22 +8,22 @@
     {
       "text": {
         "es": "Sí, pero sólo cuando la bebida alcohólica que se ingirió tiene un alto grado de concentración.",
-        "en": "Yes, it can affect coordination, attention, and reaction time.",
-        "ru": "Да, это может повлиять на координацию, внимание и время реакции."
-      }
-    },
-    {
-      "text": {
-        "es": "No, el nivel de alcohol se ve reducido en cuestión de horas, por ello conducir con resaca no altera las percepciones.",
         "en": "Yes, but only when the alcoholic beverage ingested has a high concentration.",
         "ru": "Да, но только если потребляемый алкогольный напиток имеет высокую концентрацию."
       }
     },
     {
       "text": {
-        "es": "Sí, puede afectar la coordinación, la atención y el tiempo de reacción.",
+        "es": "No, el nivel de alcohol se ve reducido en cuestión de horas, por ello conducir con resaca no altera las percepciones.",
         "en": "No, the alcohol level is reduced in a matter of hours, so driving with a hangover does not alter perceptions.",
         "ru": "Нет, уровень алкоголя снижается в течение нескольких часов, поэтому вождение в состоянии похмелья не изменяет восприятия."
+      }
+    },
+    {
+      "text": {
+        "es": "Sí, puede afectar la coordinación, la atención y el tiempo de reacción.",
+        "en": "Yes, it can affect coordination, attention, and reaction time.",
+        "ru": "Да, это может повлиять на координацию, внимание и время реакции."
       },
       "correct": true
     }

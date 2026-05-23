@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Todos los medicamentos, de venta libre, que no necesitan receta.",
-        "en": "All medications with sedative effects.",
-        "ru": "Все лекарства с седативным эффектом."
+        "en": "All over-the-counter medications that do not require a prescription.",
+        "ru": "Все безрецептурные лекарства, которые не требуют рецепта."
       }
     },
     {
       "text": {
         "es": "Todos los medicamentos con efectos sedantes.",
-        "en": "All over-the-counter medications that do not require a prescription.",
-        "ru": "Все лекарства, отпускать без рецепта, которые не требуют рецепта."
+        "en": "All medications with sedative effects.",
+        "ru": "Все лекарства с седативным эффектом."
       },
       "correct": true
     },

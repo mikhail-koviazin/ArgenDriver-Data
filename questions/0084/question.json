@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Alertar - Socorrer - Proteger.",
-        "en": "Protect - Alert - Assist.",
-        "ru": "Защитить - Предупредить - Помочь."
+        "en": "Alert - Assist - Protect.",
+        "ru": "Предупредить - Помочь - Защитить."
       }
     },
     {
       "text": {
         "es": "Proteger - Alertar - Socorrer.",
-        "en": "Alert - Assist - Protect.",
-        "ru": "Предупредить - Помочь - Защитить."
+        "en": "Protect - Alert - Assist.",
+        "ru": "Защитить - Предупредить - Помочь."
       },
       "correct": true
     },

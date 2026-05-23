@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Siempre, independientemente de cómo se encuentre el tránsito vehicular.",
-        "en": "When traffic is interrupted for any reason.",
-        "ru": "Когда движение прервано по какой-либо причине."
+        "en": "Always, regardless of how traffic is flowing.",
+        "ru": "Всегда, независимо от того, как движется транспорт."
       }
     },
     {
       "text": {
         "es": "Cuando el tránsito se encuentra interrumpido por cualquier razón.",
-        "en": "Always, regardless of how traffic is flowing.",
-        "ru": "Всегда, независимо от того, как движется транспорт."
+        "en": "When traffic is interrupted for any reason.",
+        "ru": "Когда движение прервано по какой-либо причине."
       },
       "correct": true
     },

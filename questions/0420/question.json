@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Estrechamiento (en las dos manos).",
-        "en": "Divided roadway.",
-        "ru": "Разделенная дорога."
+        "en": "Narrowing (in both directions).",
+        "ru": "Сужение (в обеих направлениях)."
       }
     },
     {
       "text": {
         "es": "Calzada dividida.",
-        "en": "Narrowing (in both directions).",
-        "ru": "Сужение (в обеих направлениях)."
+        "en": "Divided roadway.",
+        "ru": "Разделенная дорога."
       },
       "correct": true
     },

@@ -8,8 +8,8 @@
     {
       "text": {
         "es": "2 años, sólo en el caso de los menores de 21 años de edad.",
-        "en": "2 years, regardless of age.",
-        "ru": "2 года, независимо от возраста."
+        "en": "2 years, only for those under 21 years of age.",
+        "ru": "2 года, только для тех, кто младше 21 года."
       }
     },
     {
@@ -22,8 +22,8 @@
     {
       "text": {
         "es": "2 años, independientemente a la edad.",
-        "en": "2 years, only for those under 21 years of age.",
-        "ru": "2 года, только для тех, кто младше 21 года."
+        "en": "2 years, regardless of age.",
+        "ru": "2 года, независимо от возраста."
       },
       "correct": true
     }

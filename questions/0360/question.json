@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Ubicarse cerca del surtidor.",
-        "en": "Positioning oneself close to the pump.",
-        "ru": "Находиться близко к колонке."
+        "en": "Leaving the engine and lights on.",
+        "ru": "Оставление двигателя и фар включенными."
       }
     },
     {
       "text": {
         "es": "Dejar el motor y las luces encendidas.",
-        "en": "Leaving the engine and lights on.",
-        "ru": "Оставление двигателя и фар включенными."
+        "en": "Positioning oneself close to the pump.",
+        "ru": "Находиться близко к колонке."
       },
       "correct": true
     },

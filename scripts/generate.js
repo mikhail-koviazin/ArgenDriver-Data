@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Run after adding/editing questions: node scripts/generate.js
-// Reads all questions/NNNN/question.json in order, builds index.js
+// Reads all questions/NNNN/question.json in order, builds questions.json + index.js
 
 const fs = require("fs")
 const path = require("path")
@@ -13,7 +13,7 @@ const folders = fs
   .filter((f) => /^\d{4}$/.test(f))
   .sort()
 
-const questionRequires = []
+const questionsData = []
 const imageRequires = []
 
 for (const folder of folders) {
@@ -22,7 +22,7 @@ for (const folder of folders) {
 
   if (!fs.existsSync(questionFile)) continue
 
-  questionRequires.push(`  require('./questions/${folder}/question.json')`)
+  questionsData.push(JSON.parse(fs.readFileSync(questionFile, "utf8")))
 
   const files = fs.readdirSync(folderPath)
   const imageFile = files.find((f) => /^b\d+\.jpg$/i.test(f))
@@ -32,16 +32,24 @@ for (const folder of folders) {
   }
 }
 
-const output = `// AUTO-GENERATED — do not edit manually. Run: node scripts/generate.js
+// Write merged questions.json (single file for fast dev-mode loading)
+fs.writeFileSync(
+  path.join(ROOT, "questions.json"),
+  JSON.stringify(questionsData, null, 2),
+  "utf8"
+)
+
+// Write index.js (1 JSON require + N image requires)
+const indexOutput = `// AUTO-GENERATED — do not edit manually. Run: node scripts/generate.js
 module.exports = {
-  questions: [
-${questionRequires.join(",\n")}
-  ],
+  questions: require('./questions.json'),
   questionImages: {
 ${imageRequires.join(",\n")}
   },
 }
 `
+fs.writeFileSync(path.join(ROOT, "index.js"), indexOutput, "utf8")
 
-fs.writeFileSync(path.join(ROOT, "index.js"), output, "utf8")
-console.log(`Generated index.js: ${questionRequires.length} questions, ${imageRequires.length} images`)
+console.log(
+  `Generated: questions.json (${questionsData.length} questions), index.js (${imageRequires.length} images)`
+)

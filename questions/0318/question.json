@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Tocando bocina.",
-        "en": "Using the turn signal on the corresponding side, at least 30 meters before.",
-        "ru": "Используя указатель поворота с соответствующей стороны, не менее чем за 30 метров до."
+        "en": "Honk the horn.",
+        "ru": "Сигналить."
       }
     },
     {
       "text": {
         "es": "Utilizando la luz de giro del lado correspondiente, al menos 30 metros antes.",
-        "en": "Honk the horn.",
-        "ru": "Сигналить."
+        "en": "Using the turn signal on the corresponding side, at least 30 meters before.",
+        "ru": "Используя указатель поворота с соответствующей стороны, не менее чем за 30 метров до."
       },
       "correct": true
     },

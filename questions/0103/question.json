@@ -8,15 +8,15 @@
     {
       "text": {
         "es": "Se la puede solicitar en cualquier establecimiento comercial que la realice.",
-        "en": "It should be requested at the National Register of Motor Vehicle Ownership corresponding to the vehicle.",
-        "ru": "Её следует запрашивать в Национальном реестре собственности автомобилей, соответствующем автомобилю."
+        "en": "It can be requested at any commercial establishment that does this.",
+        "ru": "Её можно запросить в любом коммерческом заведении, которое этим занимается."
       }
     },
     {
       "text": {
         "es": "Se la debe solicitar en el Registro Nacional de la Propiedad del Automotor que corresponde al vehículo.",
-        "en": "It can be requested at any commercial establishment that does this.",
-        "ru": "Её можно запросить в любом коммерческом заведении, которое этим занимается."
+        "en": "It should be requested at the National Register of Motor Vehicle Ownership corresponding to the vehicle.",
+        "ru": "Её следует запрашивать в Национальном реестре собственности автомобилей, соответствующем автомобилю."
       },
       "correct": true
     },

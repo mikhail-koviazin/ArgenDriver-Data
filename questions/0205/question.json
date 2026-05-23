@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Al automóvil.",
-        "en": "To the bus.",
-        "ru": "Автобусу."
+        "en": "To the car.",
+        "ru": "Автомобилю."
       }
     },
     {
       "text": {
         "es": "Al colectivo.",
-        "en": "To the car.",
-        "ru": "Автомобилю."
+        "en": "To the bus.",
+        "ru": "Автобусу."
       },
       "correct": true
     },

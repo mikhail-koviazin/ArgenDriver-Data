@@ -9,15 +9,15 @@
     {
       "text": {
         "es": "Que sólo está permitido circular en bicicleta a partir de donde se encuentra la señal.",
-        "en": "Indicates to the cyclist that it is mandatory to dismount from the bicycle starting from where the sign is located.",
-        "ru": "Указывает велосипедисту, что обязательно сойти с велосипеда, начиная с места, где установлен знак."
+        "en": "That it is only allowed to ride a bicycle starting from where the sign is located.",
+        "ru": "Что разрешено только ездить на велосипеде, начиная с места, где находится знак."
       }
     },
     {
       "text": {
         "es": "Indica al ciclista que es obligatorio descender de la bicicleta a partir de donde se encuentra la señal.",
-        "en": "That it is only allowed to ride a bicycle starting from where the sign is located.",
-        "ru": "Что разрешено только ездить на велосипеде, начиная с места, где находится знак."
+        "en": "Indicates to the cyclist that it is mandatory to dismount from the bicycle starting from where the sign is located.",
+        "ru": "Указывает велосипедисту, что обязательно сойти с велосипеда, начиная с места, где установлен знак."
       },
       "correct": true
     },
