@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Questions and images for the ArgenDriver app",
   "main": "index.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "scripts": {
     "generate": "node scripts/generate.js"
